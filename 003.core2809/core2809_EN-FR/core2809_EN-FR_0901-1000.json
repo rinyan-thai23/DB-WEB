@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 901,
+    "lemma": "guess",
+    "source": {
+      "word": "guess",
+      "phrases": [
+        "guess what",
+        "I guess so",
+        "take a guess"
+      ]
+    },
+    "target": {
+      "word": "deviner",
+      "phrases": [
+        "devine quoi",
+        "je suppose que oui",
+        "devine"
+      ]
+    },
+    "frequency": 105
+  },
+  {
+    "rank": 902,
+    "lemma": "fun",
+    "source": {
+      "word": "fun",
+      "phrases": [
+        "have fun",
+        "make fun of",
+        "just for fun"
+      ]
+    },
+    "target": {
+      "word": "amusement",
+      "phrases": [
+        "s'amuser",
+        "se moquer de",
+        "juste pour rire"
+      ]
+    },
+    "frequency": 105
+  },
+  {
+    "rank": 903,
+    "lemma": "protect",
+    "source": {
+      "word": "protect",
+      "phrases": [
+        "protect from",
+        "protect against",
+        "protection"
+      ]
+    },
+    "target": {
+      "word": "protéger",
+      "phrases": [
+        "protéger de",
+        "protéger contre",
+        "protection"
+      ]
+    },
+    "frequency": 105
+  },
+  {
+    "rank": 904,
+    "lemma": "resource",
+    "source": {
+      "word": "resource",
+      "phrases": [
+        "natural resources",
+        "human resources",
+        "resource management"
+      ]
+    },
+    "target": {
+      "word": "ressource",
+      "phrases": [
+        "ressources naturelles",
+        "ressources humaines",
+        "gestion des ressources"
+      ]
+    },
+    "frequency": 105
+  },
+  {
+    "rank": 905,
+    "lemma": "science",
+    "source": {
+      "word": "science",
+      "phrases": [
+        "science fiction",
+        "computer science",
+        "rocket science"
+      ]
+    },
+    "target": {
+      "word": "science",
+      "phrases": [
+        "science-fiction",
+        "informatique",
+        "science aérospatiale"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 906,
+    "lemma": "disease",
+    "source": {
+      "word": "disease",
+      "phrases": [
+        "heart disease",
+        "cure a disease",
+        "infectious disease"
+      ]
+    },
+    "target": {
+      "word": "maladie",
+      "phrases": [
+        "maladie cardiaque",
+        "guérir une maladie",
+        "maladie infectieuse"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 907,
+    "lemma": "balance",
+    "source": {
+      "word": "balance",
+      "phrases": [
+        "balance sheet",
+        "lose balance",
+        "work life balance"
+      ]
+    },
+    "target": {
+      "word": "équilibre",
+      "phrases": [
+        "bilan comptable",
+        "perdre l'équilibre",
+        "équilibre vie professionnelle-vie privée"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 908,
+    "lemma": "damage",
+    "source": {
+      "word": "damage",
+      "phrases": [
+        "damage control",
+        "brain damage",
+        "cause damage"
+      ]
+    },
+    "target": {
+      "word": "dommage",
+      "phrases": [
+        "limitation des dégâts",
+        "lésions cérébrales",
+        "causer des dommages"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 909,
+    "lemma": "basis",
+    "source": {
+      "word": "basis",
+      "phrases": [
+        "on a daily basis",
+        "basis point",
+        "form the basis"
+      ]
+    },
+    "target": {
+      "word": "base",
+      "phrases": [
+        "quotidiennement",
+        "point de base",
+        "former la base"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 910,
+    "lemma": "author",
+    "source": {
+      "word": "author",
+      "phrases": [
+        "author of",
+        "best selling author",
+        "co-author"
+      ]
+    },
+    "target": {
+      "word": "auteur",
+      "phrases": [
+        "auteur de",
+        "auteur à succès",
+        "coauteur"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 911,
+    "lemma": "basic",
+    "source": {
+      "word": "basic",
+      "phrases": [
+        "basic needs",
+        "basic idea",
+        "basically"
+      ]
+    },
+    "target": {
+      "word": "base",
+      "phrases": [
+        "besoins fondamentaux",
+        "idée de base",
+        "fondamentalement"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 912,
+    "lemma": "encourage",
+    "source": {
+      "word": "encourage",
+      "phrases": [
+        "encourage to",
+        "highly encouraged",
+        "encourage growth"
+      ]
+    },
+    "target": {
+      "word": "encourager",
+      "phrases": [
+        "encourager à",
+        "fortement encouragé",
+        "encourager la croissance"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 913,
+    "lemma": "hair",
+    "source": {
+      "word": "hair",
+      "phrases": [
+        "hair style",
+        "cut hair",
+        "bad hair day"
+      ]
+    },
+    "target": {
+      "word": "cheveux",
+      "phrases": [
+        "coiffure",
+        "couper les cheveux",
+        "journée sans (cheveux en bataille)"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 914,
+    "lemma": "male",
+    "source": {
+      "word": "male",
+      "phrases": [
+        "male and female",
+        "alpha male",
+        "male voice"
+      ]
+    },
+    "target": {
+      "word": "mâle",
+      "phrases": [
+        "homme et femme",
+        "mâle alpha",
+        "voix masculine"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 915,
+    "lemma": "operate",
+    "source": {
+      "word": "operate",
+      "phrases": [
+        "operate a machine",
+        "operate on",
+        "operating system"
+      ]
+    },
+    "target": {
+      "word": "opérer",
+      "phrases": [
+        "utiliser une machine",
+        "opérer quelqu'un",
+        "système d'exploitation"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 916,
+    "lemma": "reflect",
+    "source": {
+      "word": "reflect",
+      "phrases": [
+        "reflect on",
+        "reflect light",
+        "reflection"
+      ]
+    },
+    "target": {
+      "word": "réfléchir",
+      "phrases": [
+        "méditer sur",
+        "réfléchir la lumière",
+        "réflexion"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 917,
+    "lemma": "exercise",
+    "source": {
+      "word": "exercise",
+      "phrases": [
+        "take exercise",
+        "exercise caution",
+        "exercise power"
+      ]
+    },
+    "target": {
+      "word": "exercice",
+      "phrases": [
+        "faire de l'exercice",
+        "faire preuve de prudence",
+        "exercer le pouvoir"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 918,
+    "lemma": "useful",
+    "source": {
+      "word": "useful",
+      "phrases": [
+        "useful information",
+        "come in useful",
+        "useful tool"
+      ]
+    },
+    "target": {
+      "word": "utile",
+      "phrases": [
+        "informations utiles",
+        "être utile",
+        "outil utile"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 919,
+    "lemma": "restaurant",
+    "source": {
+      "word": "restaurant",
+      "phrases": [
+        "fast food restaurant",
+        "restaurant chain",
+        "at a restaurant"
+      ]
+    },
+    "target": {
+      "word": "restaurant",
+      "phrases": [
+        "restaurant de restauration rapide",
+        "chaîne de restaurants",
+        "au restaurant"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 920,
+    "lemma": "income",
+    "source": {
+      "word": "income",
+      "phrases": [
+        "income tax",
+        "low income",
+        "generate income"
+      ]
+    },
+    "target": {
+      "word": "revenu",
+      "phrases": [
+        "impôt sur le revenu",
+        "faible revenu",
+        "générer des revenus"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 921,
+    "lemma": "property",
+    "source": {
+      "word": "property",
+      "phrases": [
+        "private property",
+        "intellectual property",
+        "property market"
+      ]
+    },
+    "target": {
+      "word": "propriété",
+      "phrases": [
+        "propriété privée",
+        "propriété intellectuelle",
+        "marché immobilier"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 922,
+    "lemma": "previous",
+    "source": {
+      "word": "previous",
+      "phrases": [
+        "previous year",
+        "previous experience",
+        "previously"
+      ]
+    },
+    "target": {
+      "word": "précédent",
+      "phrases": [
+        "année précédente",
+        "expérience précédente",
+        "précédemment"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 923,
+    "lemma": "dark",
+    "source": {
+      "word": "dark",
+      "phrases": [
+        "dark side",
+        "after dark",
+        "in the dark"
+      ]
+    },
+    "target": {
+      "word": "sombre",
+      "phrases": [
+        "côté obscur",
+        "après la tombée de la nuit",
+        "dans le noir"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 924,
+    "lemma": "imagine",
+    "source": {
+      "word": "imagine",
+      "phrases": [
+        "imagine that",
+        "can't imagine",
+        "just imagine"
+      ]
+    },
+    "target": {
+      "word": "imaginer",
+      "phrases": [
+        "imagine ça",
+        "je n'arrive pas à imaginer",
+        "imagine seulement"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 925,
+    "lemma": "okay",
+    "source": {
+      "word": "okay",
+      "phrases": [
+        "it's okay",
+        "are you okay?",
+        "okay then"
+      ]
+    },
+    "target": {
+      "word": "d'accord",
+      "phrases": [
+        "c'est bon",
+        "ça va ?",
+        "d'accord alors"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 926,
+    "lemma": "earn",
+    "source": {
+      "word": "earn",
+      "phrases": [
+        "earn money",
+        "earn a living",
+        "earn respect"
+      ]
+    },
+    "target": {
+      "word": "gagner",
+      "phrases": [
+        "gagner de l'argent",
+        "gagner sa vie",
+        "gagner le respect"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 927,
+    "lemma": "daughter",
+    "source": {
+      "word": "daughter",
+      "phrases": [
+        "daughter in law",
+        "only daughter",
+        "like mother like daughter"
+      ]
+    },
+    "target": {
+      "word": "fille",
+      "phrases": [
+        "belle-fille",
+        "fille unique",
+        "telle mère, telle fille"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 928,
+    "lemma": "post",
+    "source": {
+      "word": "post",
+      "phrases": [
+        "post office",
+        "blog post",
+        "post it"
+      ]
+    },
+    "target": {
+      "word": "poste",
+      "phrases": [
+        "bureau de poste",
+        "article de blog",
+        "publier"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 929,
+    "lemma": "newspaper",
+    "source": {
+      "word": "newspaper",
+      "phrases": [
+        "read a newspaper",
+        "local newspaper",
+        "newspaper article"
+      ]
+    },
+    "target": {
+      "word": "journal",
+      "phrases": [
+        "lire un journal",
+        "journal local",
+        "article de journal"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 930,
+    "lemma": "define",
+    "source": {
+      "word": "define",
+      "phrases": [
+        "define clearly",
+        "define as",
+        "definition"
+      ]
+    },
+    "target": {
+      "word": "définir",
+      "phrases": [
+        "définir clairement",
+        "définir comme",
+        "définition"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 931,
+    "lemma": "conclusion",
+    "source": {
+      "word": "conclusion",
+      "phrases": [
+        "in conclusion",
+        "come to a conclusion",
+        "jump to conclusions"
+      ]
+    },
+    "target": {
+      "word": "conclusion",
+      "phrases": [
+        "en conclusion",
+        "arriver à une conclusion",
+        "tirer des conclusions hâtives"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 932,
+    "lemma": "clock",
+    "source": {
+      "word": "clock",
+      "phrases": [
+        "alarm clock",
+        "around the clock",
+        "clock wise"
+      ]
+    },
+    "target": {
+      "word": "horloge",
+      "phrases": [
+        "réveil",
+        "24 heures sur 24",
+        "dans le sens des aiguilles d'une montre"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 933,
+    "lemma": "everybody",
+    "source": {
+      "word": "everybody",
+      "phrases": [
+        "everybody knows",
+        "hello everybody",
+        "everybody else"
+      ]
+    },
+    "target": {
+      "word": "tout le monde",
+      "phrases": [
+        "tout le monde le sait",
+        "bonjour tout le monde",
+        "tous les autres"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 934,
+    "lemma": "weekend",
+    "source": {
+      "word": "weekend",
+      "phrases": [
+        "this weekend",
+        "long weekend",
+        "weekend getaway"
+      ]
+    },
+    "target": {
+      "word": "week-end",
+      "phrases": [
+        "ce week-end",
+        "long week-end",
+        "escapade de week-end"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 935,
+    "lemma": "perform",
+    "source": {
+      "word": "perform",
+      "phrases": [
+        "perform a task",
+        "perform well",
+        "performance"
+      ]
+    },
+    "target": {
+      "word": "effectuer",
+      "phrases": [
+        "effectuer une tâche",
+        "bien performer",
+        "performance"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 936,
+    "lemma": "professional",
+    "source": {
+      "word": "professional",
+      "phrases": [
+        "professional player",
+        "professional help",
+        "act professional"
+      ]
+    },
+    "target": {
+      "word": "professionnel",
+      "phrases": [
+        "joueur professionnel",
+        "aide professionnelle",
+        "agir de manière professionnelle"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 937,
+    "lemma": "mine",
+    "source": {
+      "word": "mine",
+      "phrases": [
+        "it's mine",
+        "gold mine",
+        "land mine"
+      ]
+    },
+    "target": {
+      "word": "mien",
+      "phrases": [
+        "c'est à moi",
+        "mine d'or",
+        "mine terrestre"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 938,
+    "lemma": "debate",
+    "source": {
+      "word": "debate",
+      "phrases": [
+        "presidential debate",
+        "debate about",
+        "open to debate"
+      ]
+    },
+    "target": {
+      "word": "débat",
+      "phrases": [
+        "débat présidentiel",
+        "débat sur",
+        "ouvert au débat"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 939,
+    "lemma": "memory",
+    "source": {
+      "word": "memory",
+      "phrases": [
+        "good memory",
+        "in memory of",
+        "lose memory"
+      ]
+    },
+    "target": {
+      "word": "mémoire",
+      "phrases": [
+        "bonne mémoire",
+        "à la mémoire de",
+        "perdre la mémoire"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 940,
+    "lemma": "green",
+    "source": {
+      "word": "green",
+      "phrases": [
+        "green light",
+        "go green",
+        "green tea"
+      ]
+    },
+    "target": {
+      "word": "vert",
+      "phrases": [
+        "feu vert",
+        "devenir écologique",
+        "thé vert"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 941,
+    "lemma": "song",
+    "source": {
+      "word": "song",
+      "phrases": [
+        "sing a song",
+        "theme song",
+        "pop song"
+      ]
+    },
+    "target": {
+      "word": "chanson",
+      "phrases": [
+        "chanter une chanson",
+        "générique",
+        "chanson pop"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 942,
+    "lemma": "object",
+    "source": {
+      "word": "object",
+      "phrases": [
+        "object to",
+        "flying object",
+        "objective"
+      ]
+    },
+    "target": {
+      "word": "objet",
+      "phrases": [
+        "s'opposer à",
+        "objet volant",
+        "objectif"
+      ]
+    },
+    "frequency": 100
+  },
+  {
+    "rank": 943,
+    "lemma": "maintain",
+    "source": {
+      "word": "maintain",
+      "phrases": [
+        "maintain order",
+        "high maintenance",
+        "maintain that"
+      ]
+    },
+    "target": {
+      "word": "maintenir",
+      "phrases": [
+        "maintenir l'ordre",
+        "entretien coûteux",
+        "soutenir que"
+      ]
+    },
+    "frequency": 100
+  },
+  {
+    "rank": 944,
+    "lemma": "credit",
+    "source": {
+      "word": "credit",
+      "phrases": [
+        "credit card",
+        "give credit",
+        "credit score"
+      ]
+    },
+    "target": {
+      "word": "crédit",
+      "phrases": [
+        "carte de crédit",
+        "attribuer le mérite",
+        "note de crédit"
+      ]
+    },
+    "frequency": 100
+  },
+  {
+    "rank": 945,
+    "lemma": "ring",
+    "source": {
+      "word": "ring",
+      "phrases": [
+        "wedding ring",
+        "ring the bell",
+        "give me a ring"
+      ]
+    },
+    "target": {
+      "word": "sonner",
+      "phrases": [
+        "alliance",
+        "sonner la cloche",
+        "donne-moi un coup de fil"
+      ]
+    },
+    "frequency": 100
+  },
+  {
+    "rank": 946,
+    "lemma": "discover",
+    "source": {
+      "word": "discover",
+      "phrases": [
+        "discover new things",
+        "discovery",
+        "hard to discover"
+      ]
+    },
+    "target": {
+      "word": "découvrir",
+      "phrases": [
+        "découvrir de nouvelles choses",
+        "découverte",
+        "difficile à découvrir"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 947,
+    "lemma": "dead",
+    "source": {
+      "word": "dead",
+      "phrases": [
+        "dead end",
+        "drop dead",
+        "dead serious"
+      ]
+    },
+    "target": {
+      "word": "mort",
+      "phrases": [
+        "impasse",
+        "tomber raide mort",
+        "mortellement sérieux"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 948,
+    "lemma": "afternoon",
+    "source": {
+      "word": "afternoon",
+      "phrases": [
+        "good afternoon",
+        "this afternoon",
+        "late afternoon"
+      ]
+    },
+    "target": {
+      "word": "après-midi",
+      "phrases": [
+        "bon après-midi",
+        "cet après-midi",
+        "fin d'après-midi"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 949,
+    "lemma": "prefer",
+    "source": {
+      "word": "prefer",
+      "phrases": [
+        "prefer A to B",
+        "would prefer",
+        "preference"
+      ]
+    },
+    "target": {
+      "word": "préférer",
+      "phrases": [
+        "préférer A à B",
+        "préférerais",
+        "préférence"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 950,
+    "lemma": "extend",
+    "source": {
+      "word": "extend",
+      "phrases": [
+        "extend the deadline",
+        "extended family",
+        "extend a hand"
+      ]
+    },
+    "target": {
+      "word": "prolonger",
+      "phrases": [
+        "prolonger la date limite",
+        "famille élargie",
+        "tendre la main"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 951,
+    "lemma": "possibility",
+    "source": {
+      "word": "possibility",
+      "phrases": [
+        "possibility of",
+        "distinct possibility",
+        "explore possibilities"
+      ]
+    },
+    "target": {
+      "word": "possibilité",
+      "phrases": [
+        "possibilité de",
+        "possibilité réelle",
+        "explorer les possibilités"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 952,
+    "lemma": "direction",
+    "source": {
+      "word": "direction",
+      "phrases": [
+        "wrong direction",
+        "give directions",
+        "sense of direction"
+      ]
+    },
+    "target": {
+      "word": "direction",
+      "phrases": [
+        "mauvaise direction",
+        "donner des indications",
+        "sens de l'orientation"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 953,
+    "lemma": "facility",
+    "source": {
+      "word": "facility",
+      "phrases": [
+        "sports facility",
+        "facilities",
+        "medical facility"
+      ]
+    },
+    "target": {
+      "word": "installation",
+      "phrases": [
+        "complexe sportif",
+        "installations",
+        "établissement médical"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 954,
+    "lemma": "variety",
+    "source": {
+      "word": "variety",
+      "phrases": [
+        "variety of",
+        "variety show",
+        "wide variety"
+      ]
+    },
+    "target": {
+      "word": "variété",
+      "phrases": [
+        "variété de",
+        "émission de variétés",
+        "grande variété"
+      ]
+    },
+    "frequency": 98
+  },
+  {
+    "rank": 955,
+    "lemma": "daily",
+    "source": {
+      "word": "daily",
+      "phrases": [
+        "daily life",
+        "daily routine",
+        "daily news"
+      ]
+    },
+    "target": {
+      "word": "quotidien",
+      "phrases": [
+        "vie quotidienne",
+        "routine quotidienne",
+        "les informations quotidiennes"
+      ]
+    },
+    "frequency": 98
+  },
+  {
+    "rank": 956,
+    "lemma": "clothes",
+    "source": {
+      "word": "clothes",
+      "phrases": [
+        "change clothes",
+        "wear clothes",
+        "clothes shop"
+      ]
+    },
+    "target": {
+      "word": "vêtements",
+      "phrases": [
+        "se changer",
+        "porter des vêtements",
+        "magasin de vêtements"
+      ]
+    },
+    "frequency": 98
+  },
+  {
+    "rank": 957,
+    "lemma": "screen",
+    "source": {
+      "word": "screen",
+      "phrases": [
+        "touch screen",
+        "on screen",
+        "big screen"
+      ]
+    },
+    "target": {
+      "word": "écran",
+      "phrases": [
+        "écran tactile",
+        "à l'écran",
+        "grand écran"
+      ]
+    },
+    "frequency": 98
+  },
+  {
+    "rank": 958,
+    "lemma": "track",
+    "source": {
+      "word": "track",
+      "phrases": [
+        "keep track of",
+        "on the right track",
+        "track and field"
+      ]
+    },
+    "target": {
+      "word": "suivre",
+      "phrases": [
+        "garder une trace de",
+        "sur la bonne voie",
+        "athlétisme"
+      ]
+    },
+    "frequency": 98
+  },
+  {
+    "rank": 959,
+    "lemma": "dance",
+    "source": {
+      "word": "dance",
+      "phrases": [
+        "dance floor",
+        "dance with me",
+        "folk dance"
+      ]
+    },
+    "target": {
+      "word": "danse",
+      "phrases": [
+        "piste de danse",
+        "danse avec moi",
+        "danse folklorique"
+      ]
+    },
+    "frequency": 97
+  },
+  {
+    "rank": 960,
+    "lemma": "completely",
+    "source": {
+      "word": "completely",
+      "phrases": [
+        "completely different",
+        "completely agree",
+        "not completely"
+      ]
+    },
+    "target": {
+      "word": "complètement",
+      "phrases": [
+        "complètement différent",
+        "tout à fait d'accord",
+        "pas totalement"
+      ]
+    },
+    "frequency": 97
+  },
+  {
+    "rank": 961,
+    "lemma": "female",
+    "source": {
+      "word": "female",
+      "phrases": [
+        "female worker",
+        "male and female",
+        "female voice"
+      ]
+    },
+    "target": {
+      "word": "femme",
+      "phrases": [
+        "travailleuse",
+        "homme et femme",
+        "voix féminine"
+      ]
+    },
+    "frequency": 97
+  },
+  {
+    "rank": 962,
+    "lemma": "responsibility",
+    "source": {
+      "word": "responsibility",
+      "phrases": [
+        "take responsibility",
+        "social responsibility",
+        "responsible for"
+      ]
+    },
+    "target": {
+      "word": "responsabilité",
+      "phrases": [
+        "assumer la responsabilité",
+        "responsabilité sociale",
+        "responsable de"
+      ]
+    },
+    "frequency": 97
+  },
+  {
+    "rank": 963,
+    "lemma": "original",
+    "source": {
+      "word": "original",
+      "phrases": [
+        "original idea",
+        "original plan",
+        "the original"
+      ]
+    },
+    "target": {
+      "word": "original",
+      "phrases": [
+        "idée originale",
+        "plan original",
+        "l'original"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 964,
+    "lemma": "sister",
+    "source": {
+      "word": "sister",
+      "phrases": [
+        "big sister",
+        "sister city",
+        "sister in law"
+      ]
+    },
+    "target": {
+      "word": "sœur",
+      "phrases": [
+        "grande sœur",
+        "ville jumelée",
+        "belle-sœur"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 965,
+    "lemma": "rock",
+    "source": {
+      "word": "rock",
+      "phrases": [
+        "rock and roll",
+        "solid as a rock",
+        "on the rocks"
+      ]
+    },
+    "target": {
+      "word": "rocher",
+      "phrases": [
+        "rock'n'roll",
+        "solide comme un roc",
+        "sur les rochers"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 966,
+    "lemma": "dream",
+    "source": {
+      "word": "dream",
+      "phrases": [
+        "sweet dreams",
+        "dream come true",
+        "dream job"
+      ]
+    },
+    "target": {
+      "word": "rêve",
+      "phrases": [
+        "fais de beaux rêves",
+        "rêve devenu réalité",
+        "métier de rêve"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 967,
+    "lemma": "nor",
+    "source": {
+      "word": "nor",
+      "phrases": [
+        "neither... nor",
+        "nor do I",
+        "neither here nor there"
+      ]
+    },
+    "target": {
+      "word": "ni",
+      "phrases": [
+        "ni... ni",
+        "moi non plus",
+        "ni ici ni ailleurs"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 968,
+    "lemma": "university",
+    "source": {
+      "word": "university",
+      "phrases": [
+        "university student",
+        "national university",
+        "go to university"
+      ]
+    },
+    "target": {
+      "word": "université",
+      "phrases": [
+        "étudiant universitaire",
+        "université nationale",
+        "aller à l'université"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 969,
+    "lemma": "easily",
+    "source": {
+      "word": "easily",
+      "phrases": [
+        "easily accessible",
+        "win easily",
+        "easily confused"
+      ]
+    },
+    "target": {
+      "word": "facilement",
+      "phrases": [
+        "facilement accessible",
+        "gagner facilement",
+        "facilement confondu"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 970,
+    "lemma": "agency",
+    "source": {
+      "word": "agency",
+      "phrases": [
+        "travel agency",
+        "news agency",
+        "advertising agency"
+      ]
+    },
+    "target": {
+      "word": "agence",
+      "phrases": [
+        "agence de voyage",
+        "agence de presse",
+        "agence de publicité"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 971,
+    "lemma": "dollar",
+    "source": {
+      "word": "dollar",
+      "phrases": [
+        "US dollar",
+        "million dollar",
+        "dollar bill"
+      ]
+    },
+    "target": {
+      "word": "dollar",
+      "phrases": [
+        "dollar américain",
+        "million de dollars",
+        "billet de un dollar"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 972,
+    "lemma": "garden",
+    "source": {
+      "word": "garden",
+      "phrases": [
+        "botanical garden",
+        "beer garden",
+        "garden party"
+      ]
+    },
+    "target": {
+      "word": "jardin",
+      "phrases": [
+        "jardin botanique",
+        "brasserie en plein air",
+        "garden-party"
+      ]
+    },
+    "frequency": 95
+  },
+  {
+    "rank": 973,
+    "lemma": "fix",
+    "source": {
+      "word": "fix",
+      "phrases": [
+        "fix the problem",
+        "quick fix",
+        "fix dinner"
+      ]
+    },
+    "target": {
+      "word": "réparer",
+      "phrases": [
+        "régler le problème",
+        "solution miracle",
+        "préparer le dîner"
+      ]
+    },
+    "frequency": 95
+  },
+  {
+    "rank": 974,
+    "lemma": "ahead",
+    "source": {
+      "word": "ahead",
+      "phrases": [
+        "go ahead",
+        "ahead of time",
+        "look ahead"
+      ]
+    },
+    "target": {
+      "word": "devant",
+      "phrases": [
+        "aller de l'avant",
+        "à l'avance",
+        "regarder vers l'avenir"
+      ]
+    },
+    "frequency": 95
+  },
+  {
+    "rank": 975,
+    "lemma": "cross",
+    "source": {
+      "word": "cross",
+      "phrases": [
+        "cross the street",
+        "fingers crossed",
+        "cross section"
+      ]
+    },
+    "target": {
+      "word": "croix",
+      "phrases": [
+        "traverser la rue",
+        "croiser les doigts",
+        "coupe transversale"
+      ]
+    },
+    "frequency": 95
+  },
+  {
+    "rank": 976,
+    "lemma": "yeah",
+    "source": {
+      "word": "yeah",
+      "phrases": [
+        "oh yeah",
+        "yeah right",
+        "hell yeah"
+      ]
+    },
+    "target": {
+      "word": "ouais",
+      "phrases": [
+        "oh ouais",
+        "ouais c'est ça",
+        "carrément"
+      ]
+    },
+    "frequency": 95
+  },
+  {
+    "rank": 977,
+    "lemma": "candidate",
+    "source": {
+      "word": "candidate",
+      "phrases": [
+        "presidential candidate",
+        "good candidate",
+        "candidate for"
+      ]
+    },
+    "target": {
+      "word": "candidat",
+      "phrases": [
+        "candidat à la présidence",
+        "bon candidat",
+        "candidat pour"
+      ]
+    },
+    "frequency": 94
+  },
+  {
+    "rank": 978,
+    "lemma": "weight",
+    "source": {
+      "word": "weight",
+      "phrases": [
+        "lose weight",
+        "gain weight",
+        "weight lifting"
+      ]
+    },
+    "target": {
+      "word": "poids",
+      "phrases": [
+        "perdre du poids",
+        "prendre du poids",
+        "haltérophilie"
+      ]
+    },
+    "frequency": 94
+  },
+  {
+    "rank": 979,
+    "lemma": "legal",
+    "source": {
+      "word": "legal",
+      "phrases": [
+        "legal system",
+        "legal action",
+        "legal age"
+      ]
+    },
+    "target": {
+      "word": "légal",
+      "phrases": [
+        "système juridique",
+        "action en justice",
+        "âge légal"
+      ]
+    },
+    "frequency": 94
+  },
+  {
+    "rank": 980,
+    "lemma": "proposal",
+    "source": {
+      "word": "proposal",
+      "phrases": [
+        "marriage proposal",
+        "business proposal",
+        "make a proposal"
+      ]
+    },
+    "target": {
+      "word": "proposition",
+      "phrases": [
+        "demande en mariage",
+        "proposition commerciale",
+        "faire une proposition"
+      ]
+    },
+    "frequency": 94
+  },
+  {
+    "rank": 981,
+    "lemma": "version",
+    "source": {
+      "word": "version",
+      "phrases": [
+        "latest version",
+        "beta version",
+        "version of"
+      ]
+    },
+    "target": {
+      "word": "version",
+      "phrases": [
+        "dernière version",
+        "version bêta",
+        "version de"
+      ]
+    },
+    "frequency": 94
+  },
+  {
+    "rank": 982,
+    "lemma": "conversation",
+    "source": {
+      "word": "conversation",
+      "phrases": [
+        "have a conversation",
+        "English conversation",
+        "conversation starter"
+      ]
+    },
+    "target": {
+      "word": "conversation",
+      "phrases": [
+        "avoir une conversation",
+        "conversation en anglais",
+        "amorce de conversation"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 983,
+    "lemma": "somebody",
+    "source": {
+      "word": "somebody",
+      "phrases": [
+        "somebody else",
+        "somebody to love",
+        "somebody help"
+      ]
+    },
+    "target": {
+      "word": "quelqu'un",
+      "phrases": [
+        "quelqu'un d'autre",
+        "quelqu'un à aimer",
+        "que quelqu'un m'aide"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 984,
+    "lemma": "pound",
+    "source": {
+      "word": "pound",
+      "phrases": [
+        "pound sterling",
+        "shed pounds",
+        "pound cake"
+      ]
+    },
+    "target": {
+      "word": "livre",
+      "phrases": [
+        "livre sterling",
+        "perdre des kilos",
+        "quatre-quarts"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 985,
+    "lemma": "magazine",
+    "source": {
+      "word": "magazine",
+      "phrases": [
+        "fashion magazine",
+        "magazine cover",
+        "weekly magazine"
+      ]
+    },
+    "target": {
+      "word": "magazine",
+      "phrases": [
+        "magazine de mode",
+        "couverture de magazine",
+        "magazine hebdomadaire"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 986,
+    "lemma": "shape",
+    "source": {
+      "word": "shape",
+      "phrases": [
+        "in good shape",
+        "out of shape",
+        "shape up"
+      ]
+    },
+    "target": {
+      "word": "forme",
+      "phrases": [
+        "en bonne forme",
+        "en mauvaise forme",
+        "se reprendre en main"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 987,
+    "lemma": "sea",
+    "source": {
+      "word": "sea",
+      "phrases": [
+        "at sea",
+        "sea level",
+        "deep blue sea"
+      ]
+    },
+    "target": {
+      "word": "mer",
+      "phrases": [
+        "en mer",
+        "niveau de la mer",
+        "mer bleue profonde"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 988,
+    "lemma": "immediately",
+    "source": {
+      "word": "immediately",
+      "phrases": [
+        "immediately after",
+        "call immediately",
+        "available immediately"
+      ]
+    },
+    "target": {
+      "word": "immédiatement",
+      "phrases": [
+        "immédiatement après",
+        "appeler immédiatement",
+        "disponible immédiatement"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 989,
+    "lemma": "welcome",
+    "source": {
+      "word": "welcome",
+      "phrases": [
+        "you're welcome",
+        "welcome to",
+        "welcome back"
+      ]
+    },
+    "target": {
+      "word": "bienvenue",
+      "phrases": [
+        "de rien",
+        "bienvenue à",
+        "bon retour"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 990,
+    "lemma": "smile",
+    "source": {
+      "word": "smile",
+      "phrases": [
+        "big smile",
+        "smile at",
+        "keep smiling"
+      ]
+    },
+    "target": {
+      "word": "sourire",
+      "phrases": [
+        "grand sourire",
+        "sourire à",
+        "garder le sourire"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 991,
+    "lemma": "communication",
+    "source": {
+      "word": "communication",
+      "phrases": [
+        "communication skills",
+        "mass communication",
+        "communication breakdown"
+      ]
+    },
+    "target": {
+      "word": "communication",
+      "phrases": [
+        "compétences en communication",
+        "communication de masse",
+        "problème de communication"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 992,
+    "lemma": "agent",
+    "source": {
+      "word": "agent",
+      "phrases": [
+        "secret agent",
+        "travel agent",
+        "real estate agent"
+      ]
+    },
+    "target": {
+      "word": "agent",
+      "phrases": [
+        "agent secret",
+        "agent de voyage",
+        "agent immobilier"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 993,
+    "lemma": "traditional",
+    "source": {
+      "word": "traditional",
+      "phrases": [
+        "traditional culture",
+        "traditional food",
+        "traditional values"
+      ]
+    },
+    "target": {
+      "word": "traditionnel",
+      "phrases": [
+        "culture traditionnelle",
+        "nourriture traditionnelle",
+        "valeurs traditionnelles"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 994,
+    "lemma": "replace",
+    "source": {
+      "word": "replace",
+      "phrases": [
+        "replace with",
+        "hard to replace",
+        "replace a battery"
+      ]
+    },
+    "target": {
+      "word": "remplacer",
+      "phrases": [
+        "remplacer par",
+        "difficile à remplacer",
+        "remplacer une pile"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 995,
+    "lemma": "judge",
+    "source": {
+      "word": "judge",
+      "phrases": [
+        "don't judge",
+        "judge by",
+        "court judge"
+      ]
+    },
+    "target": {
+      "word": "juge",
+      "phrases": [
+        "ne pas juger",
+        "juger par",
+        "juge au tribunal"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 996,
+    "lemma": "herself",
+    "source": {
+      "word": "herself",
+      "phrases": [
+        "by herself",
+        "to herself",
+        "be herself"
+      ]
+    },
+    "target": {
+      "word": "elle-même",
+      "phrases": [
+        "toute seule",
+        "pour elle-même",
+        "être elle-même"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 997,
+    "lemma": "suddenly",
+    "source": {
+      "word": "suddenly",
+      "phrases": [
+        "all of a sudden",
+        "suddenly appear",
+        "stop suddenly"
+      ]
+    },
+    "target": {
+      "word": "soudainement",
+      "phrases": [
+        "tout d'un coup",
+        "apparaître soudainement",
+        "s'arrêter soudainement"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 998,
+    "lemma": "generation",
+    "source": {
+      "word": "generation",
+      "phrases": [
+        "next generation",
+        "generation gap",
+        "younger generation"
+      ]
+    },
+    "target": {
+      "word": "génération",
+      "phrases": [
+        "prochaine génération",
+        "fossé des générations",
+        "jeune génération"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 999,
+    "lemma": "estimate",
+    "source": {
+      "word": "estimate",
+      "phrases": [
+        "rough estimate",
+        "estimated time",
+        "cost estimate"
+      ]
+    },
+    "target": {
+      "word": "estimation",
+      "phrases": [
+        "estimation approximative",
+        "heure estimée",
+        "estimation des coûts"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 1000,
+    "lemma": "favorite",
+    "source": {
+      "word": "favorite",
+      "phrases": [
+        "my favorite",
+        "add to favorites",
+        "favorite food"
+      ]
+    },
+    "target": {
+      "word": "préféré",
+      "phrases": [
+        "mon préféré",
+        "ajouter aux favoris",
+        "plat préféré"
+      ]
+    },
+    "frequency": 92
+  }
+]

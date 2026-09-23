@@ -1,0 +1,191 @@
+[
+  {
+    "rank": 2801,
+    "lemma": "alright",
+    "source": {
+      "word": "alright",
+      "phrases": [
+        "it's alright",
+        "are you alright?",
+        "everything is alright"
+      ]
+    },
+    "target": {
+      "word": "d'accord",
+      "phrases": [
+        "tout va bien",
+        "est-ce que tu vas bien ?",
+        "tout est en ordre"
+      ]
+    },
+    "frequency": 11
+  },
+  {
+    "rank": 2802,
+    "lemma": "lazy",
+    "source": {
+      "word": "lazy",
+      "phrases": [
+        "lazy afternoon",
+        "lazy bones",
+        "too lazy to"
+      ]
+    },
+    "target": {
+      "word": "paresseux",
+      "phrases": [
+        "après-midi paresseux",
+        "fainéant",
+        "trop paresseux pour"
+      ]
+    },
+    "frequency": 10
+  },
+  {
+    "rank": 2803,
+    "lemma": "hello",
+    "source": {
+      "word": "hello",
+      "phrases": [
+        "say hello",
+        "hello world",
+        "hello there"
+      ]
+    },
+    "target": {
+      "word": "bonjour",
+      "phrases": [
+        "dire bonjour",
+        "bonjour le monde",
+        "salut toi"
+      ]
+    },
+    "frequency": 10
+  },
+  {
+    "rank": 2804,
+    "lemma": "hunger",
+    "source": {
+      "word": "hunger",
+      "phrases": [
+        "satisfy hunger",
+        "hunger strike",
+        "hunger for"
+      ]
+    },
+    "target": {
+      "word": "faim",
+      "phrases": [
+        "rassasier la faim",
+        "grève de la faim",
+        "soif de"
+      ]
+    },
+    "frequency": 9
+  },
+  {
+    "rank": 2805,
+    "lemma": "insure",
+    "source": {
+      "word": "insure",
+      "phrases": [
+        "insure against",
+        "insure a car",
+        "fully insured"
+      ]
+    },
+    "target": {
+      "word": "assurer",
+      "phrases": [
+        "assurer contre",
+        "assurer une voiture",
+        "entièrement assuré"
+      ]
+    },
+    "frequency": 9
+  },
+  {
+    "rank": 2806,
+    "lemma": "ashamed",
+    "source": {
+      "word": "ashamed",
+      "phrases": [
+        "ashamed of",
+        "feel ashamed",
+        "nothing to be ashamed of"
+      ]
+    },
+    "target": {
+      "word": "honteux",
+      "phrases": [
+        "honteux de",
+        "avoir honte",
+        "pas de quoi avoir honte"
+      ]
+    },
+    "frequency": 8
+  },
+  {
+    "rank": 2807,
+    "lemma": "found",
+    "source": {
+      "word": "found",
+      "phrases": [
+        "found a company",
+        "lost and found",
+        "well founded"
+      ]
+    },
+    "target": {
+      "word": "fondé",
+      "phrases": [
+        "fonder une entreprise",
+        "objets trouvés",
+        "bien fondé"
+      ]
+    },
+    "frequency": 7
+  },
+  {
+    "rank": 2808,
+    "lemma": "blog",
+    "source": {
+      "word": "blog",
+      "phrases": [
+        "write a blog",
+        "travel blog",
+        "blog post"
+      ]
+    },
+    "target": {
+      "word": "blog",
+      "phrases": [
+        "écrire un blog",
+        "blog de voyage",
+        "article de blog"
+      ]
+    },
+    "frequency": 7
+  },
+  {
+    "rank": 2809,
+    "lemma": "thirst",
+    "source": {
+      "word": "thirst",
+      "phrases": [
+        "quench thirst",
+        "thirst for knowledge",
+        "die of thirst"
+      ]
+    },
+    "target": {
+      "word": "soif",
+      "phrases": [
+        "étancher la soif",
+        "soif de connaissance",
+        "mourir de soif"
+      ]
+    },
+    "frequency": 3
+  }
+]

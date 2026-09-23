@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 901,
+    "lemma": "guess",
+    "source": {
+      "word": "guess",
+      "phrases": [
+        "guess what",
+        "I guess so",
+        "take a guess"
+      ]
+    },
+    "target": {
+      "word": "tebak",
+      "phrases": [
+        "coba tebak",
+        "saya rasa begitu",
+        "coba tebak"
+      ]
+    },
+    "frequency": 105
+  },
+  {
+    "rank": 902,
+    "lemma": "fun",
+    "source": {
+      "word": "fun",
+      "phrases": [
+        "have fun",
+        "make fun of",
+        "just for fun"
+      ]
+    },
+    "target": {
+      "word": "kesenangan",
+      "phrases": [
+        "bersenang-senang",
+        "mengejek",
+        "hanya untuk bersenang-senang"
+      ]
+    },
+    "frequency": 105
+  },
+  {
+    "rank": 903,
+    "lemma": "protect",
+    "source": {
+      "word": "protect",
+      "phrases": [
+        "protect from",
+        "protect against",
+        "protection"
+      ]
+    },
+    "target": {
+      "word": "melindungi",
+      "phrases": [
+        "melindungi dari",
+        "melindungi terhadap",
+        "perlindungan"
+      ]
+    },
+    "frequency": 105
+  },
+  {
+    "rank": 904,
+    "lemma": "resource",
+    "source": {
+      "word": "resource",
+      "phrases": [
+        "natural resources",
+        "human resources",
+        "resource management"
+      ]
+    },
+    "target": {
+      "word": "sumber daya",
+      "phrases": [
+        "sumber daya alam",
+        "sumber daya manusia",
+        "manajemen sumber daya"
+      ]
+    },
+    "frequency": 105
+  },
+  {
+    "rank": 905,
+    "lemma": "science",
+    "source": {
+      "word": "science",
+      "phrases": [
+        "science fiction",
+        "computer science",
+        "rocket science"
+      ]
+    },
+    "target": {
+      "word": "sains",
+      "phrases": [
+        "fiksi ilmiah",
+        "ilmu komputer",
+        "teknologi mutakhir"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 906,
+    "lemma": "disease",
+    "source": {
+      "word": "disease",
+      "phrases": [
+        "heart disease",
+        "cure a disease",
+        "infectious disease"
+      ]
+    },
+    "target": {
+      "word": "penyakit",
+      "phrases": [
+        "penyakit jantung",
+        "menyembuhkan penyakit",
+        "penyakit menular"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 907,
+    "lemma": "balance",
+    "source": {
+      "word": "balance",
+      "phrases": [
+        "balance sheet",
+        "lose balance",
+        "work life balance"
+      ]
+    },
+    "target": {
+      "word": "keseimbangan",
+      "phrases": [
+        "neraca saldo",
+        "kehilangan keseimbangan",
+        "keseimbangan kehidupan kerja"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 908,
+    "lemma": "damage",
+    "source": {
+      "word": "damage",
+      "phrases": [
+        "damage control",
+        "brain damage",
+        "cause damage"
+      ]
+    },
+    "target": {
+      "word": "kerusakan",
+      "phrases": [
+        "pengendalian kerusakan",
+        "kerusakan otak",
+        "menyebabkan kerusakan"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 909,
+    "lemma": "basis",
+    "source": {
+      "word": "basis",
+      "phrases": [
+        "on a daily basis",
+        "basis point",
+        "form the basis"
+      ]
+    },
+    "target": {
+      "word": "dasar",
+      "phrases": [
+        "secara harian",
+        "titik dasar",
+        "membentuk dasar"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 910,
+    "lemma": "author",
+    "source": {
+      "word": "author",
+      "phrases": [
+        "author of",
+        "best selling author",
+        "co-author"
+      ]
+    },
+    "target": {
+      "word": "penulis",
+      "phrases": [
+        "penulis dari",
+        "penulis terlaris",
+        "rekan penulis"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 911,
+    "lemma": "basic",
+    "source": {
+      "word": "basic",
+      "phrases": [
+        "basic needs",
+        "basic idea",
+        "basically"
+      ]
+    },
+    "target": {
+      "word": "dasar",
+      "phrases": [
+        "kebutuhan dasar",
+        "ide dasar",
+        "pada dasarnya"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 912,
+    "lemma": "encourage",
+    "source": {
+      "word": "encourage",
+      "phrases": [
+        "encourage to",
+        "highly encouraged",
+        "encourage growth"
+      ]
+    },
+    "target": {
+      "word": "mendorong",
+      "phrases": [
+        "mendorong untuk",
+        "sangat dianjurkan",
+        "mendorong pertumbuhan"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 913,
+    "lemma": "hair",
+    "source": {
+      "word": "hair",
+      "phrases": [
+        "hair style",
+        "cut hair",
+        "bad hair day"
+      ]
+    },
+    "target": {
+      "word": "rambut",
+      "phrases": [
+        "gaya rambut",
+        "potong rambut",
+        "hari rambut buruk"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 914,
+    "lemma": "male",
+    "source": {
+      "word": "male",
+      "phrases": [
+        "male and female",
+        "alpha male",
+        "male voice"
+      ]
+    },
+    "target": {
+      "word": "laki-laki",
+      "phrases": [
+        "laki-laki dan perempuan",
+        "laki-laki alfa",
+        "suara laki-laki"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 915,
+    "lemma": "operate",
+    "source": {
+      "word": "operate",
+      "phrases": [
+        "operate a machine",
+        "operate on",
+        "operating system"
+      ]
+    },
+    "target": {
+      "word": "mengoperasikan",
+      "phrases": [
+        "mengoperasikan mesin",
+        "mengoperasi",
+        "sistem operasi"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 916,
+    "lemma": "reflect",
+    "source": {
+      "word": "reflect",
+      "phrases": [
+        "reflect on",
+        "reflect light",
+        "reflection"
+      ]
+    },
+    "target": {
+      "word": "mencerminkan",
+      "phrases": [
+        "merenungkan",
+        "memantulkan cahaya",
+        "refleksi"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 917,
+    "lemma": "exercise",
+    "source": {
+      "word": "exercise",
+      "phrases": [
+        "take exercise",
+        "exercise caution",
+        "exercise power"
+      ]
+    },
+    "target": {
+      "word": "latihan",
+      "phrases": [
+        "berolahraga",
+        "berhati-hati",
+        "menjalankan kekuasaan"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 918,
+    "lemma": "useful",
+    "source": {
+      "word": "useful",
+      "phrases": [
+        "useful information",
+        "come in useful",
+        "useful tool"
+      ]
+    },
+    "target": {
+      "word": "berguna",
+      "phrases": [
+        "informasi berguna",
+        "menjadi berguna",
+        "alat yang berguna"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 919,
+    "lemma": "restaurant",
+    "source": {
+      "word": "restaurant",
+      "phrases": [
+        "fast food restaurant",
+        "restaurant chain",
+        "at a restaurant"
+      ]
+    },
+    "target": {
+      "word": "restoran",
+      "phrases": [
+        "restoran cepat saji",
+        "rantai restoran",
+        "di restoran"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 920,
+    "lemma": "income",
+    "source": {
+      "word": "income",
+      "phrases": [
+        "income tax",
+        "low income",
+        "generate income"
+      ]
+    },
+    "target": {
+      "word": "pendapatan",
+      "phrases": [
+        "pajak penghasilan",
+        "pendapatan rendah",
+        "menghasilkan pendapatan"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 921,
+    "lemma": "property",
+    "source": {
+      "word": "property",
+      "phrases": [
+        "private property",
+        "intellectual property",
+        "property market"
+      ]
+    },
+    "target": {
+      "word": "properti",
+      "phrases": [
+        "properti pribadi",
+        "kekayaan intelektual",
+        "pasar properti"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 922,
+    "lemma": "previous",
+    "source": {
+      "word": "previous",
+      "phrases": [
+        "previous year",
+        "previous experience",
+        "previously"
+      ]
+    },
+    "target": {
+      "word": "sebelumnya",
+      "phrases": [
+        "tahun sebelumnya",
+        "pengalaman sebelumnya",
+        "sebelumnya"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 923,
+    "lemma": "dark",
+    "source": {
+      "word": "dark",
+      "phrases": [
+        "dark side",
+        "after dark",
+        "in the dark"
+      ]
+    },
+    "target": {
+      "word": "gelap",
+      "phrases": [
+        "sisi gelap",
+        "setelah gelap",
+        "dalam kegelapan"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 924,
+    "lemma": "imagine",
+    "source": {
+      "word": "imagine",
+      "phrases": [
+        "imagine that",
+        "can't imagine",
+        "just imagine"
+      ]
+    },
+    "target": {
+      "word": "membayangkan",
+      "phrases": [
+        "bayangkan itu",
+        "tidak bisa membayangkan",
+        "bayangkan saja"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 925,
+    "lemma": "okay",
+    "source": {
+      "word": "okay",
+      "phrases": [
+        "it's okay",
+        "are you okay?",
+        "okay then"
+      ]
+    },
+    "target": {
+      "word": "oke",
+      "phrases": [
+        "tidak apa-apa",
+        "apakah kamu baik-baik saja?",
+        "oke kalau begitu"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 926,
+    "lemma": "earn",
+    "source": {
+      "word": "earn",
+      "phrases": [
+        "earn money",
+        "earn a living",
+        "earn respect"
+      ]
+    },
+    "target": {
+      "word": "menghasilkan",
+      "phrases": [
+        "mencari uang",
+        "mencari nafkah",
+        "mendapatkan rasa hormat"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 927,
+    "lemma": "daughter",
+    "source": {
+      "word": "daughter",
+      "phrases": [
+        "daughter in law",
+        "only daughter",
+        "like mother like daughter"
+      ]
+    },
+    "target": {
+      "word": "anak perempuan",
+      "phrases": [
+        "menantu perempuan",
+        "anak perempuan tunggal",
+        "seperti ibu seperti anak perempuan"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 928,
+    "lemma": "post",
+    "source": {
+      "word": "post",
+      "phrases": [
+        "post office",
+        "blog post",
+        "post it"
+      ]
+    },
+    "target": {
+      "word": "pos",
+      "phrases": [
+        "kantor pos",
+        "postingan blog",
+        "tempelkan itu"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 929,
+    "lemma": "newspaper",
+    "source": {
+      "word": "newspaper",
+      "phrases": [
+        "read a newspaper",
+        "local newspaper",
+        "newspaper article"
+      ]
+    },
+    "target": {
+      "word": "surat kabar",
+      "phrases": [
+        "membaca surat kabar",
+        "surat kabar lokal",
+        "artikel surat kabar"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 930,
+    "lemma": "define",
+    "source": {
+      "word": "define",
+      "phrases": [
+        "define clearly",
+        "define as",
+        "definition"
+      ]
+    },
+    "target": {
+      "word": "mendefinisikan",
+      "phrases": [
+        "mendefinisikan dengan jelas",
+        "mendefinisikan sebagai",
+        "definisi"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 931,
+    "lemma": "conclusion",
+    "source": {
+      "word": "conclusion",
+      "phrases": [
+        "in conclusion",
+        "come to a conclusion",
+        "jump to conclusions"
+      ]
+    },
+    "target": {
+      "word": "kesimpulan",
+      "phrases": [
+        "sebagai kesimpulan",
+        "menarik kesimpulan",
+        "terburu-buru mengambil kesimpulan"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 932,
+    "lemma": "clock",
+    "source": {
+      "word": "clock",
+      "phrases": [
+        "alarm clock",
+        "around the clock",
+        "clock wise"
+      ]
+    },
+    "target": {
+      "word": "jam",
+      "phrases": [
+        "jam weker",
+        "sepanjang waktu",
+        "searah jarum jam"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 933,
+    "lemma": "everybody",
+    "source": {
+      "word": "everybody",
+      "phrases": [
+        "everybody knows",
+        "hello everybody",
+        "everybody else"
+      ]
+    },
+    "target": {
+      "word": "semua orang",
+      "phrases": [
+        "semua orang tahu",
+        "halo semuanya",
+        "orang lain"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 934,
+    "lemma": "weekend",
+    "source": {
+      "word": "weekend",
+      "phrases": [
+        "this weekend",
+        "long weekend",
+        "weekend getaway"
+      ]
+    },
+    "target": {
+      "word": "akhir pekan",
+      "phrases": [
+        "akhir pekan ini",
+        "akhir pekan panjang",
+        "liburan akhir pekan"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 935,
+    "lemma": "perform",
+    "source": {
+      "word": "perform",
+      "phrases": [
+        "perform a task",
+        "perform well",
+        "performance"
+      ]
+    },
+    "target": {
+      "word": "melakukan",
+      "phrases": [
+        "melaksanakan tugas",
+        "melakukan dengan baik",
+        "pertunjukan"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 936,
+    "lemma": "professional",
+    "source": {
+      "word": "professional",
+      "phrases": [
+        "professional player",
+        "professional help",
+        "act professional"
+      ]
+    },
+    "target": {
+      "word": "profesional",
+      "phrases": [
+        "pemain profesional",
+        "bantuan profesional",
+        "bertindak profesional"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 937,
+    "lemma": "mine",
+    "source": {
+      "word": "mine",
+      "phrases": [
+        "it's mine",
+        "gold mine",
+        "land mine"
+      ]
+    },
+    "target": {
+      "word": "milikku",
+      "phrases": [
+        "itu milikku",
+        "tambang emas",
+        "ranjau darat"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 938,
+    "lemma": "debate",
+    "source": {
+      "word": "debate",
+      "phrases": [
+        "presidential debate",
+        "debate about",
+        "open to debate"
+      ]
+    },
+    "target": {
+      "word": "debat",
+      "phrases": [
+        "debat presiden",
+        "perdebatan tentang",
+        "terbuka untuk diperdebatkan"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 939,
+    "lemma": "memory",
+    "source": {
+      "word": "memory",
+      "phrases": [
+        "good memory",
+        "in memory of",
+        "lose memory"
+      ]
+    },
+    "target": {
+      "word": "ingatan",
+      "phrases": [
+        "ingatan yang baik",
+        "untuk mengenang",
+        "hilang ingatan"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 940,
+    "lemma": "green",
+    "source": {
+      "word": "green",
+      "phrases": [
+        "green light",
+        "go green",
+        "green tea"
+      ]
+    },
+    "target": {
+      "word": "hijau",
+      "phrases": [
+        "lampu hijau",
+        "ramah lingkungan",
+        "teh hijau"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 941,
+    "lemma": "song",
+    "source": {
+      "word": "song",
+      "phrases": [
+        "sing a song",
+        "theme song",
+        "pop song"
+      ]
+    },
+    "target": {
+      "word": "lagu",
+      "phrases": [
+        "menyanyikan lagu",
+        "lagu tema",
+        "lagu pop"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 942,
+    "lemma": "object",
+    "source": {
+      "word": "object",
+      "phrases": [
+        "object to",
+        "flying object",
+        "objective"
+      ]
+    },
+    "target": {
+      "word": "objek",
+      "phrases": [
+        "keberatan terhadap",
+        "benda terbang",
+        "objektif"
+      ]
+    },
+    "frequency": 100
+  },
+  {
+    "rank": 943,
+    "lemma": "maintain",
+    "source": {
+      "word": "maintain",
+      "phrases": [
+        "maintain order",
+        "high maintenance",
+        "maintain that"
+      ]
+    },
+    "target": {
+      "word": "memelihara",
+      "phrases": [
+        "menjaga ketertiban",
+        "pemeliharaan tinggi",
+        "mempertahankan bahwa"
+      ]
+    },
+    "frequency": 100
+  },
+  {
+    "rank": 944,
+    "lemma": "credit",
+    "source": {
+      "word": "credit",
+      "phrases": [
+        "credit card",
+        "give credit",
+        "credit score"
+      ]
+    },
+    "target": {
+      "word": "kredit",
+      "phrases": [
+        "kartu kredit",
+        "memberi pujian",
+        "skor kredit"
+      ]
+    },
+    "frequency": 100
+  },
+  {
+    "rank": 945,
+    "lemma": "ring",
+    "source": {
+      "word": "ring",
+      "phrases": [
+        "wedding ring",
+        "ring the bell",
+        "give me a ring"
+      ]
+    },
+    "target": {
+      "word": "cincin",
+      "phrases": [
+        "cincin kawin",
+        "membunyikan bel",
+        "telepon saya"
+      ]
+    },
+    "frequency": 100
+  },
+  {
+    "rank": 946,
+    "lemma": "discover",
+    "source": {
+      "word": "discover",
+      "phrases": [
+        "discover new things",
+        "discovery",
+        "hard to discover"
+      ]
+    },
+    "target": {
+      "word": "menemukan",
+      "phrases": [
+        "menemukan hal-hal baru",
+        "penemuan",
+        "sulit ditemukan"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 947,
+    "lemma": "dead",
+    "source": {
+      "word": "dead",
+      "phrases": [
+        "dead end",
+        "drop dead",
+        "dead serious"
+      ]
+    },
+    "target": {
+      "word": "mati",
+      "phrases": [
+        "jalan buntu",
+        "mati mendadak",
+        "sangat serius"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 948,
+    "lemma": "afternoon",
+    "source": {
+      "word": "afternoon",
+      "phrases": [
+        "good afternoon",
+        "this afternoon",
+        "late afternoon"
+      ]
+    },
+    "target": {
+      "word": "siang",
+      "phrases": [
+        "selamat siang",
+        "siang ini",
+        "sore hari"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 949,
+    "lemma": "prefer",
+    "source": {
+      "word": "prefer",
+      "phrases": [
+        "prefer A to B",
+        "would prefer",
+        "preference"
+      ]
+    },
+    "target": {
+      "word": "lebih suka",
+      "phrases": [
+        "lebih suka A daripada B",
+        "akan lebih suka",
+        "preferensi"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 950,
+    "lemma": "extend",
+    "source": {
+      "word": "extend",
+      "phrases": [
+        "extend the deadline",
+        "extended family",
+        "extend a hand"
+      ]
+    },
+    "target": {
+      "word": "memperpanjang",
+      "phrases": [
+        "memperpanjang tenggat waktu",
+        "keluarga besar",
+        "mengulurkan tangan"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 951,
+    "lemma": "possibility",
+    "source": {
+      "word": "possibility",
+      "phrases": [
+        "possibility of",
+        "distinct possibility",
+        "explore possibilities"
+      ]
+    },
+    "target": {
+      "word": "kemungkinan",
+      "phrases": [
+        "kemungkinan dari",
+        "kemungkinan nyata",
+        "menjelajahi berbagai kemungkinan"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 952,
+    "lemma": "direction",
+    "source": {
+      "word": "direction",
+      "phrases": [
+        "wrong direction",
+        "give directions",
+        "sense of direction"
+      ]
+    },
+    "target": {
+      "word": "arah",
+      "phrases": [
+        "arah yang salah",
+        "memberi petunjuk jalan",
+        "kepekaan arah"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 953,
+    "lemma": "facility",
+    "source": {
+      "word": "facility",
+      "phrases": [
+        "sports facility",
+        "facilities",
+        "medical facility"
+      ]
+    },
+    "target": {
+      "word": "fasilitas",
+      "phrases": [
+        "fasilitas olahraga",
+        "sarana",
+        "fasilitas medis"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 954,
+    "lemma": "variety",
+    "source": {
+      "word": "variety",
+      "phrases": [
+        "variety of",
+        "variety show",
+        "wide variety"
+      ]
+    },
+    "target": {
+      "word": "variasi",
+      "phrases": [
+        "berbagai macam",
+        "acara varietas",
+        "pilihan yang luas"
+      ]
+    },
+    "frequency": 98
+  },
+  {
+    "rank": 955,
+    "lemma": "daily",
+    "source": {
+      "word": "daily",
+      "phrases": [
+        "daily life",
+        "daily routine",
+        "daily news"
+      ]
+    },
+    "target": {
+      "word": "harian",
+      "phrases": [
+        "kehidupan sehari-hari",
+        "rutinitas harian",
+        "berita harian"
+      ]
+    },
+    "frequency": 98
+  },
+  {
+    "rank": 956,
+    "lemma": "clothes",
+    "source": {
+      "word": "clothes",
+      "phrases": [
+        "change clothes",
+        "wear clothes",
+        "clothes shop"
+      ]
+    },
+    "target": {
+      "word": "pakaian",
+      "phrases": [
+        "ganti baju",
+        "memakai pakaian",
+        "toko pakaian"
+      ]
+    },
+    "frequency": 98
+  },
+  {
+    "rank": 957,
+    "lemma": "screen",
+    "source": {
+      "word": "screen",
+      "phrases": [
+        "touch screen",
+        "on screen",
+        "big screen"
+      ]
+    },
+    "target": {
+      "word": "layar",
+      "phrases": [
+        "layar sentuh",
+        "di layar",
+        "layar lebar"
+      ]
+    },
+    "frequency": 98
+  },
+  {
+    "rank": 958,
+    "lemma": "track",
+    "source": {
+      "word": "track",
+      "phrases": [
+        "keep track of",
+        "on the right track",
+        "track and field"
+      ]
+    },
+    "target": {
+      "word": "jalur",
+      "phrases": [
+        "memantau perkembangan",
+        "di jalur yang benar",
+        "atletik"
+      ]
+    },
+    "frequency": 98
+  },
+  {
+    "rank": 959,
+    "lemma": "dance",
+    "source": {
+      "word": "dance",
+      "phrases": [
+        "dance floor",
+        "dance with me",
+        "folk dance"
+      ]
+    },
+    "target": {
+      "word": "tari",
+      "phrases": [
+        "lantai dansa",
+        "menarilah bersamaku",
+        "tari rakyat"
+      ]
+    },
+    "frequency": 97
+  },
+  {
+    "rank": 960,
+    "lemma": "completely",
+    "source": {
+      "word": "completely",
+      "phrases": [
+        "completely different",
+        "completely agree",
+        "not completely"
+      ]
+    },
+    "target": {
+      "word": "sepenuhnya",
+      "phrases": [
+        "sepenuhnya berbeda",
+        "setuju sepenuhnya",
+        "tidak sepenuhnya"
+      ]
+    },
+    "frequency": 97
+  },
+  {
+    "rank": 961,
+    "lemma": "female",
+    "source": {
+      "word": "female",
+      "phrases": [
+        "female worker",
+        "male and female",
+        "female voice"
+      ]
+    },
+    "target": {
+      "word": "perempuan",
+      "phrases": [
+        "pekerja perempuan",
+        "laki-laki dan perempuan",
+        "suara perempuan"
+      ]
+    },
+    "frequency": 97
+  },
+  {
+    "rank": 962,
+    "lemma": "responsibility",
+    "source": {
+      "word": "responsibility",
+      "phrases": [
+        "take responsibility",
+        "social responsibility",
+        "responsible for"
+      ]
+    },
+    "target": {
+      "word": "tanggung jawab",
+      "phrases": [
+        "bertanggung jawab",
+        "tanggung jawab sosial",
+        "bertanggung jawab atas"
+      ]
+    },
+    "frequency": 97
+  },
+  {
+    "rank": 963,
+    "lemma": "original",
+    "source": {
+      "word": "original",
+      "phrases": [
+        "original idea",
+        "original plan",
+        "the original"
+      ]
+    },
+    "target": {
+      "word": "asli",
+      "phrases": [
+        "ide asli",
+        "rencana awal",
+        "yang asli"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 964,
+    "lemma": "sister",
+    "source": {
+      "word": "sister",
+      "phrases": [
+        "big sister",
+        "sister city",
+        "sister in law"
+      ]
+    },
+    "target": {
+      "word": "saudara perempuan",
+      "phrases": [
+        "kakak perempuan",
+        "kota kembar",
+        "ipar perempuan"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 965,
+    "lemma": "rock",
+    "source": {
+      "word": "rock",
+      "phrases": [
+        "rock and roll",
+        "solid as a rock",
+        "on the rocks"
+      ]
+    },
+    "target": {
+      "word": "batu",
+      "phrases": [
+        "rock and roll",
+        "sekeras batu",
+        "di atas es"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 966,
+    "lemma": "dream",
+    "source": {
+      "word": "dream",
+      "phrases": [
+        "sweet dreams",
+        "dream come true",
+        "dream job"
+      ]
+    },
+    "target": {
+      "word": "mimpi",
+      "phrases": [
+        "mimpi indah",
+        "mimpi jadi nyata",
+        "pekerjaan impian"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 967,
+    "lemma": "nor",
+    "source": {
+      "word": "nor",
+      "phrases": [
+        "neither... nor",
+        "nor do I",
+        "neither here nor there"
+      ]
+    },
+    "target": {
+      "word": "maupun",
+      "phrases": [
+        "baik... maupun",
+        "begitu juga aku tidak",
+        "tidak di sini maupun di sana"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 968,
+    "lemma": "university",
+    "source": {
+      "word": "university",
+      "phrases": [
+        "university student",
+        "national university",
+        "go to university"
+      ]
+    },
+    "target": {
+      "word": "universitas",
+      "phrases": [
+        "mahasiswa",
+        "universitas negeri",
+        "pergi ke universitas"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 969,
+    "lemma": "easily",
+    "source": {
+      "word": "easily",
+      "phrases": [
+        "easily accessible",
+        "win easily",
+        "easily confused"
+      ]
+    },
+    "target": {
+      "word": "dengan mudah",
+      "phrases": [
+        "mudah diakses",
+        "menang dengan mudah",
+        "mudah bingung"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 970,
+    "lemma": "agency",
+    "source": {
+      "word": "agency",
+      "phrases": [
+        "travel agency",
+        "news agency",
+        "advertising agency"
+      ]
+    },
+    "target": {
+      "word": "agen",
+      "phrases": [
+        "biro perjalanan",
+        "kantor berita",
+        "biro iklan"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 971,
+    "lemma": "dollar",
+    "source": {
+      "word": "dollar",
+      "phrases": [
+        "US dollar",
+        "million dollar",
+        "dollar bill"
+      ]
+    },
+    "target": {
+      "word": "dolar",
+      "phrases": [
+        "dolar AS",
+        "juta dolar",
+        "uang kertas dolar"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 972,
+    "lemma": "garden",
+    "source": {
+      "word": "garden",
+      "phrases": [
+        "botanical garden",
+        "beer garden",
+        "garden party"
+      ]
+    },
+    "target": {
+      "word": "taman",
+      "phrases": [
+        "kebun raya",
+        "taman bir",
+        "pesta kebun"
+      ]
+    },
+    "frequency": 95
+  },
+  {
+    "rank": 973,
+    "lemma": "fix",
+    "source": {
+      "word": "fix",
+      "phrases": [
+        "fix the problem",
+        "quick fix",
+        "fix dinner"
+      ]
+    },
+    "target": {
+      "word": "memperbaiki",
+      "phrases": [
+        "memperbaiki masalah",
+        "solusi cepat",
+        "menyiapkan makan malam"
+      ]
+    },
+    "frequency": 95
+  },
+  {
+    "rank": 974,
+    "lemma": "ahead",
+    "source": {
+      "word": "ahead",
+      "phrases": [
+        "go ahead",
+        "ahead of time",
+        "look ahead"
+      ]
+    },
+    "target": {
+      "word": "di depan",
+      "phrases": [
+        "silakan",
+        "lebih awal",
+        "melihat ke depan"
+      ]
+    },
+    "frequency": 95
+  },
+  {
+    "rank": 975,
+    "lemma": "cross",
+    "source": {
+      "word": "cross",
+      "phrases": [
+        "cross the street",
+        "fingers crossed",
+        "cross section"
+      ]
+    },
+    "target": {
+      "word": "menyeberang",
+      "phrases": [
+        "menyeberang jalan",
+        "berharap yang terbaik",
+        "penampang melintang"
+      ]
+    },
+    "frequency": 95
+  },
+  {
+    "rank": 976,
+    "lemma": "yeah",
+    "source": {
+      "word": "yeah",
+      "phrases": [
+        "oh yeah",
+        "yeah right",
+        "hell yeah"
+      ]
+    },
+    "target": {
+      "word": "ya",
+      "phrases": [
+        "oh ya",
+        "ya benar",
+        "tentu saja"
+      ]
+    },
+    "frequency": 95
+  },
+  {
+    "rank": 977,
+    "lemma": "candidate",
+    "source": {
+      "word": "candidate",
+      "phrases": [
+        "presidential candidate",
+        "good candidate",
+        "candidate for"
+      ]
+    },
+    "target": {
+      "word": "kandidat",
+      "phrases": [
+        "calon presiden",
+        "kandidat yang baik",
+        "calon untuk"
+      ]
+    },
+    "frequency": 94
+  },
+  {
+    "rank": 978,
+    "lemma": "weight",
+    "source": {
+      "word": "weight",
+      "phrases": [
+        "lose weight",
+        "gain weight",
+        "weight lifting"
+      ]
+    },
+    "target": {
+      "word": "berat badan",
+      "phrases": [
+        "menurunkan berat badan",
+        "menambah berat badan",
+        "angkat beban"
+      ]
+    },
+    "frequency": 94
+  },
+  {
+    "rank": 979,
+    "lemma": "legal",
+    "source": {
+      "word": "legal",
+      "phrases": [
+        "legal system",
+        "legal action",
+        "legal age"
+      ]
+    },
+    "target": {
+      "word": "hukum",
+      "phrases": [
+        "sistem hukum",
+        "tindakan hukum",
+        "usia legal"
+      ]
+    },
+    "frequency": 94
+  },
+  {
+    "rank": 980,
+    "lemma": "proposal",
+    "source": {
+      "word": "proposal",
+      "phrases": [
+        "marriage proposal",
+        "business proposal",
+        "make a proposal"
+      ]
+    },
+    "target": {
+      "word": "proposal",
+      "phrases": [
+        "lamaran pernikahan",
+        "proposal bisnis",
+        "mengajukan proposal"
+      ]
+    },
+    "frequency": 94
+  },
+  {
+    "rank": 981,
+    "lemma": "version",
+    "source": {
+      "word": "version",
+      "phrases": [
+        "latest version",
+        "beta version",
+        "version of"
+      ]
+    },
+    "target": {
+      "word": "versi",
+      "phrases": [
+        "versi terbaru",
+        "versi beta",
+        "versi dari"
+      ]
+    },
+    "frequency": 94
+  },
+  {
+    "rank": 982,
+    "lemma": "conversation",
+    "source": {
+      "word": "conversation",
+      "phrases": [
+        "have a conversation",
+        "English conversation",
+        "conversation starter"
+      ]
+    },
+    "target": {
+      "word": "percakapan",
+      "phrases": [
+        "melakukan percakapan",
+        "percakapan bahasa Inggris",
+        "pembuka percakapan"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 983,
+    "lemma": "somebody",
+    "source": {
+      "word": "somebody",
+      "phrases": [
+        "somebody else",
+        "somebody to love",
+        "somebody help"
+      ]
+    },
+    "target": {
+      "word": "seseorang",
+      "phrases": [
+        "orang lain",
+        "seseorang untuk dicintai",
+        "tolong seseorang"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 984,
+    "lemma": "pound",
+    "source": {
+      "word": "pound",
+      "phrases": [
+        "pound sterling",
+        "shed pounds",
+        "pound cake"
+      ]
+    },
+    "target": {
+      "word": "pon",
+      "phrases": [
+        "pound sterling",
+        "menurunkan berat badan",
+        "kue pon"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 985,
+    "lemma": "magazine",
+    "source": {
+      "word": "magazine",
+      "phrases": [
+        "fashion magazine",
+        "magazine cover",
+        "weekly magazine"
+      ]
+    },
+    "target": {
+      "word": "majalah",
+      "phrases": [
+        "majalah mode",
+        "sampul majalah",
+        "majalah mingguan"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 986,
+    "lemma": "shape",
+    "source": {
+      "word": "shape",
+      "phrases": [
+        "in good shape",
+        "out of shape",
+        "shape up"
+      ]
+    },
+    "target": {
+      "word": "bentuk",
+      "phrases": [
+        "dalam kondisi baik",
+        "dalam kondisi buruk",
+        "memperbaiki diri"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 987,
+    "lemma": "sea",
+    "source": {
+      "word": "sea",
+      "phrases": [
+        "at sea",
+        "sea level",
+        "deep blue sea"
+      ]
+    },
+    "target": {
+      "word": "laut",
+      "phrases": [
+        "di laut",
+        "permukaan laut",
+        "laut biru yang dalam"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 988,
+    "lemma": "immediately",
+    "source": {
+      "word": "immediately",
+      "phrases": [
+        "immediately after",
+        "call immediately",
+        "available immediately"
+      ]
+    },
+    "target": {
+      "word": "segera",
+      "phrases": [
+        "segera setelah",
+        "telepon segera",
+        "tersedia segera"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 989,
+    "lemma": "welcome",
+    "source": {
+      "word": "welcome",
+      "phrases": [
+        "you're welcome",
+        "welcome to",
+        "welcome back"
+      ]
+    },
+    "target": {
+      "word": "sama-sama",
+      "phrases": [
+        "sama-sama",
+        "selamat datang di",
+        "selamat datang kembali"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 990,
+    "lemma": "smile",
+    "source": {
+      "word": "smile",
+      "phrases": [
+        "big smile",
+        "smile at",
+        "keep smiling"
+      ]
+    },
+    "target": {
+      "word": "senyum",
+      "phrases": [
+        "senyum lebar",
+        "tersenyum pada",
+        "tetap tersenyum"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 991,
+    "lemma": "communication",
+    "source": {
+      "word": "communication",
+      "phrases": [
+        "communication skills",
+        "mass communication",
+        "communication breakdown"
+      ]
+    },
+    "target": {
+      "word": "komunikasi",
+      "phrases": [
+        "keterampilan komunikasi",
+        "komunikasi massa",
+        "kegagalan komunikasi"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 992,
+    "lemma": "agent",
+    "source": {
+      "word": "agent",
+      "phrases": [
+        "secret agent",
+        "travel agent",
+        "real estate agent"
+      ]
+    },
+    "target": {
+      "word": "agen",
+      "phrases": [
+        "agen rahasia",
+        "agen perjalanan",
+        "agen real estat"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 993,
+    "lemma": "traditional",
+    "source": {
+      "word": "traditional",
+      "phrases": [
+        "traditional culture",
+        "traditional food",
+        "traditional values"
+      ]
+    },
+    "target": {
+      "word": "tradisional",
+      "phrases": [
+        "budaya tradisional",
+        "makanan tradisional",
+        "nilai-nilai tradisional"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 994,
+    "lemma": "replace",
+    "source": {
+      "word": "replace",
+      "phrases": [
+        "replace with",
+        "hard to replace",
+        "replace a battery"
+      ]
+    },
+    "target": {
+      "word": "mengganti",
+      "phrases": [
+        "ganti dengan",
+        "sulit diganti",
+        "mengganti baterai"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 995,
+    "lemma": "judge",
+    "source": {
+      "word": "judge",
+      "phrases": [
+        "don't judge",
+        "judge by",
+        "court judge"
+      ]
+    },
+    "target": {
+      "word": "hakim",
+      "phrases": [
+        "jangan menilai",
+        "menilai berdasarkan",
+        "hakim pengadilan"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 996,
+    "lemma": "herself",
+    "source": {
+      "word": "herself",
+      "phrases": [
+        "by herself",
+        "to herself",
+        "be herself"
+      ]
+    },
+    "target": {
+      "word": "dirinya sendiri",
+      "phrases": [
+        "sendirian",
+        "untuk dirinya sendiri",
+        "menjadi dirinya sendiri"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 997,
+    "lemma": "suddenly",
+    "source": {
+      "word": "suddenly",
+      "phrases": [
+        "all of a sudden",
+        "suddenly appear",
+        "stop suddenly"
+      ]
+    },
+    "target": {
+      "word": "tiba-tiba",
+      "phrases": [
+        "mendadak",
+        "muncul tiba-tiba",
+        "berhenti tiba-tiba"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 998,
+    "lemma": "generation",
+    "source": {
+      "word": "generation",
+      "phrases": [
+        "next generation",
+        "generation gap",
+        "younger generation"
+      ]
+    },
+    "target": {
+      "word": "generasi",
+      "phrases": [
+        "generasi berikutnya",
+        "kesenjangan generasi",
+        "generasi muda"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 999,
+    "lemma": "estimate",
+    "source": {
+      "word": "estimate",
+      "phrases": [
+        "rough estimate",
+        "estimated time",
+        "cost estimate"
+      ]
+    },
+    "target": {
+      "word": "perkiraan",
+      "phrases": [
+        "perkiraan kasar",
+        "perkiraan waktu",
+        "perkiraan biaya"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 1000,
+    "lemma": "favorite",
+    "source": {
+      "word": "favorite",
+      "phrases": [
+        "my favorite",
+        "add to favorites",
+        "favorite food"
+      ]
+    },
+    "target": {
+      "word": "favorit",
+      "phrases": [
+        "favorit saya",
+        "tambah ke favorit",
+        "makanan favorit"
+      ]
+    },
+    "frequency": 92
+  }
+]

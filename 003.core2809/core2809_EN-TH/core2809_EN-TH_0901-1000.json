@@ -1,0 +1,2702 @@
+[
+  {
+    "rank": 901,
+    "lemma": "guess",
+    "source": {
+      "word": "guess",
+      "phrases": [
+        "guess what",
+        "I guess so",
+        "take a guess"
+      ]
+    },
+    "target": {
+      "word": "เดา",
+      "word_pronunciation": "dao",
+      "phrases": [
+        "ลองทายดูสิว่ามีอะไร",
+        "ฉันคิดว่าอย่างนั้นนะ",
+        "ลองเดาดู"
+      ],
+      "phrases_pronunciations": [
+        "lɔɔŋ thaai duu sì wâa mii à rai",
+        "chǎn khít wâa yàaŋ nán ná",
+        "lɔɔŋ dao duu"
+      ]
+    },
+    "frequency": 105
+  },
+  {
+    "rank": 902,
+    "lemma": "fun",
+    "source": {
+      "word": "fun",
+      "phrases": [
+        "have fun",
+        "make fun of",
+        "just for fun"
+      ]
+    },
+    "target": {
+      "word": "ความสนุก",
+      "word_pronunciation": "khwaam sa nùk",
+      "phrases": [
+        "ขอให้สนุก",
+        "ล้อเลียน",
+        "แค่สนุกๆ"
+      ],
+      "phrases_pronunciations": [
+        "khɔ̌ɔ hâi sa nùk",
+        "lɔ́ɔ lian",
+        "khɛ̂ɛ sa nùk sa nùk"
+      ]
+    },
+    "frequency": 105
+  },
+  {
+    "rank": 903,
+    "lemma": "protect",
+    "source": {
+      "word": "protect",
+      "phrases": [
+        "protect from",
+        "protect against",
+        "protection"
+      ]
+    },
+    "target": {
+      "word": "ปกป้อง",
+      "word_pronunciation": "pòk pɔ̂ŋ",
+      "phrases": [
+        "ปกป้องจาก",
+        "ป้องกัน",
+        "การป้องกัน"
+      ],
+      "phrases_pronunciations": [
+        "pòk pɔ̂ŋ càak",
+        "pɔ̂ŋ kan",
+        "kaan pɔ̂ŋ kan"
+      ]
+    },
+    "frequency": 105
+  },
+  {
+    "rank": 904,
+    "lemma": "resource",
+    "source": {
+      "word": "resource",
+      "phrases": [
+        "natural resources",
+        "human resources",
+        "resource management"
+      ]
+    },
+    "target": {
+      "word": "ทรัพยากร",
+      "word_pronunciation": "sáp phá yaa kɔɔn",
+      "phrases": [
+        "ทรัพยากรธรรมชาติ",
+        "ทรัพยากรบุคคล",
+        "การจัดการทรัพยากร"
+      ],
+      "phrases_pronunciations": [
+        "sáp phá yaa kɔɔn tham má châat",
+        "sáp phá yaa kɔɔn bùk khon",
+        "kaan càt kaan sáp phá yaa kɔɔn"
+      ]
+    },
+    "frequency": 105
+  },
+  {
+    "rank": 905,
+    "lemma": "science",
+    "source": {
+      "word": "science",
+      "phrases": [
+        "science fiction",
+        "computer science",
+        "rocket science"
+      ]
+    },
+    "target": {
+      "word": "วิทยาศาสตร์",
+      "word_pronunciation": "wít thá yaa sàat",
+      "phrases": [
+        "นิยายวิทยาศาสตร์",
+        "วิทยาการคอมพิวเตอร์",
+        "เรื่องที่ยากและซับซ้อนมาก"
+      ],
+      "phrases_pronunciations": [
+        "ní yaai wít thá yaa sàat",
+        "wít thá yaa kaan khɔm phiw tə̂ə",
+        "rʉ̂aŋ thîi yâak lɛ́ sáp sɔ́ɔn mâak"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 906,
+    "lemma": "disease",
+    "source": {
+      "word": "disease",
+      "phrases": [
+        "heart disease",
+        "cure a disease",
+        "infectious disease"
+      ]
+    },
+    "target": {
+      "word": "โรค",
+      "word_pronunciation": "rôok",
+      "phrases": [
+        "โรคหัวใจ",
+        "รักษาโรค",
+        "โรคติดต่อ"
+      ],
+      "phrases_pronunciations": [
+        "rôok hǔa cai",
+        "rák sǎa rôok",
+        "rôok tìt tɔ̀ɔ"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 907,
+    "lemma": "balance",
+    "source": {
+      "word": "balance",
+      "phrases": [
+        "balance sheet",
+        "lose balance",
+        "work life balance"
+      ]
+    },
+    "target": {
+      "word": "สมดุล",
+      "word_pronunciation": "sǒm dun",
+      "phrases": [
+        "งบดุล",
+        "เสียการทรงตัว",
+        "ความสมดุลระหว่างชีวิตและการทำงาน"
+      ],
+      "phrases_pronunciations": [
+        "ŋóp dun",
+        "sǐa kaan soŋ tua",
+        "khwaam sǒm dun rá wàaŋ chii wít lɛ́ kaan tham ŋaan"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 908,
+    "lemma": "damage",
+    "source": {
+      "word": "damage",
+      "phrases": [
+        "damage control",
+        "brain damage",
+        "cause damage"
+      ]
+    },
+    "target": {
+      "word": "ความเสียหาย",
+      "word_pronunciation": "khwaam sǐa hǎai",
+      "phrases": [
+        "การควบคุมความเสียหาย",
+        "ความเสียหายทางสมอง",
+        "ก่อให้เกิดความเสียหาย"
+      ],
+      "phrases_pronunciations": [
+        "kaan khûap khum khwaam sǐa hǎai",
+        "khwaam sǐa hǎai thaaŋ sa mɔ̌ɔŋ",
+        "kɔ̀ɔ hâi kə̀ət khwaam sǐa hǎai"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 909,
+    "lemma": "basis",
+    "source": {
+      "word": "basis",
+      "phrases": [
+        "on a daily basis",
+        "basis point",
+        "form the basis"
+      ]
+    },
+    "target": {
+      "word": "เกณฑ์",
+      "word_pronunciation": "keen",
+      "phrases": [
+        "เป็นประจำทุกวัน",
+        "จุดฐาน",
+        "เป้นพื้นฐานของ"
+      ],
+      "phrases_pronunciations": [
+        "pen pra cam thúk wan",
+        "cùt thǎan",
+        "pen phʉ́ʉn thǎan khɔ̌ɔŋ"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 910,
+    "lemma": "author",
+    "source": {
+      "word": "author",
+      "phrases": [
+        "author of",
+        "best selling author",
+        "co-author"
+      ]
+    },
+    "target": {
+      "word": "ผู้เขียน",
+      "word_pronunciation": "phûu khǐan",
+      "phrases": [
+        "ผู้เขียนของ",
+        "นักเขียนขายดี",
+        "ผู้เขียนร่วม"
+      ],
+      "phrases_pronunciations": [
+        "phûu khǐan khɔ̌ɔŋ",
+        "nák khǐan khǎai dii",
+        "phûu khǐan rûam"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 911,
+    "lemma": "basic",
+    "source": {
+      "word": "basic",
+      "phrases": [
+        "basic needs",
+        "basic idea",
+        "basically"
+      ]
+    },
+    "target": {
+      "word": "พื้นฐาน",
+      "word_pronunciation": "phʉ́ʉn thǎan",
+      "phrases": [
+        "ความต้องการขั้นพื้นฐาน",
+        "แนวคิดพื้นฐาน",
+        "โดยพื้นฐานแล้ว"
+      ],
+      "phrases_pronunciations": [
+        "khwaam tɔ̂ŋ kaan khân phʉ́ʉn thǎan",
+        "nɛɛw khít phʉ́ʉn thǎan",
+        "dooi phʉ́ʉn thǎan lɛ́ɛw"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 912,
+    "lemma": "encourage",
+    "source": {
+      "word": "encourage",
+      "phrases": [
+        "encourage to",
+        "highly encouraged",
+        "encourage growth"
+      ]
+    },
+    "target": {
+      "word": "สนับสนุน",
+      "word_pronunciation": "sa nàp sa nǔn",
+      "phrases": [
+        "สนับสนุนให้",
+        "ได้รับคำแนะนำเป็นอย่างยิ่ง",
+        "ส่งเสริมการเติบโต"
+      ],
+      "phrases_pronunciations": [
+        "sa nàp sa nǔn hâi",
+        "dâi ráp kham nɛ́ nam pen yàaŋ yîŋ",
+        "sòŋ sə̌əm kaan tə̀əp too"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 913,
+    "lemma": "hair",
+    "source": {
+      "word": "hair",
+      "phrases": [
+        "hair style",
+        "cut hair",
+        "bad hair day"
+      ]
+    },
+    "target": {
+      "word": "ผม",
+      "word_pronunciation": "phǒm",
+      "phrases": [
+        "ทรงผม",
+        "ตัดผม",
+        "วันที่ผมไม่เป็นทรง"
+      ],
+      "phrases_pronunciations": [
+        "soŋ phǒm",
+        "tàt phǒm",
+        "wan thîi phǒm mâi pen soŋ"
+      ]
+    },
+    "frequency": 104
+  },
+  {
+    "rank": 914,
+    "lemma": "male",
+    "source": {
+      "word": "male",
+      "phrases": [
+        "male and female",
+        "alpha male",
+        "male voice"
+      ]
+    },
+    "target": {
+      "word": "เพศชาย",
+      "word_pronunciation": "phêet chaai",
+      "phrases": [
+        "ชายและหญิง",
+        "จ่าฝูง",
+        "เสียงผู้ชาย"
+      ],
+      "phrases_pronunciations": [
+        "chaai lɛ́ yǐŋ",
+        "càa fǔuŋ",
+        "sǐaŋ phûu chaai"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 915,
+    "lemma": "operate",
+    "source": {
+      "word": "operate",
+      "phrases": [
+        "operate a machine",
+        "operate on",
+        "operating system"
+      ]
+    },
+    "target": {
+      "word": "ใช้งาน",
+      "word_pronunciation": "chái ŋaan",
+      "phrases": [
+        "ใช้งานเครื่องจักร",
+        "ผ่าตัด",
+        "ระบบปฏิบัติการ"
+      ],
+      "phrases_pronunciations": [
+        "chái ŋaan khrʉ̂aŋ càk",
+        "phàa tàt",
+        "rá bòp pà tì bàt kaan"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 916,
+    "lemma": "reflect",
+    "source": {
+      "word": "reflect",
+      "phrases": [
+        "reflect on",
+        "reflect light",
+        "reflection"
+      ]
+    },
+    "target": {
+      "word": "สะท้อน",
+      "word_pronunciation": "sa thɔ́ɔn",
+      "phrases": [
+        "ไตร่ตรอง",
+        "สะท้อนแสง",
+        "การสะท้อน"
+      ],
+      "phrases_pronunciations": [
+        "trài trɔɔŋ",
+        "sa thɔ́ɔn sɛ̌ŋ",
+        "kaan sa thɔ́ɔn"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 917,
+    "lemma": "exercise",
+    "source": {
+      "word": "exercise",
+      "phrases": [
+        "take exercise",
+        "exercise caution",
+        "exercise power"
+      ]
+    },
+    "target": {
+      "word": "ออกกำลังกาย",
+      "word_pronunciation": "ɔ̀ɔk kam laŋ kaai",
+      "phrases": [
+        "ออกกำลังกาย",
+        "ใช้ความระมัดระวัง",
+        "ใช้อำนาจ"
+      ],
+      "phrases_pronunciations": [
+        "ɔ̀ɔk kam laŋ kaai",
+        "chái khwaam rá mát rá waŋ",
+        "chái am nâat"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 918,
+    "lemma": "useful",
+    "source": {
+      "word": "useful",
+      "phrases": [
+        "useful information",
+        "come in useful",
+        "useful tool"
+      ]
+    },
+    "target": {
+      "word": "มีประโยชน์",
+      "word_pronunciation": "mii pra yòot",
+      "phrases": [
+        "ข้อมูลที่มีประโยชน์",
+        "มีประโยชน์ขึ้นมา",
+        "เครื่องมือที่มีประโยชน์"
+      ],
+      "phrases_pronunciations": [
+        "khɔ̂ɔ muun thîi mii pra yòot",
+        "mii pra yòot khʉ̂n maa",
+        "khrʉ̂aŋ mʉʉ thîi mii pra yòot"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 919,
+    "lemma": "restaurant",
+    "source": {
+      "word": "restaurant",
+      "phrases": [
+        "fast food restaurant",
+        "restaurant chain",
+        "at a restaurant"
+      ]
+    },
+    "target": {
+      "word": "ร้านอาหาร",
+      "word_pronunciation": "ráan aa hǎan",
+      "phrases": [
+        "ร้านฟาสต์ฟู้ด",
+        "เครือร้านอาหาร",
+        "ที่ร้านอาหาร"
+      ],
+      "phrases_pronunciations": [
+        "ráan fáat fúut",
+        "khrʉa ráan aa hǎan",
+        "thîi ráan aa hǎan"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 920,
+    "lemma": "income",
+    "source": {
+      "word": "income",
+      "phrases": [
+        "income tax",
+        "low income",
+        "generate income"
+      ]
+    },
+    "target": {
+      "word": "รายได้",
+      "word_pronunciation": "raai dâi",
+      "phrases": [
+        "ภาษีเงินได้",
+        "รายได้น้อย",
+        "สร้างรายได้"
+      ],
+      "phrases_pronunciations": [
+        "phaa sǐi ŋən dâi",
+        "raai dâi nɔ́ɔi",
+        "sâaŋ raai dâi"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 921,
+    "lemma": "property",
+    "source": {
+      "word": "property",
+      "phrases": [
+        "private property",
+        "intellectual property",
+        "property market"
+      ]
+    },
+    "target": {
+      "word": "ทรัพย์สิน",
+      "word_pronunciation": "sáp sǐn",
+      "phrases": [
+        "ทรัพย์สินส่วนบุคคล",
+        "ทรัพย์สินทางปัญญา",
+        "ตลาดอสังหาริมทรัพย์"
+      ],
+      "phrases_pronunciations": [
+        "sáp sǐn sùan bùk khon",
+        "sáp sǐn thaaŋ pan yaa",
+        "ta làat à sǎŋ hǎa rim má sáp"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 922,
+    "lemma": "previous",
+    "source": {
+      "word": "previous",
+      "phrases": [
+        "previous year",
+        "previous experience",
+        "previously"
+      ]
+    },
+    "target": {
+      "word": "ก่อนหน้า",
+      "word_pronunciation": "kɔ̀ɔn nâa",
+      "phrases": [
+        "ปีก่อน",
+        "ประสบการณ์ก่อนหน้า",
+        "ก่อนหน้านี้"
+      ],
+      "phrases_pronunciations": [
+        "pii kɔ̀ɔn",
+        "pra sòp kaan kɔ̀ɔn nâa",
+        "kɔ̀ɔn nâa níi"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 923,
+    "lemma": "dark",
+    "source": {
+      "word": "dark",
+      "phrases": [
+        "dark side",
+        "after dark",
+        "in the dark"
+      ]
+    },
+    "target": {
+      "word": "มืด",
+      "word_pronunciation": "mʉ̂ʉt",
+      "phrases": [
+        "ด้านมืด",
+        "หลังค่ำ",
+        "ในความมืด"
+      ],
+      "phrases_pronunciations": [
+        "dâan mʉ̂ʉt",
+        "lǎŋ khâm",
+        "nai khwaam mʉ̂ʉt"
+      ]
+    },
+    "frequency": 103
+  },
+  {
+    "rank": 924,
+    "lemma": "imagine",
+    "source": {
+      "word": "imagine",
+      "phrases": [
+        "imagine that",
+        "can't imagine",
+        "just imagine"
+      ]
+    },
+    "target": {
+      "word": "จินตนาการ",
+      "word_pronunciation": "cin tà naa kaan",
+      "phrases": [
+        "จินตนาการว่า",
+        "นึกภาพไม่ออก",
+        "แค่ลองจินตนาการดู"
+      ],
+      "phrases_pronunciations": [
+        "cin tà naa kaan wâa",
+        "nʉ́k phâap mâi ɔ̀ɔk",
+        "khɛ̂ɛ lɔɔŋ cin tà naa kaan duu"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 925,
+    "lemma": "okay",
+    "source": {
+      "word": "okay",
+      "phrases": [
+        "it's okay",
+        "are you okay?",
+        "okay then"
+      ]
+    },
+    "target": {
+      "word": "ตกลง",
+      "word_pronunciation": "tòk loŋ",
+      "phrases": [
+        "ไม่เป็นไร",
+        "คุณโอเคไหม",
+        "งั้นก็ได้"
+      ],
+      "phrases_pronunciations": [
+        "mâi pen rai",
+        "khun oo khee mǎi",
+        "ŋán kɔ̂ɔ dâi"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 926,
+    "lemma": "earn",
+    "source": {
+      "word": "earn",
+      "phrases": [
+        "earn money",
+        "earn a living",
+        "earn respect"
+      ]
+    },
+    "target": {
+      "word": "ได้รับ",
+      "word_pronunciation": "dâi ráp",
+      "phrases": [
+        "หาเงิน",
+        "หาเลี้ยงชีพ",
+        "ได้รับความเคารพ"
+      ],
+      "phrases_pronunciations": [
+        "hǎa ŋən",
+        "hǎa líaŋ chîip",
+        "dâi ráp khwaam khao róp"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 927,
+    "lemma": "daughter",
+    "source": {
+      "word": "daughter",
+      "phrases": [
+        "daughter in law",
+        "only daughter",
+        "like mother like daughter"
+      ]
+    },
+    "target": {
+      "word": "ลูกสาว",
+      "word_pronunciation": "lûuk sǎao",
+      "phrases": [
+        "ลูกสะใภ้",
+        "ลูกสาวคนเดียว",
+        "ลูกไม้หล่นไม่ไกลต้น"
+      ],
+      "phrases_pronunciations": [
+        "lûuk sa phái",
+        "lûuk sǎao khon diaw",
+        "lûuk mái lòn mâi klai tôn"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 928,
+    "lemma": "post",
+    "source": {
+      "word": "post",
+      "phrases": [
+        "post office",
+        "blog post",
+        "post it"
+      ]
+    },
+    "target": {
+      "word": "โพสต์",
+      "word_pronunciation": "phóot",
+      "phrases": [
+        "ที่ทำการไปรษณีย์",
+        "โพสต์บล็อก",
+        "โพสต์มัน"
+      ],
+      "phrases_pronunciations": [
+        "thîi tham kaan prai sa nii",
+        "phóot blɔ́k",
+        "phóot man"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 929,
+    "lemma": "newspaper",
+    "source": {
+      "word": "newspaper",
+      "phrases": [
+        "read a newspaper",
+        "local newspaper",
+        "newspaper article"
+      ]
+    },
+    "target": {
+      "word": "หนังสือพิมพ์",
+      "word_pronunciation": "nǎŋ sʉ̌ʉ phim",
+      "phrases": [
+        "อ่านหนังสือพิมพ์",
+        "หนังสือพิมพ์ท้องถิ่น",
+        "บทความในหนังสือพิมพ์"
+      ],
+      "phrases_pronunciations": [
+        "àan nǎŋ sʉ̌ʉ phim",
+        "nǎŋ sʉ̌ʉ phim thɔ́ɔŋ thìn",
+        "bòt khwaam nai nǎŋ sʉ̌ʉ phim"
+      ]
+    },
+    "frequency": 102
+  },
+  {
+    "rank": 930,
+    "lemma": "define",
+    "source": {
+      "word": "define",
+      "phrases": [
+        "define clearly",
+        "define as",
+        "definition"
+      ]
+    },
+    "target": {
+      "word": "จำกัดความ",
+      "word_pronunciation": "cam kàt khwaam",
+      "phrases": [
+        "นิยามอย่างชัดเจน",
+        "นิยามว่า",
+        "คำนิยาม"
+      ],
+      "phrases_pronunciations": [
+        "ní yaam yàaŋ chát ceen",
+        "ní yaam wâa",
+        "kham ní yaam"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 931,
+    "lemma": "conclusion",
+    "source": {
+      "word": "conclusion",
+      "phrases": [
+        "in conclusion",
+        "come to a conclusion",
+        "jump to conclusions"
+      ]
+    },
+    "target": {
+      "word": "ข้อสรุป",
+      "word_pronunciation": "khɔ̂ɔ sa rùp",
+      "phrases": [
+        "สรุปได้ว่า",
+        "ได้ข้อสรุป",
+        "ด่วนสรุป"
+      ],
+      "phrases_pronunciations": [
+        "sa rùp dâi wâa",
+        "dâi khɔ̂ɔ sa rùp",
+        "dùan sa rùp"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 932,
+    "lemma": "clock",
+    "source": {
+      "word": "clock",
+      "phrases": [
+        "alarm clock",
+        "around the clock",
+        "clock wise"
+      ]
+    },
+    "target": {
+      "word": "นาฬิกา",
+      "word_pronunciation": "naa lí kaa",
+      "phrases": [
+        "นาฬิกาปลุก",
+        "ตลอด 24 ชั่วโมง",
+        "ตามเข็มนาฬิกา"
+      ],
+      "phrases_pronunciations": [
+        "naa lí kaa plùk",
+        "ta lɔ̀ɔt yîi sìp sìi chûa mooŋ",
+        "taam khěm naa lí kaa"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 933,
+    "lemma": "everybody",
+    "source": {
+      "word": "everybody",
+      "phrases": [
+        "everybody knows",
+        "hello everybody",
+        "everybody else"
+      ]
+    },
+    "target": {
+      "word": "ทุกคน",
+      "word_pronunciation": "thúk khon",
+      "phrases": [
+        "ทุกคนรู้ดี",
+        "สวัสดีทุกคน",
+        "คนอื่นๆ ทั้งหมด"
+      ],
+      "phrases_pronunciations": [
+        "thúk khon rúu dii",
+        "sa wàt dii thúk khon",
+        "khon ʉ̀ʉn ʉ̀ʉn tháŋ mòt"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 934,
+    "lemma": "weekend",
+    "source": {
+      "word": "weekend",
+      "phrases": [
+        "this weekend",
+        "long weekend",
+        "weekend getaway"
+      ]
+    },
+    "target": {
+      "word": "สุดสัปดาห์",
+      "word_pronunciation": "sùt sàp daa",
+      "phrases": [
+        "สุดสัปดาห์นี้",
+        "วันหยุดยาว",
+        "ทริปพักผ่อนวันหยุด"
+      ],
+      "phrases_pronunciations": [
+        "sùt sàp daa níi",
+        "wan yùt yaao",
+        "thríp phák phɔ̀ɔn wan yùt"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 935,
+    "lemma": "perform",
+    "source": {
+      "word": "perform",
+      "phrases": [
+        "perform a task",
+        "perform well",
+        "performance"
+      ]
+    },
+    "target": {
+      "word": "ปฏิบัติ",
+      "word_pronunciation": "pà tì bàt",
+      "phrases": [
+        "ปฏิบัติงาน",
+        "ทำผลงานได้ดี",
+        "การแสดง/ประสิทธิภาพ"
+      ],
+      "phrases_pronunciations": [
+        "pà tì bàt ŋaan",
+        "tham phǒn ŋaan dâi dii",
+        "kaan sa dɛɛŋ / prà sìt thí phâap"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 936,
+    "lemma": "professional",
+    "source": {
+      "word": "professional",
+      "phrases": [
+        "professional player",
+        "professional help",
+        "act professional"
+      ]
+    },
+    "target": {
+      "word": "มืออาชีพ",
+      "word_pronunciation": "mʉʉ aa chîip",
+      "phrases": [
+        "ผู้เล่นมืออาชีพ",
+        "ความช่วยเหลือจากผู้เชี่ยวชาญ",
+        "ทำตัวเป็นมืออาชีพ"
+      ],
+      "phrases_pronunciations": [
+        "phûu lên mʉʉ aa chîip",
+        "khwaam chûai lʉ̌a càak phûu chîaw chaan",
+        "tham tua pen mʉʉ aa chîip"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 937,
+    "lemma": "mine",
+    "source": {
+      "word": "mine",
+      "phrases": [
+        "it's mine",
+        "gold mine",
+        "land mine"
+      ]
+    },
+    "target": {
+      "word": "ของฉัน/เหมือง",
+      "word_pronunciation": "khɔ̌ɔŋ chǎn / mʉ̌aŋ",
+      "phrases": [
+        "มันเป็นของฉัน",
+        "เหมืองทอง",
+        "กับระเบิด"
+      ],
+      "phrases_pronunciations": [
+        "man pen khɔ̌ɔŋ chǎn",
+        "mʉ̌aŋ thɔɔŋ",
+        "kàp rá bə̀ət"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 938,
+    "lemma": "debate",
+    "source": {
+      "word": "debate",
+      "phrases": [
+        "presidential debate",
+        "debate about",
+        "open to debate"
+      ]
+    },
+    "target": {
+      "word": "การโต้พาที",
+      "word_pronunciation": "kaan tôo phaa thii",
+      "phrases": [
+        "การดีเบตประธานาธิบดี",
+        "ถกเถียงเกี่ยวกับ",
+        "ยังเป็นที่ถกเถียงได้"
+      ],
+      "phrases_pronunciations": [
+        "kaan dii bèet pra thaa naa thí bɔɔ dii",
+        "thòk thǐaŋ kìaw kàp",
+        "yaŋ pen thîi thòk thǐaŋ dâi"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 939,
+    "lemma": "memory",
+    "source": {
+      "word": "memory",
+      "phrases": [
+        "good memory",
+        "in memory of",
+        "lose memory"
+      ]
+    },
+    "target": {
+      "word": "ความจำ",
+      "word_pronunciation": "khwaam cam",
+      "phrases": [
+        "ความจำดี",
+        "เพื่อเป็นความทรงจำถึง",
+        "เสียความทรงจำ"
+      ],
+      "phrases_pronunciations": [
+        "khwaam cam dii",
+        "phʉ̂a pen khwaam soŋ cam thʉ̌ŋ",
+        "sǐa khwaam soŋ cam"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 940,
+    "lemma": "green",
+    "source": {
+      "word": "green",
+      "phrases": [
+        "green light",
+        "go green",
+        "green tea"
+      ]
+    },
+    "target": {
+      "word": "สีเขียว",
+      "word_pronunciation": "sǐi khǐaw",
+      "phrases": [
+        "ไฟเขียว",
+        "รักษ์โลก",
+        "ชาเขียว"
+      ],
+      "phrases_pronunciations": [
+        "fai khǐaw",
+        "rák lôok",
+        "chaa khǐaw"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 941,
+    "lemma": "song",
+    "source": {
+      "word": "song",
+      "phrases": [
+        "sing a song",
+        "theme song",
+        "pop song"
+      ]
+    },
+    "target": {
+      "word": "เพลง",
+      "word_pronunciation": "phleeŋ",
+      "phrases": [
+        "ร้องเพลง",
+        "เพลงประกอบ",
+        "เพลงป๊อป"
+      ],
+      "phrases_pronunciations": [
+        "rɔ́ɔŋ phleeŋ",
+        "phleeŋ pra kɔ̀ɔp",
+        "phleeŋ pɔ́p"
+      ]
+    },
+    "frequency": 101
+  },
+  {
+    "rank": 942,
+    "lemma": "object",
+    "source": {
+      "word": "object",
+      "phrases": [
+        "object to",
+        "flying object",
+        "objective"
+      ]
+    },
+    "target": {
+      "word": "วัตถุ/คัดค้าน",
+      "word_pronunciation": "wát thù / khát kháan",
+      "phrases": [
+        "คัดค้าน",
+        "วัตถุบิน",
+        "วัตถุประสงค์"
+      ],
+      "phrases_pronunciations": [
+        "khát kháan",
+        "wát thù bin",
+        "wát thù pra sǒŋ"
+      ]
+    },
+    "frequency": 100
+  },
+  {
+    "rank": 943,
+    "lemma": "maintain",
+    "source": {
+      "word": "maintain",
+      "phrases": [
+        "maintain order",
+        "high maintenance",
+        "maintain that"
+      ]
+    },
+    "target": {
+      "word": "รักษา",
+      "word_pronunciation": "rák sǎa",
+      "phrases": [
+        "รักษาความสงบ",
+        "การบำรุงรักษาสูง",
+        "ยืนยันว่า"
+      ],
+      "phrases_pronunciations": [
+        "rák sǎa khwaam sa ŋòp",
+        "kaan bam ruŋ rák sǎa sǔuŋ",
+        "yʉʉn yan wâa"
+      ]
+    },
+    "frequency": 100
+  },
+  {
+    "rank": 944,
+    "lemma": "credit",
+    "source": {
+      "word": "credit",
+      "phrases": [
+        "credit card",
+        "give credit",
+        "credit score"
+      ]
+    },
+    "target": {
+      "word": "วงเงิน/เครดิต",
+      "word_pronunciation": "woŋ ŋən / khree dìt",
+      "phrases": [
+        "บัตรเครดิต",
+        "ให้เครดิต",
+        "คะแนนเครดิต"
+      ],
+      "phrases_pronunciations": [
+        "bàt khree dìt",
+        "hâi khree dìt",
+        "khá nɛɛn khree dìt"
+      ]
+    },
+    "frequency": 100
+  },
+  {
+    "rank": 945,
+    "lemma": "ring",
+    "source": {
+      "word": "ring",
+      "phrases": [
+        "wedding ring",
+        "ring the bell",
+        "give me a ring"
+      ]
+    },
+    "target": {
+      "word": "แหวน/สั่น",
+      "word_pronunciation": "wɛ̌n / sàn",
+      "phrases": [
+        "แหวนแต่งงาน",
+        "สั่นกระดิ่ง",
+        "โทรหาฉันด้วย"
+      ],
+      "phrases_pronunciations": [
+        "wɛ̌n tɛ̀ŋ ŋaan",
+        "sàn krà dìŋ",
+        "thoo hǎa chǎn dûai"
+      ]
+    },
+    "frequency": 100
+  },
+  {
+    "rank": 946,
+    "lemma": "discover",
+    "source": {
+      "word": "discover",
+      "phrases": [
+        "discover new things",
+        "discovery",
+        "hard to discover"
+      ]
+    },
+    "target": {
+      "word": "ค้นพบ",
+      "word_pronunciation": "khón phóp",
+      "phrases": [
+        "ค้นพบสิ่งใหม่ๆ",
+        "การค้นพบ",
+        "ยากที่จะค้นพบ"
+      ],
+      "phrases_pronunciations": [
+        "khón phóp sìŋ mài mài",
+        "kaan khón phóp",
+        "yâak thîi cà khón phóp"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 947,
+    "lemma": "dead",
+    "source": {
+      "word": "dead",
+      "phrases": [
+        "dead end",
+        "drop dead",
+        "dead serious"
+      ]
+    },
+    "target": {
+      "word": "ตาย",
+      "word_pronunciation": "taai",
+      "phrases": [
+        "ทางตัน",
+        "ล้มพับไป",
+        "จริงจังมาก"
+      ],
+      "phrases_pronunciations": [
+        "thaaŋ tan",
+        "lóm pháp pai",
+        "ciŋ caŋ mâak"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 948,
+    "lemma": "afternoon",
+    "source": {
+      "word": "afternoon",
+      "phrases": [
+        "good afternoon",
+        "this afternoon",
+        "late afternoon"
+      ]
+    },
+    "target": {
+      "word": "ช่วงบ่าย",
+      "word_pronunciation": "chûaŋ bàai",
+      "phrases": [
+        "สวัสดีตอนบ่าย",
+        "บ่ายนี้",
+        "ช่วงบ่ายแก่ๆ"
+      ],
+      "phrases_pronunciations": [
+        "sa wàt dii tɔɔn bàai",
+        "bàai níi",
+        "chûaŋ bàai kɛ̀ɛ"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 949,
+    "lemma": "prefer",
+    "source": {
+      "word": "prefer",
+      "phrases": [
+        "prefer A to B",
+        "would prefer",
+        "preference"
+      ]
+    },
+    "target": {
+      "word": "ชอบมากกว่า",
+      "word_pronunciation": "chɔ̂ɔp mâak kwàa",
+      "phrases": [
+        "ชอบ A มากกว่า B",
+        "อยากจะ...มากกว่า",
+        "ความพึงพอใจ"
+      ],
+      "phrases_pronunciations": [
+        "chɔ̂ɔp A mâak kwàa B",
+        "yàak cà...mâak kwàa",
+        "khwaam phʉŋ phɔɔ cai"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 950,
+    "lemma": "extend",
+    "source": {
+      "word": "extend",
+      "phrases": [
+        "extend the deadline",
+        "extended family",
+        "extend a hand"
+      ]
+    },
+    "target": {
+      "word": "ขยาย",
+      "word_pronunciation": "khà yǎai",
+      "phrases": [
+        "ขยายเวลาส่งงาน",
+        "ครอบครัวขยาย",
+        "ยื่นมือเข้าช่วย"
+      ],
+      "phrases_pronunciations": [
+        "khà yǎai wee laa sòŋ ŋaan",
+        "khrɔ̂ɔp khrua khà yǎai",
+        "yʉ̂ʉn mʉʉ khâo chûai"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 951,
+    "lemma": "possibility",
+    "source": {
+      "word": "possibility",
+      "phrases": [
+        "possibility of",
+        "distinct possibility",
+        "explore possibilities"
+      ]
+    },
+    "target": {
+      "word": "ความเป็นไปได้",
+      "word_pronunciation": "khwaam pen pai dâi",
+      "phrases": [
+        "ความเป็นไปได้ของ",
+        "ความเป็นไปได้ที่ชัดเจน",
+        "สำรวจความเป็นไปได้"
+      ],
+      "phrases_pronunciations": [
+        "khwaam pen pai dâi khɔ̌ɔŋ",
+        "khwaam pen pai dâi thîi chát ceen",
+        "sǎm rùat khwaam pen pai dâi"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 952,
+    "lemma": "direction",
+    "source": {
+      "word": "direction",
+      "phrases": [
+        "wrong direction",
+        "give directions",
+        "sense of direction"
+      ]
+    },
+    "target": {
+      "word": "ทิศทาง",
+      "word_pronunciation": "thít thaaŋ",
+      "phrases": [
+        "ผิดทิศทาง",
+        "บอกทาง",
+        "ประสาทสัมผัสในการรับรู้ทิศทาง"
+      ],
+      "phrases_pronunciations": [
+        "phìt thít thaaŋ",
+        "bɔ̀ɔk thaaŋ",
+        "pra sàat sǎm phàt nai kaan ráp rúu thít thaaŋ"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 953,
+    "lemma": "facility",
+    "source": {
+      "word": "facility",
+      "phrases": [
+        "sports facility",
+        "facilities",
+        "medical facility"
+      ]
+    },
+    "target": {
+      "word": "สิ่งอำนวยความสะดวก",
+      "word_pronunciation": "sìŋ am nuai khwaam sa dùak",
+      "phrases": [
+        "สถานที่ออกกำลังกาย",
+        "สิ่งอำนวยความสะดวกต่างๆ",
+        "สถานพยาบาล"
+      ],
+      "phrases_pronunciations": [
+        "sa thǎan thîi ɔ̀ɔk kam laŋ kaai",
+        "sìŋ am nuai khwaam sa dùak tàaŋ tàaŋ",
+        "sa thǎan phayaa baan"
+      ]
+    },
+    "frequency": 99
+  },
+  {
+    "rank": 954,
+    "lemma": "variety",
+    "source": {
+      "word": "variety",
+      "phrases": [
+        "variety of",
+        "variety show",
+        "wide variety"
+      ]
+    },
+    "target": {
+      "word": "ความหลากหลาย",
+      "word_pronunciation": "khwaam làak lǎai",
+      "phrases": [
+        "ความหลากหลายของ",
+        "รายการวาไรตี้",
+        "ความหลากหลายที่กว้างขวาง"
+      ],
+      "phrases_pronunciations": [
+        "khwaam làak lǎai khɔ̌ɔŋ",
+        "raai kaan waa rai tîi",
+        "khwaam làak lǎai thîi kwâaŋ khwǎaŋ"
+      ]
+    },
+    "frequency": 98
+  },
+  {
+    "rank": 955,
+    "lemma": "daily",
+    "source": {
+      "word": "daily",
+      "phrases": [
+        "daily life",
+        "daily routine",
+        "daily news"
+      ]
+    },
+    "target": {
+      "word": "ประจำวัน",
+      "word_pronunciation": "pra cam wan",
+      "phrases": [
+        "ชีวิตประจำวัน",
+        "กิจวัตรประจำวัน",
+        "ข่าวประจำวัน"
+      ],
+      "phrases_pronunciations": [
+        "chii wít pra cam wan",
+        "kìt cà wát pra cam wan",
+        "khàao pra cam wan"
+      ]
+    },
+    "frequency": 98
+  },
+  {
+    "rank": 956,
+    "lemma": "clothes",
+    "source": {
+      "word": "clothes",
+      "phrases": [
+        "change clothes",
+        "wear clothes",
+        "clothes shop"
+      ]
+    },
+    "target": {
+      "word": "เสื้อผ้า",
+      "word_pronunciation": "sʉ̂a phâa",
+      "phrases": [
+        "เปลี่ยนเสื้อผ้า",
+        "สวมใส่เสื้อผ้า",
+        "ร้านขายเสื้อผ้า"
+      ],
+      "phrases_pronunciations": [
+        "plìan sʉ̂a phâa",
+        "sǔam sài sʉ̂a phâa",
+        "ráan khǎai sʉ̂a phâa"
+      ]
+    },
+    "frequency": 98
+  },
+  {
+    "rank": 957,
+    "lemma": "screen",
+    "source": {
+      "word": "screen",
+      "phrases": [
+        "touch screen",
+        "on screen",
+        "big screen"
+      ]
+    },
+    "target": {
+      "word": "หน้าจอ",
+      "word_pronunciation": "nâa cɔɔ",
+      "phrases": [
+        "หน้าจอสัมผัส",
+        "บนหน้าจอ",
+        "จอใหญ่"
+      ],
+      "phrases_pronunciations": [
+        "nâa cɔɔ sǎm phàt",
+        "bon nâa cɔɔ",
+        "cɔɔ yài"
+      ]
+    },
+    "frequency": 98
+  },
+  {
+    "rank": 958,
+    "lemma": "track",
+    "source": {
+      "word": "track",
+      "phrases": [
+        "keep track of",
+        "on the right track",
+        "track and field"
+      ]
+    },
+    "target": {
+      "word": "ลู่/ติดตาม",
+      "word_pronunciation": "lûu / tìt taam",
+      "phrases": [
+        "ติดตาม",
+        "มาถูกทางแล้ว",
+        "กรีฑา"
+      ],
+      "phrases_pronunciations": [
+        "tìt taam",
+        "maa thùuk thaaŋ lɛ́ɛw",
+        "kree thaa"
+      ]
+    },
+    "frequency": 98
+  },
+  {
+    "rank": 959,
+    "lemma": "dance",
+    "source": {
+      "word": "dance",
+      "phrases": [
+        "dance floor",
+        "dance with me",
+        "folk dance"
+      ]
+    },
+    "target": {
+      "word": "เต้นรำ",
+      "word_pronunciation": "tên ram",
+      "phrases": [
+        "ฟลอร์เต้นรำ",
+        "เต้นกับฉัน",
+        "การเต้นรำพื้นเมือง"
+      ],
+      "phrases_pronunciations": [
+        "flɔɔ tên ram",
+        "tên kàp chǎn",
+        "kaan tên ram phʉ́ʉn mʉaŋ"
+      ]
+    },
+    "frequency": 97
+  },
+  {
+    "rank": 960,
+    "lemma": "completely",
+    "source": {
+      "word": "completely",
+      "phrases": [
+        "completely different",
+        "completely agree",
+        "not completely"
+      ]
+    },
+    "target": {
+      "word": "อย่างสมบูรณ์",
+      "word_pronunciation": "yàaŋ sǒm buun",
+      "phrases": [
+        "แตกต่างกันอย่างสิ้นเชิง",
+        "เห็นด้วยอย่างยิ่ง",
+        "ไม่ทั้งหมด"
+      ],
+      "phrases_pronunciations": [
+        "tɛ̀ɛk tàaŋ kan yàaŋ sîn chəəŋ",
+        "hěn dûai yàaŋ yîŋ",
+        "mâi tháŋ mòt"
+      ]
+    },
+    "frequency": 97
+  },
+  {
+    "rank": 961,
+    "lemma": "female",
+    "source": {
+      "word": "female",
+      "phrases": [
+        "female worker",
+        "male and female",
+        "female voice"
+      ]
+    },
+    "target": {
+      "word": "เพศหญิง",
+      "word_pronunciation": "phêet yǐŋ",
+      "phrases": [
+        "พนักงานหญิง",
+        "ชายและหญิง",
+        "เสียงผู้หญิง"
+      ],
+      "phrases_pronunciations": [
+        "phá nák ŋaan yǐŋ",
+        "chaai lɛ́ yǐŋ",
+        "sǐaŋ phûu yǐŋ"
+      ]
+    },
+    "frequency": 97
+  },
+  {
+    "rank": 962,
+    "lemma": "responsibility",
+    "source": {
+      "word": "responsibility",
+      "phrases": [
+        "take responsibility",
+        "social responsibility",
+        "responsible for"
+      ]
+    },
+    "target": {
+      "word": "ความรับผิดชอบ",
+      "word_pronunciation": "khwaam ráp phìt chɔ̂ɔp",
+      "phrases": [
+        "แสดงความรับผิดชอบ",
+        "ความรับผิดชอบต่อสังคม",
+        "รับผิดชอบต่อ"
+      ],
+      "phrases_pronunciations": [
+        "sa dɛɛŋ khwaam ráp phìt chɔ̂ɔp",
+        "khwaam ráp phìt chɔ̂ɔp tɔ̀ɔ sǎŋ khom",
+        "ráp phìt chɔ̂ɔp tɔ̀ɔ"
+      ]
+    },
+    "frequency": 97
+  },
+  {
+    "rank": 963,
+    "lemma": "original",
+    "source": {
+      "word": "original",
+      "phrases": [
+        "original idea",
+        "original plan",
+        "the original"
+      ]
+    },
+    "target": {
+      "word": "ดั้งเดิม",
+      "word_pronunciation": "dâŋ dəəm",
+      "phrases": [
+        "ความคิดสร้างสรรค์",
+        "แผนเดิม",
+        "ต้นฉบับ"
+      ],
+      "phrases_pronunciations": [
+        "khwaam khít sâaŋ sǎn",
+        "phɛ̌n dəəm",
+        "tôn cha bàp"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 964,
+    "lemma": "sister",
+    "source": {
+      "word": "sister",
+      "phrases": [
+        "big sister",
+        "sister city",
+        "sister in law"
+      ]
+    },
+    "target": {
+      "word": "พี่สาว/น้องสาว",
+      "word_pronunciation": "phîi sǎao / nɔ́ɔŋ sǎao",
+      "phrases": [
+        "พี่สาว",
+        "เมืองพี่เมืองน้อง",
+        "พี่สะใภ้/น้องสะใภ้"
+      ],
+      "phrases_pronunciations": [
+        "phîi sǎao",
+        "mʉaŋ phîi mʉaŋ nɔ́ɔŋ",
+        "phîi sa phái / nɔ́ɔŋ sa phái"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 965,
+    "lemma": "rock",
+    "source": {
+      "word": "rock",
+      "phrases": [
+        "rock and roll",
+        "solid as a rock",
+        "on the rocks"
+      ]
+    },
+    "target": {
+      "word": "หิน/ร็อค",
+      "word_pronunciation": "hǐn / rɔ́k",
+      "phrases": [
+        "ร็อคแอนด์โรล",
+        "แข็งแกร่งดั่งหินผา",
+        "ใส่น้ำแข็ง"
+      ],
+      "phrases_pronunciations": [
+        "rɔ́k ɛɛn roon",
+        "khɛ̌ŋ krɛ̀ŋ dàŋ hǐn phǎa",
+        "sài nám khɛ̌ŋ"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 966,
+    "lemma": "dream",
+    "source": {
+      "word": "dream",
+      "phrases": [
+        "sweet dreams",
+        "dream come true",
+        "dream job"
+      ]
+    },
+    "target": {
+      "word": "ความฝัน",
+      "word_pronunciation": "khwaam fǎn",
+      "phrases": [
+        "ฝันดี",
+        "ฝันที่เป็นจริง",
+        "งานในฝัน"
+      ],
+      "phrases_pronunciations": [
+        "fǎn dii",
+        "fǎn thîi pen ciŋ",
+        "ŋaan nai fǎn"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 967,
+    "lemma": "nor",
+    "source": {
+      "word": "nor",
+      "phrases": [
+        "neither... nor",
+        "nor do I",
+        "neither here nor there"
+      ]
+    },
+    "target": {
+      "word": "และไม่",
+      "word_pronunciation": "lɛ́ mâi",
+      "phrases": [
+        "ไม่ทั้ง...และไม่",
+        "ฉันก็ไม่เหมือนกัน",
+        "ไม่สำคัญ/ไม่เกี่ยวข้อง"
+      ],
+      "phrases_pronunciations": [
+        "mâi tháŋ...lɛ́ mâi",
+        "chǎn kɔ̂ɔ mâi mʉ̌an kan",
+        "mâi sǎm khan / mâi kìaw khɔ̂ɔŋ"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 968,
+    "lemma": "university",
+    "source": {
+      "word": "university",
+      "phrases": [
+        "university student",
+        "national university",
+        "go to university"
+      ]
+    },
+    "target": {
+      "word": "มหาวิทยาลัย",
+      "word_pronunciation": "má hǎa wít thá yaa lai",
+      "phrases": [
+        "นักศึกษามหาวิทยาลัย",
+        "มหาวิทยาลัยแห่งชาติ",
+        "เข้ามหาวิทยาลัย"
+      ],
+      "phrases_pronunciations": [
+        "nák sʉ̀k sǎa má hǎa wít thá yaa lai",
+        "má hǎa wít thá yaa lai hɛ̀ŋ châat",
+        "khâo má hǎa wít thá yaa lai"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 969,
+    "lemma": "easily",
+    "source": {
+      "word": "easily",
+      "phrases": [
+        "easily accessible",
+        "win easily",
+        "easily confused"
+      ]
+    },
+    "target": {
+      "word": "อย่างง่ายดาย",
+      "word_pronunciation": "yàaŋ ŋâai daai",
+      "phrases": [
+        "เข้าถึงได้ง่าย",
+        "ชนะอย่างง่ายดาย",
+        "สับสนได้ง่าย"
+      ],
+      "phrases_pronunciations": [
+        "khâo thʉ̌ŋ dâi ŋâai",
+        "chá ná yàaŋ ŋâai daai",
+        "sàp sǒn dâi ŋâai"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 970,
+    "lemma": "agency",
+    "source": {
+      "word": "agency",
+      "phrases": [
+        "travel agency",
+        "news agency",
+        "advertising agency"
+      ]
+    },
+    "target": {
+      "word": "ตัวแทน/หน่วยงาน",
+      "word_pronunciation": "tua thɛɛn / nùai ŋaan",
+      "phrases": [
+        "บริษัทท่องเที่ยว",
+        "สำนักข่าว",
+        "บริษัทโฆษณา"
+      ],
+      "phrases_pronunciations": [
+        "bɔɔ ri sàt thɔ̂ŋ thîaw",
+        "sǎm nák khàao",
+        "bɔɔ ri sàt khôot sa naa"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 971,
+    "lemma": "dollar",
+    "source": {
+      "word": "dollar",
+      "phrases": [
+        "US dollar",
+        "million dollar",
+        "dollar bill"
+      ]
+    },
+    "target": {
+      "word": "ดอลลาร์",
+      "word_pronunciation": "dɔɔn lâa",
+      "phrases": [
+        "ดอลลาร์สหรัฐ",
+        "ล้านดอลลาร์",
+        "ธนบัตรดอลลาร์"
+      ],
+      "phrases_pronunciations": [
+        "dɔɔn lâa sa hà rát",
+        "láan dɔɔn lâa",
+        "tha ná bàt dɔɔn lâa"
+      ]
+    },
+    "frequency": 96
+  },
+  {
+    "rank": 972,
+    "lemma": "garden",
+    "source": {
+      "word": "garden",
+      "phrases": [
+        "botanical garden",
+        "beer garden",
+        "garden party"
+      ]
+    },
+    "target": {
+      "word": "สวน",
+      "word_pronunciation": "sǔan",
+      "phrases": [
+        "สวนพฤกษศาสตร์",
+        "สวนเบียร์",
+        "ปาร์ตี้ในสวน"
+      ],
+      "phrases_pronunciations": [
+        "sǔan phrʉ́k sa sàat",
+        "sǔan bia",
+        "paa tîi nai sǔan"
+      ]
+    },
+    "frequency": 95
+  },
+  {
+    "rank": 973,
+    "lemma": "fix",
+    "source": {
+      "word": "fix",
+      "phrases": [
+        "fix the problem",
+        "quick fix",
+        "fix dinner"
+      ]
+    },
+    "target": {
+      "word": "ซ่อมแซม",
+      "word_pronunciation": "sɔ̂ɔm sɛɛm",
+      "phrases": [
+        "แก้ไขปัญหา",
+        "วิธีแก้ปัญหาแบบเร่งด่วน",
+        "ทำมื้อค่ำ"
+      ],
+      "phrases_pronunciations": [
+        "kɛ̂ɛ khǎi pan hǎa",
+        "wí thii kɛ̂ɛ pan hǎa bɛ̀ɛp rêŋ dùan",
+        "tham mʉ́ʉ khâm"
+      ]
+    },
+    "frequency": 95
+  },
+  {
+    "rank": 974,
+    "lemma": "ahead",
+    "source": {
+      "word": "ahead",
+      "phrases": [
+        "go ahead",
+        "ahead of time",
+        "look ahead"
+      ]
+    },
+    "target": {
+      "word": "ข้างหน้า",
+      "word_pronunciation": "khâaŋ nâa",
+      "phrases": [
+        "เชิญเลย",
+        "ล่วงหน้า",
+        "มองไปข้างหน้า"
+      ],
+      "phrases_pronunciations": [
+        "chəən ləəi",
+        "lûaŋ nâa",
+        "mɔɔŋ pai khâaŋ nâa"
+      ]
+    },
+    "frequency": 95
+  },
+  {
+    "rank": 975,
+    "lemma": "cross",
+    "source": {
+      "word": "cross",
+      "phrases": [
+        "cross the street",
+        "fingers crossed",
+        "cross section"
+      ]
+    },
+    "target": {
+      "word": "ข้าม",
+      "word_pronunciation": "khâam",
+      "phrases": [
+        "ข้ามถนน",
+        "ภาวนาขอให้โชคดี",
+        "ภาพตัดขวาง"
+      ],
+      "phrases_pronunciations": [
+        "khâam thà nǒn",
+        "phaa wá naa khɔ̌ɔ hâi chôok dii",
+        "phâap tàt khwǎaŋ"
+      ]
+    },
+    "frequency": 95
+  },
+  {
+    "rank": 976,
+    "lemma": "yeah",
+    "source": {
+      "word": "yeah",
+      "phrases": [
+        "oh yeah",
+        "yeah right",
+        "hell yeah"
+      ]
+    },
+    "target": {
+      "word": "ใช่",
+      "word_pronunciation": "châi",
+      "phrases": [
+        "โอ้ ใช่",
+        "ใช่เหรอ",
+        "แน่นอนอยู่แล้ว"
+      ],
+      "phrases_pronunciations": [
+        "ôo châi",
+        "châi rə̌ə",
+        "nɛ̂ɛ nɔɔn yùu lɛ́ɛw"
+      ]
+    },
+    "frequency": 95
+  },
+  {
+    "rank": 977,
+    "lemma": "candidate",
+    "source": {
+      "word": "candidate",
+      "phrases": [
+        "presidential candidate",
+        "good candidate",
+        "candidate for"
+      ]
+    },
+    "target": {
+      "word": "ผู้สมัคร",
+      "word_pronunciation": "phûu sa màk",
+      "phrases": [
+        "ผู้สมัครรับเลือกตั้งประธานาธิบดี",
+        "ผู้สมัครที่เหมาะสม",
+        "ผู้สมัครสำหรับ"
+      ],
+      "phrases_pronunciations": [
+        "phûu sa màk ráp lʉ̂ak tâŋ pra thaa naa thí bɔɔ dii",
+        "phûu sa màk thîi mò sǒm",
+        "phûu sa màk sǎm ràp"
+      ]
+    },
+    "frequency": 94
+  },
+  {
+    "rank": 978,
+    "lemma": "weight",
+    "source": {
+      "word": "weight",
+      "phrases": [
+        "lose weight",
+        "gain weight",
+        "weight lifting"
+      ]
+    },
+    "target": {
+      "word": "น้ำหนัก",
+      "word_pronunciation": "nám nàk",
+      "phrases": [
+        "ลดน้ำหนัก",
+        "น้ำหนักขึ้น",
+        "ยกน้ำหนัก"
+      ],
+      "phrases_pronunciations": [
+        "lót nám nàk",
+        "nám nàk khʉ̂n",
+        "yók nám nàk"
+      ]
+    },
+    "frequency": 94
+  },
+  {
+    "rank": 979,
+    "lemma": "legal",
+    "source": {
+      "word": "legal",
+      "phrases": [
+        "legal system",
+        "legal action",
+        "legal age"
+      ]
+    },
+    "target": {
+      "word": "กฎหมาย",
+      "word_pronunciation": "kòt mǎai",
+      "phrases": [
+        "ระบบกฎหมาย",
+        "การดำเนินการทางกฎหมาย",
+        "อายุที่กฎหมายกำหนด"
+      ],
+      "phrases_pronunciations": [
+        "rá bòp kòt mǎai",
+        "kaan dam nəən kaan thaaŋ kòt mǎai",
+        "aa yú thîi kòt mǎai kam nòt"
+      ]
+    },
+    "frequency": 94
+  },
+  {
+    "rank": 980,
+    "lemma": "proposal",
+    "source": {
+      "word": "proposal",
+      "phrases": [
+        "marriage proposal",
+        "business proposal",
+        "make a proposal"
+      ]
+    },
+    "target": {
+      "word": "ข้อเสนอ",
+      "word_pronunciation": "khɔ̂ɔ sa nə̌ə",
+      "phrases": [
+        "การขอแต่งงาน",
+        "ข้อเสนอทางธุรกิจ",
+        "ยื่นข้อเสนอ"
+      ],
+      "phrases_pronunciations": [
+        "kaan khɔ̌ɔ tɛ̀ŋ ŋaan",
+        "khɔ̂ɔ sa nə̌ə thaaŋ thú rá kìt",
+        "yʉ̂ʉn khɔ̂ɔ sa nə̌ə"
+      ]
+    },
+    "frequency": 94
+  },
+  {
+    "rank": 981,
+    "lemma": "version",
+    "source": {
+      "word": "version",
+      "phrases": [
+        "latest version",
+        "beta version",
+        "version of"
+      ]
+    },
+    "target": {
+      "word": "เวอร์ชัน",
+      "word_pronunciation": "wəə chân",
+      "phrases": [
+        "เวอร์ชันล่าสุด",
+        "เวอร์ชันเบต้า",
+        "เวอร์ชันของ"
+      ],
+      "phrases_pronunciations": [
+        "wəə chân lâa sùt",
+        "wəə chân bee tâa",
+        "wəə chân khɔ̌ɔŋ"
+      ]
+    },
+    "frequency": 94
+  },
+  {
+    "rank": 982,
+    "lemma": "conversation",
+    "source": {
+      "word": "conversation",
+      "phrases": [
+        "have a conversation",
+        "English conversation",
+        "conversation starter"
+      ]
+    },
+    "target": {
+      "word": "การสนทนา",
+      "word_pronunciation": "kaan sǒn thá naa",
+      "phrases": [
+        "พูดคุยสนทนา",
+        "การสนทนาภาษาอังกฤษ",
+        "หัวข้อเริ่มบทสนทนา"
+      ],
+      "phrases_pronunciations": [
+        "phûut khui sǒn thá naa",
+        "kaan sǒn thá naa phaa sǎa aŋ krìt",
+        "hǔa khɔ̂ɔ rə̂əm bòt sǒn thá naa"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 983,
+    "lemma": "somebody",
+    "source": {
+      "word": "somebody",
+      "phrases": [
+        "somebody else",
+        "somebody to love",
+        "somebody help"
+      ]
+    },
+    "target": {
+      "word": "ใครบางคน",
+      "word_pronunciation": "khrai baaŋ khon",
+      "phrases": [
+        "คนอื่น",
+        "ใครสักคนที่รัก",
+        "ใครก็ได้ช่วยด้วย"
+      ],
+      "phrases_pronunciations": [
+        "khon ʉ̀ʉn",
+        "khrai sàk khon thîi rák",
+        "khrai kɔ̂ɔ dâi chûai dûai"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 984,
+    "lemma": "pound",
+    "source": {
+      "word": "pound",
+      "phrases": [
+        "pound sterling",
+        "shed pounds",
+        "pound cake"
+      ]
+    },
+    "target": {
+      "word": "ปอนด์",
+      "word_pronunciation": "pɔɔn",
+      "phrases": [
+        "ปอนด์สเตอลิงก์",
+        "ลดน้ำหนักเป็นปอนด์",
+        "พาวนด์เค้ก"
+      ],
+      "phrases_pronunciations": [
+        "pɔɔn sa təə liŋ",
+        "lót nám nàk pen pɔɔn",
+        "phaao khêek"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 985,
+    "lemma": "magazine",
+    "source": {
+      "word": "magazine",
+      "phrases": [
+        "fashion magazine",
+        "magazine cover",
+        "weekly magazine"
+      ]
+    },
+    "target": {
+      "word": "นิตยสาร",
+      "word_pronunciation": "nít tá yá sǎan",
+      "phrases": [
+        "นิตยสารแฟชั่น",
+        "หน้าปกนิตยสาร",
+        "นิตยสารรายสัปดาห์"
+      ],
+      "phrases_pronunciations": [
+        "nít tá yá sǎan fɛɛ chân",
+        "nâa pòk nít tá yá sǎan",
+        "nít tá yá sǎan raai sàp daa"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 986,
+    "lemma": "shape",
+    "source": {
+      "word": "shape",
+      "phrases": [
+        "in good shape",
+        "out of shape",
+        "shape up"
+      ]
+    },
+    "target": {
+      "word": "รูปร่าง",
+      "word_pronunciation": "rûup râaŋ",
+      "phrases": [
+        "สุขภาพดี",
+        "หุ่นไม่ดี",
+        "ปรับปรุงตัว"
+      ],
+      "phrases_pronunciations": [
+        "sùk khà phâap dii",
+        "hùn mâi dii",
+        "pràp pruŋ tua"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 987,
+    "lemma": "sea",
+    "source": {
+      "word": "sea",
+      "phrases": [
+        "at sea",
+        "sea level",
+        "deep blue sea"
+      ]
+    },
+    "target": {
+      "word": "ทะเล",
+      "word_pronunciation": "thá lee",
+      "phrases": [
+        "ในทะเล",
+        "ระดับน้ำทะเล",
+        "ทะเลลึกสีคราม"
+      ],
+      "phrases_pronunciations": [
+        "nai thá lee",
+        "rá dàp nám thá lee",
+        "thá lee lʉ́k sǐi khraam"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 988,
+    "lemma": "immediately",
+    "source": {
+      "word": "immediately",
+      "phrases": [
+        "immediately after",
+        "call immediately",
+        "available immediately"
+      ]
+    },
+    "target": {
+      "word": "ทันที",
+      "word_pronunciation": "than thii",
+      "phrases": [
+        "ทันทีหลังจาก",
+        "โทรทันที",
+        "พร้อมใช้งานทันที"
+      ],
+      "phrases_pronunciations": [
+        "than thii lǎŋ càak",
+        "thoo than thii",
+        "phrɔ́ɔm chái ŋaan than thii"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 989,
+    "lemma": "welcome",
+    "source": {
+      "word": "welcome",
+      "phrases": [
+        "you're welcome",
+        "welcome to",
+        "welcome back"
+      ]
+    },
+    "target": {
+      "word": "ยินดี",
+      "word_pronunciation": "yin dii",
+      "phrases": [
+        "ยินดีด้วยความเต็มใจ",
+        "ยินดีต้อนรับสู่",
+        "ยินดีต้อนรับกลับมา"
+      ],
+      "phrases_pronunciations": [
+        "yin dii dûai khwaam tem cai",
+        "yin dii tɔ̂ɔn ráp sùu",
+        "yin dii tɔ̂ɔn ráp klàp maa"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 990,
+    "lemma": "smile",
+    "source": {
+      "word": "smile",
+      "phrases": [
+        "big smile",
+        "smile at",
+        "keep smiling"
+      ]
+    },
+    "target": {
+      "word": "ยิ้ม",
+      "word_pronunciation": "yím",
+      "phrases": [
+        "ยิ้มกว้าง",
+        "ยิ้มให้",
+        "ยิ้มเข้าไว้"
+      ],
+      "phrases_pronunciations": [
+        "yím kwâaŋ",
+        "yím hâi",
+        "yím khâo wái"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 991,
+    "lemma": "communication",
+    "source": {
+      "word": "communication",
+      "phrases": [
+        "communication skills",
+        "mass communication",
+        "communication breakdown"
+      ]
+    },
+    "target": {
+      "word": "การสื่อสาร",
+      "word_pronunciation": "kaan sʉ̀ʉ sǎan",
+      "phrases": [
+        "ทักษะการสื่อสาร",
+        "การสื่อสารมวลชน",
+        "การสื่อสารล้มเหลว"
+      ],
+      "phrases_pronunciations": [
+        "thák sà kaan sʉ̀ʉ sǎan",
+        "kaan sʉ̀ʉ sǎan muan chon",
+        "kaan sʉ̀ʉ sǎan lóm lěew"
+      ]
+    },
+    "frequency": 93
+  },
+  {
+    "rank": 992,
+    "lemma": "agent",
+    "source": {
+      "word": "agent",
+      "phrases": [
+        "secret agent",
+        "travel agent",
+        "real estate agent"
+      ]
+    },
+    "target": {
+      "word": "ตัวแทน",
+      "word_pronunciation": "tua thɛɛn",
+      "phrases": [
+        "สายลับ",
+        "ตัวแทนท่องเที่ยว",
+        "ตัวแทนอสังหาริมทรัพย์"
+      ],
+      "phrases_pronunciations": [
+        "sǎai láp",
+        "tua thɛɛn thɔ̂ŋ thîaw",
+        "tua thɛɛn à sǎŋ hǎa rim má sáp"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 993,
+    "lemma": "traditional",
+    "source": {
+      "word": "traditional",
+      "phrases": [
+        "traditional culture",
+        "traditional food",
+        "traditional values"
+      ]
+    },
+    "target": {
+      "word": "ดั้งเดิม",
+      "word_pronunciation": "dâŋ dəəm",
+      "phrases": [
+        "วัฒนธรรมประเพณี",
+        "อาหารพื้นเมือง",
+        "ค่านิยมดั้งเดิม"
+      ],
+      "phrases_pronunciations": [
+        "wát thá ná tham pra phee nii",
+        "aa hǎan phʉ́ʉn mʉaŋ",
+        "khâa ní yom dâŋ dəəm"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 994,
+    "lemma": "replace",
+    "source": {
+      "word": "replace",
+      "phrases": [
+        "replace with",
+        "hard to replace",
+        "replace a battery"
+      ]
+    },
+    "target": {
+      "word": "แทนที่",
+      "word_pronunciation": "thɛɛn thîi",
+      "phrases": [
+        "แทนที่ด้วย",
+        "ยากที่จะแทนที่",
+        "เปลี่ยนแบตเตอรี่"
+      ],
+      "phrases_pronunciations": [
+        "thɛɛn thîi dûai",
+        "yâak thîi cà thɛɛn thîi",
+        "plìan bɛ̀t təə rîi"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 995,
+    "lemma": "judge",
+    "source": {
+      "word": "judge",
+      "phrases": [
+        "don't judge",
+        "judge by",
+        "court judge"
+      ]
+    },
+    "target": {
+      "word": "ตัดสิน",
+      "word_pronunciation": "tàt sǐn",
+      "phrases": [
+        "อย่าตัดสิน",
+        "ตัดสินจาก",
+        "ผู้พิพากษา"
+      ],
+      "phrases_pronunciations": [
+        "yàa tàt sǐn",
+        "tàt sǐn càak",
+        "phûu phí phâak sǎa"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 996,
+    "lemma": "herself",
+    "source": {
+      "word": "herself",
+      "phrases": [
+        "by herself",
+        "to herself",
+        "be herself"
+      ]
+    },
+    "target": {
+      "word": "ตัวเธอเอง",
+      "word_pronunciation": "tua thəə eeŋ",
+      "phrases": [
+        "โดยลำพัง",
+        "กับตัวเอง",
+        "เป็นตัวของตัวเอง"
+      ],
+      "phrases_pronunciations": [
+        "dooi lam phaŋ",
+        "kàp tua eeŋ",
+        "pen tua khɔ̌ɔŋ tua eeŋ"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 997,
+    "lemma": "suddenly",
+    "source": {
+      "word": "suddenly",
+      "phrases": [
+        "all of a sudden",
+        "suddenly appear",
+        "stop suddenly"
+      ]
+    },
+    "target": {
+      "word": "ทันทีทันใด",
+      "word_pronunciation": "than thii than dai",
+      "phrases": [
+        "จู่ๆ ก็",
+        "ปรากฏตัวขึ้นทันที",
+        "หยุดกะทันหัน"
+      ],
+      "phrases_pronunciations": [
+        "cùu cùu kɔ̂ɔ",
+        "praa kòt tua khʉ̂n than thii",
+        "yùt krà than hǎn"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 998,
+    "lemma": "generation",
+    "source": {
+      "word": "generation",
+      "phrases": [
+        "next generation",
+        "generation gap",
+        "younger generation"
+      ]
+    },
+    "target": {
+      "word": "รุ่น",
+      "word_pronunciation": "rûn",
+      "phrases": [
+        "คนรุ่นต่อไป",
+        "ช่องว่างระหว่างวัย",
+        "คนรุ่นใหม่"
+      ],
+      "phrases_pronunciations": [
+        "khon rûn tɔ̀ɔ pai",
+        "chɔ̂ŋ wâaŋ rá wàaŋ wai",
+        "khon rûn mài"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 999,
+    "lemma": "estimate",
+    "source": {
+      "word": "estimate",
+      "phrases": [
+        "rough estimate",
+        "estimated time",
+        "cost estimate"
+      ]
+    },
+    "target": {
+      "word": "ประมาณการ",
+      "word_pronunciation": "prà maan kaan",
+      "phrases": [
+        "การประมาณการคร่าวๆ",
+        "เวลาโดยประมาณ",
+        "การประเมินราคา"
+      ],
+      "phrases_pronunciations": [
+        "kaan prà maan kaan khrâo khrâo",
+        "wee laa dooi prà maan",
+        "kaan prà məən raa khaa"
+      ]
+    },
+    "frequency": 92
+  },
+  {
+    "rank": 1000,
+    "lemma": "favorite",
+    "source": {
+      "word": "favorite",
+      "phrases": [
+        "my favorite",
+        "add to favorites",
+        "favorite food"
+      ]
+    },
+    "target": {
+      "word": "ชื่นชอบ",
+      "word_pronunciation": "chʉ̂ʉn chɔ̂ɔp",
+      "phrases": [
+        "ของโปรดของฉัน",
+        "เพิ่มในรายการโปรด",
+        "อาหารจานโปรด"
+      ],
+      "phrases_pronunciations": [
+        "khɔ̌ɔŋ pròot khɔ̌ɔŋ chǎn",
+        "phə̂əm nai raai kaan pròot",
+        "aa hǎan caan pròot"
+      ]
+    },
+    "frequency": 92
+  }
+]

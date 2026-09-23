@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 201,
+    "lemma": "money",
+    "source": {
+      "word": "money",
+      "phrases": [
+        "make money",
+        "save money",
+        "waste of money"
+      ]
+    },
+    "target": {
+      "word": "مال",
+      "phrases": [
+        "كسب المال",
+        "ادخار المال",
+        "هدر للمال"
+      ]
+    },
+    "frequency": 492
+  },
+  {
+    "rank": 202,
+    "lemma": "fact",
+    "source": {
+      "word": "fact",
+      "phrases": [
+        "in fact",
+        "matter of fact",
+        "check the facts"
+      ]
+    },
+    "target": {
+      "word": "حقيقة",
+      "phrases": [
+        "في الحقيقة",
+        "مسألة حقيقة",
+        "تحقق من الحقائق"
+      ]
+    },
+    "frequency": 486
+  },
+  {
+    "rank": 203,
+    "lemma": "however",
+    "source": {
+      "word": "however",
+      "phrases": [
+        "however small",
+        "however hard",
+        "but however"
+      ]
+    },
+    "target": {
+      "word": "ومع ذلك",
+      "phrases": [
+        "مهما كان صغيراً",
+        "مهما كان صعباً",
+        "ولكن مهما يكن"
+      ]
+    },
+    "frequency": 479
+  },
+  {
+    "rank": 204,
+    "lemma": "area",
+    "source": {
+      "word": "area",
+      "phrases": [
+        "smoking area",
+        "area code",
+        "rural area"
+      ]
+    },
+    "target": {
+      "word": "منطقة",
+      "phrases": [
+        "منطقة تدخين",
+        "رمز المنطقة",
+        "منطقة ريفية"
+      ]
+    },
+    "frequency": 477
+  },
+  {
+    "rank": 205,
+    "lemma": "provide",
+    "source": {
+      "word": "provide",
+      "phrases": [
+        "provide for",
+        "provide with",
+        "service provider"
+      ]
+    },
+    "target": {
+      "word": "يوفر",
+      "phrases": [
+        "يعيل",
+        "يزود بـ",
+        "مزود الخدمة"
+      ]
+    },
+    "frequency": 476
+  },
+  {
+    "rank": 206,
+    "lemma": "name",
+    "source": {
+      "word": "name",
+      "phrases": [
+        "my name is",
+        "brand name",
+        "in the name of"
+      ]
+    },
+    "target": {
+      "word": "اسم",
+      "phrases": [
+        "اسمي هو",
+        "اسم العلامة التجارية",
+        "باسم"
+      ]
+    },
+    "frequency": 472
+  },
+  {
+    "rank": 207,
+    "lemma": "read",
+    "source": {
+      "word": "read",
+      "phrases": [
+        "read a book",
+        "read between lines",
+        "read aloud"
+      ]
+    },
+    "target": {
+      "word": "يقرأ",
+      "phrases": [
+        "يقرأ كتاباً",
+        "يقرأ ما بين السطور",
+        "يقرأ بصوت عالٍ"
+      ]
+    },
+    "frequency": 471
+  },
+  {
+    "rank": 208,
+    "lemma": "friend",
+    "source": {
+      "word": "friend",
+      "phrases": [
+        "best friend",
+        "make friends",
+        "friend request"
+      ]
+    },
+    "target": {
+      "word": "صديق",
+      "phrases": [
+        "أعز صديق",
+        "تكوين صداقات",
+        "طلب صداقة"
+      ]
+    },
+    "frequency": 468
+  },
+  {
+    "rank": 209,
+    "lemma": "month",
+    "source": {
+      "word": "month",
+      "phrases": [
+        "next month",
+        "once a month",
+        "per month"
+      ]
+    },
+    "target": {
+      "word": "شهر",
+      "phrases": [
+        "الشهر القادم",
+        "مرة في الشهر",
+        "لكل شهر"
+      ]
+    },
+    "frequency": 468
+  },
+  {
+    "rank": 210,
+    "lemma": "large",
+    "source": {
+      "word": "large",
+      "phrases": [
+        "large scale",
+        "at large",
+        "large number"
+      ]
+    },
+    "target": {
+      "word": "كبير",
+      "phrases": [
+        "نطاق واسع",
+        "طليق",
+        "عدد كبير"
+      ]
+    },
+    "frequency": 464
+  },
+  {
+    "rank": 211,
+    "lemma": "business",
+    "source": {
+      "word": "business",
+      "phrases": [
+        "business card",
+        "none of your business",
+        "do business"
+      ]
+    },
+    "target": {
+      "word": "عمل",
+      "phrases": [
+        "بطاقة عمل",
+        "ليس من شأنك",
+        "القيام بأعمال تجارية"
+      ]
+    },
+    "frequency": 464
+  },
+  {
+    "rank": 212,
+    "lemma": "without",
+    "source": {
+      "word": "without",
+      "phrases": [
+        "without you",
+        "go without",
+        "without a doubt"
+      ]
+    },
+    "target": {
+      "word": "بدون",
+      "phrases": [
+        "بدونك",
+        "يستغني عن",
+        "بدون شك"
+      ]
+    },
+    "frequency": 461
+  },
+  {
+    "rank": 213,
+    "lemma": "information",
+    "source": {
+      "word": "information",
+      "phrases": [
+        "information desk",
+        "pieces of information",
+        "contact information"
+      ]
+    },
+    "target": {
+      "word": "معلومات",
+      "phrases": [
+        "مكتب معلومات",
+        "قطع من المعلومات",
+        "معلومات الاتصال"
+      ]
+    },
+    "frequency": 459
+  },
+  {
+    "rank": 214,
+    "lemma": "open",
+    "source": {
+      "word": "open",
+      "phrases": [
+        "open the door",
+        "open minded",
+        "in the open"
+      ]
+    },
+    "target": {
+      "word": "مفتوح",
+      "phrases": [
+        "افتح الباب",
+        "منفتح الذهن",
+        "في العلن"
+      ]
+    },
+    "frequency": 459
+  },
+  {
+    "rank": 215,
+    "lemma": "order",
+    "source": {
+      "word": "order",
+      "phrases": [
+        "out of order",
+        "in order to",
+        "take an order"
+      ]
+    },
+    "target": {
+      "word": "طلب / ترتيب",
+      "phrases": [
+        "عطلان",
+        "من أجل",
+        "يأخذ طلباً"
+      ]
+    },
+    "frequency": 456
+  },
+  {
+    "rank": 216,
+    "lemma": "government",
+    "source": {
+      "word": "government",
+      "phrases": [
+        "federal government",
+        "local government",
+        "government official"
+      ]
+    },
+    "target": {
+      "word": "حكومة",
+      "phrases": [
+        "حكومة فيدرالية",
+        "حكومة محلية",
+        "مسؤول حكومي"
+      ]
+    },
+    "frequency": 455
+  },
+  {
+    "rank": 217,
+    "lemma": "word",
+    "source": {
+      "word": "word",
+      "phrases": [
+        "in other words",
+        "word of mouth",
+        "keep your word"
+      ]
+    },
+    "target": {
+      "word": "كلمة",
+      "phrases": [
+        "بكلمات أخرى",
+        "كلمة شفهية",
+        "أوفِ بوعدك"
+      ]
+    },
+    "frequency": 455
+  },
+  {
+    "rank": 218,
+    "lemma": "issue",
+    "source": {
+      "word": "issue",
+      "phrases": [
+        "big issue",
+        "issue a passport",
+        "at issue"
+      ]
+    },
+    "target": {
+      "word": "قضية",
+      "phrases": [
+        "قضية كبيرة",
+        "إصدار جواز سفر",
+        "قيد البحث"
+      ]
+    },
+    "frequency": 453
+  },
+  {
+    "rank": 219,
+    "lemma": "market",
+    "source": {
+      "word": "market",
+      "phrases": [
+        "stock market",
+        "flea market",
+        "on the market"
+      ]
+    },
+    "target": {
+      "word": "سوق",
+      "phrases": [
+        "سوق الأوراق المالية",
+        "سوق المستعمل",
+        "في السوق"
+      ]
+    },
+    "frequency": 450
+  },
+  {
+    "rank": 220,
+    "lemma": "pay",
+    "source": {
+      "word": "pay",
+      "phrases": [
+        "pay attention",
+        "pay for",
+        "pay off"
+      ]
+    },
+    "target": {
+      "word": "يدفع",
+      "phrases": [
+        "يعير انتباهاً",
+        "يدفع ثمن",
+        "يسدد"
+      ]
+    },
+    "frequency": 447
+  },
+  {
+    "rank": 221,
+    "lemma": "build",
+    "source": {
+      "word": "build",
+      "phrases": [
+        "build up",
+        "body build",
+        "build a house"
+      ]
+    },
+    "target": {
+      "word": "يبني",
+      "phrases": [
+        "يعزز",
+        "كمال الأجسام",
+        "يبني منزلاً"
+      ]
+    },
+    "frequency": 446
+  },
+  {
+    "rank": 222,
+    "lemma": "hold",
+    "source": {
+      "word": "hold",
+      "phrases": [
+        "hold on",
+        "hold a meeting",
+        "get hold of"
+      ]
+    },
+    "target": {
+      "word": "يمسك",
+      "phrases": [
+        "انتظر",
+        "يعقد اجتماعاً",
+        "يمسك بـ"
+      ]
+    },
+    "frequency": 442
+  },
+  {
+    "rank": 223,
+    "lemma": "service",
+    "source": {
+      "word": "service",
+      "phrases": [
+        "customer service",
+        "room service",
+        "out of service"
+      ]
+    },
+    "target": {
+      "word": "خدمة",
+      "phrases": [
+        "خدمة العملاء",
+        "خدمة الغرف",
+        "خارج الخدمة"
+      ]
+    },
+    "frequency": 440
+  },
+  {
+    "rank": 224,
+    "lemma": "against",
+    "source": {
+      "word": "against",
+      "phrases": [
+        "against the law",
+        "lean against",
+        "against all odds"
+      ]
+    },
+    "target": {
+      "word": "ضد",
+      "phrases": [
+        "ضد القانون",
+        "يتكئ على",
+        "رغم كل الصعاب"
+      ]
+    },
+    "frequency": 436
+  },
+  {
+    "rank": 225,
+    "lemma": "believe",
+    "source": {
+      "word": "believe",
+      "phrases": [
+        "believe in",
+        "believe it or not",
+        "make believe"
+      ]
+    },
+    "target": {
+      "word": "يؤمن",
+      "phrases": [
+        "يؤمن بـ",
+        "صدق أو لا تصدق",
+        "تظاهر"
+      ]
+    },
+    "frequency": 435
+  },
+  {
+    "rank": 226,
+    "lemma": "second",
+    "source": {
+      "word": "second",
+      "phrases": [
+        "second hand",
+        "wait a second",
+        "second to none"
+      ]
+    },
+    "target": {
+      "word": "ثانية",
+      "phrases": [
+        "مستعمل",
+        "انتظر ثانية",
+        "لا يعلى عليه"
+      ]
+    },
+    "frequency": 433
+  },
+  {
+    "rank": 227,
+    "lemma": "though",
+    "source": {
+      "word": "though",
+      "phrases": [
+        "even though",
+        "as though",
+        "looks though"
+      ]
+    },
+    "target": {
+      "word": "بيد أن",
+      "phrases": [
+        "بالرغم من",
+        "كما لو أن",
+        "يبدو كأن"
+      ]
+    },
+    "frequency": 430
+  },
+  {
+    "rank": 228,
+    "lemma": "yes",
+    "source": {
+      "word": "yes",
+      "phrases": [
+        "say yes",
+        "yes or no",
+        "yes sir"
+      ]
+    },
+    "target": {
+      "word": "نعم",
+      "phrases": [
+        "قل نعم",
+        "نعم أم لا",
+        "نعم سيدي"
+      ]
+    },
+    "frequency": 430
+  },
+  {
+    "rank": 229,
+    "lemma": "love",
+    "source": {
+      "word": "love",
+      "phrases": [
+        "fall in love",
+        "I love you",
+        "love at first sight"
+      ]
+    },
+    "target": {
+      "word": "حب",
+      "phrases": [
+        "يقع في الحب",
+        "أنا أحبك",
+        "حب من أول نظرة"
+      ]
+    },
+    "frequency": 427
+  },
+  {
+    "rank": 230,
+    "lemma": "increase",
+    "source": {
+      "word": "increase",
+      "phrases": [
+        "on the increase",
+        "increase in",
+        "rapid increase"
+      ]
+    },
+    "target": {
+      "word": "زيادة",
+      "phrases": [
+        "في ازدياد",
+        "زيادة في",
+        "زيادة سريعة"
+      ]
+    },
+    "frequency": 425
+  },
+  {
+    "rank": 231,
+    "lemma": "job",
+    "source": {
+      "word": "job",
+      "phrases": [
+        "good job",
+        "job interview",
+        "part time job"
+      ]
+    },
+    "target": {
+      "word": "وظيفة",
+      "phrases": [
+        "عمل جيد",
+        "مقابلة عمل",
+        "وظيفة جزئية"
+      ]
+    },
+    "frequency": 425
+  },
+  {
+    "rank": 232,
+    "lemma": "plan",
+    "source": {
+      "word": "plan",
+      "phrases": [
+        "make a plan",
+        "according to plan",
+        "plan to"
+      ]
+    },
+    "target": {
+      "word": "خطة",
+      "phrases": [
+        "يضع خطة",
+        "حسب الخطة",
+        "يخطط لـ"
+      ]
+    },
+    "frequency": 425
+  },
+  {
+    "rank": 233,
+    "lemma": "result",
+    "source": {
+      "word": "result",
+      "phrases": [
+        "as a result",
+        "result in",
+        "test result"
+      ]
+    },
+    "target": {
+      "word": "نتيجة",
+      "phrases": [
+        "كنتيجة لـ",
+        "يؤدي إلى",
+        "نتيجة الاختبار"
+      ]
+    },
+    "frequency": 424
+  },
+  {
+    "rank": 234,
+    "lemma": "away",
+    "source": {
+      "word": "away",
+      "phrases": [
+        "go away",
+        "far away",
+        "right away"
+      ]
+    },
+    "target": {
+      "word": "بعيداً",
+      "phrases": [
+        "اذهب بعيداً",
+        "بعيد جداً",
+        "على الفور"
+      ]
+    },
+    "frequency": 424
+  },
+  {
+    "rank": 235,
+    "lemma": "example",
+    "source": {
+      "word": "example",
+      "phrases": [
+        "for example",
+        "set an example",
+        "follow the example"
+      ]
+    },
+    "target": {
+      "word": "مثال",
+      "phrases": [
+        "على سبيل المثال",
+        "ضرب مثلاً",
+        "يقتدي بالمثال"
+      ]
+    },
+    "frequency": 420
+  },
+  {
+    "rank": 236,
+    "lemma": "happen",
+    "source": {
+      "word": "happen",
+      "phrases": [
+        "what happened?",
+        "happen to",
+        "accident waiting to happen"
+      ]
+    },
+    "target": {
+      "word": "يحدث",
+      "phrases": [
+        "ماذا حدث؟",
+        "يحدث لـ",
+        "حادث وشيك الوقوع"
+      ]
+    },
+    "frequency": 420
+  },
+  {
+    "rank": 237,
+    "lemma": "offer",
+    "source": {
+      "word": "offer",
+      "phrases": [
+        "special offer",
+        "offer help",
+        "job offer"
+      ]
+    },
+    "target": {
+      "word": "عرض",
+      "phrases": [
+        "عرض خاص",
+        "يعرض المساعدة",
+        "عرض عمل"
+      ]
+    },
+    "frequency": 418
+  },
+  {
+    "rank": 238,
+    "lemma": "young",
+    "source": {
+      "word": "young",
+      "phrases": [
+        "young people",
+        "when I was young",
+        "forever young"
+      ]
+    },
+    "target": {
+      "word": "شاب",
+      "phrases": [
+        "الشباب",
+        "عندما كنت شاباً",
+        "شاب للأبد"
+      ]
+    },
+    "frequency": 417
+  },
+  {
+    "rank": 239,
+    "lemma": "close",
+    "source": {
+      "word": "close",
+      "phrases": [
+        "close the door",
+        "close friend",
+        "close call"
+      ]
+    },
+    "target": {
+      "word": "يغلق",
+      "phrases": [
+        "أغلق الباب",
+        "صديق مقرب",
+        "نجاة بأعجوبة"
+      ]
+    },
+    "frequency": 416
+  },
+  {
+    "rank": 240,
+    "lemma": "program",
+    "source": {
+      "word": "program",
+      "phrases": [
+        "TV program",
+        "computer program",
+        "program manager"
+      ]
+    },
+    "target": {
+      "word": "برنامج",
+      "phrases": [
+        "برنامج تلفزيوني",
+        "برنامج حاسوب",
+        "مدير برنامج"
+      ]
+    },
+    "frequency": 414
+  },
+  {
+    "rank": 241,
+    "lemma": "lead",
+    "source": {
+      "word": "lead",
+      "phrases": [
+        "lead to",
+        "take the lead",
+        "lead a life"
+      ]
+    },
+    "target": {
+      "word": "يقود",
+      "phrases": [
+        "يؤدي إلى",
+        "يتولى القيادة",
+        "يعيش حياة"
+      ]
+    },
+    "frequency": 410
+  },
+  {
+    "rank": 242,
+    "lemma": "buy",
+    "source": {
+      "word": "buy",
+      "phrases": [
+        "buy a house",
+        "buy time",
+        "buy out"
+      ]
+    },
+    "target": {
+      "word": "يشتري",
+      "phrases": [
+        "يشتري منزلاً",
+        "يكسب الوقت",
+        "يشتري كامل الحصة"
+      ]
+    },
+    "frequency": 405
+  },
+  {
+    "rank": 243,
+    "lemma": "understand",
+    "source": {
+      "word": "understand",
+      "phrases": [
+        "understand each other",
+        "hard to understand",
+        "fully understand"
+      ]
+    },
+    "target": {
+      "word": "يفهم",
+      "phrases": [
+        "يفهمان بعضهما البعض",
+        "صعب الفهم",
+        "يفهم تماماً"
+      ]
+    },
+    "frequency": 403
+  },
+  {
+    "rank": 244,
+    "lemma": "thank",
+    "source": {
+      "word": "thank",
+      "phrases": [
+        "thank you",
+        "thank god",
+        "thanks to"
+      ]
+    },
+    "target": {
+      "word": "يشكر",
+      "phrases": [
+        "شكراً لك",
+        "الحمد لله",
+        "بفضل"
+      ]
+    },
+    "frequency": 399
+  },
+  {
+    "rank": 245,
+    "lemma": "far",
+    "source": {
+      "word": "far",
+      "phrases": [
+        "far from",
+        "so far",
+        "as far as"
+      ]
+    },
+    "target": {
+      "word": "بعيد",
+      "phrases": [
+        "بعيد عن",
+        "حتى الآن",
+        "بقدر ما"
+      ]
+    },
+    "frequency": 398
+  },
+  {
+    "rank": 246,
+    "lemma": "today",
+    "source": {
+      "word": "today",
+      "phrases": [
+        "today's special",
+        "as of today",
+        "today is the day"
+      ]
+    },
+    "target": {
+      "word": "اليوم",
+      "phrases": [
+        "طبق اليوم الخاص",
+        "اعتباراً من اليوم",
+        "اليوم هو اليوم المنشود"
+      ]
+    },
+    "frequency": 392
+  },
+  {
+    "rank": 247,
+    "lemma": "hour",
+    "source": {
+      "word": "hour",
+      "phrases": [
+        "rush hour",
+        "per hour",
+        "happy hour"
+      ]
+    },
+    "target": {
+      "word": "ساعة",
+      "phrases": [
+        "ساعة الذروة",
+        "في الساعة",
+        "ساعة التخفيضات"
+      ]
+    },
+    "frequency": 391
+  },
+  {
+    "rank": 248,
+    "lemma": "student",
+    "source": {
+      "word": "student",
+      "phrases": [
+        "university student",
+        "exchange student",
+        "student loan"
+      ]
+    },
+    "target": {
+      "word": "طالب",
+      "phrases": [
+        "طالب جامعي",
+        "طالب تبادل",
+        "قرض طلابي"
+      ]
+    },
+    "frequency": 391
+  },
+  {
+    "rank": 249,
+    "lemma": "face",
+    "source": {
+      "word": "face",
+      "phrases": [
+        "face to face",
+        "face the truth",
+        "lose face"
+      ]
+    },
+    "target": {
+      "word": "وجه",
+      "phrases": [
+        "وجهاً لوجه",
+        "يواجه الحقيقة",
+        "يفقد هيبته"
+      ]
+    },
+    "frequency": 390
+  },
+  {
+    "rank": 250,
+    "lemma": "hope",
+    "source": {
+      "word": "hope",
+      "phrases": [
+        "I hope so",
+        "give up hope",
+        "last hope"
+      ]
+    },
+    "target": {
+      "word": "أمل",
+      "phrases": [
+        "آمل ذلك",
+        "يفقد الأمل",
+        "الأمل الأخير"
+      ]
+    },
+    "frequency": 388
+  },
+  {
+    "rank": 251,
+    "lemma": "idea",
+    "source": {
+      "word": "idea",
+      "phrases": [
+        "good idea",
+        "have no idea",
+        "idea of"
+      ]
+    },
+    "target": {
+      "word": "فكرة",
+      "phrases": [
+        "فكرة جيدة",
+        "ليس لدي أدنى فكرة",
+        "فكرة عن"
+      ]
+    },
+    "frequency": 387
+  },
+  {
+    "rank": 252,
+    "lemma": "cost",
+    "source": {
+      "word": "cost",
+      "phrases": [
+        "at all costs",
+        "cost of living",
+        "low cost"
+      ]
+    },
+    "target": {
+      "word": "تكلفة",
+      "phrases": [
+        "بأي ثمن",
+        "تكلفة المعيشة",
+        "تكلفة منخفضة"
+      ]
+    },
+    "frequency": 386
+  },
+  {
+    "rank": 253,
+    "lemma": "less",
+    "source": {
+      "word": "less",
+      "phrases": [
+        "more or less",
+        "less than",
+        "couldn't care less"
+      ]
+    },
+    "target": {
+      "word": "أقل",
+      "phrases": [
+        "أكثر أو أقل",
+        "أقل من",
+        "لا يكترث على الإطلاق"
+      ]
+    },
+    "frequency": 385
+  },
+  {
+    "rank": 254,
+    "lemma": "room",
+    "source": {
+      "word": "room",
+      "phrases": [
+        "living room",
+        "make room for",
+        "room for improvement"
+      ]
+    },
+    "target": {
+      "word": "غرفة",
+      "phrases": [
+        "غرفة المعيشة",
+        "يفسح مجالاً لـ",
+        "مجال للتحسين"
+      ]
+    },
+    "frequency": 385
+  },
+  {
+    "rank": 255,
+    "lemma": "until",
+    "source": {
+      "word": "until",
+      "phrases": [
+        "until now",
+        "up until",
+        "wait until"
+      ]
+    },
+    "target": {
+      "word": "حتى",
+      "phrases": [
+        "حتى الآن",
+        "حتى ذلك الحين",
+        "ينتظر حتى"
+      ]
+    },
+    "frequency": 383
+  },
+  {
+    "rank": 256,
+    "lemma": "reason",
+    "source": {
+      "word": "reason",
+      "phrases": [
+        "reason why",
+        "for this reason",
+        "listen to reason"
+      ]
+    },
+    "target": {
+      "word": "سبب",
+      "phrases": [
+        "السبب وراء",
+        "لهذا السبب",
+        "يحتكم للعقل"
+      ]
+    },
+    "frequency": 383
+  },
+  {
+    "rank": 257,
+    "lemma": "form",
+    "source": {
+      "word": "form",
+      "phrases": [
+        "fill out a form",
+        "in the form of",
+        "form a habit"
+      ]
+    },
+    "target": {
+      "word": "نموذج",
+      "phrases": [
+        "يملأ نموذجاً",
+        "على شكل",
+        "يكون عادة"
+      ]
+    },
+    "frequency": 379
+  },
+  {
+    "rank": 258,
+    "lemma": "spend",
+    "source": {
+      "word": "spend",
+      "phrases": [
+        "spend time",
+        "spend money",
+        "spend the night"
+      ]
+    },
+    "target": {
+      "word": "يقضي / ينفق",
+      "phrases": [
+        "يقضي وقتاً",
+        "ينفق مالاً",
+        "يقضي الليلة"
+      ]
+    },
+    "frequency": 378
+  },
+  {
+    "rank": 259,
+    "lemma": "head",
+    "source": {
+      "word": "head",
+      "phrases": [
+        "head office",
+        "shake head",
+        "head over heels"
+      ]
+    },
+    "target": {
+      "word": "رأس",
+      "phrases": [
+        "المكتب الرئيسي",
+        "يهز رأسه",
+        "هائم في الحب"
+      ]
+    },
+    "frequency": 378
+  },
+  {
+    "rank": 260,
+    "lemma": "car",
+    "source": {
+      "word": "car",
+      "phrases": [
+        "car park",
+        "drive a car",
+        "used car"
+      ]
+    },
+    "target": {
+      "word": "سيارة",
+      "phrases": [
+        "موقف سيارات",
+        "يقود سيارة",
+        "سيارة مستعملة"
+      ]
+    },
+    "frequency": 377
+  },
+  {
+    "rank": 261,
+    "lemma": "learn",
+    "source": {
+      "word": "learn",
+      "phrases": [
+        "learn from",
+        "learn by heart",
+        "learn a lesson"
+      ]
+    },
+    "target": {
+      "word": "تعلم",
+      "phrases": [
+        "تعلم من",
+        "تعلم عن ظهر قلب",
+        "تلقى درساً"
+      ]
+    },
+    "frequency": 375
+  },
+  {
+    "rank": 262,
+    "lemma": "level",
+    "source": {
+      "word": "level",
+      "phrases": [
+        "high level",
+        "sea level",
+        "level up"
+      ]
+    },
+    "target": {
+      "word": "مستوى",
+      "phrases": [
+        "مستوى عالٍ",
+        "مستوى سطح البحر",
+        "رفع المستوى"
+      ]
+    },
+    "frequency": 373
+  },
+  {
+    "rank": 263,
+    "lemma": "person",
+    "source": {
+      "word": "person",
+      "phrases": [
+        "in person",
+        "person in charge",
+        "nice person"
+      ]
+    },
+    "target": {
+      "word": "شخص",
+      "phrases": [
+        "شخصياً",
+        "الشخص المسؤول",
+        "شخص لطيف"
+      ]
+    },
+    "frequency": 368
+  },
+  {
+    "rank": 264,
+    "lemma": "experience",
+    "source": {
+      "word": "experience",
+      "phrases": [
+        "experience in",
+        "gain experience",
+        "from experience"
+      ]
+    },
+    "target": {
+      "word": "خبرة",
+      "phrases": [
+        "خبرة في",
+        "يكتسب خبرة",
+        "من واقع الخبرة"
+      ]
+    },
+    "frequency": 365
+  },
+  {
+    "rank": 265,
+    "lemma": "once",
+    "source": {
+      "word": "once",
+      "phrases": [
+        "once upon a time",
+        "at once",
+        "once in a while"
+      ]
+    },
+    "target": {
+      "word": "ذات مرة",
+      "phrases": [
+        "كان يا ما كان",
+        "على الفور",
+        "بين الحين والآخر"
+      ]
+    },
+    "frequency": 365
+  },
+  {
+    "rank": 266,
+    "lemma": "member",
+    "source": {
+      "word": "member",
+      "phrases": [
+        "family member",
+        "staff member",
+        "become a member"
+      ]
+    },
+    "target": {
+      "word": "عضو",
+      "phrases": [
+        "فرد من العائلة",
+        "عضو في طاقم العمل",
+        "يصبح عضواً"
+      ]
+    },
+    "frequency": 364
+  },
+  {
+    "rank": 267,
+    "lemma": "enough",
+    "source": {
+      "word": "enough",
+      "phrases": [
+        "good enough",
+        "enough is enough",
+        "sure enough"
+      ]
+    },
+    "target": {
+      "word": "كافٍ",
+      "phrases": [
+        "جيد بِمَا فيه الكفاية",
+        "طفح الكيل",
+        "بما لا يدعو للشك"
+      ]
+    },
+    "frequency": 363
+  },
+  {
+    "rank": 268,
+    "lemma": "bad",
+    "source": {
+      "word": "bad",
+      "phrases": [
+        "too bad",
+        "not bad",
+        "bad luck"
+      ]
+    },
+    "target": {
+      "word": "سيئ",
+      "phrases": [
+        "سيئ للغاية",
+        "ليس سيئاً",
+        "حظ عاثر"
+      ]
+    },
+    "frequency": 363
+  },
+  {
+    "rank": 269,
+    "lemma": "city",
+    "source": {
+      "word": "city",
+      "phrases": [
+        "big city",
+        "city hall",
+        "inner city"
+      ]
+    },
+    "target": {
+      "word": "مدينة",
+      "phrases": [
+        "مدينة كبيرة",
+        "مبنى البلدية",
+        "وسط المدينة"
+      ]
+    },
+    "frequency": 362
+  },
+  {
+    "rank": 270,
+    "lemma": "night",
+    "source": {
+      "word": "night",
+      "phrases": [
+        "last night",
+        "good night",
+        "all night"
+      ]
+    },
+    "target": {
+      "word": "ليل",
+      "phrases": [
+        "ليلة أمس",
+        "تصبح على خير",
+        "طوال الليل"
+      ]
+    },
+    "frequency": 361
+  },
+  {
+    "rank": 271,
+    "lemma": "able",
+    "source": {
+      "word": "able",
+      "phrases": [
+        "be able to",
+        "able to come",
+        "better able"
+      ]
+    },
+    "target": {
+      "word": "قادر",
+      "phrases": [
+        "يكون قادراً على",
+        "قادر على المجيء",
+        "أكثر قدرة"
+      ]
+    },
+    "frequency": 361
+  },
+  {
+    "rank": 272,
+    "lemma": "support",
+    "source": {
+      "word": "support",
+      "phrases": [
+        "customer support",
+        "support a family",
+        "give support"
+      ]
+    },
+    "target": {
+      "word": "دعم",
+      "phrases": [
+        "دعم العملاء",
+        "يعيل أسرة",
+        "يقدم الدعم"
+      ]
+    },
+    "frequency": 359
+  },
+  {
+    "rank": 273,
+    "lemma": "whether",
+    "source": {
+      "word": "whether",
+      "phrases": [
+        "whether or not",
+        "ask whether",
+        "regardless of whether"
+      ]
+    },
+    "target": {
+      "word": "ما إذا",
+      "phrases": [
+        "سواء أم لا",
+        "يستفسر عما إذا",
+        "بغض النظر عما إذا"
+      ]
+    },
+    "frequency": 359
+  },
+  {
+    "rank": 274,
+    "lemma": "line",
+    "source": {
+      "word": "line",
+      "phrases": [
+        "on line",
+        "draw a line",
+        "bottom line"
+      ]
+    },
+    "target": {
+      "word": "خط",
+      "phrases": [
+        "على الخط",
+        "يرسم خطاً",
+        "الخلاصة"
+      ]
+    },
+    "frequency": 358
+  },
+  {
+    "rank": 275,
+    "lemma": "present",
+    "source": {
+      "word": "present",
+      "phrases": [
+        "at present",
+        "birthday present",
+        "present a paper"
+      ]
+    },
+    "target": {
+      "word": "حاضر / هدية",
+      "phrases": [
+        "في الوقت الحاضر",
+        "هدية عيد ميلاد",
+        "يقدم ورقة عمل"
+      ]
+    },
+    "frequency": 358
+  },
+  {
+    "rank": 276,
+    "lemma": "side",
+    "source": {
+      "word": "side",
+      "phrases": [
+        "side by side",
+        "on your side",
+        "side effect"
+      ]
+    },
+    "target": {
+      "word": "جانب",
+      "phrases": [
+        "جنباً إلى جنب",
+        "في صفك",
+        "أثر جانبي"
+      ]
+    },
+    "frequency": 356
+  },
+  {
+    "rank": 277,
+    "lemma": "quite",
+    "source": {
+      "word": "quite",
+      "phrases": [
+        "quite a few",
+        "quite right",
+        "not quite"
+      ]
+    },
+    "target": {
+      "word": "تماماً",
+      "phrases": [
+        "ليس بالقليل",
+        "محق تماماً",
+        "ليس تماماً"
+      ]
+    },
+    "frequency": 354
+  },
+  {
+    "rank": 278,
+    "lemma": "although",
+    "source": {
+      "word": "although",
+      "phrases": [
+        "although I said",
+        "although small",
+        "happy although poor"
+      ]
+    },
+    "target": {
+      "word": "على الرغم من",
+      "phrases": [
+        "على الرغم مما قلته",
+        "رغم صغر حجمه",
+        "سعيد رغم فقره"
+      ]
+    },
+    "frequency": 351
+  },
+  {
+    "rank": 279,
+    "lemma": "sure",
+    "source": {
+      "word": "sure",
+      "phrases": [
+        "make sure",
+        "for sure",
+        "are you sure?"
+      ]
+    },
+    "target": {
+      "word": "متأكد",
+      "phrases": [
+        "تأكد",
+        "بكل تأكيد",
+        "هل أنت متأكد؟"
+      ]
+    },
+    "frequency": 351
+  },
+  {
+    "rank": 280,
+    "lemma": "term",
+    "source": {
+      "word": "term",
+      "phrases": [
+        "long term",
+        "in terms of",
+        "technical term"
+      ]
+    },
+    "target": {
+      "word": "مصطلح / مدة",
+      "phrases": [
+        "بعيد المدى",
+        "من حيث",
+        "مصطلح تقني"
+      ]
+    },
+    "frequency": 350
+  },
+  {
+    "rank": 281,
+    "lemma": "least",
+    "source": {
+      "word": "least",
+      "phrases": [
+        "at least",
+        "last but not least",
+        "least expected"
+      ]
+    },
+    "target": {
+      "word": "الأقل",
+      "phrases": [
+        "على الأقل",
+        "أخيراً وليس آخراً",
+        "الأقل توقعاً"
+      ]
+    },
+    "frequency": 350
+  },
+  {
+    "rank": 282,
+    "lemma": "age",
+    "source": {
+      "word": "age",
+      "phrases": [
+        "at the age of",
+        "middle age",
+        "act your age"
+      ]
+    },
+    "target": {
+      "word": "عمر",
+      "phrases": [
+        "في سن",
+        "منتصف العمر",
+        "تصرف وفقاً لسنك"
+      ]
+    },
+    "frequency": 349
+  },
+  {
+    "rank": 283,
+    "lemma": "low",
+    "source": {
+      "word": "low",
+      "phrases": [
+        "low cost",
+        "low profile",
+        "feel low"
+      ]
+    },
+    "target": {
+      "word": "منخفض",
+      "phrases": [
+        "تكلفة منخفضة",
+        "بشكل غير لافت",
+        "يشعر بالإحباط"
+      ]
+    },
+    "frequency": 349
+  },
+  {
+    "rank": 284,
+    "lemma": "speak",
+    "source": {
+      "word": "speak",
+      "phrases": [
+        "speak English",
+        "speak up",
+        "so to speak"
+      ]
+    },
+    "target": {
+      "word": "يتحدث",
+      "phrases": [
+        "يتحدث الإنجليزية",
+        "ارفع صوتك",
+        "بمعنى أصح"
+      ]
+    },
+    "frequency": 348
+  },
+  {
+    "rank": 285,
+    "lemma": "within",
+    "source": {
+      "word": "within",
+      "phrases": [
+        "within reason",
+        "within reach",
+        "within a week"
+      ]
+    },
+    "target": {
+      "word": "ضمن",
+      "phrases": [
+        "في حدود المعقول",
+        "في المتناول",
+        "خلال أسبوع"
+      ]
+    },
+    "frequency": 347
+  },
+  {
+    "rank": 286,
+    "lemma": "process",
+    "source": {
+      "word": "process",
+      "phrases": [
+        "in the process of",
+        "process food",
+        "learning process"
+      ]
+    },
+    "target": {
+      "word": "عملية",
+      "phrases": [
+        "في طور المعالجة",
+        "طعام مصنع",
+        "عملية التعلم"
+      ]
+    },
+    "frequency": 346
+  },
+  {
+    "rank": 287,
+    "lemma": "public",
+    "source": {
+      "word": "public",
+      "phrases": [
+        "in public",
+        "public transport",
+        "public relations"
+      ]
+    },
+    "target": {
+      "word": "عام",
+      "phrases": [
+        "علناً",
+        "النقل العام",
+        "العلاقات العامة"
+      ]
+    },
+    "frequency": 343
+  },
+  {
+    "rank": 288,
+    "lemma": "often",
+    "source": {
+      "word": "often",
+      "phrases": [
+        "how often",
+        "more often than not",
+        "as often as"
+      ]
+    },
+    "target": {
+      "word": "غالباً",
+      "phrases": [
+        "كم مرة",
+        "في أغلب الأحيان",
+        "بقدر ما"
+      ]
+    },
+    "frequency": 341
+  },
+  {
+    "rank": 289,
+    "lemma": "train",
+    "source": {
+      "word": "train",
+      "phrases": [
+        "by train",
+        "training course",
+        "train hard"
+      ]
+    },
+    "target": {
+      "word": "قطار / تدريب",
+      "phrases": [
+        "بالقطار",
+        "دورة تدريبية",
+        "تدرب بجد"
+      ]
+    },
+    "frequency": 338
+  },
+  {
+    "rank": 290,
+    "lemma": "possible",
+    "source": {
+      "word": "possible",
+      "phrases": [
+        "as soon as possible",
+        "if possible",
+        "mission impossible"
+      ]
+    },
+    "target": {
+      "word": "ممكن",
+      "phrases": [
+        "في أقرب وقت ممكن",
+        "إذا كان ممكناً",
+        "مهمة مستحيلة"
+      ]
+    },
+    "frequency": 337
+  },
+  {
+    "rank": 291,
+    "lemma": "actually",
+    "source": {
+      "word": "actually",
+      "phrases": [
+        "actually I did",
+        "looks young but actually",
+        "what actually happened"
+      ]
+    },
+    "target": {
+      "word": "في الحقيقة",
+      "phrases": [
+        "في الحقيقة لقد فعلت",
+        "يبدو شاباً ولكن في الواقع",
+        "ما حدث بالفعل"
+      ]
+    },
+    "frequency": 337
+  },
+  {
+    "rank": 292,
+    "lemma": "rather",
+    "source": {
+      "word": "rather",
+      "phrases": [
+        "would rather",
+        "rather than",
+        "or rather"
+      ]
+    },
+    "target": {
+      "word": "بدلاً من / بالأحرى",
+      "phrases": [
+        "يفضل أن",
+        "بدلاً من",
+        "أو بالأحرى"
+      ]
+    },
+    "frequency": 336
+  },
+  {
+    "rank": 293,
+    "lemma": "view",
+    "source": {
+      "word": "view",
+      "phrases": [
+        "point of view",
+        "in view of",
+        "room with a view"
+      ]
+    },
+    "target": {
+      "word": "منظر / وجهة نظر",
+      "phrases": [
+        "وجهة نظر",
+        "بالنظر إلى",
+        "غرفة ذات إطلالة"
+      ]
+    },
+    "frequency": 336
+  },
+  {
+    "rank": 294,
+    "lemma": "together",
+    "source": {
+      "word": "together",
+      "phrases": [
+        "get together",
+        "all together",
+        "work together"
+      ]
+    },
+    "target": {
+      "word": "معاً",
+      "phrases": [
+        "يجتمع",
+        "الكل معاً",
+        "يعملون معاً"
+      ]
+    },
+    "frequency": 334
+  },
+  {
+    "rank": 295,
+    "lemma": "consider",
+    "source": {
+      "word": "consider",
+      "phrases": [
+        "consider it done",
+        "highly considered",
+        "take into consider"
+      ]
+    },
+    "target": {
+      "word": "اعتبار / يفكر",
+      "phrases": [
+        "اعتبر الأمر منتهياً",
+        "محل تقدير كبير",
+        "يأخذ في الاعتبار"
+      ]
+    },
+    "frequency": 334
+  },
+  {
+    "rank": 296,
+    "lemma": "price",
+    "source": {
+      "word": "price",
+      "phrases": [
+        "high price",
+        "price tag",
+        "at any price"
+      ]
+    },
+    "target": {
+      "word": "سعر",
+      "phrases": [
+        "سعر مرتفع",
+        "بطاقة السعر",
+        "بأي ثمن"
+      ]
+    },
+    "frequency": 327
+  },
+  {
+    "rank": 297,
+    "lemma": "parent",
+    "source": {
+      "word": "parent",
+      "phrases": [
+        "single parent",
+        "parenting",
+        "grand parent"
+      ]
+    },
+    "target": {
+      "word": "والد / والدة",
+      "phrases": [
+        "أب أو أم عازبة",
+        "تربية الأبناء",
+        "الجد أو الجدة"
+      ]
+    },
+    "frequency": 326
+  },
+  {
+    "rank": 298,
+    "lemma": "hard",
+    "source": {
+      "word": "hard",
+      "phrases": [
+        "work hard",
+        "hard to believe",
+        "hard drive"
+      ]
+    },
+    "target": {
+      "word": "صعب / بجد",
+      "phrases": [
+        "يعمل بجد",
+        "صعب التصديق",
+        "قرص صلب"
+      ]
+    },
+    "frequency": 325
+  },
+  {
+    "rank": 299,
+    "lemma": "party",
+    "source": {
+      "word": "party",
+      "phrases": [
+        "birthday party",
+        "third party",
+        "political party"
+      ]
+    },
+    "target": {
+      "word": "حفلة / حزب",
+      "phrases": [
+        "حفلة عيد ميلاد",
+        "طرف ثالث",
+        "حزب سياسي"
+      ]
+    },
+    "frequency": 322
+  },
+  {
+    "rank": 300,
+    "lemma": "local",
+    "source": {
+      "word": "local",
+      "phrases": [
+        "local news",
+        "local people",
+        "local time"
+      ]
+    },
+    "target": {
+      "word": "محلي",
+      "phrases": [
+        "أخبار محلية",
+        "سكان محليون",
+        "التوقيت المحلي"
+      ]
+    },
+    "frequency": 321
+  }
+]

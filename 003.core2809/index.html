@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CORE 2809 - Master 90% of English with These Words</title>
+  <meta name="description" content="2,809 essential words derived from Cambridge's 273-million-word corpus. The scientifically selected vocabulary list for efficient learning.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-header">
+        <div class="logo">
+          <div class="logo-icon">C</div>
+          <div class="logo-text">CORE <span>2809</span></div>
+        </div>
+        <p class="tagline">Master 90% of English with these words<br>From Cambridge's 273M-word corpus</p>
+      </div>
+
+      <!-- Language Selector -->
+      <div class="lang-selector">
+        <div class="lang-title">Language</div>
+        <div class="lang-current" id="langCurrentBtn">
+          <span class="lang-current-flag" id="langCurrentFlag">🇯🇵</span>
+          <span class="lang-current-name" id="langCurrentName">日本語</span>
+          <span class="lang-current-arrow">▼</span>
+        </div>
+        <div class="lang-dropdown" id="langDropdown"></div>
+      </div>
+
+      <div class="stats-box">
+        <div class="stats-row">
+          <span class="stats-label">Showing</span>
+          <span class="stats-value" id="displayCount">- words</span>
+        </div>
+      </div>
+
+      <!-- Mode Selector -->
+      <div class="mode-selector">
+        <div class="mode-title">Mode</div>
+        <div class="mode-buttons">
+          <button class="mode-btn active" data-mode="slide" onclick="setMode('slide')">
+            <span class="mode-btn-icon">📜</span>
+            <span class="mode-btn-label">Slide</span>
+          </button>
+          <button class="mode-btn" data-mode="audio" onclick="setMode('audio')">
+            <span class="mode-btn-icon">🔊</span>
+            <span class="mode-btn-label">Audio</span>
+          </button>
+          <button class="mode-btn" data-mode="animation" onclick="setMode('animation')">
+            <span class="mode-btn-icon">🎬</span>
+            <span class="mode-btn-label">Auto</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Theme Toggle -->
+      <div class="toggle-wrapper">
+        <div class="theme-toggle" id="themeToggle">
+          <span class="theme-toggle-label">Theme</span>
+          <div class="theme-toggle-track">
+            <div class="theme-toggle-thumb">
+              <span id="themeIcon">🌙</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <nav class="nav-section">
+        <div class="nav-title">Word List</div>
+        <div id="navContainer"></div>
+      </nav>
+    </aside>
+
+    <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+    <main class="main">
+      <header class="header">
+        <div class="header-left">
+          <button class="nav-btn" id="prevChunkBtn" onclick="loadPrevChunk()" disabled>◀</button>
+          <div class="header-title">
+            <strong id="currentRangeTitle">1-100</strong>
+          </div>
+          <button class="nav-btn" id="nextChunkBtn" onclick="loadNextChunk()">▶</button>
+        </div>
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="searchInput" placeholder="Search words...">
+        </div>
+      </header>
+
+      <div class="word-list" id="wordList">
+        <div class="loading">
+          <div class="loading-spinner"></div>
+          <div>Loading...</div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <button class="mobile-menu-btn" id="mobileMenuBtn">☰</button>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

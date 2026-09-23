@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 2501,
+    "lemma": "personnel",
+    "source": {
+      "word": "personnel",
+      "phrases": [
+        "military personnel",
+        "personnel department",
+        "medical personnel"
+      ]
+    },
+    "target": {
+      "word": "персонал",
+      "phrases": [
+        "военнослужащие",
+        "отдел кадров",
+        "медицинский персонал"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2502,
+    "lemma": "imagination",
+    "source": {
+      "word": "imagination",
+      "phrases": [
+        "vivid imagination",
+        "capture imagination",
+        "use your imagination"
+      ]
+    },
+    "target": {
+      "word": "воображение",
+      "phrases": [
+        "живое воображение",
+        "завладеть воображением",
+        "используй свое воображение"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2503,
+    "lemma": "disagree",
+    "source": {
+      "word": "disagree",
+      "phrases": [
+        "disagree with",
+        "agree to disagree",
+        "strongly disagree"
+      ]
+    },
+    "target": {
+      "word": "не соглашаться",
+      "phrases": [
+        "не соглашаться с",
+        "остаться при своем мнении",
+        "категорически не согласен"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2504,
+    "lemma": "throat",
+    "source": {
+      "word": "throat",
+      "phrases": [
+        "sore throat",
+        "clear throat",
+        "throat cancer"
+      ]
+    },
+    "target": {
+      "word": "горло",
+      "phrases": [
+        "боль в горле",
+        "прокашляться",
+        "рак горла"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2505,
+    "lemma": "insight",
+    "source": {
+      "word": "insight",
+      "phrases": [
+        "insight into",
+        "gain insight",
+        "valuable insight"
+      ]
+    },
+    "target": {
+      "word": "понимание",
+      "phrases": [
+        "понимание сути",
+        "получить представление",
+        "ценная информация"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2506,
+    "lemma": "tackle",
+    "source": {
+      "word": "tackle",
+      "phrases": [
+        "tackle a problem",
+        "fishing tackle",
+        "tackle the issue"
+      ]
+    },
+    "target": {
+      "word": "решать",
+      "phrases": [
+        "решить проблему",
+        "рыболовные снасти",
+        "вплотную заняться вопросом"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2507,
+    "lemma": "forever",
+    "source": {
+      "word": "forever",
+      "phrases": [
+        "forever and ever",
+        "live forever",
+        "last forever"
+      ]
+    },
+    "target": {
+      "word": "навсегда",
+      "phrases": [
+        "во веки веков",
+        "жить вечно",
+        "длиться вечно"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2508,
+    "lemma": "exceed",
+    "source": {
+      "word": "exceed",
+      "phrases": [
+        "exceed expectations",
+        "exceed the limit",
+        "exceed speed"
+      ]
+    },
+    "target": {
+      "word": "превышать",
+      "phrases": [
+        "превзойти ожидания",
+        "превысить лимит",
+        "превысить скорость"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2509,
+    "lemma": "expenditure",
+    "source": {
+      "word": "expenditure",
+      "phrases": [
+        "public expenditure",
+        "reduce expenditure",
+        "capital expenditure"
+      ]
+    },
+    "target": {
+      "word": "расходы",
+      "phrases": [
+        "государственные расходы",
+        "сократить расходы",
+        "капитальные затраты"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2510,
+    "lemma": "joy",
+    "source": {
+      "word": "joy",
+      "phrases": [
+        "jump for joy",
+        "tears of joy",
+        "pride and joy"
+      ]
+    },
+    "target": {
+      "word": "радость",
+      "phrases": [
+        "прыгать от радости",
+        "слезы радости",
+        "гордость и отрада"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2511,
+    "lemma": "pregnant",
+    "source": {
+      "word": "pregnant",
+      "phrases": [
+        "pregnant woman",
+        "get pregnant",
+        "heavily pregnant"
+      ]
+    },
+    "target": {
+      "word": "беременная",
+      "phrases": [
+        "беременная женщина",
+        "забеременеть",
+        "на большом сроке беременности"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2512,
+    "lemma": "reliable",
+    "source": {
+      "word": "reliable",
+      "phrases": [
+        "reliable source",
+        "reliable car",
+        "reliable information"
+      ]
+    },
+    "target": {
+      "word": "надежный",
+      "phrases": [
+        "надежный источник",
+        "надежный автомобиль",
+        "достоверная информация"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2513,
+    "lemma": "gear",
+    "source": {
+      "word": "gear",
+      "phrases": [
+        "shift gears",
+        "camping gear",
+        "top gear"
+      ]
+    },
+    "target": {
+      "word": "снаряжение",
+      "phrases": [
+        "переключать передачи",
+        "кемпинговое снаряжение",
+        "высшая передача"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2514,
+    "lemma": "click",
+    "source": {
+      "word": "click",
+      "phrases": [
+        "click here",
+        "double click",
+        "click bait"
+      ]
+    },
+    "target": {
+      "word": "кликов",
+      "phrases": [
+        "нажмите здесь",
+        "двойной клик",
+        "кликбейт"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2515,
+    "lemma": "poet",
+    "source": {
+      "word": "poet",
+      "phrases": [
+        "poet laureate",
+        "romantic poet",
+        "famous poet"
+      ]
+    },
+    "target": {
+      "word": "поэт",
+      "phrases": [
+        "поэт-лауреат",
+        "поэт-романтик",
+        "известный поэт"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2516,
+    "lemma": "fortune",
+    "source": {
+      "word": "fortune",
+      "phrases": [
+        "tell fortune",
+        "make a fortune",
+        "good fortune"
+      ]
+    },
+    "target": {
+      "word": "состояние",
+      "phrases": [
+        "предсказывать судьбу",
+        "разбогатеть",
+        "удача"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2517,
+    "lemma": "ceremony",
+    "source": {
+      "word": "ceremony",
+      "phrases": [
+        "opening ceremony",
+        "wedding ceremony",
+        "awards ceremony"
+      ]
+    },
+    "target": {
+      "word": "церемония",
+      "phrases": [
+        "церемония открытия",
+        "свадебная церемония",
+        "церемония награждения"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2518,
+    "lemma": "pile",
+    "source": {
+      "word": "pile",
+      "phrases": [
+        "pile of",
+        "pile up",
+        "bottom of the pile"
+      ]
+    },
+    "target": {
+      "word": "куча",
+      "phrases": [
+        "куча чего-либо",
+        "накапливать",
+        "в самом низу иерархии"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2519,
+    "lemma": "pig",
+    "source": {
+      "word": "pig",
+      "phrases": [
+        "guinea pig",
+        "pig out",
+        "when pigs fly"
+      ]
+    },
+    "target": {
+      "word": "свинья",
+      "phrases": [
+        "морская свинка",
+        "объедаться",
+        "когда рак на горе свистнет"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2520,
+    "lemma": "mixture",
+    "source": {
+      "word": "mixture",
+      "phrases": [
+        "mixture of",
+        "cake mixture",
+        "strange mixture"
+      ]
+    },
+    "target": {
+      "word": "смесь",
+      "phrases": [
+        "смесь чего-либо",
+        "тесто для торта",
+        "странная смесь"
+      ]
+    },
+    "frequency": 25
+  },
+  {
+    "rank": 2521,
+    "lemma": "automatically",
+    "source": {
+      "word": "automatically",
+      "phrases": [
+        "automatically update",
+        "automatically generated",
+        "start automatically"
+      ]
+    },
+    "target": {
+      "word": "автоматически",
+      "phrases": [
+        "автоматически обновлять",
+        "автоматически сгенерированный",
+        "запускаться автоматически"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2522,
+    "lemma": "scholar",
+    "source": {
+      "word": "scholar",
+      "phrases": [
+        "visiting scholar",
+        "rhodes scholar",
+        "religious scholar"
+      ]
+    },
+    "target": {
+      "word": "ученый",
+      "phrases": [
+        "приглашенный ученый",
+        "стипендиат Родса",
+        "религиовед"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2523,
+    "lemma": "psychological",
+    "source": {
+      "word": "psychological",
+      "phrases": [
+        "psychological damage",
+        "psychological warfare",
+        "psychological thriller"
+      ]
+    },
+    "target": {
+      "word": "психологический",
+      "phrases": [
+        "психологический ущерб",
+        "психологическая война",
+        "психологический триллер"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2524,
+    "lemma": "dramatically",
+    "source": {
+      "word": "dramatically",
+      "phrases": [
+        "change dramatically",
+        "increase dramatically",
+        "fall dramatically"
+      ]
+    },
+    "target": {
+      "word": "драматически",
+      "phrases": [
+        "резко измениться",
+        "значительно увеличиться",
+        "резко упасть"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2525,
+    "lemma": "stake",
+    "source": {
+      "word": "stake",
+      "phrases": [
+        "at stake",
+        "stake a claim",
+        "high stakes"
+      ]
+    },
+    "target": {
+      "word": "ставка",
+      "phrases": [
+        "на кону",
+        "заявить свои права",
+        "высокие ставки"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2526,
+    "lemma": "creature",
+    "source": {
+      "word": "creature",
+      "phrases": [
+        "creature of habit",
+        "living creature",
+        "sea creature"
+      ]
+    },
+    "target": {
+      "word": "существо",
+      "phrases": [
+        "раб привычки",
+        "живое существо",
+        "морское существо"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2527,
+    "lemma": "partnership",
+    "source": {
+      "word": "partnership",
+      "phrases": [
+        "in partnership with",
+        "business partnership",
+        "strategic partnership"
+      ]
+    },
+    "target": {
+      "word": "партнерство",
+      "phrases": [
+        "в партнерстве с",
+        "деловое партнерство",
+        "стратегическое партнерство"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2528,
+    "lemma": "participation",
+    "source": {
+      "word": "participation",
+      "phrases": [
+        "participation rate",
+        "active participation",
+        "audience participation"
+      ]
+    },
+    "target": {
+      "word": "участие",
+      "phrases": [
+        "уровень участия",
+        "активное участие",
+        "участие аудитории"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2529,
+    "lemma": "clause",
+    "source": {
+      "word": "clause",
+      "phrases": [
+        "clause in a contract",
+        "santa claus",
+        "relative clause"
+      ]
+    },
+    "target": {
+      "word": "пункт",
+      "phrases": [
+        "пункт в контракте",
+        "Санта Клаус",
+        "относительное придаточное предложение"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2530,
+    "lemma": "penalty",
+    "source": {
+      "word": "penalty",
+      "phrases": [
+        "death penalty",
+        "penalty kick",
+        "pay a penalty"
+      ]
+    },
+    "target": {
+      "word": "наказание",
+      "phrases": [
+        "смертная казнь",
+        "пенальти",
+        "понести наказание"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2531,
+    "lemma": "chamber",
+    "source": {
+      "word": "chamber",
+      "phrases": [
+        "chamber of commerce",
+        "gas chamber",
+        "chamber music"
+      ]
+    },
+    "target": {
+      "word": "камера",
+      "phrases": [
+        "торгово-промышленная палата",
+        "газовая камера",
+        "камерная музыка"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2532,
+    "lemma": "fancy",
+    "source": {
+      "word": "fancy",
+      "phrases": [
+        "fancy dress",
+        "fancy restaurant",
+        "tickle my fancy"
+      ]
+    },
+    "target": {
+      "word": "изысканный",
+      "phrases": [
+        "маскарадный костюм",
+        "модный ресторан",
+        "прийтись по вкусу"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2533,
+    "lemma": "poetry",
+    "source": {
+      "word": "poetry",
+      "phrases": [
+        "write poetry",
+        "poetry reading",
+        "poetry in motion"
+      ]
+    },
+    "target": {
+      "word": "поэзия",
+      "phrases": [
+        "писать стихи",
+        "поэтические чтения",
+        "поэзия в движении"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2534,
+    "lemma": "chat",
+    "source": {
+      "word": "chat",
+      "phrases": [
+        "chat with",
+        "chat show",
+        "group chat"
+      ]
+    },
+    "target": {
+      "word": "чат",
+      "phrases": [
+        "болтать с",
+        "ток-шоу",
+        "групповой чат"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2535,
+    "lemma": "clothing",
+    "source": {
+      "word": "clothing",
+      "phrases": [
+        "clothing store",
+        "wear clothing",
+        "clothing brand"
+      ]
+    },
+    "target": {
+      "word": "одежда",
+      "phrases": [
+        "магазин одежды",
+        "носить одежду",
+        "бренд одежды"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2536,
+    "lemma": "evolve",
+    "source": {
+      "word": "evolve",
+      "phrases": [
+        "evolve into",
+        "evolve from",
+        "constantly evolving"
+      ]
+    },
+    "target": {
+      "word": "развиваться",
+      "phrases": [
+        "превращаться в",
+        "происходить от",
+        "постоянно развивающийся"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2537,
+    "lemma": "sake",
+    "source": {
+      "word": "sake",
+      "phrases": [
+        "for the sake of",
+        "for god's sake",
+        "drink sake"
+      ]
+    },
+    "target": {
+      "word": "ради",
+      "phrases": [
+        "ради чего-либо",
+        "ради Бога",
+        "пить саке"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2538,
+    "lemma": "shelf",
+    "source": {
+      "word": "shelf",
+      "phrases": [
+        "top shelf",
+        "off the shelf",
+        "shelf life"
+      ]
+    },
+    "target": {
+      "word": "полка",
+      "phrases": [
+        "верхняя полка",
+        "готовый к использованию",
+        "срок годности"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2539,
+    "lemma": "boost",
+    "source": {
+      "word": "boost",
+      "phrases": [
+        "boost confidence",
+        "boost economy",
+        "boost immune system"
+      ]
+    },
+    "target": {
+      "word": "повышать",
+      "phrases": [
+        "повысить уверенность",
+        "стимулировать экономику",
+        "укрепить иммунную систему"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2540,
+    "lemma": "tail",
+    "source": {
+      "word": "tail",
+      "phrases": [
+        "tail gate",
+        "heads or tails",
+        "chase your tail"
+      ]
+    },
+    "target": {
+      "word": "хвост",
+      "phrases": [
+        "задняя дверь",
+        "орел или решка",
+        "бегать за своим хвостом"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2541,
+    "lemma": "possession",
+    "source": {
+      "word": "possession",
+      "phrases": [
+        "in possession of",
+        "personal possession",
+        "possession of drugs"
+      ]
+    },
+    "target": {
+      "word": "владение",
+      "phrases": [
+        "во владении",
+        "личная собственность",
+        "хранение наркотиков"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2542,
+    "lemma": "abortion",
+    "source": {
+      "word": "abortion",
+      "phrases": [
+        "have an abortion",
+        "abortion clinic",
+        "anti-abortion"
+      ]
+    },
+    "target": {
+      "word": "аборт",
+      "phrases": [
+        "сделать аборт",
+        "клиника абортов",
+        "противник абортов"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2543,
+    "lemma": "curious",
+    "source": {
+      "word": "curious",
+      "phrases": [
+        "curious about",
+        "curious george",
+        "curious case"
+      ]
+    },
+    "target": {
+      "word": "любопытный",
+      "phrases": [
+        "любопытствующий о",
+        "любопытный Джордж",
+        "загадочная история"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2544,
+    "lemma": "wooden",
+    "source": {
+      "word": "wooden",
+      "phrases": [
+        "wooden spoon",
+        "wooden leg",
+        "wooden box"
+      ]
+    },
+    "target": {
+      "word": "деревянный",
+      "phrases": [
+        "деревянная ложка",
+        "деревянная нога",
+        "деревянный ящик"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2545,
+    "lemma": "boom",
+    "source": {
+      "word": "boom",
+      "phrases": [
+        "baby boom",
+        "economic boom",
+        "sonic boom"
+      ]
+    },
+    "target": {
+      "word": "бум",
+      "phrases": [
+        "беби-бум",
+        "экономический бум",
+        "звуковой удар"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2546,
+    "lemma": "tale",
+    "source": {
+      "word": "tale",
+      "phrases": [
+        "fairy tale",
+        "tell a tale",
+        "tall tale"
+      ]
+    },
+    "target": {
+      "word": "сказка",
+      "phrases": [
+        "сказка",
+        "рассказать историю",
+        "небылица"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2547,
+    "lemma": "democratic",
+    "source": {
+      "word": "democratic",
+      "phrases": [
+        "democratic party",
+        "democratic society",
+        "democratic process"
+      ]
+    },
+    "target": {
+      "word": "демократический",
+      "phrases": [
+        "демократическая партия",
+        "демократическое общество",
+        "демократический процесс"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2548,
+    "lemma": "maintenance",
+    "source": {
+      "word": "maintenance",
+      "phrases": [
+        "high maintenance",
+        "maintenance fee",
+        "regular maintenance"
+      ]
+    },
+    "target": {
+      "word": "обслуживание",
+      "phrases": [
+        "требовательный",
+        "плата за обслуживание",
+        "регулярное техническое обслуживание"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2549,
+    "lemma": "consequently",
+    "source": {
+      "word": "consequently",
+      "phrases": [
+        "and consequently",
+        "act consequently",
+        "consequently he failed"
+      ]
+    },
+    "target": {
+      "word": "следовательно",
+      "phrases": [
+        "и следовательно",
+        "действовать соответственно",
+        "вследствие этого он потерпел неудачу"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2550,
+    "lemma": "pot",
+    "source": {
+      "word": "pot",
+      "phrases": [
+        "melting pot",
+        "flower pot",
+        "pot of gold"
+      ]
+    },
+    "target": {
+      "word": "горшок",
+      "phrases": [
+        "плавильный котел",
+        "цветочный горшок",
+        "горшок золота"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2551,
+    "lemma": "cow",
+    "source": {
+      "word": "cow",
+      "phrases": [
+        "cash cow",
+        "holy cow",
+        "milk a cow"
+      ]
+    },
+    "target": {
+      "word": "корова",
+      "phrases": [
+        "дойная корова",
+        "святая корова",
+        "доить корову"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2552,
+    "lemma": "strengthen",
+    "source": {
+      "word": "strengthen",
+      "phrases": [
+        "strengthen relationship",
+        "strengthen muscles",
+        "strengthen the yen"
+      ]
+    },
+    "target": {
+      "word": "укреплять",
+      "phrases": [
+        "укреплять отношения",
+        "укреплять мышцы",
+        "укреплять иену"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2553,
+    "lemma": "whilst",
+    "source": {
+      "word": "whilst",
+      "phrases": [
+        "whilst waiting",
+        "whilst doing",
+        "whilst at work"
+      ]
+    },
+    "target": {
+      "word": "в то время как",
+      "phrases": [
+        "в ожидании",
+        "во время выполнения",
+        "во время работы"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2554,
+    "lemma": "constraint",
+    "source": {
+      "word": "constraint",
+      "phrases": [
+        "budget constraint",
+        "time constraint",
+        "without constraint"
+      ]
+    },
+    "target": {
+      "word": "ограничение",
+      "phrases": [
+        "бюджетное ограничение",
+        "ограничение по времени",
+        "без ограничений"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2555,
+    "lemma": "fold",
+    "source": {
+      "word": "fold",
+      "phrases": [
+        "fold arms",
+        "fold paper",
+        "fold laundry"
+      ]
+    },
+    "target": {
+      "word": "складывать",
+      "phrases": [
+        "скрестить руки",
+        "складывать бумагу",
+        "складывать белье"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2556,
+    "lemma": "bin",
+    "source": {
+      "word": "bin",
+      "phrases": [
+        "trash bin",
+        "recycle bin",
+        "bin bag"
+      ]
+    },
+    "target": {
+      "word": "корзина",
+      "phrases": [
+        "мусорное ведро",
+        "корзина для переработки",
+        "мешок для мусора"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2557,
+    "lemma": "undergo",
+    "source": {
+      "word": "undergo",
+      "phrases": [
+        "undergo surgery",
+        "undergo treatment",
+        "undergo changes"
+      ]
+    },
+    "target": {
+      "word": "подвергаться",
+      "phrases": [
+        "перенести операцию",
+        "проходить лечение",
+        "претерпевать изменения"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2558,
+    "lemma": "potentially",
+    "source": {
+      "word": "potentially",
+      "phrases": [
+        "potentially dangerous",
+        "potentially fatal",
+        "potentially useful"
+      ]
+    },
+    "target": {
+      "word": "потенциально",
+      "phrases": [
+        "потенциально опасно",
+        "потенциально смертельно",
+        "потенциально полезно"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2559,
+    "lemma": "scope",
+    "source": {
+      "word": "scope",
+      "phrases": [
+        "scope of work",
+        "beyond the scope",
+        "microscope"
+      ]
+    },
+    "target": {
+      "word": "рамки",
+      "phrases": [
+        "объем работ",
+        "за рамками",
+        "микроскоп"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2560,
+    "lemma": "pretend",
+    "source": {
+      "word": "pretend",
+      "phrases": [
+        "pretend to be",
+        "just pretend",
+        "pretend play"
+      ]
+    },
+    "target": {
+      "word": "притворяться",
+      "phrases": [
+        "притворяться кем-то",
+        "просто притворись",
+        "ролевая игра"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2561,
+    "lemma": "diversity",
+    "source": {
+      "word": "diversity",
+      "phrases": [
+        "cultural diversity",
+        "biological diversity",
+        "celebrate diversity"
+      ]
+    },
+    "target": {
+      "word": "разнообразие",
+      "phrases": [
+        "культурное разнообразие",
+        "биологическое разнообразие",
+        "праздновать разнообразие"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2562,
+    "lemma": "allege",
+    "source": {
+      "word": "allege",
+      "phrases": [
+        "alleged crime",
+        "it is alleged",
+        "alleged victim"
+      ]
+    },
+    "target": {
+      "word": "утверждать",
+      "phrases": [
+        "предполагаемое преступление",
+        "утверждается, что",
+        "предполагаемая жертва"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2563,
+    "lemma": "pride",
+    "source": {
+      "word": "pride",
+      "phrases": [
+        "take pride in",
+        "pride and joy",
+        "swallow your pride"
+      ]
+    },
+    "target": {
+      "word": "гордость",
+      "phrases": [
+        "гордиться чем-либо",
+        "гордость и радость",
+        "поступиться своей гордостью"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2564,
+    "lemma": "intense",
+    "source": {
+      "word": "intense",
+      "phrases": [
+        "intense pain",
+        "intense heat",
+        "intense pressure"
+      ]
+    },
+    "target": {
+      "word": "интенсивный",
+      "phrases": [
+        "сильная боль",
+        "сильная жара",
+        "сильное давление"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2565,
+    "lemma": "inquiry",
+    "source": {
+      "word": "inquiry",
+      "phrases": [
+        "make an inquiry",
+        "public inquiry",
+        "inquiry about"
+      ]
+    },
+    "target": {
+      "word": "запрос",
+      "phrases": [
+        "сделать запрос",
+        "публичное расследование",
+        "запрос о"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2566,
+    "lemma": "resign",
+    "source": {
+      "word": "resign",
+      "phrases": [
+        "resign from",
+        "resign as",
+        "resign oneself to"
+      ]
+    },
+    "target": {
+      "word": "увольняться",
+      "phrases": [
+        "уйти в отставку из",
+        "уйти с должности",
+        "смириться с"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2567,
+    "lemma": "craft",
+    "source": {
+      "word": "craft",
+      "phrases": [
+        "arts and crafts",
+        "craft beer",
+        "craftsmanship"
+      ]
+    },
+    "target": {
+      "word": "ремесло",
+      "phrases": [
+        "декоративно-прикладное искусство",
+        "крафтовое пиво",
+        "мастерство"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2568,
+    "lemma": "strict",
+    "source": {
+      "word": "strict",
+      "phrases": [
+        "strict rules",
+        "strict diet",
+        "strictly speaking"
+      ]
+    },
+    "target": {
+      "word": "строгий",
+      "phrases": [
+        "строгие правила",
+        "строгая диета",
+        "строго говоря"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2569,
+    "lemma": "concrete",
+    "source": {
+      "word": "concrete",
+      "phrases": [
+        "concrete evidence",
+        "reinforced concrete",
+        "concrete jungle"
+      ]
+    },
+    "target": {
+      "word": "бетон",
+      "phrases": [
+        "конкретные доказательства",
+        "железобетон",
+        "бетонные джунгли"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2570,
+    "lemma": "shell",
+    "source": {
+      "word": "shell",
+      "phrases": [
+        "sea shell",
+        "come out of shell",
+        "bomb shell"
+      ]
+    },
+    "target": {
+      "word": "оболочка",
+      "phrases": [
+        "морская ракушка",
+        "раскрыться (выйти из раковины)",
+        "сенсация (бомба)"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2571,
+    "lemma": "damn",
+    "source": {
+      "word": "damn",
+      "phrases": [
+        "damn it",
+        "don't give a damn",
+        "damn good"
+      ]
+    },
+    "target": {
+      "word": "проклятие",
+      "phrases": [
+        "черт возьми",
+        "наплевать",
+        "чертовски хорошо"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2572,
+    "lemma": "distinct",
+    "source": {
+      "word": "distinct",
+      "phrases": [
+        "distinct possibility",
+        "distinct from",
+        "distinct advantage"
+      ]
+    },
+    "target": {
+      "word": "отчетливый",
+      "phrases": [
+        "реальная возможность",
+        "отличающийся от",
+        "явное преимущество"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2573,
+    "lemma": "humor",
+    "source": {
+      "word": "humor",
+      "phrases": [
+        "sense of humor",
+        "black humor",
+        "good humor"
+      ]
+    },
+    "target": {
+      "word": "юмор",
+      "phrases": [
+        "чувство юмора",
+        "черный юмор",
+        "хорошее настроение"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2574,
+    "lemma": "limitation",
+    "source": {
+      "word": "limitation",
+      "phrases": [
+        "know your limitations",
+        "statute of limitations",
+        "without limitation"
+      ]
+    },
+    "target": {
+      "word": "ограничение",
+      "phrases": [
+        "знать свои пределы",
+        "срок исковой давности",
+        "без ограничений"
+      ]
+    },
+    "frequency": 24
+  },
+  {
+    "rank": 2575,
+    "lemma": "indication",
+    "source": {
+      "word": "indication",
+      "phrases": [
+        "indication of",
+        "give an indication",
+        "clear indication"
+      ]
+    },
+    "target": {
+      "word": "признак",
+      "phrases": [
+        "признак чего-либо",
+        "дать понять",
+        "явное указание"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2576,
+    "lemma": "stability",
+    "source": {
+      "word": "stability",
+      "phrases": [
+        "political stability",
+        "financial stability",
+        "stability and growth"
+      ]
+    },
+    "target": {
+      "word": "стабильность",
+      "phrases": [
+        "политическая стабильность",
+        "финансовая стабильность",
+        "стабильность и рост"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2577,
+    "lemma": "wise",
+    "source": {
+      "word": "wise",
+      "phrases": [
+        "wise man",
+        "word to the wise",
+        "street wise"
+      ]
+    },
+    "target": {
+      "word": "мудрый",
+      "phrases": [
+        "мудрец",
+        "совет знающему",
+        "опытный (уличная смекалка)"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2578,
+    "lemma": "neglect",
+    "source": {
+      "word": "neglect",
+      "phrases": [
+        "child neglect",
+        "neglect duty",
+        "neglect to"
+      ]
+    },
+    "target": {
+      "word": "пренебрежение",
+      "phrases": [
+        "безнадзорность детей",
+        "пренебрегать обязанностями",
+        "забыть сделать"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2579,
+    "lemma": "compose",
+    "source": {
+      "word": "compose",
+      "phrases": [
+        "compose music",
+        "compose an email",
+        "compose yourself"
+      ]
+    },
+    "target": {
+      "word": "сочинять",
+      "phrases": [
+        "сочинять музыку",
+        "составить электронное письмо",
+        "собраться с мыслями"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2580,
+    "lemma": "jail",
+    "source": {
+      "word": "jail",
+      "phrases": [
+        "go to jail",
+        "jail break",
+        "get out of jail free"
+      ]
+    },
+    "target": {
+      "word": "тюрьма",
+      "phrases": [
+        "сесть в тюрьму",
+        "побег из тюрьмы",
+        "освободиться из тюрьмы"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2581,
+    "lemma": "shelter",
+    "source": {
+      "word": "shelter",
+      "phrases": [
+        "animal shelter",
+        "take shelter",
+        "bus shelter"
+      ]
+    },
+    "target": {
+      "word": "приют",
+      "phrases": [
+        "приют для животных",
+        "укрыться",
+        "автобусная остановка"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2582,
+    "lemma": "mere",
+    "source": {
+      "word": "mere",
+      "phrases": [
+        "mere mortal",
+        "a mere child",
+        "merely"
+      ]
+    },
+    "target": {
+      "word": "всего лишь",
+      "phrases": [
+        "простой смертный",
+        "всего лишь ребенок",
+        "просто"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2583,
+    "lemma": "carbon",
+    "source": {
+      "word": "carbon",
+      "phrases": [
+        "carbon footprint",
+        "carbon dioxide",
+        "carbon copy"
+      ]
+    },
+    "target": {
+      "word": "углерод",
+      "phrases": [
+        "углеродный след",
+        "углекислый газ",
+        "копия под копирку"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2584,
+    "lemma": "regulate",
+    "source": {
+      "word": "regulate",
+      "phrases": [
+        "regulate blood pressure",
+        "regulated industry",
+        "regulate flow"
+      ]
+    },
+    "target": {
+      "word": "регулировать",
+      "phrases": [
+        "регулировать кровяное давление",
+        "регулируемая отрасль",
+        "регулировать поток"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2585,
+    "lemma": "cheese",
+    "source": {
+      "word": "cheese",
+      "phrases": [
+        "say cheese",
+        "big cheese",
+        "macaroni and cheese"
+      ]
+    },
+    "target": {
+      "word": "сыр",
+      "phrases": [
+        "скажите «сыр»",
+        "важная персона",
+        "макароны с сыром"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2586,
+    "lemma": "trigger",
+    "source": {
+      "word": "trigger",
+      "phrases": [
+        "pull the trigger",
+        "trigger warning",
+        "trigger a reaction"
+      ]
+    },
+    "target": {
+      "word": "триггер",
+      "phrases": [
+        "спустить курок",
+        "предупреждение о триггере",
+        "вызвать реакцию"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2587,
+    "lemma": "pipe",
+    "source": {
+      "word": "pipe",
+      "phrases": [
+        "pipe dream",
+        "water pipe",
+        "pipeline"
+      ]
+    },
+    "target": {
+      "word": "труба",
+      "phrases": [
+        "несбыточная мечта",
+        "водопроводная труба",
+        "трубопровод"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2588,
+    "lemma": "destruction",
+    "source": {
+      "word": "destruction",
+      "phrases": [
+        "mass destruction",
+        "self destruction",
+        "total destruction"
+      ]
+    },
+    "target": {
+      "word": "разрушение",
+      "phrases": [
+        "массовое уничтожение",
+        "саморазрушение",
+        "полное разрушение"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2589,
+    "lemma": "guitar",
+    "source": {
+      "word": "guitar",
+      "phrases": [
+        "play guitar",
+        "electric guitar",
+        "air guitar"
+      ]
+    },
+    "target": {
+      "word": "гитара",
+      "phrases": [
+        "играть на гитаре",
+        "электрогитара",
+        "воздушная гитара"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2590,
+    "lemma": "flag",
+    "source": {
+      "word": "flag",
+      "phrases": [
+        "red flag",
+        "flag down",
+        "national flag"
+      ]
+    },
+    "target": {
+      "word": "флаг",
+      "phrases": [
+        "тревожный звоночек",
+        "остановить взмахом руки",
+        "государственный флаг"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2591,
+    "lemma": "piano",
+    "source": {
+      "word": "piano",
+      "phrases": [
+        "play the piano",
+        "grand piano",
+        "piano lesson"
+      ]
+    },
+    "target": {
+      "word": "пианино",
+      "phrases": [
+        "играть на пианино",
+        "рояль",
+        "урок игры на фортепиано"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2592,
+    "lemma": "magic",
+    "source": {
+      "word": "magic",
+      "phrases": [
+        "magic trick",
+        "like magic",
+        "magic wand"
+      ]
+    },
+    "target": {
+      "word": "магия",
+      "phrases": [
+        "фокус",
+        "как по волшебству",
+        "волшебная палочка"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2593,
+    "lemma": "mystery",
+    "source": {
+      "word": "mystery",
+      "phrases": [
+        "murder mystery",
+        "solve a mystery",
+        "mystery guest"
+      ]
+    },
+    "target": {
+      "word": "тайна",
+      "phrases": [
+        "детектив об убийстве",
+        "разгадать тайну",
+        "таинственный гость"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2594,
+    "lemma": "ski",
+    "source": {
+      "word": "ski",
+      "phrases": [
+        "ski resort",
+        "jet ski",
+        "ski slope"
+      ]
+    },
+    "target": {
+      "word": "лыжи",
+      "phrases": [
+        "лыжный курорт",
+        "гидроцикл",
+        "лыжный склон"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2595,
+    "lemma": "whisper",
+    "source": {
+      "word": "whisper",
+      "phrases": [
+        "whisper in ear",
+        "chinese whispers",
+        "whisper campaign"
+      ]
+    },
+    "target": {
+      "word": "шепот",
+      "phrases": [
+        "шептать на ухо",
+        "испорченный телефон",
+        "кампания по дезинформации"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2596,
+    "lemma": "rear",
+    "source": {
+      "word": "rear",
+      "phrases": [
+        "rear view mirror",
+        "rear end",
+        "bring up the rear"
+      ]
+    },
+    "target": {
+      "word": "задний",
+      "phrases": [
+        "зеркало заднего вида",
+        "задняя часть",
+        "плестись в хвосте"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2597,
+    "lemma": "menu",
+    "source": {
+      "word": "menu",
+      "phrases": [
+        "on the menu",
+        "start menu",
+        "main menu"
+      ]
+    },
+    "target": {
+      "word": "меню",
+      "phrases": [
+        "в меню",
+        "меню «пуск»",
+        "главное меню"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2598,
+    "lemma": "species",
+    "source": {
+      "word": "species",
+      "phrases": [
+        "endangered species",
+        "origin of species",
+        "human species"
+      ]
+    },
+    "target": {
+      "word": "вид",
+      "phrases": [
+        "вымирающие виды",
+        "происхождение видов",
+        "человеческий род"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2599,
+    "lemma": "moon",
+    "source": {
+      "word": "moon",
+      "phrases": [
+        "full moon",
+        "over the moon",
+        "once in a blue moon"
+      ]
+    },
+    "target": {
+      "word": "луна",
+      "phrases": [
+        "полнолуние",
+        "вне себя от счастья",
+        "раз в сто лет"
+      ]
+    },
+    "frequency": 23
+  },
+  {
+    "rank": 2600,
+    "lemma": "presumably",
+    "source": {
+      "word": "presumably",
+      "phrases": [
+        "presumably due to",
+        "presumably dead",
+        "he is presumably"
+      ]
+    },
+    "target": {
+      "word": "предположительно",
+      "phrases": [
+        "предположительно из-за",
+        "считается погибшим",
+        "он, по-видимому"
+      ]
+    },
+    "frequency": 23
+  }
+]

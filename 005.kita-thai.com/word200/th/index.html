@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Learn Thai — 200 Survival Words | OctoCore</title>
+    <meta name="description"
+        content="Master 200 essential Thai words with mandala learning. Multi-language support: Japanese, English, Chinese, Hindi, Spanish.">
+    <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+    <script>window.OCTOCORE_CONFIG = { targetLang: 'th', basePath: '../' };</script>
+
+    <!-- A. GATEWAY (hidden on auto-init, kept for structure) -->
+    <section id="gateway" class="screen active">
+        <div class="gateway-content">
+            <h1 class="hero-text">
+                🇹🇭<br><span>Learn Thai</span>
+            </h1>
+            <p style="color:var(--text-secondary);margin-top:1rem;">Loading...</p>
+        </div>
+    </section>
+
+    <!-- B. CONTEXT MODAL -->
+    <div id="context-modal" class="modal-overlay">
+        <div class="modal-box">
+            <h2>What is your native language?</h2>
+            <p class="modal-sub">あなたの母国語は？</p>
+            <div class="native-grid" id="native-grid"></div>
+        </div>
+    </div>
+
+    <!-- C. BASE CAMP -->
+    <section id="basecamp" class="screen">
+        <header class="bc-header">
+            <button class="back-btn" onclick="App.goGateway()">←</button>
+            <h2 class="bc-title" id="bc-title">—</h2>
+            <button class="bc-settings-btn" onclick="App.changeNative()" title="Change native language">🌐 <span
+                    class="bc-settings-label">Language</span></button>
+        </header>
+        <div class="progress-section">
+            <div class="progress-bar-track">
+                <div class="progress-bar-fill" id="progress-fill"></div>
+            </div>
+            <span class="progress-text" id="progress-text">0 / 200</span>
+        </div>
+        <div class="filter-tabs" id="filter-tabs">
+            <button class="filter-tab active" data-filter="all" onclick="App.setFilter('all')">All</button>
+            <button class="filter-tab" data-filter="core" onclick="App.setFilter('core')">Core 20</button>
+        </div>
+        <div class="playback-launcher">
+            <button class="playback-btn" onclick="App.startCinema('word')">
+                <span class="playback-btn-icon">🎧</span>
+                <div class="playback-btn-text">
+                    <strong>Word Flow</strong>
+                    <small>Listen to words one by one</small>
+                </div>
+            </button>
+            <button class="playback-btn" onclick="App.startCinema('mandala')">
+                <span class="playback-btn-icon">🎬</span>
+                <div class="playback-btn-text">
+                    <strong>Mandala Flow</strong>
+                    <small>Full phrases auto-play</small>
+                </div>
+            </button>
+        </div>
+        <div class="word-list" id="word-list">
+            <div class="loading">Loading</div>
+        </div>
+    </section>
+
+    <!-- D. ARENA -->
+    <section id="arena" class="screen">
+        <header class="arena-header">
+            <button class="back-btn" onclick="App.goBasecamp()">←</button>
+            <div class="arena-counter">
+                <span class="current" id="arena-current">1</span>
+                <span> / </span>
+                <span id="arena-total">200</span>
+            </div>
+            <button class="auto-play-btn" id="auto-play-btn" onclick="App.toggleAutoPlay()">▶ Auto</button>
+        </header>
+        <div class="mandala-container" id="mandala-container">
+            <div class="mandala-grid" id="mandala-grid"></div>
+        </div>
+        <p class="swipe-indicator">← SWIPE or TAP to navigate →</p>
+        <div class="arena-nav">
+            <button class="arena-nav-btn" id="prev-btn" onclick="App.prevWord()">◀</button>
+            <button class="arena-nav-btn" id="next-btn" onclick="App.nextWord()">▶</button>
+        </div>
+    </section>
+
+    <!-- E. CINEMA -->
+    <section id="cinema" class="screen">
+        <header class="cinema-header">
+            <button class="back-btn" onclick="App.stopCinema()">✕</button>
+            <div class="cinema-counter">
+                <span id="cinema-current">1</span>
+                <span> / </span>
+                <span id="cinema-total">200</span>
+            </div>
+            <button class="cinema-pause-btn" id="cinema-pause-btn" onclick="App.toggleCinemaPause()">⏸</button>
+        </header>
+        <div class="cinema-word-display" id="cinema-word-display">
+            <div class="cinema-num" id="cinema-num">1</div>
+            <div class="cinema-target" id="cinema-target">—</div>
+            <div class="cinema-pron" id="cinema-pron"></div>
+            <div class="cinema-native" id="cinema-native">—</div>
+        </div>
+        <div class="cinema-mandala-display" id="cinema-mandala-display" style="display:none;">
+            <div class="mandala-container">
+                <div class="mandala-grid" id="cinema-mandala-grid"></div>
+            </div>
+        </div>
+        <div class="cinema-progress">
+            <div class="cinema-progress-track">
+                <div class="cinema-progress-fill" id="cinema-progress-fill"></div>
+            </div>
+        </div>
+    </section>
+
+    <script src="../app.js"></script>
+</body>
+
+</html>

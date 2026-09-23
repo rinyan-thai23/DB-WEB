@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 1101,
+    "lemma": "progress",
+    "source": {
+      "word": "progress",
+      "phrases": [
+        "make progress",
+        "in progress",
+        "work in progress"
+      ]
+    },
+    "target": {
+      "word": "진보",
+      "phrases": [
+        "진전을 보이다",
+        "진행 중인",
+        "작업 진행 중"
+      ]
+    },
+    "frequency": 82
+  },
+  {
+    "rank": 1102,
+    "lemma": "truth",
+    "source": {
+      "word": "truth",
+      "phrases": [
+        "tell the truth",
+        "moment of truth",
+        "to tell the truth"
+      ]
+    },
+    "target": {
+      "word": "진실",
+      "phrases": [
+        "진실을 말하다",
+        "진실의 순간",
+        "사실대로 말하자면"
+      ]
+    },
+    "frequency": 82
+  },
+  {
+    "rank": 1103,
+    "lemma": "nobody",
+    "source": {
+      "word": "nobody",
+      "phrases": [
+        "nobody knows",
+        "nobody cares",
+        "like nobody else"
+      ]
+    },
+    "target": {
+      "word": "아무도 ~않다",
+      "phrases": [
+        "아무도 모른다",
+        "아무도 상관하지 않는다",
+        "그 누구보다도"
+      ]
+    },
+    "frequency": 82
+  },
+  {
+    "rank": 1104,
+    "lemma": "examine",
+    "source": {
+      "word": "examine",
+      "phrases": [
+        "examine carefully",
+        "examine the patient",
+        "cross examine"
+      ]
+    },
+    "target": {
+      "word": "조사하다",
+      "phrases": [
+        "주의 깊게 조사하다",
+        "환자를 진찰하다",
+        "반대 심문하다"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1105,
+    "lemma": "lay",
+    "source": {
+      "word": "lay",
+      "phrases": [
+        "lay down",
+        "lay off",
+        "lay the foundation"
+      ]
+    },
+    "target": {
+      "word": "놓다",
+      "phrases": [
+        "눕다",
+        "해고하다",
+        "토대를 마련하다"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1106,
+    "lemma": "speed",
+    "source": {
+      "word": "speed",
+      "phrases": [
+        "speed limit",
+        "high speed",
+        "speed up"
+      ]
+    },
+    "target": {
+      "word": "속도",
+      "phrases": [
+        "속도 제한",
+        "고속",
+        "속도를 높이다"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1107,
+    "lemma": "politics",
+    "source": {
+      "word": "politics",
+      "phrases": [
+        "go into politics",
+        "dirty politics",
+        "talk politics"
+      ]
+    },
+    "target": {
+      "word": "정치",
+      "phrases": [
+        "정계에 입문하다",
+        "더러운 정치",
+        "정치 이야기를 하다"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1108,
+    "lemma": "reply",
+    "source": {
+      "word": "reply",
+      "phrases": [
+        "reply to",
+        "no reply",
+        "reply email"
+      ]
+    },
+    "target": {
+      "word": "답장",
+      "phrases": [
+        "~에 답장하다",
+        "무응답",
+        "답장 이메일"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1109,
+    "lemma": "display",
+    "source": {
+      "word": "display",
+      "phrases": [
+        "on display",
+        "display screen",
+        "display affection"
+      ]
+    },
+    "target": {
+      "word": "전시",
+      "phrases": [
+        "전시 중인",
+        "디스플레이 화면",
+        "애정을 표현하다"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1110,
+    "lemma": "transfer",
+    "source": {
+      "word": "transfer",
+      "phrases": [
+        "transfer money",
+        "transfer to",
+        "bank transfer"
+      ]
+    },
+    "target": {
+      "word": "이체",
+      "phrases": [
+        "돈을 송금하다",
+        "~로 전근하다",
+        "계좌 이체"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1111,
+    "lemma": "perfect",
+    "source": {
+      "word": "perfect",
+      "phrases": [
+        "perfect match",
+        "nobody's perfect",
+        "makes perfect"
+      ]
+    },
+    "target": {
+      "word": "완벽한",
+      "phrases": [
+        "천생연분",
+        "완벽한 사람은 없다",
+        "완벽하게 만들다"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1112,
+    "lemma": "slightly",
+    "source": {
+      "word": "slightly",
+      "phrases": [
+        "slightly different",
+        "slightly better",
+        "smile slightly"
+      ]
+    },
+    "target": {
+      "word": "약간",
+      "phrases": [
+        "조금 다른",
+        "약간 더 나은",
+        "살짝 미소 짓다"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1113,
+    "lemma": "overall",
+    "source": {
+      "word": "overall",
+      "phrases": [
+        "overall impression",
+        "overall score",
+        "overall health"
+      ]
+    },
+    "target": {
+      "word": "전반적인",
+      "phrases": [
+        "전반적인 인상",
+        "총점",
+        "전반적인 건강"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1114,
+    "lemma": "intend",
+    "source": {
+      "word": "intend",
+      "phrases": [
+        "intend to",
+        "no pun intended",
+        "fully intend"
+      ]
+    },
+    "target": {
+      "word": "의도하다",
+      "phrases": [
+        "~할 의도이다",
+        "언어유희를 의도한 것이 아닌",
+        "전적으로 의도하다"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1115,
+    "lemma": "user",
+    "source": {
+      "word": "user",
+      "phrases": [
+        "user friendly",
+        "user name",
+        "user interface"
+      ]
+    },
+    "target": {
+      "word": "사용자",
+      "phrases": [
+        "사용자 친화적인",
+        "사용자 이름",
+        "사용자 인터페이스"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1116,
+    "lemma": "respond",
+    "source": {
+      "word": "respond",
+      "phrases": [
+        "respond to",
+        "respond quickly",
+        "fail to respond"
+      ]
+    },
+    "target": {
+      "word": "응답하다",
+      "phrases": [
+        "~에 응답하다",
+        "빨리 응답하다",
+        "응답하지 못하다"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1117,
+    "lemma": "dinner",
+    "source": {
+      "word": "dinner",
+      "phrases": [
+        "have dinner",
+        "dinner party",
+        "make dinner"
+      ]
+    },
+    "target": {
+      "word": "저녁 식사",
+      "phrases": [
+        "저녁을 먹다",
+        "저녁 파티",
+        "저녁을 차리다"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1118,
+    "lemma": "slow",
+    "source": {
+      "word": "slow",
+      "phrases": [
+        "slow down",
+        "slow motion",
+        "slowly but surely"
+      ]
+    },
+    "target": {
+      "word": "느린",
+      "phrases": [
+        "속도를 줄이다",
+        "느린 동작",
+        "느릿느릿하지만 확실하게"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1119,
+    "lemma": "regular",
+    "source": {
+      "word": "regular",
+      "phrases": [
+        "regular exercise",
+        "regular customer",
+        "regular basis"
+      ]
+    },
+    "target": {
+      "word": "정기적인",
+      "phrases": [
+        "규칙적인 운동",
+        "단골 손님",
+        "정기적으로"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1120,
+    "lemma": "physical",
+    "source": {
+      "word": "physical",
+      "phrases": [
+        "physical education",
+        "physical health",
+        "physical contact"
+      ]
+    },
+    "target": {
+      "word": "신체적인",
+      "phrases": [
+        "체육",
+        "신체 건강",
+        "신체 접촉"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1121,
+    "lemma": "apart",
+    "source": {
+      "word": "apart",
+      "phrases": [
+        "fall apart",
+        "tell apart",
+        "take apart"
+      ]
+    },
+    "target": {
+      "word": "떨어져서",
+      "phrases": [
+        "무너지다",
+        "구별하다",
+        "분해하다"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1122,
+    "lemma": "suit",
+    "source": {
+      "word": "suit",
+      "phrases": [
+        "suit yourself",
+        "follow suit",
+        "bathing suit"
+      ]
+    },
+    "target": {
+      "word": "정장/적합하다",
+      "phrases": [
+        "마음대로 하다",
+        "선례를 따르다",
+        "수영복"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1123,
+    "lemma": "federal",
+    "source": {
+      "word": "federal",
+      "phrases": [
+        "federal government",
+        "federal law",
+        "federal reserve"
+      ]
+    },
+    "target": {
+      "word": "연방의",
+      "phrases": [
+        "연방 정부",
+        "연방 정부법",
+        "연방 준비 제도"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1124,
+    "lemma": "reveal",
+    "source": {
+      "word": "reveal",
+      "phrases": [
+        "reveal the truth",
+        "reveal a secret",
+        "revealing dress"
+      ]
+    },
+    "target": {
+      "word": "드러내다",
+      "phrases": [
+        "진실을 밝히다",
+        "비밀을 누설하다",
+        "노출이 심한 드레스"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1125,
+    "lemma": "percentage",
+    "source": {
+      "word": "percentage",
+      "phrases": [
+        "high percentage",
+        "percentage point",
+        "small percentage"
+      ]
+    },
+    "target": {
+      "word": "백분율",
+      "phrases": [
+        "높은 비율",
+        "퍼센트 포인트",
+        "적은 비율"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1126,
+    "lemma": "peace",
+    "source": {
+      "word": "peace",
+      "phrases": [
+        "peace of mind",
+        "rest in peace",
+        "world peace"
+      ]
+    },
+    "target": {
+      "word": "평화",
+      "phrases": [
+        "마음의 평화",
+        "평안히 잠들다",
+        "세계 평화"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1127,
+    "lemma": "status",
+    "source": {
+      "word": "status",
+      "phrases": [
+        "social status",
+        "status symbol",
+        "status quo"
+      ]
+    },
+    "target": {
+      "word": "상태/지위",
+      "phrases": [
+        "사회적 지위",
+        "지위의 상징",
+        "현상 유지"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1128,
+    "lemma": "crime",
+    "source": {
+      "word": "crime",
+      "phrases": [
+        "commit a crime",
+        "crime scene",
+        "organized crime"
+      ]
+    },
+    "target": {
+      "word": "범죄",
+      "phrases": [
+        "범죄를 저지르다",
+        "범죄 현장",
+        "조직 범죄"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1129,
+    "lemma": "decline",
+    "source": {
+      "word": "decline",
+      "phrases": [
+        "decline an offer",
+        "sharp decline",
+        "in decline"
+      ]
+    },
+    "target": {
+      "word": "감소/거절하다",
+      "phrases": [
+        "제안을 거절하다",
+        "급격한 감소",
+        "쇠퇴기에 접어든"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1130,
+    "lemma": "decade",
+    "source": {
+      "word": "decade",
+      "phrases": [
+        "last decade",
+        "decade ago",
+        "over a decade"
+      ]
+    },
+    "target": {
+      "word": "10년",
+      "phrases": [
+        "지난 10년",
+        "10년 전",
+        "10여 년 동안"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1131,
+    "lemma": "launch",
+    "source": {
+      "word": "launch",
+      "phrases": [
+        "launch a product",
+        "launch a rocket",
+        "soft launch"
+      ]
+    },
+    "target": {
+      "word": "출시/발사하다",
+      "phrases": [
+        "제품을 출시하다",
+        "로켓을 발사하다",
+        "소프트 런칭"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1132,
+    "lemma": "warn",
+    "source": {
+      "word": "warn",
+      "phrases": [
+        "warn about",
+        "warn you",
+        "fair warning"
+      ]
+    },
+    "target": {
+      "word": "경고하다",
+      "phrases": [
+        "~에 대해 경고하다",
+        "너에게 경고하다",
+        "충분한 사전 경고"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1133,
+    "lemma": "consumer",
+    "source": {
+      "word": "consumer",
+      "phrases": [
+        "consumer goods",
+        "consumer protection",
+        "consumer spending"
+      ]
+    },
+    "target": {
+      "word": "소비자",
+      "phrases": [
+        "소비재",
+        "소비자 보호",
+        "소비 지출"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1134,
+    "lemma": "favor",
+    "source": {
+      "word": "favor",
+      "phrases": [
+        "do me a favor",
+        "in favor of",
+        "return the favor"
+      ]
+    },
+    "target": {
+      "word": "호의/찬성",
+      "phrases": [
+        "부탁을 들어주다",
+        "~에 찬성하여",
+        "호의에 보답하다"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1135,
+    "lemma": "dry",
+    "source": {
+      "word": "dry",
+      "phrases": [
+        "dry skin",
+        "dry cleaning",
+        "high and dry"
+      ]
+    },
+    "target": {
+      "word": "마른",
+      "phrases": [
+        "건성 피부",
+        "드라이클리닝",
+        "무일푼이 되어"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1136,
+    "lemma": "partner",
+    "source": {
+      "word": "partner",
+      "phrases": [
+        "business partner",
+        "life partner",
+        "partner in crime"
+      ]
+    },
+    "target": {
+      "word": "파트너",
+      "phrases": [
+        "사업 파트너",
+        "인생 반려자",
+        "공범"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1137,
+    "lemma": "institution",
+    "source": {
+      "word": "institution",
+      "phrases": [
+        "financial institution",
+        "educational institution",
+        "mental institution"
+      ]
+    },
+    "target": {
+      "word": "기관",
+      "phrases": [
+        "금융 기관",
+        "교육 기관",
+        "정신 병원"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1138,
+    "lemma": "spot",
+    "source": {
+      "word": "spot",
+      "phrases": [
+        "on the spot",
+        "blind spot",
+        "parking spot"
+      ]
+    },
+    "target": {
+      "word": "장소/발견하다",
+      "phrases": [
+        "즉석에서",
+        "사각지대",
+        "주차 공간"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1139,
+    "lemma": "horse",
+    "source": {
+      "word": "horse",
+      "phrases": [
+        "ride a horse",
+        "dark horse",
+        "hold your horses"
+      ]
+    },
+    "target": {
+      "word": "말",
+      "phrases": [
+        "말을 타다",
+        "다크호스",
+        "진정해라"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1140,
+    "lemma": "eventually",
+    "source": {
+      "word": "eventually",
+      "phrases": [
+        "will eventually",
+        "eventually lead to",
+        "eventually found"
+      ]
+    },
+    "target": {
+      "word": "결국",
+      "phrases": [
+        "결국 ~할 것이다",
+        "결국 ~으로 이어지다",
+        "결국 찾아내다"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1141,
+    "lemma": "heat",
+    "source": {
+      "word": "heat",
+      "phrases": [
+        "heat wave",
+        "turn up the heat",
+        "heat of the moment"
+      ]
+    },
+    "target": {
+      "word": "열",
+      "phrases": [
+        "폭염",
+        "열을 올리다",
+        "흥분한 와중에"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1142,
+    "lemma": "excite",
+    "source": {
+      "word": "excite",
+      "phrases": [
+        "excited about",
+        "nothing to get excited about",
+        "excite the crowd"
+      ]
+    },
+    "target": {
+      "word": "흥분시키다",
+      "phrases": [
+        "~에 대해 신이 난",
+        "흥분할 일 없는",
+        "관중을 열광시키다"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1143,
+    "lemma": "reader",
+    "source": {
+      "word": "reader",
+      "phrases": [
+        "mind reader",
+        "card reader",
+        "avid reader"
+      ]
+    },
+    "target": {
+      "word": "독자",
+      "phrases": [
+        "독심술사",
+        "카드 판독기",
+        "열성적인 독자"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1144,
+    "lemma": "importance",
+    "source": {
+      "word": "importance",
+      "phrases": [
+        "of great importance",
+        "attach importance to",
+        "realize the importance"
+      ]
+    },
+    "target": {
+      "word": "중요성",
+      "phrases": [
+        "매우 중요한",
+        "~에 중요성을 두다",
+        "중요성을 깨닫다"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1145,
+    "lemma": "distance",
+    "source": {
+      "word": "distance",
+      "phrases": [
+        "long distance",
+        "keep your distance",
+        "in the distance"
+      ]
+    },
+    "target": {
+      "word": "거리",
+      "phrases": [
+        "장거리",
+        "거리를 두다",
+        "멀리서"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1146,
+    "lemma": "guide",
+    "source": {
+      "word": "guide",
+      "phrases": [
+        "tour guide",
+        "guide dog",
+        "user guide"
+      ]
+    },
+    "target": {
+      "word": "안내서/가이드",
+      "phrases": [
+        "여행 가이드",
+        "안내견",
+        "사용자 설명서"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1147,
+    "lemma": "grant",
+    "source": {
+      "word": "grant",
+      "phrases": [
+        "take for granted",
+        "grant a wish",
+        "grant permission"
+      ]
+    },
+    "target": {
+      "word": "승인하다/부여하다",
+      "phrases": [
+        "당연하게 여기다",
+        "소원을 들어주다",
+        "허가를 내주다"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1148,
+    "lemma": "taxi",
+    "source": {
+      "word": "taxi",
+      "phrases": [
+        "take a taxi",
+        "taxi driver",
+        "call a taxi"
+      ]
+    },
+    "target": {
+      "word": "택시",
+      "phrases": [
+        "택시를 타다",
+        "택시 기사",
+        "택시를 부르다"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1149,
+    "lemma": "feed",
+    "source": {
+      "word": "feed",
+      "phrases": [
+        "feed the dog",
+        "feed on",
+        "breast feed"
+      ]
+    },
+    "target": {
+      "word": "먹이다",
+      "phrases": [
+        "강아지에게 먹이를 주다",
+        "~을 먹고 살다",
+        "모유 수유를 하다"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1150,
+    "lemma": "pain",
+    "source": {
+      "word": "pain",
+      "phrases": [
+        "pain in the neck",
+        "no pain no gain",
+        "feel pain"
+      ]
+    },
+    "target": {
+      "word": "통증/고통",
+      "phrases": [
+        "골칫덩어리",
+        "고통 없이는 얻는 것도 없다",
+        "통증을 느끼다"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1151,
+    "lemma": "sector",
+    "source": {
+      "word": "sector",
+      "phrases": [
+        "private sector",
+        "public sector",
+        "agricultural sector"
+      ]
+    },
+    "target": {
+      "word": "부문",
+      "phrases": [
+        "민간 부문",
+        "공공 부문",
+        "농업 부문"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1152,
+    "lemma": "mistake",
+    "source": {
+      "word": "mistake",
+      "phrases": [
+        "make a mistake",
+        "by mistake",
+        "learn from mistakes"
+      ]
+    },
+    "target": {
+      "word": "실수",
+      "phrases": [
+        "실수를 하다",
+        "실수로",
+        "실수를 통해 배우다"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1153,
+    "lemma": "ensure",
+    "source": {
+      "word": "ensure",
+      "phrases": [
+        "ensure safety",
+        "ensure that",
+        "to ensure"
+      ]
+    },
+    "target": {
+      "word": "보장하다",
+      "phrases": [
+        "안전을 보장하다",
+        "~을 확실히 하다",
+        "~을 보장하기 위해"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1154,
+    "lemma": "satisfy",
+    "source": {
+      "word": "satisfy",
+      "phrases": [
+        "satisfy needs",
+        "satisfied with",
+        "customer satisfaction"
+      ]
+    },
+    "target": {
+      "word": "만족시키다",
+      "phrases": [
+        "요구사항을 충족시키다",
+        "~에 만족하는",
+        "고객 만족"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1155,
+    "lemma": "chief",
+    "source": {
+      "word": "chief",
+      "phrases": [
+        "chief executive",
+        "commander in chief",
+        "editor in chief"
+      ]
+    },
+    "target": {
+      "word": "장을 맡은/최고위의",
+      "phrases": [
+        "최고 경영자",
+        "총사령관",
+        "편집국장"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1156,
+    "lemma": "cool",
+    "source": {
+      "word": "cool",
+      "phrases": [
+        "keep cool",
+        "cool down",
+        "that's cool"
+      ]
+    },
+    "target": {
+      "word": "시원한/진정하다",
+      "phrases": [
+        "침착함을 유지하다",
+        "열을 식히다",
+        "멋지다"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1157,
+    "lemma": "expert",
+    "source": {
+      "word": "expert",
+      "phrases": [
+        "expert opinion",
+        "expert in",
+        "become an expert"
+      ]
+    },
+    "target": {
+      "word": "전문가",
+      "phrases": [
+        "전문가 의견",
+        "~의 전문가",
+        "전문가가 되다"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1158,
+    "lemma": "wave",
+    "source": {
+      "word": "wave",
+      "phrases": [
+        "wave goodbye",
+        "heat wave",
+        "make waves"
+      ]
+    },
+    "target": {
+      "word": "파도/흔들다",
+      "phrases": [
+        "작별 인사를 흔들다",
+        "폭염",
+        "풍파를 일으키다"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1159,
+    "lemma": "south",
+    "source": {
+      "word": "south",
+      "phrases": [
+        "south pole",
+        "down south",
+        "South Africa"
+      ]
+    },
+    "target": {
+      "word": "남쪽",
+      "phrases": [
+        "남극",
+        "남쪽 아래에",
+        "남아프리카"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1160,
+    "lemma": "labor",
+    "source": {
+      "word": "labor",
+      "phrases": [
+        "child labor",
+        "labor market",
+        "manual labor"
+      ]
+    },
+    "target": {
+      "word": "노동",
+      "phrases": [
+        "아동 노동",
+        "노동 시장",
+        "육체 노동"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1161,
+    "lemma": "surface",
+    "source": {
+      "word": "surface",
+      "phrases": [
+        "on the surface",
+        "surface area",
+        "scratch the surface"
+      ]
+    },
+    "target": {
+      "word": "표면",
+      "phrases": [
+        "표면상으로",
+        "표면적",
+        "수박 겉 핥기"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1162,
+    "lemma": "library",
+    "source": {
+      "word": "library",
+      "phrases": [
+        "public library",
+        "go to the library",
+        "library card"
+      ]
+    },
+    "target": {
+      "word": "도서관",
+      "phrases": [
+        "공공 도서관",
+        "도서관에 가다",
+        "도서관 대출증"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1163,
+    "lemma": "excellent",
+    "source": {
+      "word": "excellent",
+      "phrases": [
+        "excellent work",
+        "excellent idea",
+        "excellent condition"
+      ]
+    },
+    "target": {
+      "word": "훌륭한",
+      "phrases": [
+        "훌륭한 성과",
+        "훌륭한 아이디어",
+        "최상의 상태"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1164,
+    "lemma": "edge",
+    "source": {
+      "word": "edge",
+      "phrases": [
+        "on the edge",
+        "cutting edge",
+        "competitive edge"
+      ]
+    },
+    "target": {
+      "word": "가장자리",
+      "phrases": [
+        "벼랑 끝에",
+        "최첨단의",
+        "경쟁 우위"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1165,
+    "lemma": "camp",
+    "source": {
+      "word": "camp",
+      "phrases": [
+        "summer camp",
+        "base camp",
+        "set up camp"
+      ]
+    },
+    "target": {
+      "word": "캠프",
+      "phrases": [
+        "여름 캠프",
+        "베이스 캠프",
+        "캠프를 치다"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1166,
+    "lemma": "audience",
+    "source": {
+      "word": "audience",
+      "phrases": [
+        "target audience",
+        "audience member",
+        "captivate the audience"
+      ]
+    },
+    "target": {
+      "word": "청중",
+      "phrases": [
+        "타겟 고객",
+        "청중의 한 사람",
+        "청중을 매료시키다"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1167,
+    "lemma": "lift",
+    "source": {
+      "word": "lift",
+      "phrases": [
+        "give a lift",
+        "lift weights",
+        "ski lift"
+      ]
+    },
+    "target": {
+      "word": "들어올리다",
+      "phrases": [
+        "차를 태워주다",
+        "역기를 들다",
+        "스키 리프트"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1168,
+    "lemma": "procedure",
+    "source": {
+      "word": "procedure",
+      "phrases": [
+        "standard procedure",
+        "surgical procedure",
+        "follow procedure"
+      ]
+    },
+    "target": {
+      "word": "절차",
+      "phrases": [
+        "표준 절차",
+        "수술 절차",
+        "절차를 따르다"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1169,
+    "lemma": "email",
+    "source": {
+      "word": "email",
+      "phrases": [
+        "send an email",
+        "email address",
+        "check email"
+      ]
+    },
+    "target": {
+      "word": "이메일",
+      "phrases": [
+        "이메일을 보내다",
+        "이메일 주소",
+        "이메일을 확인하다"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1170,
+    "lemma": "global",
+    "source": {
+      "word": "global",
+      "phrases": [
+        "global warming",
+        "global economy",
+        "go global"
+      ]
+    },
+    "target": {
+      "word": "글로벌",
+      "phrases": [
+        "지구 온난화",
+        "세계 경제",
+        "세계로 진출하다"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1171,
+    "lemma": "struggle",
+    "source": {
+      "word": "struggle",
+      "phrases": [
+        "struggle to",
+        "struggle with",
+        "power struggle"
+      ]
+    },
+    "target": {
+      "word": "분투하다",
+      "phrases": [
+        "~하느라 애쓰다",
+        "~로 고심하다",
+        "권력 투쟁"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1172,
+    "lemma": "advertise",
+    "source": {
+      "word": "advertise",
+      "phrases": [
+        "advertise a product",
+        "advertise for",
+        "advertising agency"
+      ]
+    },
+    "target": {
+      "word": "광고하다",
+      "phrases": [
+        "제품을 광고하다",
+        "~을 구인 광고하다",
+        "광고 대행사"
+      ]
+    },
+    "frequency": 75
+  },
+  {
+    "rank": 1173,
+    "lemma": "select",
+    "source": {
+      "word": "select",
+      "phrases": [
+        "select all",
+        "select a file",
+        "carefully selected"
+      ]
+    },
+    "target": {
+      "word": "선택하다",
+      "phrases": [
+        "모두 선택",
+        "파일을 선택하다",
+        "엄선된"
+      ]
+    },
+    "frequency": 75
+  },
+  {
+    "rank": 1174,
+    "lemma": "surround",
+    "source": {
+      "word": "surround",
+      "phrases": [
+        "surround sound",
+        "surrounded by",
+        "surrounding area"
+      ]
+    },
+    "target": {
+      "word": "둘러싸다",
+      "phrases": [
+        "서라운드 사운드",
+        "~에 둘러싸인",
+        "주변 지역"
+      ]
+    },
+    "frequency": 75
+  },
+  {
+    "rank": 1175,
+    "lemma": "extent",
+    "source": {
+      "word": "extent",
+      "phrases": [
+        "to some extent",
+        "to a great extent",
+        "full extent"
+      ]
+    },
+    "target": {
+      "word": "정도",
+      "phrases": [
+        "어느 정도까지는",
+        "상당 부분",
+        "전부"
+      ]
+    },
+    "frequency": 75
+  },
+  {
+    "rank": 1176,
+    "lemma": "river",
+    "source": {
+      "word": "river",
+      "phrases": [
+        "river bank",
+        "cross the river",
+        "river flows"
+      ]
+    },
+    "target": {
+      "word": "강",
+      "phrases": [
+        "강둑",
+        "강을 건너다",
+        "강이 흐르다"
+      ]
+    },
+    "frequency": 75
+  },
+  {
+    "rank": 1177,
+    "lemma": "annual",
+    "source": {
+      "word": "annual",
+      "phrases": [
+        "annual report",
+        "annual income",
+        "annual leave"
+      ]
+    },
+    "target": {
+      "word": "연간의",
+      "phrases": [
+        "연례 보고서",
+        "연소득",
+        "연차 휴가"
+      ]
+    },
+    "frequency": 75
+  },
+  {
+    "rank": 1178,
+    "lemma": "fully",
+    "source": {
+      "word": "fully",
+      "phrases": [
+        "fully understand",
+        "fully booked",
+        "fully operational"
+      ]
+    },
+    "target": {
+      "word": "완전히",
+      "phrases": [
+        "완전히 이해하다",
+        "예약이 꽉 찬",
+        "정상 가동되는"
+      ]
+    },
+    "frequency": 75
+  },
+  {
+    "rank": 1179,
+    "lemma": "contrast",
+    "source": {
+      "word": "contrast",
+      "phrases": [
+        "in contrast to",
+        "high contrast",
+        "compare and contrast"
+      ]
+    },
+    "target": {
+      "word": "대조",
+      "phrases": [
+        "~와 대조적으로",
+        "높은 대비",
+        "비교 대조하다"
+      ]
+    },
+    "frequency": 75
+  },
+  {
+    "rank": 1180,
+    "lemma": "roll",
+    "source": {
+      "word": "roll",
+      "phrases": [
+        "rock and roll",
+        "roll over",
+        "on a roll"
+      ]
+    },
+    "target": {
+      "word": "굴리다",
+      "phrases": [
+        "록앤롤",
+        "뒤집다",
+        "승승장구하다"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1181,
+    "lemma": "reality",
+    "source": {
+      "word": "reality",
+      "phrases": [
+        "reality check",
+        "in reality",
+        "virtual reality"
+      ]
+    },
+    "target": {
+      "word": "현실",
+      "phrases": [
+        "현실 점검",
+        "사실은",
+        "가상 현실"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1182,
+    "lemma": "photograph",
+    "source": {
+      "word": "photograph",
+      "phrases": [
+        "take a photograph",
+        "old photograph",
+        "color photograph"
+      ]
+    },
+    "target": {
+      "word": "사진",
+      "phrases": [
+        "사진을 찍다",
+        "오래된 사진",
+        "컬러 사진"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1183,
+    "lemma": "artist",
+    "source": {
+      "word": "artist",
+      "phrases": [
+        "makeup artist",
+        "graphic artist",
+        "con artist"
+      ]
+    },
+    "target": {
+      "word": "예술가",
+      "phrases": [
+        "메이크업 아티스트",
+        "그래픽 디자이너",
+        "사기꾼"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1184,
+    "lemma": "conflict",
+    "source": {
+      "word": "conflict",
+      "phrases": [
+        "conflict of interest",
+        "resolve conflict",
+        "armed conflict"
+      ]
+    },
+    "target": {
+      "word": "갈등",
+      "phrases": [
+        "이해 상충",
+        "갈등을 해결하다",
+        "무력 충돌"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1185,
+    "lemma": "entire",
+    "source": {
+      "word": "entire",
+      "phrases": [
+        "entire world",
+        "entire life",
+        "entire time"
+      ]
+    },
+    "target": {
+      "word": "전체의",
+      "phrases": [
+        "전 세계",
+        "평생",
+        "내내"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1186,
+    "lemma": "presence",
+    "source": {
+      "word": "presence",
+      "phrases": [
+        "presence of mind",
+        "your presence is requested",
+        "ghostly presence"
+      ]
+    },
+    "target": {
+      "word": "존재",
+      "phrases": [
+        "침착함",
+        "귀하의 참석을 요청합니다",
+        "유령의 존재"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1187,
+    "lemma": "crowd",
+    "source": {
+      "word": "crowd",
+      "phrases": [
+        "crowd funding",
+        "follow the crowd",
+        "crowd control"
+      ]
+    },
+    "target": {
+      "word": "군중",
+      "phrases": [
+        "크라우드 펀딩",
+        "대세를 따르다",
+        "군중 제어"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1188,
+    "lemma": "corner",
+    "source": {
+      "word": "corner",
+      "phrases": [
+        "around the corner",
+        "cut corners",
+        "in the corner"
+      ]
+    },
+    "target": {
+      "word": "구석",
+      "phrases": [
+        "길 모퉁이에",
+        "절차를 생략하다",
+        "구석에"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1189,
+    "lemma": "gas",
+    "source": {
+      "word": "gas",
+      "phrases": [
+        "gas station",
+        "tear gas",
+        "natural gas"
+      ]
+    },
+    "target": {
+      "word": "가스",
+      "phrases": [
+        "주유소",
+        "최루탄",
+        "천연가스"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1190,
+    "lemma": "shift",
+    "source": {
+      "word": "shift",
+      "phrases": [
+        "night shift",
+        "shift gears",
+        "shift blame"
+      ]
+    },
+    "target": {
+      "word": "교대",
+      "phrases": [
+        "야간 근무",
+        "기어를 바꾸다",
+        "책임을 전가하다"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1191,
+    "lemma": "net",
+    "source": {
+      "word": "net",
+      "phrases": [
+        "internet",
+        "safety net",
+        "net worth"
+      ]
+    },
+    "target": {
+      "word": "망",
+      "phrases": [
+        "인터넷",
+        "안전망",
+        "순자산"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1192,
+    "lemma": "category",
+    "source": {
+      "word": "category",
+      "phrases": [
+        "category of",
+        "fall into a category",
+        "main category"
+      ]
+    },
+    "target": {
+      "word": "범주",
+      "phrases": [
+        "~의 범주",
+        "범주에 속하다",
+        "주요 범주"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1193,
+    "lemma": "secretary",
+    "source": {
+      "word": "secretary",
+      "phrases": [
+        "secretary of state",
+        "medical secretary",
+        "general secretary"
+      ]
+    },
+    "target": {
+      "word": "비서",
+      "phrases": [
+        "국무장관",
+        "의료 비서",
+        "사무총장"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1194,
+    "lemma": "defense",
+    "source": {
+      "word": "defense",
+      "phrases": [
+        "self defense",
+        "defense mechanism",
+        "in defense of"
+      ]
+    },
+    "target": {
+      "word": "방어",
+      "phrases": [
+        "정당방위",
+        "방어 기제",
+        "~을 옹호하여"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1195,
+    "lemma": "quick",
+    "source": {
+      "word": "quick",
+      "phrases": [
+        "quick fix",
+        "quick question",
+        "quick sand"
+      ]
+    },
+    "target": {
+      "word": "빠른",
+      "phrases": [
+        "임시방편",
+        "간단한 질문",
+        "늪"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1196,
+    "lemma": "cook",
+    "source": {
+      "word": "cook",
+      "phrases": [
+        "cook dinner",
+        "cook book",
+        "too many cooks"
+      ]
+    },
+    "target": {
+      "word": "요리사",
+      "phrases": [
+        "저녁을 요리하다",
+        "요리책",
+        "사공이 많으면 배가 산으로 간다"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1197,
+    "lemma": "spread",
+    "source": {
+      "word": "spread",
+      "phrases": [
+        "spread the word",
+        "spread out",
+        "spread sheet"
+      ]
+    },
+    "target": {
+      "word": "퍼뜨리다",
+      "phrases": [
+        "말을 퍼뜨리다",
+        "몸을 뻗다",
+        "스프레드시트"
+      ]
+    },
+    "frequency": 73
+  },
+  {
+    "rank": 1198,
+    "lemma": "nuclear",
+    "source": {
+      "word": "nuclear",
+      "phrases": [
+        "nuclear power",
+        "nuclear weapon",
+        "nuclear family"
+      ]
+    },
+    "target": {
+      "word": "핵의",
+      "phrases": [
+        "원자력",
+        "핵무기",
+        "핵가족"
+      ]
+    },
+    "frequency": 73
+  },
+  {
+    "rank": 1199,
+    "lemma": "scale",
+    "source": {
+      "word": "scale",
+      "phrases": [
+        "large scale",
+        "bathroom scale",
+        "on a scale of 1 to 10"
+      ]
+    },
+    "target": {
+      "word": "규모",
+      "phrases": [
+        "대규모",
+        "체중계",
+        "1에서 10까지의 척도로"
+      ]
+    },
+    "frequency": 73
+  },
+  {
+    "rank": 1200,
+    "lemma": "driver",
+    "source": {
+      "word": "driver",
+      "phrases": [
+        "taxi driver",
+        "driver's license",
+        "backseat driver"
+      ]
+    },
+    "target": {
+      "word": "운전자",
+      "phrases": [
+        "택시 기사",
+        "운전면허증",
+        "참견쟁이"
+      ]
+    },
+    "frequency": 73
+  }
+]

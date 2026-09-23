@@ -1,0 +1,191 @@
+[
+  {
+    "rank": 2801,
+    "lemma": "alright",
+    "source": {
+      "word": "alright",
+      "phrases": [
+        "it's alright",
+        "are you alright?",
+        "everything is alright"
+      ]
+    },
+    "target": {
+      "word": "хорошо",
+      "phrases": [
+        "все хорошо",
+        "ты в порядке?",
+        "все в порядке"
+      ]
+    },
+    "frequency": 11
+  },
+  {
+    "rank": 2802,
+    "lemma": "lazy",
+    "source": {
+      "word": "lazy",
+      "phrases": [
+        "lazy afternoon",
+        "lazy bones",
+        "too lazy to"
+      ]
+    },
+    "target": {
+      "word": "ленивый",
+      "phrases": [
+        "ленивый день",
+        "лентяй",
+        "слишком ленив чтобы"
+      ]
+    },
+    "frequency": 10
+  },
+  {
+    "rank": 2803,
+    "lemma": "hello",
+    "source": {
+      "word": "hello",
+      "phrases": [
+        "say hello",
+        "hello world",
+        "hello there"
+      ]
+    },
+    "target": {
+      "word": "привет",
+      "phrases": [
+        "поздороваться",
+        "привет, мир",
+        "приветствую"
+      ]
+    },
+    "frequency": 10
+  },
+  {
+    "rank": 2804,
+    "lemma": "hunger",
+    "source": {
+      "word": "hunger",
+      "phrases": [
+        "satisfy hunger",
+        "hunger strike",
+        "hunger for"
+      ]
+    },
+    "target": {
+      "word": "голод",
+      "phrases": [
+        "утолить голод",
+        "голодовка",
+        "жажда чего-либо"
+      ]
+    },
+    "frequency": 9
+  },
+  {
+    "rank": 2805,
+    "lemma": "insure",
+    "source": {
+      "word": "insure",
+      "phrases": [
+        "insure against",
+        "insure a car",
+        "fully insured"
+      ]
+    },
+    "target": {
+      "word": "застраховать",
+      "phrases": [
+        "застраховать от",
+        "застраховать машину",
+        "полностью застрахован"
+      ]
+    },
+    "frequency": 9
+  },
+  {
+    "rank": 2806,
+    "lemma": "ashamed",
+    "source": {
+      "word": "ashamed",
+      "phrases": [
+        "ashamed of",
+        "feel ashamed",
+        "nothing to be ashamed of"
+      ]
+    },
+    "target": {
+      "word": "пристыженный",
+      "phrases": [
+        "стыдиться чего-либо",
+        "чувствовать стыд",
+        "нечего стыдиться"
+      ]
+    },
+    "frequency": 8
+  },
+  {
+    "rank": 2807,
+    "lemma": "found",
+    "source": {
+      "word": "found",
+      "phrases": [
+        "found a company",
+        "lost and found",
+        "well founded"
+      ]
+    },
+    "target": {
+      "word": "основывать",
+      "phrases": [
+        "основать компанию",
+        "бюро находок",
+        "обоснованный"
+      ]
+    },
+    "frequency": 7
+  },
+  {
+    "rank": 2808,
+    "lemma": "blog",
+    "source": {
+      "word": "blog",
+      "phrases": [
+        "write a blog",
+        "travel blog",
+        "blog post"
+      ]
+    },
+    "target": {
+      "word": "блог",
+      "phrases": [
+        "вести блог",
+        "блог о путешествиях",
+        "пост в блоге"
+      ]
+    },
+    "frequency": 7
+  },
+  {
+    "rank": 2809,
+    "lemma": "thirst",
+    "source": {
+      "word": "thirst",
+      "phrases": [
+        "quench thirst",
+        "thirst for knowledge",
+        "die of thirst"
+      ]
+    },
+    "target": {
+      "word": "жажда",
+      "phrases": [
+        "утолить жажду",
+        "жажда знаний",
+        "умирать от жажды"
+      ]
+    },
+    "frequency": 3
+  }
+]

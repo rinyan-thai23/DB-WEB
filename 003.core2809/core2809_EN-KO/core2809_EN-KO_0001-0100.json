@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 1,
+    "lemma": "the",
+    "source": {
+      "word": "the",
+      "phrases": [
+        "in the morning",
+        "the best",
+        "at the moment"
+      ]
+    },
+    "target": {
+      "word": "그 (정관사)",
+      "phrases": [
+        "아침에",
+        "최고의",
+        "지금 이 순간"
+      ]
+    },
+    "frequency": 60910
+  },
+  {
+    "rank": 2,
+    "lemma": "be",
+    "source": {
+      "word": "be",
+      "phrases": [
+        "be careful",
+        "be happy",
+        "don't be shy"
+      ]
+    },
+    "target": {
+      "word": "이다/있다",
+      "phrases": [
+        "조심해",
+        "행복해라",
+        "수줍어하지 마"
+      ]
+    },
+    "frequency": 48575
+  },
+  {
+    "rank": 3,
+    "lemma": "and",
+    "source": {
+      "word": "and",
+      "phrases": [
+        "you and I",
+        "bread and butter",
+        "wait and see"
+      ]
+    },
+    "target": {
+      "word": "그리고",
+      "phrases": [
+        "너와 나",
+        "빵과 버터",
+        "두고 보자"
+      ]
+    },
+    "frequency": 30789
+  },
+  {
+    "rank": 4,
+    "lemma": "of",
+    "source": {
+      "word": "of",
+      "phrases": [
+        "piece of cake",
+        "kind of",
+        "out of order"
+      ]
+    },
+    "target": {
+      "word": "~의",
+      "phrases": [
+        "식은 죽 먹기",
+        "일종의",
+        "고장 난"
+      ]
+    },
+    "frequency": 30126
+  },
+  {
+    "rank": 5,
+    "lemma": "to",
+    "source": {
+      "word": "to",
+      "phrases": [
+        "go to sleep",
+        "nice to meet you",
+        "have to"
+      ]
+    },
+    "target": {
+      "word": "~로/에게",
+      "phrases": [
+        "자러 가다",
+        "만나서 반가워요",
+        "해야 한다"
+      ]
+    },
+    "frequency": 29272
+  },
+  {
+    "rank": 6,
+    "lemma": "a",
+    "source": {
+      "word": "a",
+      "phrases": [
+        "a lot of",
+        "once upon a time",
+        "have a look"
+      ]
+    },
+    "target": {
+      "word": "하나의",
+      "phrases": [
+        "많은",
+        "옛날 옛적에",
+        "한번 봐봐"
+      ]
+    },
+    "frequency": 27872
+  },
+  {
+    "rank": 7,
+    "lemma": "in",
+    "source": {
+      "word": "in",
+      "phrases": [
+        "in fact",
+        "in time",
+        "keep in mind"
+      ]
+    },
+    "target": {
+      "word": "안에",
+      "phrases": [
+        "사실상",
+        "제시간에",
+        "명심하다"
+      ]
+    },
+    "frequency": 21142
+  },
+  {
+    "rank": 8,
+    "lemma": "have",
+    "source": {
+      "word": "have",
+      "phrases": [
+        "have fun",
+        "have a cold",
+        "have to"
+      ]
+    },
+    "target": {
+      "word": "가지다",
+      "phrases": [
+        "즐거운 시간을 보내다",
+        "감기에 걸리다",
+        "해야 한다"
+      ]
+    },
+    "frequency": 14210
+  },
+  {
+    "rank": 9,
+    "lemma": "it",
+    "source": {
+      "word": "it",
+      "phrases": [
+        "make it",
+        "take it easy",
+        "that's it"
+      ]
+    },
+    "target": {
+      "word": "그것",
+      "phrases": [
+        "해내다",
+        "진정해",
+        "바로 그거야"
+      ]
+    },
+    "frequency": 13772
+  },
+  {
+    "rank": 10,
+    "lemma": "you",
+    "source": {
+      "word": "you",
+      "phrases": [
+        "you know",
+        "thank you",
+        "good for you"
+      ]
+    },
+    "target": {
+      "word": "너",
+      "phrases": [
+        "있잖아 (알다시피)",
+        "감사합니다",
+        "잘됐네"
+      ]
+    },
+    "frequency": 12810
+  },
+  {
+    "rank": 11,
+    "lemma": "he",
+    "source": {
+      "word": "he",
+      "phrases": [
+        "he says",
+        "is he okay?",
+        "here he comes"
+      ]
+    },
+    "target": {
+      "word": "그",
+      "phrases": [
+        "그가 말하길",
+        "그는 괜찮니?",
+        "그가 온다"
+      ]
+    },
+    "frequency": 11017
+  },
+  {
+    "rank": 12,
+    "lemma": "for",
+    "source": {
+      "word": "for",
+      "phrases": [
+        "for example",
+        "look for",
+        "good for"
+      ]
+    },
+    "target": {
+      "word": "~을 위해",
+      "phrases": [
+        "예를 들어",
+        "~을 찾다",
+        "~에 좋은"
+      ]
+    },
+    "frequency": 10025
+  },
+  {
+    "rank": 13,
+    "lemma": "they",
+    "source": {
+      "word": "they",
+      "phrases": [
+        "they say",
+        "who are they?",
+        "they are here"
+      ]
+    },
+    "target": {
+      "word": "그들",
+      "phrases": [
+        "남들이 말하길",
+        "그들은 누구니?",
+        "그들이 여기 있다"
+      ]
+    },
+    "frequency": 9764
+  },
+  {
+    "rank": 14,
+    "lemma": "not",
+    "source": {
+      "word": "not",
+      "phrases": [
+        "why not?",
+        "not at all",
+        "not yet"
+      ]
+    },
+    "target": {
+      "word": "아니다",
+      "phrases": [
+        "왜 안 돼?",
+        "천만에요",
+        "아직 아님"
+      ]
+    },
+    "frequency": 9494
+  },
+  {
+    "rank": 15,
+    "lemma": "that",
+    "source": {
+      "word": "that",
+      "phrases": [
+        "that's right",
+        "like that",
+        "after that"
+      ]
+    },
+    "target": {
+      "word": "저것",
+      "phrases": [
+        "맞아",
+        "그렇게",
+        "그 후에"
+      ]
+    },
+    "frequency": 8653
+  },
+  {
+    "rank": 16,
+    "lemma": "we",
+    "source": {
+      "word": "we",
+      "phrases": [
+        "here we go",
+        "shall we?",
+        "we are family"
+      ]
+    },
+    "target": {
+      "word": "우리",
+      "phrases": [
+        "자, 갑시다",
+        "우리 그럴까?",
+        "우리는 가족이다"
+      ]
+    },
+    "frequency": 8401
+  },
+  {
+    "rank": 17,
+    "lemma": "on",
+    "source": {
+      "word": "on",
+      "phrases": [
+        "come on",
+        "hold on",
+        "on time"
+      ]
+    },
+    "target": {
+      "word": "위에",
+      "phrases": [
+        "제발/어서",
+        "잠시 기다려",
+        "정각에"
+      ]
+    },
+    "frequency": 7763
+  },
+  {
+    "rank": 18,
+    "lemma": "with",
+    "source": {
+      "word": "with",
+      "phrases": [
+        "go with",
+        "deal with",
+        "to begin with"
+      ]
+    },
+    "target": {
+      "word": "~와 함께",
+      "phrases": [
+        "~와 같이 가다",
+        "~을 다루다",
+        "우선은"
+      ]
+    },
+    "frequency": 7381
+  },
+  {
+    "rank": 19,
+    "lemma": "this",
+    "source": {
+      "word": "this",
+      "phrases": [
+        "this is it",
+        "like this",
+        "this morning"
+      ]
+    },
+    "target": {
+      "word": "이것",
+      "phrases": [
+        "바로 이거야",
+        "이것처럼",
+        "오늘 아침"
+      ]
+    },
+    "frequency": 7003
+  },
+  {
+    "rank": 20,
+    "lemma": "I",
+    "source": {
+      "word": "I",
+      "phrases": [
+        "I think",
+        "I see",
+        "I guess"
+      ]
+    },
+    "target": {
+      "word": "나",
+      "phrases": [
+        "내 생각에는",
+        "알겠어",
+        "그런 것 같아"
+      ]
+    },
+    "frequency": 6820
+  },
+  {
+    "rank": 21,
+    "lemma": "do",
+    "source": {
+      "word": "do",
+      "phrases": [
+        "do my best",
+        "do it",
+        "How do you do?"
+      ]
+    },
+    "target": {
+      "word": "하다",
+      "phrases": [
+        "최선을 다하다",
+        "그것을 하다",
+        "처음 뵙겠습니다"
+      ]
+    },
+    "frequency": 6802
+  },
+  {
+    "rank": 22,
+    "lemma": "as",
+    "source": {
+      "word": "as",
+      "phrases": [
+        "as soon as",
+        "as well as",
+        "as usual"
+      ]
+    },
+    "target": {
+      "word": "~만큼",
+      "phrases": [
+        "~하자마자",
+        "~뿐만 아니라",
+        "평소와 같이"
+      ]
+    },
+    "frequency": 6747
+  },
+  {
+    "rank": 23,
+    "lemma": "at",
+    "source": {
+      "word": "at",
+      "phrases": [
+        "at least",
+        "at first",
+        "look at"
+      ]
+    },
+    "target": {
+      "word": "~에서",
+      "phrases": [
+        "적어도",
+        "처음에",
+        "~을 보다"
+      ]
+    },
+    "frequency": 5570
+  },
+  {
+    "rank": 24,
+    "lemma": "she",
+    "source": {
+      "word": "she",
+      "phrases": [
+        "she said",
+        "is she there?",
+        "here she comes"
+      ]
+    },
+    "target": {
+      "word": "그녀",
+      "phrases": [
+        "그녀가 말했다",
+        "그녀가 거기 있나요?",
+        "그녀가 오네요"
+      ]
+    },
+    "frequency": 5195
+  },
+  {
+    "rank": 25,
+    "lemma": "but",
+    "source": {
+      "word": "but",
+      "phrases": [
+        "but also",
+        "anything but",
+        "nothing but"
+      ]
+    },
+    "target": {
+      "word": "그러나",
+      "phrases": [
+        "~뿐만 아니라",
+        "결코 ~이 아닌",
+        "오직 ~만"
+      ]
+    },
+    "frequency": 5087
+  },
+  {
+    "rank": 26,
+    "lemma": "from",
+    "source": {
+      "word": "from",
+      "phrases": [
+        "where are you from?",
+        "from now on",
+        "far from"
+      ]
+    },
+    "target": {
+      "word": "~로부터",
+      "phrases": [
+        "어디서 오셨나요?",
+        "이제부터",
+        "~에서 먼"
+      ]
+    },
+    "frequency": 4598
+  },
+  {
+    "rank": 27,
+    "lemma": "by",
+    "source": {
+      "word": "by",
+      "phrases": [
+        "by the way",
+        "side by side",
+        "day by day"
+      ]
+    },
+    "target": {
+      "word": "~에 의해",
+      "phrases": [
+        "그런데",
+        "나란히",
+        "매일매일"
+      ]
+    },
+    "frequency": 4323
+  },
+  {
+    "rank": 28,
+    "lemma": "will",
+    "source": {
+      "word": "will",
+      "phrases": [
+        "will be",
+        "I will",
+        "time will tell"
+      ]
+    },
+    "target": {
+      "word": "~할 것이다",
+      "phrases": [
+        "~이 될 것이다",
+        "내가 하겠다",
+        "시간이 해결해 줄 것이다"
+      ]
+    },
+    "frequency": 4195
+  },
+  {
+    "rank": 29,
+    "lemma": "or",
+    "source": {
+      "word": "or",
+      "phrases": [
+        "or else",
+        "more or less",
+        "now or never"
+      ]
+    },
+    "target": {
+      "word": "또는",
+      "phrases": [
+        "그렇지 않으면",
+        "어느 정도",
+        "지금 아니면 절대 안 됨"
+      ]
+    },
+    "frequency": 4060
+  },
+  {
+    "rank": 30,
+    "lemma": "say",
+    "source": {
+      "word": "say",
+      "phrases": [
+        "that is to say",
+        "needless to say",
+        "to say the least"
+      ]
+    },
+    "target": {
+      "word": "말하다",
+      "phrases": [
+        "즉 다시 말하면",
+        "말할 필요도 없이",
+        "조금도 과장하지 않고"
+      ]
+    },
+    "frequency": 3425
+  },
+  {
+    "rank": 31,
+    "lemma": "go",
+    "source": {
+      "word": "go",
+      "phrases": [
+        "let it go",
+        "go ahead",
+        "go on"
+      ]
+    },
+    "target": {
+      "word": "가다",
+      "phrases": [
+        "그냥 내버려 두다",
+        "먼저 가세요",
+        "계속하다"
+      ]
+    },
+    "frequency": 3260
+  },
+  {
+    "rank": 32,
+    "lemma": "so",
+    "source": {
+      "word": "so",
+      "phrases": [
+        "so far",
+        "and so on",
+        "so what?"
+      ]
+    },
+    "target": {
+      "word": "그래서",
+      "phrases": [
+        "지금까지",
+        "등등",
+        "그래서 뭐요?"
+      ]
+    },
+    "frequency": 3227
+  },
+  {
+    "rank": 33,
+    "lemma": "all",
+    "source": {
+      "word": "all",
+      "phrases": [
+        "after all",
+        "all right",
+        "at all"
+      ]
+    },
+    "target": {
+      "word": "모든",
+      "phrases": [
+        "결국",
+        "알았어",
+        "전혀"
+      ]
+    },
+    "frequency": 3175
+  },
+  {
+    "rank": 34,
+    "lemma": "if",
+    "source": {
+      "word": "if",
+      "phrases": [
+        "if only",
+        "as if",
+        "what if"
+      ]
+    },
+    "target": {
+      "word": "만약",
+      "phrases": [
+        "~하기만 한다면",
+        "마치 ~인 것처럼",
+        "~라면 어떨까?"
+      ]
+    },
+    "frequency": 3009
+  },
+  {
+    "rank": 35,
+    "lemma": "one",
+    "source": {
+      "word": "one",
+      "phrases": [
+        "one by one",
+        "one day",
+        "the one"
+      ]
+    },
+    "target": {
+      "word": "하나",
+      "phrases": [
+        "하나씩",
+        "어느 날",
+        "바로 그 사람"
+      ]
+    },
+    "frequency": 2997
+  },
+  {
+    "rank": 36,
+    "lemma": "would",
+    "source": {
+      "word": "would",
+      "phrases": [
+        "would like to",
+        "would you?",
+        "it would be"
+      ]
+    },
+    "target": {
+      "word": "~할 것이다",
+      "phrases": [
+        "~하고 싶다",
+        "해 주시겠어요?",
+        "그렇게 될 것이다"
+      ]
+    },
+    "frequency": 2997
+  },
+  {
+    "rank": 37,
+    "lemma": "about",
+    "source": {
+      "word": "about",
+      "phrases": [
+        "how about",
+        "about to",
+        "what about"
+      ]
+    },
+    "target": {
+      "word": "~에 대하여",
+      "phrases": [
+        "~은 어때요?",
+        "막 ~하려던 참이다",
+        "~은 어때?"
+      ]
+    },
+    "frequency": 2967
+  },
+  {
+    "rank": 38,
+    "lemma": "can",
+    "source": {
+      "word": "can",
+      "phrases": [
+        "can't help",
+        "as soon as I can",
+        "can you?"
+      ]
+    },
+    "target": {
+      "word": "할 수 있다",
+      "phrases": [
+        "~하지 않을 수 없다",
+        "가능한 한 빨리",
+        "할 수 있어요?"
+      ]
+    },
+    "frequency": 2890
+  },
+  {
+    "rank": 39,
+    "lemma": "which",
+    "source": {
+      "word": "which",
+      "phrases": [
+        "which one",
+        "in which",
+        "on which"
+      ]
+    },
+    "target": {
+      "word": "어느 것",
+      "phrases": [
+        "어느 것",
+        "그 안에서",
+        "그 위에서"
+      ]
+    },
+    "frequency": 2886
+  },
+  {
+    "rank": 40,
+    "lemma": "there",
+    "source": {
+      "word": "there",
+      "phrases": [
+        "over there",
+        "is there?",
+        "there is"
+      ]
+    },
+    "target": {
+      "word": "거기에",
+      "phrases": [
+        "저쪽에",
+        "거기 있나요?",
+        "거기에 있다"
+      ]
+    },
+    "frequency": 2820
+  },
+  {
+    "rank": 41,
+    "lemma": "know",
+    "source": {
+      "word": "know",
+      "phrases": [
+        "you know",
+        "I know",
+        "let me know"
+      ]
+    },
+    "target": {
+      "word": "알다",
+      "phrases": [
+        "있잖아",
+        "알아요",
+        "알려줘"
+      ]
+    },
+    "frequency": 2634
+  },
+  {
+    "rank": 42,
+    "lemma": "more",
+    "source": {
+      "word": "more",
+      "phrases": [
+        "more and more",
+        "no more",
+        "more than"
+      ]
+    },
+    "target": {
+      "word": "더",
+      "phrases": [
+        "점점 더",
+        "더 이상 ~않다",
+        "~보다 더"
+      ]
+    },
+    "frequency": 2631
+  },
+  {
+    "rank": 43,
+    "lemma": "get",
+    "source": {
+      "word": "get",
+      "phrases": [
+        "get up",
+        "get it",
+        "get ready"
+      ]
+    },
+    "target": {
+      "word": "얻다",
+      "phrases": [
+        "일어나다",
+        "이해하다",
+        "준비하다"
+      ]
+    },
+    "frequency": 2573
+  },
+  {
+    "rank": 44,
+    "lemma": "who",
+    "source": {
+      "word": "who",
+      "phrases": [
+        "who knows",
+        "guess who",
+        "who are you?"
+      ]
+    },
+    "target": {
+      "word": "누구",
+      "phrases": [
+        "누가 알겠어",
+        "누구게",
+        "누구세요?"
+      ]
+    },
+    "frequency": 2534
+  },
+  {
+    "rank": 45,
+    "lemma": "like",
+    "source": {
+      "word": "like",
+      "phrases": [
+        "look like",
+        "would like",
+        "something like"
+      ]
+    },
+    "target": {
+      "word": "좋아하다/같은",
+      "phrases": [
+        "~처럼 보이다",
+        "~하고 싶다",
+        "~같은 것"
+      ]
+    },
+    "frequency": 2465
+  },
+  {
+    "rank": 46,
+    "lemma": "when",
+    "source": {
+      "word": "when",
+      "phrases": [
+        "since when",
+        "when possible",
+        "only when"
+      ]
+    },
+    "target": {
+      "word": "언제",
+      "phrases": [
+        "언제부터",
+        "가능할 때",
+        "~할 때만"
+      ]
+    },
+    "frequency": 2435
+  },
+  {
+    "rank": 47,
+    "lemma": "think",
+    "source": {
+      "word": "think",
+      "phrases": [
+        "think about",
+        "I think so",
+        "don't think"
+      ]
+    },
+    "target": {
+      "word": "생각하다",
+      "phrases": [
+        "~에 대해 생각하다",
+        "그렇게 생각해요",
+        "생각하지 마"
+      ]
+    },
+    "frequency": 2433
+  },
+  {
+    "rank": 48,
+    "lemma": "make",
+    "source": {
+      "word": "make",
+      "phrases": [
+        "make sure",
+        "make sense",
+        "make up"
+      ]
+    },
+    "target": {
+      "word": "만들다",
+      "phrases": [
+        "확인하다",
+        "말이 되다",
+        "화장하다/구성하다"
+      ]
+    },
+    "frequency": 2359
+  },
+  {
+    "rank": 49,
+    "lemma": "time",
+    "source": {
+      "word": "time",
+      "phrases": [
+        "on time",
+        "waste of time",
+        "take your time"
+      ]
+    },
+    "target": {
+      "word": "시간",
+      "phrases": [
+        "제시간에",
+        "시간 낭비",
+        "천천히 하세요"
+      ]
+    },
+    "frequency": 2302
+  },
+  {
+    "rank": 50,
+    "lemma": "see",
+    "source": {
+      "word": "see",
+      "phrases": [
+        "I see",
+        "see you",
+        "let me see"
+      ]
+    },
+    "target": {
+      "word": "보다",
+      "phrases": [
+        "알겠어요",
+        "또 봐요",
+        "어디 보자"
+      ]
+    },
+    "frequency": 2226
+  },
+  {
+    "rank": 51,
+    "lemma": "what",
+    "source": {
+      "word": "what",
+      "phrases": [
+        "what's up",
+        "what if",
+        "so what"
+      ]
+    },
+    "target": {
+      "word": "무엇",
+      "phrases": [
+        "무슨 일이야",
+        "만약 ~라면 어쩌지",
+        "그래서 뭐"
+      ]
+    },
+    "frequency": 2204
+  },
+  {
+    "rank": 52,
+    "lemma": "up",
+    "source": {
+      "word": "up",
+      "phrases": [
+        "give up",
+        "what's up",
+        "up to you"
+      ]
+    },
+    "target": {
+      "word": "위로",
+      "phrases": [
+        "포기하다",
+        "무슨 일이야",
+        "너에게 달렸어"
+      ]
+    },
+    "frequency": 2150
+  },
+  {
+    "rank": 53,
+    "lemma": "some",
+    "source": {
+      "word": "some",
+      "phrases": [
+        "some day",
+        "some kind of",
+        "some people"
+      ]
+    },
+    "target": {
+      "word": "몇몇의",
+      "phrases": [
+        "언젠가",
+        "일종의",
+        "어떤 사람들"
+      ]
+    },
+    "frequency": 2130
+  },
+  {
+    "rank": 54,
+    "lemma": "other",
+    "source": {
+      "word": "other",
+      "phrases": [
+        "each other",
+        "other than",
+        "the other day"
+      ]
+    },
+    "target": {
+      "word": "다른",
+      "phrases": [
+        "서로",
+        "~외에",
+        "며칠 전에"
+      ]
+    },
+    "frequency": 2100
+  },
+  {
+    "rank": 55,
+    "lemma": "out",
+    "source": {
+      "word": "out",
+      "phrases": [
+        "watch out",
+        "out of",
+        "figure out"
+      ]
+    },
+    "target": {
+      "word": "밖으로",
+      "phrases": [
+        "조심해",
+        "~의 밖으로",
+        "알아내다"
+      ]
+    },
+    "frequency": 2064
+  },
+  {
+    "rank": 56,
+    "lemma": "good",
+    "source": {
+      "word": "good",
+      "phrases": [
+        "good at",
+        "no good",
+        "good luck"
+      ]
+    },
+    "target": {
+      "word": "좋은",
+      "phrases": [
+        "~에 능숙한",
+        "소용없는",
+        "행운을 빌어"
+      ]
+    },
+    "frequency": 2038
+  },
+  {
+    "rank": 57,
+    "lemma": "people",
+    "source": {
+      "word": "people",
+      "phrases": [
+        "many people",
+        "young people",
+        "other people"
+      ]
+    },
+    "target": {
+      "word": "사람들",
+      "phrases": [
+        "많은 사람들",
+        "젊은이들",
+        "다른 사람들"
+      ]
+    },
+    "frequency": 2019
+  },
+  {
+    "rank": 58,
+    "lemma": "year",
+    "source": {
+      "word": "year",
+      "phrases": [
+        "last year",
+        "Happy New Year",
+        "per year"
+      ]
+    },
+    "target": {
+      "word": "년",
+      "phrases": [
+        "작년",
+        "새해 복 많이 받으세요",
+        "연간"
+      ]
+    },
+    "frequency": 1949
+  },
+  {
+    "rank": 59,
+    "lemma": "take",
+    "source": {
+      "word": "take",
+      "phrases": [
+        "take care",
+        "take place",
+        "take off"
+      ]
+    },
+    "target": {
+      "word": "취하다",
+      "phrases": [
+        "조심해",
+        "개최되다",
+        "이륙하다/벗다"
+      ]
+    },
+    "frequency": 1873
+  },
+  {
+    "rank": 60,
+    "lemma": "no",
+    "source": {
+      "word": "no",
+      "phrases": [
+        "no problem",
+        "no way",
+        "no doubt"
+      ]
+    },
+    "target": {
+      "word": "아니",
+      "phrases": [
+        "문제없어",
+        "절대 안 돼",
+        "의심의 여지 없이"
+      ]
+    },
+    "frequency": 1854
+  },
+  {
+    "rank": 61,
+    "lemma": "well",
+    "source": {
+      "word": "well",
+      "phrases": [
+        "as well",
+        "do well",
+        "well known"
+      ]
+    },
+    "target": {
+      "word": "잘",
+      "phrases": [
+        "또한",
+        "잘하다",
+        "잘 알려진"
+      ]
+    },
+    "frequency": 1835
+  },
+  {
+    "rank": 62,
+    "lemma": "because",
+    "source": {
+      "word": "because",
+      "phrases": [
+        "because of",
+        "just because",
+        "partly because"
+      ]
+    },
+    "target": {
+      "word": "때문에",
+      "phrases": [
+        "~때문에",
+        "단지 ~라는 이유로",
+        "부분적으로는 ~때문에"
+      ]
+    },
+    "frequency": 1824
+  },
+  {
+    "rank": 63,
+    "lemma": "very",
+    "source": {
+      "word": "very",
+      "phrases": [
+        "very much",
+        "very good",
+        "the very best"
+      ]
+    },
+    "target": {
+      "word": "매우",
+      "phrases": [
+        "대단히",
+        "매우 좋은",
+        "최고 중의 최고"
+      ]
+    },
+    "frequency": 1792
+  },
+  {
+    "rank": 64,
+    "lemma": "just",
+    "source": {
+      "word": "just",
+      "phrases": [
+        "just now",
+        "just a moment",
+        "just in case"
+      ]
+    },
+    "target": {
+      "word": "방금/단지",
+      "phrases": [
+        "방금",
+        "잠시만요",
+        "만약을 대비해서"
+      ]
+    },
+    "frequency": 1751
+  },
+  {
+    "rank": 65,
+    "lemma": "come",
+    "source": {
+      "word": "come",
+      "phrases": [
+        "come true",
+        "come on",
+        "how come?"
+      ]
+    },
+    "target": {
+      "word": "오다",
+      "phrases": [
+        "실현되다",
+        "어서",
+        "어째서?"
+      ]
+    },
+    "frequency": 1694
+  },
+  {
+    "rank": 66,
+    "lemma": "could",
+    "source": {
+      "word": "could",
+      "phrases": [
+        "could be",
+        "could you?",
+        "I wish I could"
+      ]
+    },
+    "target": {
+      "word": "할 수 있었다",
+      "phrases": [
+        "그럴 수도 있다",
+        "해주시겠어요?",
+        "할 수 있으면 좋겠다"
+      ]
+    },
+    "frequency": 1688
+  },
+  {
+    "rank": 67,
+    "lemma": "work",
+    "source": {
+      "word": "work",
+      "phrases": [
+        "work out",
+        "at work",
+        "good work"
+      ]
+    },
+    "target": {
+      "word": "일하다",
+      "phrases": [
+        "운동하다/해결하다",
+        "직장에서",
+        "수고했어"
+      ]
+    },
+    "frequency": 1674
+  },
+  {
+    "rank": 68,
+    "lemma": "use",
+    "source": {
+      "word": "use",
+      "phrases": [
+        "used to",
+        "no use",
+        "make use of"
+      ]
+    },
+    "target": {
+      "word": "사용하다",
+      "phrases": [
+        "하곤 했다",
+        "소용없다",
+        "~을 이용하다"
+      ]
+    },
+    "frequency": 1657
+  },
+  {
+    "rank": 69,
+    "lemma": "than",
+    "source": {
+      "word": "than",
+      "phrases": [
+        "more than",
+        "rather than",
+        "other than"
+      ]
+    },
+    "target": {
+      "word": "보다",
+      "phrases": [
+        "~보다 많이",
+        "~라기보다는",
+        "~외에는"
+      ]
+    },
+    "frequency": 1591
+  },
+  {
+    "rank": 70,
+    "lemma": "now",
+    "source": {
+      "word": "now",
+      "phrases": [
+        "just now",
+        "now and then",
+        "right now"
+      ]
+    },
+    "target": {
+      "word": "지금",
+      "phrases": [
+        "방금",
+        "때때로",
+        "지금 당장"
+      ]
+    },
+    "frequency": 1563
+  },
+  {
+    "rank": 71,
+    "lemma": "then",
+    "source": {
+      "word": "then",
+      "phrases": [
+        "back then",
+        "and then",
+        "since then"
+      ]
+    },
+    "target": {
+      "word": "그때",
+      "phrases": [
+        "그 당시에",
+        "그리고 나서",
+        "그 이후로"
+      ]
+    },
+    "frequency": 1554
+  },
+  {
+    "rank": 72,
+    "lemma": "also",
+    "source": {
+      "word": "also",
+      "phrases": [
+        "but also",
+        "see also",
+        "me also"
+      ]
+    },
+    "target": {
+      "word": "또한",
+      "phrases": [
+        "뿐만 아니라",
+        "~도 참조하시오",
+        "나도 역시"
+      ]
+    },
+    "frequency": 1552
+  },
+  {
+    "rank": 73,
+    "lemma": "into",
+    "source": {
+      "word": "into",
+      "phrases": [
+        "look into",
+        "run into",
+        "turn into"
+      ]
+    },
+    "target": {
+      "word": "안으로",
+      "phrases": [
+        "조사하다",
+        "우연히 마주치다",
+        "~로 변하다"
+      ]
+    },
+    "frequency": 1477
+  },
+  {
+    "rank": 74,
+    "lemma": "only",
+    "source": {
+      "word": "only",
+      "phrases": [
+        "only if",
+        "only one",
+        "if only"
+      ]
+    },
+    "target": {
+      "word": "오직",
+      "phrases": [
+        "~하는 경우에만",
+        "오직 하나",
+        "~하기만 하면 좋을 텐데"
+      ]
+    },
+    "frequency": 1475
+  },
+  {
+    "rank": 75,
+    "lemma": "look",
+    "source": {
+      "word": "look",
+      "phrases": [
+        "look for",
+        "look after",
+        "look like"
+      ]
+    },
+    "target": {
+      "word": "보다",
+      "phrases": [
+        "~을 찾다",
+        "~을 돌보다",
+        "~처럼 보이다"
+      ]
+    },
+    "frequency": 1370
+  },
+  {
+    "rank": 76,
+    "lemma": "want",
+    "source": {
+      "word": "want",
+      "phrases": [
+        "want to",
+        "if you want",
+        "what do you want?"
+      ]
+    },
+    "target": {
+      "word": "원하다",
+      "phrases": [
+        "~하기를 원하다",
+        "원하신다면",
+        "무엇을 원하세요?"
+      ]
+    },
+    "frequency": 1354
+  },
+  {
+    "rank": 77,
+    "lemma": "give",
+    "source": {
+      "word": "give",
+      "phrases": [
+        "give up",
+        "give me",
+        "give a hand"
+      ]
+    },
+    "target": {
+      "word": "주다",
+      "phrases": [
+        "포기하다",
+        "나에게 줘",
+        "도와주다"
+      ]
+    },
+    "frequency": 1332
+  },
+  {
+    "rank": 78,
+    "lemma": "first",
+    "source": {
+      "word": "first",
+      "phrases": [
+        "at first",
+        "first of all",
+        "safety first"
+      ]
+    },
+    "target": {
+      "word": "첫 번째",
+      "phrases": [
+        "처음에는",
+        "무엇보다도",
+        "안전 제일"
+      ]
+    },
+    "frequency": 1321
+  },
+  {
+    "rank": 79,
+    "lemma": "new",
+    "source": {
+      "word": "new",
+      "phrases": [
+        "brand new",
+        "New York",
+        "what's new?"
+      ]
+    },
+    "target": {
+      "word": "새로운",
+      "phrases": [
+        "완전 새것인",
+        "뉴욕",
+        "별일 없니?"
+      ]
+    },
+    "frequency": 1290
+  },
+  {
+    "rank": 80,
+    "lemma": "way",
+    "source": {
+      "word": "way",
+      "phrases": [
+        "by the way",
+        "no way",
+        "on the way"
+      ]
+    },
+    "target": {
+      "word": "길/방법",
+      "phrases": [
+        "그런데",
+        "절대 안 돼",
+        "가는 길에"
+      ]
+    },
+    "frequency": 1279
+  },
+  {
+    "rank": 81,
+    "lemma": "find",
+    "source": {
+      "word": "find",
+      "phrases": [
+        "find out",
+        "find a way",
+        "hard to find"
+      ]
+    },
+    "target": {
+      "word": "찾다",
+      "phrases": [
+        "알아내다",
+        "방법을 찾다",
+        "찾기 어려운"
+      ]
+    },
+    "frequency": 1236
+  },
+  {
+    "rank": 82,
+    "lemma": "over",
+    "source": {
+      "word": "over",
+      "phrases": [
+        "over there",
+        "all over",
+        "game over"
+      ]
+    },
+    "target": {
+      "word": "~너머/끝난",
+      "phrases": [
+        "저기에",
+        "곳곳에",
+        "경기가 끝난"
+      ]
+    },
+    "frequency": 1235
+  },
+  {
+    "rank": 83,
+    "lemma": "any",
+    "source": {
+      "word": "any",
+      "phrases": [
+        "any time",
+        "any more",
+        "in any case"
+      ]
+    },
+    "target": {
+      "word": "어떤",
+      "phrases": [
+        "언제든지",
+        "더 이상",
+        "어쨌든"
+      ]
+    },
+    "frequency": 1224
+  },
+  {
+    "rank": 84,
+    "lemma": "after",
+    "source": {
+      "word": "after",
+      "phrases": [
+        "after all",
+        "look after",
+        "after you"
+      ]
+    },
+    "target": {
+      "word": "~후에",
+      "phrases": [
+        "결국",
+        "~을 돌보다",
+        "먼저 가세요"
+      ]
+    },
+    "frequency": 1210
+  },
+  {
+    "rank": 85,
+    "lemma": "day",
+    "source": {
+      "word": "day",
+      "phrases": [
+        "all day",
+        "have a nice day",
+        "day by day"
+      ]
+    },
+    "target": {
+      "word": "날/하루",
+      "phrases": [
+        "하루 종일",
+        "좋은 하루 보내세요",
+        "매일매일"
+      ]
+    },
+    "frequency": 1187
+  },
+  {
+    "rank": 86,
+    "lemma": "where",
+    "source": {
+      "word": "where",
+      "phrases": [
+        "where are you?",
+        "where to?",
+        "know where"
+      ]
+    },
+    "target": {
+      "word": "어디",
+      "phrases": [
+        "어디에 있나요?",
+        "어디로?",
+        "어디인지 알다"
+      ]
+    },
+    "frequency": 1187
+  },
+  {
+    "rank": 87,
+    "lemma": "thing",
+    "source": {
+      "word": "thing",
+      "phrases": [
+        "one more thing",
+        "the thing is",
+        "do your thing"
+      ]
+    },
+    "target": {
+      "word": "것/물건",
+      "phrases": [
+        "한 가지 더",
+        "문제는",
+        "너의 일을 해라"
+      ]
+    },
+    "frequency": 1161
+  },
+  {
+    "rank": 88,
+    "lemma": "most",
+    "source": {
+      "word": "most",
+      "phrases": [
+        "most of",
+        "make the most of",
+        "at most"
+      ]
+    },
+    "target": {
+      "word": "가장/대부분의",
+      "phrases": [
+        "대부분의",
+        "~을 최대한 활용하다",
+        "기껏해야"
+      ]
+    },
+    "frequency": 1146
+  },
+  {
+    "rank": 89,
+    "lemma": "should",
+    "source": {
+      "word": "should",
+      "phrases": [
+        "should be",
+        "I should",
+        "you should know"
+      ]
+    },
+    "target": {
+      "word": "~해야 한다",
+      "phrases": [
+        "~해야 한다",
+        "내가 해야만 한다",
+        "알아야 한다"
+      ]
+    },
+    "frequency": 1132
+  },
+  {
+    "rank": 90,
+    "lemma": "need",
+    "source": {
+      "word": "need",
+      "phrases": [
+        "need to",
+        "in need",
+        "no need"
+      ]
+    },
+    "target": {
+      "word": "필요하다",
+      "phrases": [
+        "~할 필요가 있다",
+        "어려움에 처한",
+        "필요 없음"
+      ]
+    },
+    "frequency": 1129
+  },
+  {
+    "rank": 91,
+    "lemma": "much",
+    "source": {
+      "word": "much",
+      "phrases": [
+        "too much",
+        "thank you very much",
+        "how much"
+      ]
+    },
+    "target": {
+      "word": "많이/매우",
+      "phrases": [
+        "너무 많이",
+        "매우 감사합니다",
+        "얼마나"
+      ]
+    },
+    "frequency": 1125
+  },
+  {
+    "rank": 92,
+    "lemma": "right",
+    "source": {
+      "word": "right",
+      "phrases": [
+        "right now",
+        "all right",
+        "that's right"
+      ]
+    },
+    "target": {
+      "word": "오른쪽/옳은",
+      "phrases": [
+        "지금 당장",
+        "괜찮다",
+        "맞아요"
+      ]
+    },
+    "frequency": 1113
+  },
+  {
+    "rank": 93,
+    "lemma": "how",
+    "source": {
+      "word": "how",
+      "phrases": [
+        "how about",
+        "how much",
+        "how to"
+      ]
+    },
+    "target": {
+      "word": "어떻게",
+      "phrases": [
+        "~은 어때요?",
+        "얼마나",
+        "방법"
+      ]
+    },
+    "frequency": 1093
+  },
+  {
+    "rank": 94,
+    "lemma": "back",
+    "source": {
+      "word": "back",
+      "phrases": [
+        "come back",
+        "back and forth",
+        "give back"
+      ]
+    },
+    "target": {
+      "word": "뒤/뒤로",
+      "phrases": [
+        "돌아오다",
+        "왔다 갔다",
+        "돌려주다"
+      ]
+    },
+    "frequency": 1051
+  },
+  {
+    "rank": 95,
+    "lemma": "mean",
+    "source": {
+      "word": "mean",
+      "phrases": [
+        "I mean",
+        "what do you mean?",
+        "meant to be"
+      ]
+    },
+    "target": {
+      "word": "의미하다",
+      "phrases": [
+        "제 말은",
+        "무슨 뜻인가요?",
+        "~가 될 운명"
+      ]
+    },
+    "frequency": 1021
+  },
+  {
+    "rank": 96,
+    "lemma": "even",
+    "source": {
+      "word": "even",
+      "phrases": [
+        "even if",
+        "even though",
+        "break even"
+      ]
+    },
+    "target": {
+      "word": "심지어/조차",
+      "phrases": [
+        "비록 ~일지라도",
+        "비록 ~임에도 불구하고",
+        "본전치기"
+      ]
+    },
+    "frequency": 988
+  },
+  {
+    "rank": 97,
+    "lemma": "may",
+    "source": {
+      "word": "may",
+      "phrases": [
+        "may I?",
+        "may be",
+        "come what may"
+      ]
+    },
+    "target": {
+      "word": "~일지도 모른다",
+      "phrases": [
+        "~해도 될까요?",
+        "아마도",
+        "무슨 일이 있어도"
+      ]
+    },
+    "frequency": 959
+  },
+  {
+    "rank": 98,
+    "lemma": "here",
+    "source": {
+      "word": "here",
+      "phrases": [
+        "here is",
+        "come here",
+        "same here"
+      ]
+    },
+    "target": {
+      "word": "여기",
+      "phrases": [
+        "여기에 있다",
+        "이리로 오세요",
+        "저도 그래요"
+      ]
+    },
+    "frequency": 947
+  },
+  {
+    "rank": 99,
+    "lemma": "many",
+    "source": {
+      "word": "many",
+      "phrases": [
+        "many times",
+        "how many",
+        "as many as"
+      ]
+    },
+    "target": {
+      "word": "많은",
+      "phrases": [
+        "여러 번",
+        "몇 개나",
+        "~만큼 많은"
+      ]
+    },
+    "frequency": 945
+  },
+  {
+    "rank": 100,
+    "lemma": "such",
+    "source": {
+      "word": "such",
+      "phrases": [
+        "such as",
+        "such a",
+        "no such thing"
+      ]
+    },
+    "target": {
+      "word": "그러한",
+      "phrases": [
+        "~와 같은",
+        "그토록",
+        "그런 것은 없다"
+      ]
+    },
+    "frequency": 936
+  }
+]

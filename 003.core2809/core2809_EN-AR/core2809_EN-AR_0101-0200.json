@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 101,
+    "lemma": "last",
+    "source": {
+      "word": "last",
+      "phrases": [
+        "last year",
+        "at last",
+        "last name"
+      ]
+    },
+    "target": {
+      "word": "أخير",
+      "phrases": [
+        "السنة الماضية",
+        "أخيراً",
+        "الاسم الأخير"
+      ]
+    },
+    "frequency": 917
+  },
+  {
+    "rank": 102,
+    "lemma": "child",
+    "source": {
+      "word": "child",
+      "phrases": [
+        "only child",
+        "inner child",
+        "child care"
+      ]
+    },
+    "target": {
+      "word": "طفل",
+      "phrases": [
+        "طفل وحيد",
+        "الطفل الداخلي",
+        "رعاية الطفل"
+      ]
+    },
+    "frequency": 910
+  },
+  {
+    "rank": 103,
+    "lemma": "tell",
+    "source": {
+      "word": "tell",
+      "phrases": [
+        "tell a lie",
+        "tell the truth",
+        "time will tell"
+      ]
+    },
+    "target": {
+      "word": "يخبر",
+      "phrases": [
+        "يكذب",
+        "يقول الحقيقة",
+        "الوقت كفيل بإثبات ذلك"
+      ]
+    },
+    "frequency": 901
+  },
+  {
+    "rank": 104,
+    "lemma": "really",
+    "source": {
+      "word": "really",
+      "phrases": [
+        "really good",
+        "not really",
+        "really?"
+      ]
+    },
+    "target": {
+      "word": "حقاً",
+      "phrases": [
+        "جيد حقاً",
+        "ليس تماماً",
+        "حقاً؟"
+      ]
+    },
+    "frequency": 870
+  },
+  {
+    "rank": 105,
+    "lemma": "call",
+    "source": {
+      "word": "call",
+      "phrases": [
+        "phone call",
+        "call off",
+        "call for"
+      ]
+    },
+    "target": {
+      "word": "يتصل",
+      "phrases": [
+        "مكالمة هاتفية",
+        "يلغي",
+        "يستدعي"
+      ]
+    },
+    "frequency": 869
+  },
+  {
+    "rank": 106,
+    "lemma": "before",
+    "source": {
+      "word": "before",
+      "phrases": [
+        "before long",
+        "the day before",
+        "never before"
+      ]
+    },
+    "target": {
+      "word": "قبل",
+      "phrases": [
+        "قبل وقت طويل",
+        "اليوم السابق",
+        "ليس من قبل"
+      ]
+    },
+    "frequency": 849
+  },
+  {
+    "rank": 107,
+    "lemma": "company",
+    "source": {
+      "word": "company",
+      "phrases": [
+        "good company",
+        "company car",
+        "keep company"
+      ]
+    },
+    "target": {
+      "word": "شركة",
+      "phrases": [
+        "رفقة طيبة",
+        "سيارة الشركة",
+        "يؤنس"
+      ]
+    },
+    "frequency": 842
+  },
+  {
+    "rank": 108,
+    "lemma": "through",
+    "source": {
+      "word": "through",
+      "phrases": [
+        "go through",
+        "through the night",
+        "see through"
+      ]
+    },
+    "target": {
+      "word": "من خلال",
+      "phrases": [
+        "يمر عبر",
+        "طوال الليل",
+        "يرى من خلال"
+      ]
+    },
+    "frequency": 838
+  },
+  {
+    "rank": 109,
+    "lemma": "down",
+    "source": {
+      "word": "down",
+      "phrases": [
+        "calm down",
+        "upside down",
+        "look down"
+      ]
+    },
+    "target": {
+      "word": "أسفل",
+      "phrases": [
+        "اهدأ",
+        "رأساً على عقب",
+        "ينظر للأسفل"
+      ]
+    },
+    "frequency": 833
+  },
+  {
+    "rank": 110,
+    "lemma": "show",
+    "source": {
+      "word": "show",
+      "phrases": [
+        "show up",
+        "show off",
+        "TV show"
+      ]
+    },
+    "target": {
+      "word": "يعرض",
+      "phrases": [
+        "يظهر",
+        "يتفاخر",
+        "برنامج تلفزيوني"
+      ]
+    },
+    "frequency": 827
+  },
+  {
+    "rank": 111,
+    "lemma": "life",
+    "source": {
+      "word": "life",
+      "phrases": [
+        "life style",
+        "daily life",
+        "life is short"
+      ]
+    },
+    "target": {
+      "word": "حياة",
+      "phrases": [
+        "نمط الحياة",
+        "الحياة اليومية",
+        "الحياة قصيرة"
+      ]
+    },
+    "frequency": 812
+  },
+  {
+    "rank": 112,
+    "lemma": "man",
+    "source": {
+      "word": "man",
+      "phrases": [
+        "old man",
+        "best man",
+        "man made"
+      ]
+    },
+    "target": {
+      "word": "رجل",
+      "phrases": [
+        "رجل عجوز",
+        "إشبين العريس",
+        "صنع الإنسان"
+      ]
+    },
+    "frequency": 807
+  },
+  {
+    "rank": 113,
+    "lemma": "change",
+    "source": {
+      "word": "change",
+      "phrases": [
+        "change my mind",
+        "change clothes",
+        "small change"
+      ]
+    },
+    "target": {
+      "word": "يغير",
+      "phrases": [
+        "يغير رأيه",
+        "يغير ملابسه",
+        "فكة قليلة"
+      ]
+    },
+    "frequency": 799
+  },
+  {
+    "rank": 114,
+    "lemma": "place",
+    "source": {
+      "word": "place",
+      "phrases": [
+        "take place",
+        "in place of",
+        "nice place"
+      ]
+    },
+    "target": {
+      "word": "مكان",
+      "phrases": [
+        "يحدث",
+        "بدلاً من",
+        "مكان جميل"
+      ]
+    },
+    "frequency": 795
+  },
+  {
+    "rank": 115,
+    "lemma": "long",
+    "source": {
+      "word": "long",
+      "phrases": [
+        "long time",
+        "how long",
+        "so long"
+      ]
+    },
+    "target": {
+      "word": "طويل",
+      "phrases": [
+        "وقت طويل",
+        "كم المدة",
+        "إلى اللقاء"
+      ]
+    },
+    "frequency": 791
+  },
+  {
+    "rank": 116,
+    "lemma": "between",
+    "source": {
+      "word": "between",
+      "phrases": [
+        "between us",
+        "far between",
+        "in between"
+      ]
+    },
+    "target": {
+      "word": "بين",
+      "phrases": [
+        "بيننا",
+        "نادر الحدوث",
+        "في المنتصف"
+      ]
+    },
+    "frequency": 784
+  },
+  {
+    "rank": 117,
+    "lemma": "feel",
+    "source": {
+      "word": "feel",
+      "phrases": [
+        "feel like",
+        "feel free",
+        "feel better"
+      ]
+    },
+    "target": {
+      "word": "يشعر",
+      "phrases": [
+        "يرغب في",
+        "لا تتردد",
+        "يشعر بتحسن"
+      ]
+    },
+    "frequency": 780
+  },
+  {
+    "rank": 118,
+    "lemma": "too",
+    "source": {
+      "word": "too",
+      "phrases": [
+        "me too",
+        "too much",
+        "too late"
+      ]
+    },
+    "target": {
+      "word": "أيضاً",
+      "phrases": [
+        "أنا أيضاً",
+        "أكثر من اللازم",
+        "متأخر جداً"
+      ]
+    },
+    "frequency": 763
+  },
+  {
+    "rank": 119,
+    "lemma": "still",
+    "source": {
+      "word": "still",
+      "phrases": [
+        "still here",
+        "stand still",
+        "still water"
+      ]
+    },
+    "target": {
+      "word": "لا يزال",
+      "phrases": [
+        "لا يزال هنا",
+        "قف ساكناً",
+        "مياه راكدة"
+      ]
+    },
+    "frequency": 752
+  },
+  {
+    "rank": 120,
+    "lemma": "problem",
+    "source": {
+      "word": "problem",
+      "phrases": [
+        "no problem",
+        "big problem",
+        "solve a problem"
+      ]
+    },
+    "target": {
+      "word": "مشكلة",
+      "phrases": [
+        "لا مشكلة",
+        "مشكلة كبيرة",
+        "يحل مشكلة"
+      ]
+    },
+    "frequency": 733
+  },
+  {
+    "rank": 121,
+    "lemma": "write",
+    "source": {
+      "word": "write",
+      "phrases": [
+        "write down",
+        "write back",
+        "write a letter"
+      ]
+    },
+    "target": {
+      "word": "يكتب",
+      "phrases": [
+        "يدون",
+        "يرد كتابةً",
+        "يكتب رسالة"
+      ]
+    },
+    "frequency": 732
+  },
+  {
+    "rank": 122,
+    "lemma": "same",
+    "source": {
+      "word": "same",
+      "phrases": [
+        "same to you",
+        "at the same time",
+        "all the same"
+      ]
+    },
+    "target": {
+      "word": "نفس",
+      "phrases": [
+        "وأنت كذلك",
+        "في نفس الوقت",
+        "على أية حال"
+      ]
+    },
+    "frequency": 721
+  },
+  {
+    "rank": 123,
+    "lemma": "lot",
+    "source": {
+      "word": "lot",
+      "phrases": [
+        "a lot of",
+        "thanks a lot",
+        "parking lot"
+      ]
+    },
+    "target": {
+      "word": "كثير / موقف",
+      "phrases": [
+        "الكثير من",
+        "شكراً جزيلاً",
+        "موقف سيارات"
+      ]
+    },
+    "frequency": 715
+  },
+  {
+    "rank": 124,
+    "lemma": "great",
+    "source": {
+      "word": "great",
+      "phrases": [
+        "great job",
+        "sounds great",
+        "a great deal"
+      ]
+    },
+    "target": {
+      "word": "عظيم",
+      "phrases": [
+        "عمل رائع",
+        "يبدو رائعاً",
+        "قدر كبير"
+      ]
+    },
+    "frequency": 710
+  },
+  {
+    "rank": 125,
+    "lemma": "try",
+    "source": {
+      "word": "try",
+      "phrases": [
+        "try on",
+        "try out",
+        "give it a try"
+      ]
+    },
+    "target": {
+      "word": "يحاول",
+      "phrases": [
+        "يقيس (ملابس)",
+        "يجرب",
+        "جرب الأمر"
+      ]
+    },
+    "frequency": 699
+  },
+  {
+    "rank": 126,
+    "lemma": "leave",
+    "source": {
+      "word": "leave",
+      "phrases": [
+        "leave alone",
+        "leave a message",
+        "on leave"
+      ]
+    },
+    "target": {
+      "word": "يترك",
+      "phrases": [
+        "يدع وشأنه",
+        "يترك رسالة",
+        "في إجازة"
+      ]
+    },
+    "frequency": 699
+  },
+  {
+    "rank": 127,
+    "lemma": "number",
+    "source": {
+      "word": "number",
+      "phrases": [
+        "phone number",
+        "a number of",
+        "number one"
+      ]
+    },
+    "target": {
+      "word": "رقم",
+      "phrases": [
+        "رقم الهاتف",
+        "عدد من",
+        "رقم واحد"
+      ]
+    },
+    "frequency": 698
+  },
+  {
+    "rank": 128,
+    "lemma": "both",
+    "source": {
+      "word": "both",
+      "phrases": [
+        "both of them",
+        "both A and B",
+        "both sides"
+      ]
+    },
+    "target": {
+      "word": "كلاهما",
+      "phrases": [
+        "كلاهما",
+        "كل من أ و ب",
+        "كلا الجانبين"
+      ]
+    },
+    "frequency": 695
+  },
+  {
+    "rank": 129,
+    "lemma": "own",
+    "source": {
+      "word": "own",
+      "phrases": [
+        "my own",
+        "on my own",
+        "own a house"
+      ]
+    },
+    "target": {
+      "word": "يملك / خاص",
+      "phrases": [
+        "ملكي الخاص",
+        "بمفردي",
+        "يملك منزلاً"
+      ]
+    },
+    "frequency": 693
+  },
+  {
+    "rank": 130,
+    "lemma": "part",
+    "source": {
+      "word": "part",
+      "phrases": [
+        "take part in",
+        "part time",
+        "part of"
+      ]
+    },
+    "target": {
+      "word": "جزء",
+      "phrases": [
+        "يشارك في",
+        "دوام جزئي",
+        "جزء من"
+      ]
+    },
+    "frequency": 692
+  },
+  {
+    "rank": 131,
+    "lemma": "point",
+    "source": {
+      "word": "point",
+      "phrases": [
+        "point of view",
+        "point out",
+        "to the point"
+      ]
+    },
+    "target": {
+      "word": "نقطة",
+      "phrases": [
+        "وجهة نظر",
+        "يشير إلى",
+        "مباشر / في صلب الموضوع"
+      ]
+    },
+    "frequency": 684
+  },
+  {
+    "rank": 132,
+    "lemma": "little",
+    "source": {
+      "word": "little",
+      "phrases": [
+        "a little",
+        "little bit",
+        "little by little"
+      ]
+    },
+    "target": {
+      "word": "قليل / صغير",
+      "phrases": [
+        "قليلاً",
+        "قليلاً جداً",
+        "شيئاً فشيئاً"
+      ]
+    },
+    "frequency": 681
+  },
+  {
+    "rank": 133,
+    "lemma": "help",
+    "source": {
+      "word": "help",
+      "phrases": [
+        "help yourself",
+        "cannot help",
+        "ask for help"
+      ]
+    },
+    "target": {
+      "word": "يساعد",
+      "phrases": [
+        "تفضل بخدمة نفسك",
+        "لا يستطيع الامتناع",
+        "يطلب المساعدة"
+      ]
+    },
+    "frequency": 680
+  },
+  {
+    "rank": 134,
+    "lemma": "ask",
+    "source": {
+      "word": "ask",
+      "phrases": [
+        "ask for",
+        "ask out",
+        "don't ask"
+      ]
+    },
+    "target": {
+      "word": "يسأل",
+      "phrases": [
+        "يطلب",
+        "يدعو للخروج",
+        "لا تسأل"
+      ]
+    },
+    "frequency": 675
+  },
+  {
+    "rank": 135,
+    "lemma": "meet",
+    "source": {
+      "word": "meet",
+      "phrases": [
+        "nice to meet you",
+        "meet the needs",
+        "meet again"
+      ]
+    },
+    "target": {
+      "word": "يقابل",
+      "phrases": [
+        "سررت بلقائك",
+        "يلبي الاحتياجات",
+        "نلتقي مجدداً"
+      ]
+    },
+    "frequency": 671
+  },
+  {
+    "rank": 136,
+    "lemma": "start",
+    "source": {
+      "word": "start",
+      "phrases": [
+        "start over",
+        "start up",
+        "fresh start"
+      ]
+    },
+    "target": {
+      "word": "يبدأ",
+      "phrases": [
+        "يبدأ من جديد",
+        "شركة ناشئة",
+        "بداية جديدة"
+      ]
+    },
+    "frequency": 669
+  },
+  {
+    "rank": 137,
+    "lemma": "talk",
+    "source": {
+      "word": "talk",
+      "phrases": [
+        "talk about",
+        "talk to",
+        "small talk"
+      ]
+    },
+    "target": {
+      "word": "يتحدث",
+      "phrases": [
+        "يتحدث عن",
+        "يتحدث إلى",
+        "دردشة قصيرة"
+      ]
+    },
+    "frequency": 665
+  },
+  {
+    "rank": 138,
+    "lemma": "something",
+    "source": {
+      "word": "something",
+      "phrases": [
+        "something else",
+        "something wrong",
+        "something like"
+      ]
+    },
+    "target": {
+      "word": "شيء ما",
+      "phrases": [
+        "شيء آخر",
+        "شيء خاطئ",
+        "شيء من هذا القبيل"
+      ]
+    },
+    "frequency": 665
+  },
+  {
+    "rank": 139,
+    "lemma": "put",
+    "source": {
+      "word": "put",
+      "phrases": [
+        "put on",
+        "put off",
+        "put up with"
+      ]
+    },
+    "target": {
+      "word": "يضع",
+      "phrases": [
+        "يرتدي",
+        "يؤجل",
+        "يتحمل"
+      ]
+    },
+    "frequency": 655
+  },
+  {
+    "rank": 140,
+    "lemma": "another",
+    "source": {
+      "word": "another",
+      "phrases": [
+        "one after another",
+        "another day",
+        "one way or another"
+      ]
+    },
+    "target": {
+      "word": "آخر",
+      "phrases": [
+        "واحداً تلو الآخر",
+        "يوم آخر",
+        "بطريقة أو بأخرى"
+      ]
+    },
+    "frequency": 655
+  },
+  {
+    "rank": 141,
+    "lemma": "become",
+    "source": {
+      "word": "become",
+      "phrases": [
+        "become friends",
+        "become aware",
+        "what has become of...?"
+      ]
+    },
+    "target": {
+      "word": "يصبح",
+      "phrases": [
+        "يصبحون أصدقاء",
+        "يصبح واعياً",
+        "ماذا حل بـ...؟"
+      ]
+    },
+    "frequency": 654
+  },
+  {
+    "rank": 142,
+    "lemma": "interest",
+    "source": {
+      "word": "interest",
+      "phrases": [
+        "interest rate",
+        "take an interest",
+        "of interest"
+      ]
+    },
+    "target": {
+      "word": "اهتمام / فائدة",
+      "phrases": [
+        "سعر الفائدة",
+        "يهتم بـ",
+        "مثير للاهتمام"
+      ]
+    },
+    "frequency": 653
+  },
+  {
+    "rank": 143,
+    "lemma": "country",
+    "source": {
+      "word": "country",
+      "phrases": [
+        "foreign country",
+        "country side",
+        "cross country"
+      ]
+    },
+    "target": {
+      "word": "بلد / ريف",
+      "phrases": [
+        "بلد أجنبي",
+        "الريف",
+        "عبر البلاد"
+      ]
+    },
+    "frequency": 653
+  },
+  {
+    "rank": 144,
+    "lemma": "old",
+    "source": {
+      "word": "old",
+      "phrases": [
+        "how old",
+        "old fashioned",
+        "grow old"
+      ]
+    },
+    "target": {
+      "word": "قديم / عمر",
+      "phrases": [
+        "كم العمر",
+        "طراز قديم",
+        "يكبر في السن"
+      ]
+    },
+    "frequency": 647
+  },
+  {
+    "rank": 145,
+    "lemma": "each",
+    "source": {
+      "word": "each",
+      "phrases": [
+        "each other",
+        "each and every",
+        "each time"
+      ]
+    },
+    "target": {
+      "word": "كل",
+      "phrases": [
+        "بعضهم البعض",
+        "كل واحد دون استثناء",
+        "في كل مرة"
+      ]
+    },
+    "frequency": 646
+  },
+  {
+    "rank": 146,
+    "lemma": "school",
+    "source": {
+      "word": "school",
+      "phrases": [
+        "high school",
+        "at school",
+        "school bus"
+      ]
+    },
+    "target": {
+      "word": "مدرسة",
+      "phrases": [
+        "مدرسة ثانوية",
+        "في المدرسة",
+        "حافلة المدرسة"
+      ]
+    },
+    "frequency": 638
+  },
+  {
+    "rank": 147,
+    "lemma": "late",
+    "source": {
+      "word": "late",
+      "phrases": [
+        "late for",
+        "see you later",
+        "of late"
+      ]
+    },
+    "target": {
+      "word": "متأخر",
+      "phrases": [
+        "متأخر عن",
+        "أراك لاحقاً",
+        "مؤخراً"
+      ]
+    },
+    "frequency": 638
+  },
+  {
+    "rank": 148,
+    "lemma": "high",
+    "source": {
+      "word": "high",
+      "phrases": [
+        "high school",
+        "high quality",
+        "high five"
+      ]
+    },
+    "target": {
+      "word": "عالٍ / مرتفع",
+      "phrases": [
+        "مدرسة ثانوية",
+        "جودة عالية",
+        "تحية الكف (هاي فايف)"
+      ]
+    },
+    "frequency": 637
+  },
+  {
+    "rank": 149,
+    "lemma": "different",
+    "source": {
+      "word": "different",
+      "phrases": [
+        "different from",
+        "make a difference",
+        "something different"
+      ]
+    },
+    "target": {
+      "word": "مختلف",
+      "phrases": [
+        "مختلف عن",
+        "يحدث فرقاً",
+        "شيء مختلف"
+      ]
+    },
+    "frequency": 636
+  },
+  {
+    "rank": 150,
+    "lemma": "off",
+    "source": {
+      "word": "off",
+      "phrases": [
+        "take off",
+        "day off",
+        "turn off"
+      ]
+    },
+    "target": {
+      "word": "بعيد / إطفاء",
+      "phrases": [
+        "يغادر / يخلع",
+        "يوم عطلة",
+        "يطفئ"
+      ]
+    },
+    "frequency": 630
+  },
+  {
+    "rank": 151,
+    "lemma": "next",
+    "source": {
+      "word": "next",
+      "phrases": [
+        "next to",
+        "next year",
+        "next door"
+      ]
+    },
+    "target": {
+      "word": "التالي / بجانب",
+      "phrases": [
+        "بجانب",
+        "السنة القادمة",
+        "المجاور"
+      ]
+    },
+    "frequency": 620
+  },
+  {
+    "rank": 152,
+    "lemma": "end",
+    "source": {
+      "word": "end",
+      "phrases": [
+        "in the end",
+        "end up",
+        "no end"
+      ]
+    },
+    "target": {
+      "word": "نهاية",
+      "phrases": [
+        "في النهاية",
+        "ينتهي به المطاف",
+        "بلا نهاية"
+      ]
+    },
+    "frequency": 619
+  },
+  {
+    "rank": 153,
+    "lemma": "live",
+    "source": {
+      "word": "live",
+      "phrases": [
+        "live in",
+        "live stream",
+        "live a life"
+      ]
+    },
+    "target": {
+      "word": "يعيش",
+      "phrases": [
+        "يعيش في",
+        "بث مباشر",
+        "يعيش حياة"
+      ]
+    },
+    "frequency": 608
+  },
+  {
+    "rank": 154,
+    "lemma": "why",
+    "source": {
+      "word": "why",
+      "phrases": [
+        "why not?",
+        "that's why",
+        "reason why"
+      ]
+    },
+    "target": {
+      "word": "لماذا",
+      "phrases": [
+        "لما لا؟",
+        "هذا هو السبب",
+        "السبب وراء"
+      ]
+    },
+    "frequency": 607
+  },
+  {
+    "rank": 155,
+    "lemma": "while",
+    "source": {
+      "word": "while",
+      "phrases": [
+        "for a while",
+        "worth while",
+        "while ago"
+      ]
+    },
+    "target": {
+      "word": "بينما / مدة",
+      "phrases": [
+        "لفترة وجيزة",
+        "يستحق العناء",
+        "منذ فترة"
+      ]
+    },
+    "frequency": 598
+  },
+  {
+    "rank": 156,
+    "lemma": "world",
+    "source": {
+      "word": "world",
+      "phrases": [
+        "all over the world",
+        "world wide",
+        "out of this world"
+      ]
+    },
+    "target": {
+      "word": "عالم",
+      "phrases": [
+        "في جميع أنحاء العالم",
+        "على مستوى العالم",
+        "فوق الوصف (خارج هذا العالم)"
+      ]
+    },
+    "frequency": 597
+  },
+  {
+    "rank": 157,
+    "lemma": "week",
+    "source": {
+      "word": "week",
+      "phrases": [
+        "last week",
+        "once a week",
+        "weekend"
+      ]
+    },
+    "target": {
+      "word": "أسبوع",
+      "phrases": [
+        "الأسبوع الماضي",
+        "مرة في الأسبوع",
+        "عطلة نهاية الأسبوع"
+      ]
+    },
+    "frequency": 596
+  },
+  {
+    "rank": 158,
+    "lemma": "play",
+    "source": {
+      "word": "play",
+      "phrases": [
+        "play a role",
+        "play the guitar",
+        "play games"
+      ]
+    },
+    "target": {
+      "word": "يلعب / يؤدي",
+      "phrases": [
+        "يؤدي دوراً",
+        "يعزف على الغيتار",
+        "يلعب ألعاباً"
+      ]
+    },
+    "frequency": 593
+  },
+  {
+    "rank": 159,
+    "lemma": "might",
+    "source": {
+      "word": "might",
+      "phrases": [
+        "might be",
+        "might as well",
+        "with all one's might"
+      ]
+    },
+    "target": {
+      "word": "ربما / قوة",
+      "phrases": [
+        "قد يكون",
+        "من الأفضل أيضاً",
+        "بكل ما أوتي من قوة"
+      ]
+    },
+    "frequency": 587
+  },
+  {
+    "rank": 160,
+    "lemma": "must",
+    "source": {
+      "word": "must",
+      "phrases": [
+        "must be",
+        "must have",
+        "a must"
+      ]
+    },
+    "target": {
+      "word": "يجب",
+      "phrases": [
+        "لا بد أن يكون",
+        "لا بد من امتلاكه",
+        "أمر لا بد منه"
+      ]
+    },
+    "frequency": 586
+  },
+  {
+    "rank": 161,
+    "lemma": "home",
+    "source": {
+      "word": "home",
+      "phrases": [
+        "at home",
+        "go home",
+        "home town"
+      ]
+    },
+    "target": {
+      "word": "منزل",
+      "phrases": [
+        "في المنزل",
+        "الذهاب للمنزل",
+        "مسقط الرأس"
+      ]
+    },
+    "frequency": 585
+  },
+  {
+    "rank": 162,
+    "lemma": "never",
+    "source": {
+      "word": "never",
+      "phrases": [
+        "never mind",
+        "never ever",
+        "now or never"
+      ]
+    },
+    "target": {
+      "word": "أبداً",
+      "phrases": [
+        "لا عليك",
+        "مطلقاً وأبداً",
+        "الآن أو أبداً"
+      ]
+    },
+    "frequency": 580
+  },
+  {
+    "rank": 163,
+    "lemma": "include",
+    "source": {
+      "word": "include",
+      "phrases": [
+        "including tax",
+        "include me",
+        "not included"
+      ]
+    },
+    "target": {
+      "word": "يتضمن",
+      "phrases": [
+        "شامل الضريبة",
+        "أشركني",
+        "غير مدرج"
+      ]
+    },
+    "frequency": 575
+  },
+  {
+    "rank": 164,
+    "lemma": "course",
+    "source": {
+      "word": "course",
+      "phrases": [
+        "of course",
+        "in the course of",
+        "stay the course"
+      ]
+    },
+    "target": {
+      "word": "دورة/مسار",
+      "phrases": [
+        "بالطبع",
+        "في سياق",
+        "البقاء على المسار"
+      ]
+    },
+    "frequency": 575
+  },
+  {
+    "rank": 165,
+    "lemma": "house",
+    "source": {
+      "word": "house",
+      "phrases": [
+        "open house",
+        "house work",
+        "full house"
+      ]
+    },
+    "target": {
+      "word": "بيت",
+      "phrases": [
+        "بيت مفتوح",
+        "عمل منزلي",
+        "منزل كامل"
+      ]
+    },
+    "frequency": 572
+  },
+  {
+    "rank": 166,
+    "lemma": "report",
+    "source": {
+      "word": "report",
+      "phrases": [
+        "report card",
+        "weather report",
+        "report to"
+      ]
+    },
+    "target": {
+      "word": "تقرير",
+      "phrases": [
+        "كشف الدرجات",
+        "النشرة الجوية",
+        "يقدم تقريراً إلى"
+      ]
+    },
+    "frequency": 570
+  },
+  {
+    "rank": 167,
+    "lemma": "group",
+    "source": {
+      "word": "group",
+      "phrases": [
+        "group of",
+        "age group",
+        "group photo"
+      ]
+    },
+    "target": {
+      "word": "مجموعة",
+      "phrases": [
+        "مجموعة من",
+        "الفئة العمرية",
+        "صورة جماعية"
+      ]
+    },
+    "frequency": 569
+  },
+  {
+    "rank": 168,
+    "lemma": "case",
+    "source": {
+      "word": "case",
+      "phrases": [
+        "in case",
+        "case study",
+        "just in case"
+      ]
+    },
+    "target": {
+      "word": "حالة",
+      "phrases": [
+        "في حال",
+        "دراسة حالة",
+        "فقط تحسباً"
+      ]
+    },
+    "frequency": 569
+  },
+  {
+    "rank": 169,
+    "lemma": "woman",
+    "source": {
+      "word": "woman",
+      "phrases": [
+        "career woman",
+        "wonder woman",
+        "young woman"
+      ]
+    },
+    "target": {
+      "word": "امرأة",
+      "phrases": [
+        "امرأة عاملة",
+        "المرأة المعجزة",
+        "امرأة شابة"
+      ]
+    },
+    "frequency": 568
+  },
+  {
+    "rank": 170,
+    "lemma": "around",
+    "source": {
+      "word": "around",
+      "phrases": [
+        "around the world",
+        "turn around",
+        "around here"
+      ]
+    },
+    "target": {
+      "word": "حول",
+      "phrases": [
+        "حول العالم",
+        "استدر",
+        "هنا في الجوار"
+      ]
+    },
+    "frequency": 568
+  },
+  {
+    "rank": 171,
+    "lemma": "book",
+    "source": {
+      "word": "book",
+      "phrases": [
+        "read a book",
+        "book a flight",
+        "text book"
+      ]
+    },
+    "target": {
+      "word": "كتاب",
+      "phrases": [
+        "يقرأ كتاباً",
+        "يحجز رحلة طيران",
+        "كتاب مدرسي"
+      ]
+    },
+    "frequency": 566
+  },
+  {
+    "rank": 172,
+    "lemma": "family",
+    "source": {
+      "word": "family",
+      "phrases": [
+        "family tree",
+        "family name",
+        "run in the family"
+      ]
+    },
+    "target": {
+      "word": "عائلة",
+      "phrases": [
+        "شجرة العائلة",
+        "اسم العائلة",
+        "متوارث في العائلة"
+      ]
+    },
+    "frequency": 565
+  },
+  {
+    "rank": 173,
+    "lemma": "seem",
+    "source": {
+      "word": "seem",
+      "phrases": [
+        "seem to be",
+        "it seems that",
+        "doesn't seem like"
+      ]
+    },
+    "target": {
+      "word": "يبدو",
+      "phrases": [
+        "يبدو أنه",
+        "يبدو أن",
+        "لا يبدو كذلك"
+      ]
+    },
+    "frequency": 562
+  },
+  {
+    "rank": 174,
+    "lemma": "let",
+    "source": {
+      "word": "let",
+      "phrases": [
+        "let's go",
+        "let me know",
+        "let it be"
+      ]
+    },
+    "target": {
+      "word": "يسمح",
+      "phrases": [
+        "لنذهب",
+        "أعلمني",
+        "دع الأمر وشأنه"
+      ]
+    },
+    "frequency": 555
+  },
+  {
+    "rank": 175,
+    "lemma": "again",
+    "source": {
+      "word": "again",
+      "phrases": [
+        "try again",
+        "once again",
+        "never again"
+      ]
+    },
+    "target": {
+      "word": "مرة أخرى",
+      "phrases": [
+        "حاول ثانية",
+        "مرة أخرى",
+        "لن يتكرر أبداً"
+      ]
+    },
+    "frequency": 554
+  },
+  {
+    "rank": 176,
+    "lemma": "kind",
+    "source": {
+      "word": "kind",
+      "phrases": [
+        "kind of",
+        "be kind to",
+        "what kind of"
+      ]
+    },
+    "target": {
+      "word": "نوع/لطيف",
+      "phrases": [
+        "نوع من",
+        "كن لطيفاً مع",
+        "أي نوع من"
+      ]
+    },
+    "frequency": 554
+  },
+  {
+    "rank": 177,
+    "lemma": "keep",
+    "source": {
+      "word": "keep",
+      "phrases": [
+        "keep going",
+        "keep in mind",
+        "keep away"
+      ]
+    },
+    "target": {
+      "word": "يحافظ/يستمر",
+      "phrases": [
+        "واصل التقدم",
+        "ضع في اعتبارك",
+        "ابق بعيداً"
+      ]
+    },
+    "frequency": 551
+  },
+  {
+    "rank": 178,
+    "lemma": "hear",
+    "source": {
+      "word": "hear",
+      "phrases": [
+        "hear from",
+        "hear of",
+        "hard of hearing"
+      ]
+    },
+    "target": {
+      "word": "يسمع",
+      "phrases": [
+        "يسمع أخباراً من",
+        "يسمع عن",
+        "ثقيل السمع"
+      ]
+    },
+    "frequency": 546
+  },
+  {
+    "rank": 179,
+    "lemma": "system",
+    "source": {
+      "word": "system",
+      "phrases": [
+        "solar system",
+        "immune system",
+        "sound system"
+      ]
+    },
+    "target": {
+      "word": "نظام",
+      "phrases": [
+        "النظام الشمسي",
+        "جهاز المناعة",
+        "نظام صوتي"
+      ]
+    },
+    "frequency": 545
+  },
+  {
+    "rank": 180,
+    "lemma": "every",
+    "source": {
+      "word": "every",
+      "phrases": [
+        "every day",
+        "every time",
+        "every single"
+      ]
+    },
+    "target": {
+      "word": "كل",
+      "phrases": [
+        "كل يوم",
+        "كل مرة",
+        "كل واحد"
+      ]
+    },
+    "frequency": 545
+  },
+  {
+    "rank": 181,
+    "lemma": "question",
+    "source": {
+      "word": "question",
+      "phrases": [
+        "ask a question",
+        "out of the question",
+        "question mark"
+      ]
+    },
+    "target": {
+      "word": "سؤال",
+      "phrases": [
+        "يطرح سؤالاً",
+        "مستحيل / غير وارد",
+        "علامة استفهام"
+      ]
+    },
+    "frequency": 542
+  },
+  {
+    "rank": 182,
+    "lemma": "during",
+    "source": {
+      "word": "during",
+      "phrases": [
+        "during the day",
+        "during the war",
+        "during my stay"
+      ]
+    },
+    "target": {
+      "word": "خلال",
+      "phrases": [
+        "خلال النهار",
+        "خلال الحرب",
+        "خلال إقامتي"
+      ]
+    },
+    "frequency": 540
+  },
+  {
+    "rank": 183,
+    "lemma": "always",
+    "source": {
+      "word": "always",
+      "phrases": [
+        "always have",
+        "as always",
+        "not always"
+      ]
+    },
+    "target": {
+      "word": "دائماً",
+      "phrases": [
+        "يمتلك دائماً",
+        "كما هو الحال دائماً",
+        "ليس دائماً"
+      ]
+    },
+    "frequency": 531
+  },
+  {
+    "rank": 184,
+    "lemma": "big",
+    "source": {
+      "word": "big",
+      "phrases": [
+        "big deal",
+        "big brother",
+        "dream big"
+      ]
+    },
+    "target": {
+      "word": "كبير",
+      "phrases": [
+        "أمر هام",
+        "الأخ الأكبر",
+        "احلم بأحلام كبيرة"
+      ]
+    },
+    "frequency": 527
+  },
+  {
+    "rank": 185,
+    "lemma": "set",
+    "source": {
+      "word": "set",
+      "phrases": [
+        "set up",
+        "all set",
+        "sunset"
+      ]
+    },
+    "target": {
+      "word": "مجموعة / ضبط",
+      "phrases": [
+        "إعداد / تجهيز",
+        "جاهز تماماً",
+        "غروب الشمس"
+      ]
+    },
+    "frequency": 526
+  },
+  {
+    "rank": 186,
+    "lemma": "small",
+    "source": {
+      "word": "small",
+      "phrases": [
+        "small talk",
+        "small world",
+        "feel small"
+      ]
+    },
+    "target": {
+      "word": "صغير",
+      "phrases": [
+        "دردشة خفيفة",
+        "العالم صغير",
+        "يشعر بالضآلة"
+      ]
+    },
+    "frequency": 525
+  },
+  {
+    "rank": 187,
+    "lemma": "study",
+    "source": {
+      "word": "study",
+      "phrases": [
+        "study hard",
+        "case study",
+        "study abroad"
+      ]
+    },
+    "target": {
+      "word": "دراسة",
+      "phrases": [
+        "يدرس بجد",
+        "دراسة حالة",
+        "الدراسة في الخارج"
+      ]
+    },
+    "frequency": 524
+  },
+  {
+    "rank": 188,
+    "lemma": "follow",
+    "source": {
+      "word": "follow",
+      "phrases": [
+        "follow me",
+        "follow the rules",
+        "as follows"
+      ]
+    },
+    "target": {
+      "word": "يتبع",
+      "phrases": [
+        "اتبعني",
+        "اتبع القواعد",
+        "كما يلي"
+      ]
+    },
+    "frequency": 521
+  },
+  {
+    "rank": 189,
+    "lemma": "begin",
+    "source": {
+      "word": "begin",
+      "phrases": [
+        "to begin with",
+        "begin again",
+        "begin at the beginning"
+      ]
+    },
+    "target": {
+      "word": "يبدأ",
+      "phrases": [
+        "لبداية الأمر",
+        "ابدأ من جديد",
+        "ابدأ من البداية"
+      ]
+    },
+    "frequency": 518
+  },
+  {
+    "rank": 190,
+    "lemma": "important",
+    "source": {
+      "word": "important",
+      "phrases": [
+        "important to",
+        "most important",
+        "play an important role"
+      ]
+    },
+    "target": {
+      "word": "مهم",
+      "phrases": [
+        "مهم لـ",
+        "الأكثر أهمية",
+        "يلعب دوراً مهماً"
+      ]
+    },
+    "frequency": 518
+  },
+  {
+    "rank": 191,
+    "lemma": "since",
+    "source": {
+      "word": "since",
+      "phrases": [
+        "ever since",
+        "since then",
+        "long since"
+      ]
+    },
+    "target": {
+      "word": "منذ",
+      "phrases": [
+        "منذ ذلك الحين",
+        "منذ ذلك الوقت",
+        "منذ زمن بعيد"
+      ]
+    },
+    "frequency": 515
+  },
+  {
+    "rank": 192,
+    "lemma": "run",
+    "source": {
+      "word": "run",
+      "phrases": [
+        "run away",
+        "run out of",
+        "run a business"
+      ]
+    },
+    "target": {
+      "word": "يركض / يدير",
+      "phrases": [
+        "يهرب",
+        "ينفد من",
+        "يدير عملاً تجارياً"
+      ]
+    },
+    "frequency": 510
+  },
+  {
+    "rank": 193,
+    "lemma": "under",
+    "source": {
+      "word": "under",
+      "phrases": [
+        "under control",
+        "under pressure",
+        "under water"
+      ]
+    },
+    "target": {
+      "word": "تحت",
+      "phrases": [
+        "تحت السيطرة",
+        "تحت الضغط",
+        "تحت الماء"
+      ]
+    },
+    "frequency": 509
+  },
+  {
+    "rank": 194,
+    "lemma": "turn",
+    "source": {
+      "word": "turn",
+      "phrases": [
+        "turn on",
+        "turn out",
+        "your turn"
+      ]
+    },
+    "target": {
+      "word": "دوران / دور",
+      "phrases": [
+        "يُشغل",
+        "يتبين / يظهر",
+        "دورك"
+      ]
+    },
+    "frequency": 509
+  },
+  {
+    "rank": 195,
+    "lemma": "few",
+    "source": {
+      "word": "few",
+      "phrases": [
+        "a few",
+        "quite a few",
+        "few people"
+      ]
+    },
+    "target": {
+      "word": "قليل",
+      "phrases": [
+        "القليل من",
+        "عدد لا بأس به",
+        "أشخاص قليلون"
+      ]
+    },
+    "frequency": 509
+  },
+  {
+    "rank": 196,
+    "lemma": "bring",
+    "source": {
+      "word": "bring",
+      "phrases": [
+        "bring up",
+        "bring about",
+        "bring it on"
+      ]
+    },
+    "target": {
+      "word": "يجلب",
+      "phrases": [
+        "يربي / يطرح موضوعاً",
+        "يؤدي إلى / يسبب",
+        "أرنا ما لديك / هاته"
+      ]
+    },
+    "frequency": 502
+  },
+  {
+    "rank": 197,
+    "lemma": "early",
+    "source": {
+      "word": "early",
+      "phrases": [
+        "early bird",
+        "early days",
+        "arrive early"
+      ]
+    },
+    "target": {
+      "word": "مبكراً",
+      "phrases": [
+        "شخص يستيقظ مبكراً",
+        "الأيام الأولى",
+        "يصل مبكراً"
+      ]
+    },
+    "frequency": 499
+  },
+  {
+    "rank": 198,
+    "lemma": "hand",
+    "source": {
+      "word": "hand",
+      "phrases": [
+        "give a hand",
+        "on the other hand",
+        "hand in hand"
+      ]
+    },
+    "target": {
+      "word": "يد",
+      "phrases": [
+        "يساعد",
+        "من ناحية أخرى",
+        "يداً بيد"
+      ]
+    },
+    "frequency": 497
+  },
+  {
+    "rank": 199,
+    "lemma": "state",
+    "source": {
+      "word": "state",
+      "phrases": [
+        "state of mind",
+        "United States",
+        "state clearly"
+      ]
+    },
+    "target": {
+      "word": "حالة / دولة",
+      "phrases": [
+        "حالة ذهنية",
+        "الولايات المتحدة",
+        "يوضح بوضوح"
+      ]
+    },
+    "frequency": 494
+  },
+  {
+    "rank": 200,
+    "lemma": "move",
+    "source": {
+      "word": "move",
+      "phrases": [
+        "move on",
+        "move in",
+        "on the move"
+      ]
+    },
+    "target": {
+      "word": "يتحرك",
+      "phrases": [
+        "يمضي قدماً",
+        "ينتقل إلى (سكن جديد)",
+        "في حركة مستمرة"
+      ]
+    },
+    "frequency": 493
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "walking",
+    "slug": "walking",
+    "category": "walking",
+    "source_code": "17190",
+    "met": 3.8,
+    "source_url": "https://pacompendium.com/walking/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "running",
+    "slug": "running",
+    "category": "running",
+    "source_code": "12030",
+    "met": 8.5,
+    "source_url": "https://pacompendium.com/running/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "cycling",
+    "slug": "cycling",
+    "category": "cycling",
+    "source_code": "01010",
+    "met": 4,
+    "source_url": "https://pacompendium.com/bicycling/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "vacuum_cleaning",
+    "slug": "vacuum-cleaning",
+    "category": "home",
+    "source_code": "05043",
+    "met": 3,
+    "source_url": "https://pacompendium.com/home-activities/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "gardening",
+    "slug": "gardening",
+    "category": "garden",
+    "source_code": "08245",
+    "met": 3.8,
+    "source_url": "https://pacompendium.com/lawn-garden/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "dog_walking",
+    "slug": "dog-walking",
+    "category": "walking",
+    "source_code": "17165",
+    "met": 3,
+    "source_url": "https://pacompendium.com/walking/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "hiking",
+    "slug": "hiking",
+    "category": "walking",
+    "source_code": "17080",
+    "met": 6,
+    "source_url": "https://pacompendium.com/walking/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "stair_climbing",
+    "slug": "stair-climbing",
+    "category": "walking",
+    "source_code": "17131",
+    "met": 6.8,
+    "source_url": "https://pacompendium.com/walking/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "sweeping",
+    "slug": "sweeping",
+    "category": "home",
+    "source_code": "05010",
+    "met": 3.3,
+    "source_url": "https://pacompendium.com/home-activities/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "mopping",
+    "slug": "mopping",
+    "category": "home",
+    "source_code": "05021",
+    "met": 3.5,
+    "source_url": "https://pacompendium.com/home-activities/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "window_cleaning",
+    "slug": "window-cleaning",
+    "category": "home",
+    "source_code": "05022",
+    "met": 3.3,
+    "source_url": "https://pacompendium.com/home-activities/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "cooking",
+    "slug": "cooking",
+    "category": "home",
+    "source_code": "05050",
+    "met": 2,
+    "source_url": "https://pacompendium.com/home-activities/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "washing_dishes",
+    "slug": "washing-dishes",
+    "category": "home",
+    "source_code": "05041",
+    "met": 2,
+    "source_url": "https://pacompendium.com/home-activities/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "mowing",
+    "slug": "mowing",
+    "category": "garden",
+    "source_code": "08095",
+    "met": 5.5,
+    "source_url": "https://pacompendium.com/lawn-garden/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "weeding",
+    "slug": "weeding",
+    "category": "garden",
+    "source_code": "08240",
+    "met": 4.5,
+    "source_url": "https://pacompendium.com/lawn-garden/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "planting",
+    "slug": "planting",
+    "category": "garden",
+    "source_code": "08135",
+    "met": 2.6,
+    "source_url": "https://pacompendium.com/lawn-garden/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "badminton",
+    "slug": "badminton",
+    "category": "sports",
+    "source_code": "15030",
+    "met": 5.5,
+    "source_url": "https://pacompendium.com/sports/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "basketball",
+    "slug": "basketball",
+    "category": "sports",
+    "source_code": "15040",
+    "met": 8,
+    "source_url": "https://pacompendium.com/sports/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "table_tennis",
+    "slug": "table-tennis",
+    "category": "sports",
+    "source_code": "15660",
+    "met": 4,
+    "source_url": "https://pacompendium.com/sports/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  },
+  {
+    "id": "tennis",
+    "slug": "tennis",
+    "category": "sports",
+    "source_code": "15675",
+    "met": 6.8,
+    "source_url": "https://pacompendium.com/sports/",
+    "source_version": "2024 Adult Compendium",
+    "verified_at": "2026-09-22"
+  }
+]

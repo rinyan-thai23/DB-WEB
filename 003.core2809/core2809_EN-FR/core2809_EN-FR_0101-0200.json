@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 101,
+    "lemma": "last",
+    "source": {
+      "word": "last",
+      "phrases": [
+        "last year",
+        "at last",
+        "last name"
+      ]
+    },
+    "target": {
+      "word": "dernier",
+      "phrases": [
+        "l'année dernière",
+        "enfin",
+        "nom de famille"
+      ]
+    },
+    "frequency": 917
+  },
+  {
+    "rank": 102,
+    "lemma": "child",
+    "source": {
+      "word": "child",
+      "phrases": [
+        "only child",
+        "inner child",
+        "child care"
+      ]
+    },
+    "target": {
+      "word": "enfant",
+      "phrases": [
+        "enfant unique",
+        "enfant intérieur",
+        "garde d'enfants"
+      ]
+    },
+    "frequency": 910
+  },
+  {
+    "rank": 103,
+    "lemma": "tell",
+    "source": {
+      "word": "tell",
+      "phrases": [
+        "tell a lie",
+        "tell the truth",
+        "time will tell"
+      ]
+    },
+    "target": {
+      "word": "dire",
+      "phrases": [
+        "dire un mensonge",
+        "dire la vérité",
+        "l'avenir nous le dira"
+      ]
+    },
+    "frequency": 901
+  },
+  {
+    "rank": 104,
+    "lemma": "really",
+    "source": {
+      "word": "really",
+      "phrases": [
+        "really good",
+        "not really",
+        "really?"
+      ]
+    },
+    "target": {
+      "word": "vraiment",
+      "phrases": [
+        "vraiment bien",
+        "pas vraiment",
+        "vraiment ?"
+      ]
+    },
+    "frequency": 870
+  },
+  {
+    "rank": 105,
+    "lemma": "call",
+    "source": {
+      "word": "call",
+      "phrases": [
+        "phone call",
+        "call off",
+        "call for"
+      ]
+    },
+    "target": {
+      "word": "appeler",
+      "phrases": [
+        "appel téléphonique",
+        "annuler",
+        "nécessiter"
+      ]
+    },
+    "frequency": 869
+  },
+  {
+    "rank": 106,
+    "lemma": "before",
+    "source": {
+      "word": "before",
+      "phrases": [
+        "before long",
+        "the day before",
+        "never before"
+      ]
+    },
+    "target": {
+      "word": "avant",
+      "phrases": [
+        "bientôt",
+        "la veille",
+        "jamais auparavant"
+      ]
+    },
+    "frequency": 849
+  },
+  {
+    "rank": 107,
+    "lemma": "company",
+    "source": {
+      "word": "company",
+      "phrases": [
+        "good company",
+        "company car",
+        "keep company"
+      ]
+    },
+    "target": {
+      "word": "entreprise",
+      "phrases": [
+        "bonne compagnie",
+        "voiture de fonction",
+        "tenir compagnie"
+      ]
+    },
+    "frequency": 842
+  },
+  {
+    "rank": 108,
+    "lemma": "through",
+    "source": {
+      "word": "through",
+      "phrases": [
+        "go through",
+        "through the night",
+        "see through"
+      ]
+    },
+    "target": {
+      "word": "à travers",
+      "phrases": [
+        "traverser",
+        "toute la nuit",
+        "voir clair à travers"
+      ]
+    },
+    "frequency": 838
+  },
+  {
+    "rank": 109,
+    "lemma": "down",
+    "source": {
+      "word": "down",
+      "phrases": [
+        "calm down",
+        "upside down",
+        "look down"
+      ]
+    },
+    "target": {
+      "word": "bas",
+      "phrases": [
+        "se calmer",
+        "à l'envers",
+        "regarder vers le bas"
+      ]
+    },
+    "frequency": 833
+  },
+  {
+    "rank": 110,
+    "lemma": "show",
+    "source": {
+      "word": "show",
+      "phrases": [
+        "show up",
+        "show off",
+        "TV show"
+      ]
+    },
+    "target": {
+      "word": "montrer",
+      "phrases": [
+        "se présenter",
+        "se vanter",
+        "émission de télé"
+      ]
+    },
+    "frequency": 827
+  },
+  {
+    "rank": 111,
+    "lemma": "life",
+    "source": {
+      "word": "life",
+      "phrases": [
+        "life style",
+        "daily life",
+        "life is short"
+      ]
+    },
+    "target": {
+      "word": "vie",
+      "phrases": [
+        "style de vie",
+        "vie quotidienne",
+        "la vie est courte"
+      ]
+    },
+    "frequency": 812
+  },
+  {
+    "rank": 112,
+    "lemma": "man",
+    "source": {
+      "word": "man",
+      "phrases": [
+        "old man",
+        "best man",
+        "man made"
+      ]
+    },
+    "target": {
+      "word": "homme",
+      "phrases": [
+        "vieil homme",
+        "témoin de mariage",
+        "fabriqué par l'homme"
+      ]
+    },
+    "frequency": 807
+  },
+  {
+    "rank": 113,
+    "lemma": "change",
+    "source": {
+      "word": "change",
+      "phrases": [
+        "change my mind",
+        "change clothes",
+        "small change"
+      ]
+    },
+    "target": {
+      "word": "changer",
+      "phrases": [
+        "changer d'avis",
+        "changer de vêtements",
+        "petite monnaie"
+      ]
+    },
+    "frequency": 799
+  },
+  {
+    "rank": 114,
+    "lemma": "place",
+    "source": {
+      "word": "place",
+      "phrases": [
+        "take place",
+        "in place of",
+        "nice place"
+      ]
+    },
+    "target": {
+      "word": "endroit",
+      "phrases": [
+        "avoir lieu",
+        "au lieu de",
+        "bel endroit"
+      ]
+    },
+    "frequency": 795
+  },
+  {
+    "rank": 115,
+    "lemma": "long",
+    "source": {
+      "word": "long",
+      "phrases": [
+        "long time",
+        "how long",
+        "so long"
+      ]
+    },
+    "target": {
+      "word": "long",
+      "phrases": [
+        "longtemps",
+        "combien de temps",
+        "adieu"
+      ]
+    },
+    "frequency": 791
+  },
+  {
+    "rank": 116,
+    "lemma": "between",
+    "source": {
+      "word": "between",
+      "phrases": [
+        "between us",
+        "far between",
+        "in between"
+      ]
+    },
+    "target": {
+      "word": "entre",
+      "phrases": [
+        "entre nous",
+        "rare",
+        "au milieu"
+      ]
+    },
+    "frequency": 784
+  },
+  {
+    "rank": 117,
+    "lemma": "feel",
+    "source": {
+      "word": "feel",
+      "phrases": [
+        "feel like",
+        "feel free",
+        "feel better"
+      ]
+    },
+    "target": {
+      "word": "sentir",
+      "phrases": [
+        "avoir envie de",
+        "n'hésitez pas",
+        "se sentir mieux"
+      ]
+    },
+    "frequency": 780
+  },
+  {
+    "rank": 118,
+    "lemma": "too",
+    "source": {
+      "word": "too",
+      "phrases": [
+        "me too",
+        "too much",
+        "too late"
+      ]
+    },
+    "target": {
+      "word": "trop",
+      "phrases": [
+        "moi aussi",
+        "trop",
+        "trop tard"
+      ]
+    },
+    "frequency": 763
+  },
+  {
+    "rank": 119,
+    "lemma": "still",
+    "source": {
+      "word": "still",
+      "phrases": [
+        "still here",
+        "stand still",
+        "still water"
+      ]
+    },
+    "target": {
+      "word": "encore",
+      "phrases": [
+        "toujours ici",
+        "rester immobile",
+        "eau plate"
+      ]
+    },
+    "frequency": 752
+  },
+  {
+    "rank": 120,
+    "lemma": "problem",
+    "source": {
+      "word": "problem",
+      "phrases": [
+        "no problem",
+        "big problem",
+        "solve a problem"
+      ]
+    },
+    "target": {
+      "word": "problème",
+      "phrases": [
+        "pas de problème",
+        "gros problème",
+        "résoudre un problème"
+      ]
+    },
+    "frequency": 733
+  },
+  {
+    "rank": 121,
+    "lemma": "write",
+    "source": {
+      "word": "write",
+      "phrases": [
+        "write down",
+        "write back",
+        "write a letter"
+      ]
+    },
+    "target": {
+      "word": "écrire",
+      "phrases": [
+        "noter",
+        "répondre par écrit",
+        "écrire une lettre"
+      ]
+    },
+    "frequency": 732
+  },
+  {
+    "rank": 122,
+    "lemma": "same",
+    "source": {
+      "word": "same",
+      "phrases": [
+        "same to you",
+        "at the same time",
+        "all the same"
+      ]
+    },
+    "target": {
+      "word": "même",
+      "phrases": [
+        "pareillement",
+        "en même temps",
+        "quand même"
+      ]
+    },
+    "frequency": 721
+  },
+  {
+    "rank": 123,
+    "lemma": "lot",
+    "source": {
+      "word": "lot",
+      "phrases": [
+        "a lot of",
+        "thanks a lot",
+        "parking lot"
+      ]
+    },
+    "target": {
+      "word": "beaucoup",
+      "phrases": [
+        "beaucoup de",
+        "merci beaucoup",
+        "parking"
+      ]
+    },
+    "frequency": 715
+  },
+  {
+    "rank": 124,
+    "lemma": "great",
+    "source": {
+      "word": "great",
+      "phrases": [
+        "great job",
+        "sounds great",
+        "a great deal"
+      ]
+    },
+    "target": {
+      "word": "grand",
+      "phrases": [
+        "bon travail",
+        "ça l'air super",
+        "énormément"
+      ]
+    },
+    "frequency": 710
+  },
+  {
+    "rank": 125,
+    "lemma": "try",
+    "source": {
+      "word": "try",
+      "phrases": [
+        "try on",
+        "try out",
+        "give it a try"
+      ]
+    },
+    "target": {
+      "word": "essayer",
+      "phrases": [
+        "essayer un vêtement",
+        "tester",
+        "faire une tentative"
+      ]
+    },
+    "frequency": 699
+  },
+  {
+    "rank": 126,
+    "lemma": "leave",
+    "source": {
+      "word": "leave",
+      "phrases": [
+        "leave alone",
+        "leave a message",
+        "on leave"
+      ]
+    },
+    "target": {
+      "word": "laisser",
+      "phrases": [
+        "laisser tranquille",
+        "laisser un message",
+        "en congé"
+      ]
+    },
+    "frequency": 699
+  },
+  {
+    "rank": 127,
+    "lemma": "number",
+    "source": {
+      "word": "number",
+      "phrases": [
+        "phone number",
+        "a number of",
+        "number one"
+      ]
+    },
+    "target": {
+      "word": "numéro",
+      "phrases": [
+        "numéro de téléphone",
+        "un certain nombre de",
+        "numéro un"
+      ]
+    },
+    "frequency": 698
+  },
+  {
+    "rank": 128,
+    "lemma": "both",
+    "source": {
+      "word": "both",
+      "phrases": [
+        "both of them",
+        "both A and B",
+        "both sides"
+      ]
+    },
+    "target": {
+      "word": "tous les deux",
+      "phrases": [
+        "eux deux",
+        "à la fois A et B",
+        "les deux côtés"
+      ]
+    },
+    "frequency": 695
+  },
+  {
+    "rank": 129,
+    "lemma": "own",
+    "source": {
+      "word": "own",
+      "phrases": [
+        "my own",
+        "on my own",
+        "own a house"
+      ]
+    },
+    "target": {
+      "word": "propre",
+      "phrases": [
+        "le mien",
+        "tout seul",
+        "posséder une maison"
+      ]
+    },
+    "frequency": 693
+  },
+  {
+    "rank": 130,
+    "lemma": "part",
+    "source": {
+      "word": "part",
+      "phrases": [
+        "take part in",
+        "part time",
+        "part of"
+      ]
+    },
+    "target": {
+      "word": "partie",
+      "phrases": [
+        "participer à",
+        "temps partiel",
+        "une partie de"
+      ]
+    },
+    "frequency": 692
+  },
+  {
+    "rank": 131,
+    "lemma": "point",
+    "source": {
+      "word": "point",
+      "phrases": [
+        "point of view",
+        "point out",
+        "to the point"
+      ]
+    },
+    "target": {
+      "word": "point",
+      "phrases": [
+        "point de vue",
+        "faire remarquer",
+        "pertinent"
+      ]
+    },
+    "frequency": 684
+  },
+  {
+    "rank": 132,
+    "lemma": "little",
+    "source": {
+      "word": "little",
+      "phrases": [
+        "a little",
+        "little bit",
+        "little by little"
+      ]
+    },
+    "target": {
+      "word": "petit",
+      "phrases": [
+        "un peu",
+        "un petit peu",
+        "petit à petit"
+      ]
+    },
+    "frequency": 681
+  },
+  {
+    "rank": 133,
+    "lemma": "help",
+    "source": {
+      "word": "help",
+      "phrases": [
+        "help yourself",
+        "cannot help",
+        "ask for help"
+      ]
+    },
+    "target": {
+      "word": "aider",
+      "phrases": [
+        "servez-vous",
+        "ne pas pouvoir s'empêcher",
+        "demander de l'aide"
+      ]
+    },
+    "frequency": 680
+  },
+  {
+    "rank": 134,
+    "lemma": "ask",
+    "source": {
+      "word": "ask",
+      "phrases": [
+        "ask for",
+        "ask out",
+        "don't ask"
+      ]
+    },
+    "target": {
+      "word": "demander",
+      "phrases": [
+        "demander",
+        "inviter à sortir",
+        "ne demande pas"
+      ]
+    },
+    "frequency": 675
+  },
+  {
+    "rank": 135,
+    "lemma": "meet",
+    "source": {
+      "word": "meet",
+      "phrases": [
+        "nice to meet you",
+        "meet the needs",
+        "meet again"
+      ]
+    },
+    "target": {
+      "word": "rencontrer",
+      "phrases": [
+        "enchanté de vous rencontrer",
+        "répondre aux besoins",
+        "se revoir"
+      ]
+    },
+    "frequency": 671
+  },
+  {
+    "rank": 136,
+    "lemma": "start",
+    "source": {
+      "word": "start",
+      "phrases": [
+        "start over",
+        "start up",
+        "fresh start"
+      ]
+    },
+    "target": {
+      "word": "commencer",
+      "phrases": [
+        "recommencer",
+        "démarrer",
+        "nouveau départ"
+      ]
+    },
+    "frequency": 669
+  },
+  {
+    "rank": 137,
+    "lemma": "talk",
+    "source": {
+      "word": "talk",
+      "phrases": [
+        "talk about",
+        "talk to",
+        "small talk"
+      ]
+    },
+    "target": {
+      "word": "parler",
+      "phrases": [
+        "parler de",
+        "parler à",
+        "banalités"
+      ]
+    },
+    "frequency": 665
+  },
+  {
+    "rank": 138,
+    "lemma": "something",
+    "source": {
+      "word": "something",
+      "phrases": [
+        "something else",
+        "something wrong",
+        "something like"
+      ]
+    },
+    "target": {
+      "word": "quelque chose",
+      "phrases": [
+        "autre chose",
+        "quelque chose qui ne va pas",
+        "quelque chose comme ça"
+      ]
+    },
+    "frequency": 665
+  },
+  {
+    "rank": 139,
+    "lemma": "put",
+    "source": {
+      "word": "put",
+      "phrases": [
+        "put on",
+        "put off",
+        "put up with"
+      ]
+    },
+    "target": {
+      "word": "mettre",
+      "phrases": [
+        "enfiler",
+        "reporter",
+        "supporter"
+      ]
+    },
+    "frequency": 655
+  },
+  {
+    "rank": 140,
+    "lemma": "another",
+    "source": {
+      "word": "another",
+      "phrases": [
+        "one after another",
+        "another day",
+        "one way or another"
+      ]
+    },
+    "target": {
+      "word": "un autre",
+      "phrases": [
+        "l'un après l'autre",
+        "un autre jour",
+        "d'une manière ou d'une autre"
+      ]
+    },
+    "frequency": 655
+  },
+  {
+    "rank": 141,
+    "lemma": "become",
+    "source": {
+      "word": "become",
+      "phrases": [
+        "become friends",
+        "become aware",
+        "what has become of...?"
+      ]
+    },
+    "target": {
+      "word": "devenir",
+      "phrases": [
+        "devenir amis",
+        "prendre conscience",
+        "qu'est-il devenu de...?"
+      ]
+    },
+    "frequency": 654
+  },
+  {
+    "rank": 142,
+    "lemma": "interest",
+    "source": {
+      "word": "interest",
+      "phrases": [
+        "interest rate",
+        "take an interest",
+        "of interest"
+      ]
+    },
+    "target": {
+      "word": "intérêt",
+      "phrases": [
+        "taux d'intérêt",
+        "s'intéresser à",
+        "présentant un intérêt"
+      ]
+    },
+    "frequency": 653
+  },
+  {
+    "rank": 143,
+    "lemma": "country",
+    "source": {
+      "word": "country",
+      "phrases": [
+        "foreign country",
+        "country side",
+        "cross country"
+      ]
+    },
+    "target": {
+      "word": "pays",
+      "phrases": [
+        "pays étranger",
+        "campagne",
+        "cross-country"
+      ]
+    },
+    "frequency": 653
+  },
+  {
+    "rank": 144,
+    "lemma": "old",
+    "source": {
+      "word": "old",
+      "phrases": [
+        "how old",
+        "old fashioned",
+        "grow old"
+      ]
+    },
+    "target": {
+      "word": "vieux",
+      "phrases": [
+        "quel âge",
+        "vieux jeu",
+        "vieillir"
+      ]
+    },
+    "frequency": 647
+  },
+  {
+    "rank": 145,
+    "lemma": "each",
+    "source": {
+      "word": "each",
+      "phrases": [
+        "each other",
+        "each and every",
+        "each time"
+      ]
+    },
+    "target": {
+      "word": "chaque",
+      "phrases": [
+        "l'un l'autre",
+        "tous sans exception",
+        "chaque fois"
+      ]
+    },
+    "frequency": 646
+  },
+  {
+    "rank": 146,
+    "lemma": "school",
+    "source": {
+      "word": "school",
+      "phrases": [
+        "high school",
+        "at school",
+        "school bus"
+      ]
+    },
+    "target": {
+      "word": "école",
+      "phrases": [
+        "lycée",
+        "à l'école",
+        "bus scolaire"
+      ]
+    },
+    "frequency": 638
+  },
+  {
+    "rank": 147,
+    "lemma": "late",
+    "source": {
+      "word": "late",
+      "phrases": [
+        "late for",
+        "see you later",
+        "of late"
+      ]
+    },
+    "target": {
+      "word": "tard",
+      "phrases": [
+        "en retard pour",
+        "à plus tard",
+        "ces derniers temps"
+      ]
+    },
+    "frequency": 638
+  },
+  {
+    "rank": 148,
+    "lemma": "high",
+    "source": {
+      "word": "high",
+      "phrases": [
+        "high school",
+        "high quality",
+        "high five"
+      ]
+    },
+    "target": {
+      "word": "haut",
+      "phrases": [
+        "lycée",
+        "haute qualité",
+        "tape-m'en cinq"
+      ]
+    },
+    "frequency": 637
+  },
+  {
+    "rank": 149,
+    "lemma": "different",
+    "source": {
+      "word": "different",
+      "phrases": [
+        "different from",
+        "make a difference",
+        "something different"
+      ]
+    },
+    "target": {
+      "word": "différent",
+      "phrases": [
+        "différent de",
+        "faire une différence",
+        "quelque chose de différent"
+      ]
+    },
+    "frequency": 636
+  },
+  {
+    "rank": 150,
+    "lemma": "off",
+    "source": {
+      "word": "off",
+      "phrases": [
+        "take off",
+        "day off",
+        "turn off"
+      ]
+    },
+    "target": {
+      "word": "éteint/décoller",
+      "phrases": [
+        "enlever",
+        "jour de congé",
+        "éteindre"
+      ]
+    },
+    "frequency": 630
+  },
+  {
+    "rank": 151,
+    "lemma": "next",
+    "source": {
+      "word": "next",
+      "phrases": [
+        "next to",
+        "next year",
+        "next door"
+      ]
+    },
+    "target": {
+      "word": "suivant",
+      "phrases": [
+        "à côté de",
+        "l'année prochaine",
+        "porte à côté"
+      ]
+    },
+    "frequency": 620
+  },
+  {
+    "rank": 152,
+    "lemma": "end",
+    "source": {
+      "word": "end",
+      "phrases": [
+        "in the end",
+        "end up",
+        "no end"
+      ]
+    },
+    "target": {
+      "word": "fin",
+      "phrases": [
+        "à la fin",
+        "finir par",
+        "sans fin"
+      ]
+    },
+    "frequency": 619
+  },
+  {
+    "rank": 153,
+    "lemma": "live",
+    "source": {
+      "word": "live",
+      "phrases": [
+        "live in",
+        "live stream",
+        "live a life"
+      ]
+    },
+    "target": {
+      "word": "vivre",
+      "phrases": [
+        "vivre dans",
+        "diffusion en direct",
+        "mener une vie"
+      ]
+    },
+    "frequency": 608
+  },
+  {
+    "rank": 154,
+    "lemma": "why",
+    "source": {
+      "word": "why",
+      "phrases": [
+        "why not?",
+        "that's why",
+        "reason why"
+      ]
+    },
+    "target": {
+      "word": "pourquoi",
+      "phrases": [
+        "pourquoi pas ?",
+        "c'est pourquoi",
+        "la raison pour laquelle"
+      ]
+    },
+    "frequency": 607
+  },
+  {
+    "rank": 155,
+    "lemma": "while",
+    "source": {
+      "word": "while",
+      "phrases": [
+        "for a while",
+        "worth while",
+        "while ago"
+      ]
+    },
+    "target": {
+      "word": "pendant",
+      "phrases": [
+        "pendant un moment",
+        "qui en vaut la peine",
+        "il y a peu de temps"
+      ]
+    },
+    "frequency": 598
+  },
+  {
+    "rank": 156,
+    "lemma": "world",
+    "source": {
+      "word": "world",
+      "phrases": [
+        "all over the world",
+        "world wide",
+        "out of this world"
+      ]
+    },
+    "target": {
+      "word": "monde",
+      "phrases": [
+        "partout dans le monde",
+        "mondial",
+        "extraordinaire"
+      ]
+    },
+    "frequency": 597
+  },
+  {
+    "rank": 157,
+    "lemma": "week",
+    "source": {
+      "word": "week",
+      "phrases": [
+        "last week",
+        "once a week",
+        "weekend"
+      ]
+    },
+    "target": {
+      "word": "semaine",
+      "phrases": [
+        "la semaine dernière",
+        "une fois par semaine",
+        "week-end"
+      ]
+    },
+    "frequency": 596
+  },
+  {
+    "rank": 158,
+    "lemma": "play",
+    "source": {
+      "word": "play",
+      "phrases": [
+        "play a role",
+        "play the guitar",
+        "play games"
+      ]
+    },
+    "target": {
+      "word": "jouer",
+      "phrases": [
+        "jouer un rôle",
+        "jouer de la guitare",
+        "jouer à des jeux"
+      ]
+    },
+    "frequency": 593
+  },
+  {
+    "rank": 159,
+    "lemma": "might",
+    "source": {
+      "word": "might",
+      "phrases": [
+        "might be",
+        "might as well",
+        "with all one's might"
+      ]
+    },
+    "target": {
+      "word": "pourrait",
+      "phrases": [
+        "pourrait être",
+        "autant de",
+        "de toutes ses forces"
+      ]
+    },
+    "frequency": 587
+  },
+  {
+    "rank": 160,
+    "lemma": "must",
+    "source": {
+      "word": "must",
+      "phrases": [
+        "must be",
+        "must have",
+        "a must"
+      ]
+    },
+    "target": {
+      "word": "devoir",
+      "phrases": [
+        "doit être",
+        "doit avoir",
+        "un impératif"
+      ]
+    },
+    "frequency": 586
+  },
+  {
+    "rank": 161,
+    "lemma": "home",
+    "source": {
+      "word": "home",
+      "phrases": [
+        "at home",
+        "go home",
+        "home town"
+      ]
+    },
+    "target": {
+      "word": "maison",
+      "phrases": [
+        "à la maison",
+        "rentrer à la maison",
+        "ville natale"
+      ]
+    },
+    "frequency": 585
+  },
+  {
+    "rank": 162,
+    "lemma": "never",
+    "source": {
+      "word": "never",
+      "phrases": [
+        "never mind",
+        "never ever",
+        "now or never"
+      ]
+    },
+    "target": {
+      "word": "jamais",
+      "phrases": [
+        "peu importe",
+        "plus jamais",
+        "maintenant ou jamais"
+      ]
+    },
+    "frequency": 580
+  },
+  {
+    "rank": 163,
+    "lemma": "include",
+    "source": {
+      "word": "include",
+      "phrases": [
+        "including tax",
+        "include me",
+        "not included"
+      ]
+    },
+    "target": {
+      "word": "inclure",
+      "phrases": [
+        "taxes incluses",
+        "incluez-moi",
+        "non inclus"
+      ]
+    },
+    "frequency": 575
+  },
+  {
+    "rank": 164,
+    "lemma": "course",
+    "source": {
+      "word": "course",
+      "phrases": [
+        "of course",
+        "in the course of",
+        "stay the course"
+      ]
+    },
+    "target": {
+      "word": "cours",
+      "phrases": [
+        "bien sûr",
+        "au cours de",
+        "maintenir le cap"
+      ]
+    },
+    "frequency": 575
+  },
+  {
+    "rank": 165,
+    "lemma": "house",
+    "source": {
+      "word": "house",
+      "phrases": [
+        "open house",
+        "house work",
+        "full house"
+      ]
+    },
+    "target": {
+      "word": "maison",
+      "phrases": [
+        "maison ouverte",
+        "travaux ménagers",
+        "maison pleine"
+      ]
+    },
+    "frequency": 572
+  },
+  {
+    "rank": 166,
+    "lemma": "report",
+    "source": {
+      "word": "report",
+      "phrases": [
+        "report card",
+        "weather report",
+        "report to"
+      ]
+    },
+    "target": {
+      "word": "rapport",
+      "phrases": [
+        "bulletin scolaire",
+        "bulletin météo",
+        "se présenter à"
+      ]
+    },
+    "frequency": 570
+  },
+  {
+    "rank": 167,
+    "lemma": "group",
+    "source": {
+      "word": "group",
+      "phrases": [
+        "group of",
+        "age group",
+        "group photo"
+      ]
+    },
+    "target": {
+      "word": "groupe",
+      "phrases": [
+        "groupe de",
+        "groupe d'âge",
+        "photo de groupe"
+      ]
+    },
+    "frequency": 569
+  },
+  {
+    "rank": 168,
+    "lemma": "case",
+    "source": {
+      "word": "case",
+      "phrases": [
+        "in case",
+        "case study",
+        "just in case"
+      ]
+    },
+    "target": {
+      "word": "cas",
+      "phrases": [
+        "au cas où",
+        "étude de cas",
+        "juste au cas où"
+      ]
+    },
+    "frequency": 569
+  },
+  {
+    "rank": 169,
+    "lemma": "woman",
+    "source": {
+      "word": "woman",
+      "phrases": [
+        "career woman",
+        "wonder woman",
+        "young woman"
+      ]
+    },
+    "target": {
+      "word": "femme",
+      "phrases": [
+        "femme de carrière",
+        "wonder woman",
+        "jeune femme"
+      ]
+    },
+    "frequency": 568
+  },
+  {
+    "rank": 170,
+    "lemma": "around",
+    "source": {
+      "word": "around",
+      "phrases": [
+        "around the world",
+        "turn around",
+        "around here"
+      ]
+    },
+    "target": {
+      "word": "autour",
+      "phrases": [
+        "autour du monde",
+        "faire demi-tour",
+        "par ici"
+      ]
+    },
+    "frequency": 568
+  },
+  {
+    "rank": 171,
+    "lemma": "book",
+    "source": {
+      "word": "book",
+      "phrases": [
+        "read a book",
+        "book a flight",
+        "text book"
+      ]
+    },
+    "target": {
+      "word": "livre",
+      "phrases": [
+        "lire un livre",
+        "réserver un vol",
+        "manuel scolaire"
+      ]
+    },
+    "frequency": 566
+  },
+  {
+    "rank": 172,
+    "lemma": "family",
+    "source": {
+      "word": "family",
+      "phrases": [
+        "family tree",
+        "family name",
+        "run in the family"
+      ]
+    },
+    "target": {
+      "word": "famille",
+      "phrases": [
+        "arbre généalogique",
+        "nom de famille",
+        "être de famille"
+      ]
+    },
+    "frequency": 565
+  },
+  {
+    "rank": 173,
+    "lemma": "seem",
+    "source": {
+      "word": "seem",
+      "phrases": [
+        "seem to be",
+        "it seems that",
+        "doesn't seem like"
+      ]
+    },
+    "target": {
+      "word": "sembler",
+      "phrases": [
+        "sembler être",
+        "il semble que",
+        "ne semble pas être"
+      ]
+    },
+    "frequency": 562
+  },
+  {
+    "rank": 174,
+    "lemma": "let",
+    "source": {
+      "word": "let",
+      "phrases": [
+        "let's go",
+        "let me know",
+        "let it be"
+      ]
+    },
+    "target": {
+      "word": "laisser",
+      "phrases": [
+        "allons-y",
+        "fais-moi savoir",
+        "laisse faire"
+      ]
+    },
+    "frequency": 555
+  },
+  {
+    "rank": 175,
+    "lemma": "again",
+    "source": {
+      "word": "again",
+      "phrases": [
+        "try again",
+        "once again",
+        "never again"
+      ]
+    },
+    "target": {
+      "word": "encore",
+      "phrases": [
+        "essayer à nouveau",
+        "encore une fois",
+        "plus jamais"
+      ]
+    },
+    "frequency": 554
+  },
+  {
+    "rank": 176,
+    "lemma": "kind",
+    "source": {
+      "word": "kind",
+      "phrases": [
+        "kind of",
+        "be kind to",
+        "what kind of"
+      ]
+    },
+    "target": {
+      "word": "genre",
+      "phrases": [
+        "genre de",
+        "être gentil avec",
+        "quel genre de"
+      ]
+    },
+    "frequency": 554
+  },
+  {
+    "rank": 177,
+    "lemma": "keep",
+    "source": {
+      "word": "keep",
+      "phrases": [
+        "keep going",
+        "keep in mind",
+        "keep away"
+      ]
+    },
+    "target": {
+      "word": "garder",
+      "phrases": [
+        "continuer",
+        "garder à l'esprit",
+        "tenir à distance"
+      ]
+    },
+    "frequency": 551
+  },
+  {
+    "rank": 178,
+    "lemma": "hear",
+    "source": {
+      "word": "hear",
+      "phrases": [
+        "hear from",
+        "hear of",
+        "hard of hearing"
+      ]
+    },
+    "target": {
+      "word": "entendre",
+      "phrases": [
+        "avoir des nouvelles de",
+        "entendre parler de",
+        "malentendant"
+      ]
+    },
+    "frequency": 546
+  },
+  {
+    "rank": 179,
+    "lemma": "system",
+    "source": {
+      "word": "system",
+      "phrases": [
+        "solar system",
+        "immune system",
+        "sound system"
+      ]
+    },
+    "target": {
+      "word": "système",
+      "phrases": [
+        "système solaire",
+        "système immunitaire",
+        "système de son"
+      ]
+    },
+    "frequency": 545
+  },
+  {
+    "rank": 180,
+    "lemma": "every",
+    "source": {
+      "word": "every",
+      "phrases": [
+        "every day",
+        "every time",
+        "every single"
+      ]
+    },
+    "target": {
+      "word": "chaque",
+      "phrases": [
+        "chaque jour",
+        "chaque fois",
+        "chaque unité"
+      ]
+    },
+    "frequency": 545
+  },
+  {
+    "rank": 181,
+    "lemma": "question",
+    "source": {
+      "word": "question",
+      "phrases": [
+        "ask a question",
+        "out of the question",
+        "question mark"
+      ]
+    },
+    "target": {
+      "word": "question",
+      "phrases": [
+        "poser une question",
+        "hors de question",
+        "point d'interrogation"
+      ]
+    },
+    "frequency": 542
+  },
+  {
+    "rank": 182,
+    "lemma": "during",
+    "source": {
+      "word": "during",
+      "phrases": [
+        "during the day",
+        "during the war",
+        "during my stay"
+      ]
+    },
+    "target": {
+      "word": "pendant",
+      "phrases": [
+        "pendant la journée",
+        "pendant la guerre",
+        "pendant mon séjour"
+      ]
+    },
+    "frequency": 540
+  },
+  {
+    "rank": 183,
+    "lemma": "always",
+    "source": {
+      "word": "always",
+      "phrases": [
+        "always have",
+        "as always",
+        "not always"
+      ]
+    },
+    "target": {
+      "word": "toujours",
+      "phrases": [
+        "toujours avoir",
+        "comme toujours",
+        "pas toujours"
+      ]
+    },
+    "frequency": 531
+  },
+  {
+    "rank": 184,
+    "lemma": "big",
+    "source": {
+      "word": "big",
+      "phrases": [
+        "big deal",
+        "big brother",
+        "dream big"
+      ]
+    },
+    "target": {
+      "word": "grand",
+      "phrases": [
+        "une grosse affaire",
+        "grand frère",
+        "rêver grand"
+      ]
+    },
+    "frequency": 527
+  },
+  {
+    "rank": 185,
+    "lemma": "set",
+    "source": {
+      "word": "set",
+      "phrases": [
+        "set up",
+        "all set",
+        "sunset"
+      ]
+    },
+    "target": {
+      "word": "ensemble",
+      "phrases": [
+        "installer",
+        "tout est prêt",
+        "coucher de soleil"
+      ]
+    },
+    "frequency": 526
+  },
+  {
+    "rank": 186,
+    "lemma": "small",
+    "source": {
+      "word": "small",
+      "phrases": [
+        "small talk",
+        "small world",
+        "feel small"
+      ]
+    },
+    "target": {
+      "word": "petit",
+      "phrases": [
+        "petite discussion",
+        "le monde est petit",
+        "se sentir petit"
+      ]
+    },
+    "frequency": 525
+  },
+  {
+    "rank": 187,
+    "lemma": "study",
+    "source": {
+      "word": "study",
+      "phrases": [
+        "study hard",
+        "case study",
+        "study abroad"
+      ]
+    },
+    "target": {
+      "word": "étudier",
+      "phrases": [
+        "étudier dur",
+        "étude de cas",
+        "étudier à l'étranger"
+      ]
+    },
+    "frequency": 524
+  },
+  {
+    "rank": 188,
+    "lemma": "follow",
+    "source": {
+      "word": "follow",
+      "phrases": [
+        "follow me",
+        "follow the rules",
+        "as follows"
+      ]
+    },
+    "target": {
+      "word": "suivre",
+      "phrases": [
+        "suivez-moi",
+        "suivre les règles",
+        "comme suit"
+      ]
+    },
+    "frequency": 521
+  },
+  {
+    "rank": 189,
+    "lemma": "begin",
+    "source": {
+      "word": "begin",
+      "phrases": [
+        "to begin with",
+        "begin again",
+        "begin at the beginning"
+      ]
+    },
+    "target": {
+      "word": "commencer",
+      "phrases": [
+        "pour commencer",
+        "recommencer",
+        "commencer par le début"
+      ]
+    },
+    "frequency": 518
+  },
+  {
+    "rank": 190,
+    "lemma": "important",
+    "source": {
+      "word": "important",
+      "phrases": [
+        "important to",
+        "most important",
+        "play an important role"
+      ]
+    },
+    "target": {
+      "word": "important",
+      "phrases": [
+        "important de",
+        "le plus important",
+        "jouer un rôle important"
+      ]
+    },
+    "frequency": 518
+  },
+  {
+    "rank": 191,
+    "lemma": "since",
+    "source": {
+      "word": "since",
+      "phrases": [
+        "ever since",
+        "since then",
+        "long since"
+      ]
+    },
+    "target": {
+      "word": "depuis",
+      "phrases": [
+        "depuis lors",
+        "depuis ce temps-là",
+        "depuis longtemps"
+      ]
+    },
+    "frequency": 515
+  },
+  {
+    "rank": 192,
+    "lemma": "run",
+    "source": {
+      "word": "run",
+      "phrases": [
+        "run away",
+        "run out of",
+        "run a business"
+      ]
+    },
+    "target": {
+      "word": "courir",
+      "phrases": [
+        "s'enfuir",
+        "être à court de",
+        "diriger une entreprise"
+      ]
+    },
+    "frequency": 510
+  },
+  {
+    "rank": 193,
+    "lemma": "under",
+    "source": {
+      "word": "under",
+      "phrases": [
+        "under control",
+        "under pressure",
+        "under water"
+      ]
+    },
+    "target": {
+      "word": "sous",
+      "phrases": [
+        "sous contrôle",
+        "sous pression",
+        "sous l'eau"
+      ]
+    },
+    "frequency": 509
+  },
+  {
+    "rank": 194,
+    "lemma": "turn",
+    "source": {
+      "word": "turn",
+      "phrases": [
+        "turn on",
+        "turn out",
+        "your turn"
+      ]
+    },
+    "target": {
+      "word": "tourner",
+      "phrases": [
+        "allumer",
+        "s'avérer",
+        "ton tour"
+      ]
+    },
+    "frequency": 509
+  },
+  {
+    "rank": 195,
+    "lemma": "few",
+    "source": {
+      "word": "few",
+      "phrases": [
+        "a few",
+        "quite a few",
+        "few people"
+      ]
+    },
+    "target": {
+      "word": "peu",
+      "phrases": [
+        "quelques",
+        "pas mal de",
+        "peu de gens"
+      ]
+    },
+    "frequency": 509
+  },
+  {
+    "rank": 196,
+    "lemma": "bring",
+    "source": {
+      "word": "bring",
+      "phrases": [
+        "bring up",
+        "bring about",
+        "bring it on"
+      ]
+    },
+    "target": {
+      "word": "apporter",
+      "phrases": [
+        "évoquer",
+        "provoquer",
+        "amène-le"
+      ]
+    },
+    "frequency": 502
+  },
+  {
+    "rank": 197,
+    "lemma": "early",
+    "source": {
+      "word": "early",
+      "phrases": [
+        "early bird",
+        "early days",
+        "arrive early"
+      ]
+    },
+    "target": {
+      "word": "tôt",
+      "phrases": [
+        "lève-tôt",
+        "premiers jours",
+        "arriver tôt"
+      ]
+    },
+    "frequency": 499
+  },
+  {
+    "rank": 198,
+    "lemma": "hand",
+    "source": {
+      "word": "hand",
+      "phrases": [
+        "give a hand",
+        "on the other hand",
+        "hand in hand"
+      ]
+    },
+    "target": {
+      "word": "main",
+      "phrases": [
+        "donner un coup de main",
+        "d'un autre côté",
+        "main dans la main"
+      ]
+    },
+    "frequency": 497
+  },
+  {
+    "rank": 199,
+    "lemma": "state",
+    "source": {
+      "word": "state",
+      "phrases": [
+        "state of mind",
+        "United States",
+        "state clearly"
+      ]
+    },
+    "target": {
+      "word": "état",
+      "phrases": [
+        "état d'esprit",
+        "États-Unis",
+        "énoncer clairement"
+      ]
+    },
+    "frequency": 494
+  },
+  {
+    "rank": 200,
+    "lemma": "move",
+    "source": {
+      "word": "move",
+      "phrases": [
+        "move on",
+        "move in",
+        "on the move"
+      ]
+    },
+    "target": {
+      "word": "bouger",
+      "phrases": [
+        "passer à autre chose",
+        "emménager",
+        "en mouvement"
+      ]
+    },
+    "frequency": 493
+  }
+]

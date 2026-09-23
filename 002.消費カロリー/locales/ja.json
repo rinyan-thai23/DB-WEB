@@ -1,0 +1,143 @@
+{
+  "lang": "ja",
+  "nativeName": "日本語",
+  "tagline": "日々の動きを、見えるエネルギーに。",
+  "hero": "その動き、\nどのくらいのカロリー？",
+  "intro": "散歩も、スポーツも、いつもの家事も。\nあなたの体重と時間から、消費カロリーの目安を調べてみましょう。",
+  "browse": "活動を探す",
+  "calculator": "カロリー計算",
+  "about": "METについて",
+  "search": "活動名を検索（例：散歩、掃除）",
+  "all": "すべて",
+  "activities": {
+    "walking": {
+      "name": "ウォーキング",
+      "description": "平地を時速4.5〜5.5kmで歩く"
+    },
+    "running": {
+      "name": "ランニング",
+      "description": "時速8.0〜8.4kmで走る"
+    },
+    "cycling": {
+      "name": "サイクリング",
+      "description": "時速16km未満のゆったりした自転車"
+    },
+    "vacuum_cleaning": {
+      "name": "掃除機をかける",
+      "description": "通常の掃除機がけ・中程度の強度"
+    },
+    "gardening": {
+      "name": "ガーデニング",
+      "description": "中程度の強度で行う一般的な庭仕事"
+    },
+    "dog_walking": {
+      "name": "犬の散歩",
+      "description": "犬と一緒に歩く一般的な散歩"
+    },
+    "hiking": {
+      "name": "ハイキング",
+      "description": "自然の地形を歩くハイキング"
+    },
+    "stair_climbing": {
+      "name": "階段を上る",
+      "description": "一般的な階段上り"
+    },
+    "sweeping": {
+      "name": "ほうきで掃く",
+      "description": "床やカーペットを掃く"
+    },
+    "mopping": {
+      "name": "床のモップがけ",
+      "description": "立って行う中程度のモップがけ"
+    },
+    "window_cleaning": {
+      "name": "窓掃除",
+      "description": "一般的な窓の拭き掃除"
+    },
+    "cooking": {
+      "name": "料理",
+      "description": "立位または座位での軽い調理"
+    },
+    "washing_dishes": {
+      "name": "食器洗い",
+      "description": "一般的な食器洗い"
+    },
+    "mowing": {
+      "name": "芝刈り",
+      "description": "歩いて行う中程度の芝刈り"
+    },
+    "weeding": {
+      "name": "草むしり",
+      "description": "中程度の強度の除草"
+    },
+    "planting": {
+      "name": "苗の植え付け",
+      "description": "苗の植え替えなどの軽作業"
+    },
+    "badminton": {
+      "name": "バドミントン",
+      "description": "レクリエーションのシングルス・ダブルス"
+    },
+    "basketball": {
+      "name": "バスケットボール",
+      "description": "試合形式のバスケットボール"
+    },
+    "table_tennis": {
+      "name": "卓球",
+      "description": "一般的な卓球"
+    },
+    "tennis": {
+      "name": "テニス",
+      "description": "中程度の強度のテニス"
+    }
+  },
+  "category": "カテゴリー",
+  "weight": "体重",
+  "minutes": "時間",
+  "min": "分",
+  "activity": "活動を選ぶ",
+  "result": "推定消費カロリー",
+  "estimate": "安静時の消費も含む概算値",
+  "detail": "この活動を詳しく見る",
+  "quick": "まずは、かんたん計算",
+  "quickSub": "活動・体重・時間を選ぶだけ。",
+  "explore": "日常の動きから、見つけよう。",
+  "exploreSub": "気になる活動を選んで、計算・比較できます。",
+  "timeTable": "時間別の消費カロリー",
+  "weightTable": "体重別の消費カロリー",
+  "compare": "ほかの活動と比べる",
+  "food": "食べ物のエネルギーに換算すると",
+  "foodNote": "1食分の例示値（おにぎり180・食パン160・バナナ90 kcal）です。量や材料、商品によって異なります。食事の代替や運動の推奨量を示すものではありません。",
+  "reverse": "目標カロリーから時間を逆算",
+  "target": "目標エネルギー",
+  "fat": "体脂肪1kgの参考換算（7,700 kcal）",
+  "fatNote": "エネルギー量だけの参考換算です。体脂肪が1kg減ることを保証しません。食事・水分・基礎代謝・個人差・代謝適応で体重変化は異なります。長時間の連続運動を勧めるものではありません。",
+  "related": "関連する活動",
+  "metTitle": "METとは？",
+  "metText": "MET（メッツ）は安静時を1とした活動の強度です。3 METなら安静時の約3倍のエネルギーを使う強度の目安になります。",
+  "formula": "計算方法",
+  "source": "データの出典",
+  "note": "推定値には年齢、体力、体格、環境などによる個人差があります。2024 Adult Compendiumは主に19〜59歳の成人を対象としています。医療上の判断には使用しないでください。",
+  "empty": "一致する活動がありません。別の言葉で検索してください。",
+  "invalid": "体重は1〜500kg、時間は0〜1,440分、目標は0〜100,000kcalで入力してください。",
+  "titleSuffix": "｜消費カロリー計算",
+  "home": "ホーム",
+  "live": "入力すると自動で計算",
+  "count": "件の活動",
+  "based": "2024 Compendiumに基づく",
+  "footer": "小さな動きにも、エネルギーがある。",
+  "nojs": "計算・検索にはJavaScriptを有効にしてください。活動の説明と初期値の早見表はそのまま閲覧できます。",
+  "categories": {
+    "walking": "ウォーキング",
+    "running": "ランニング",
+    "cycling": "自転車",
+    "home": "家事",
+    "garden": "庭仕事",
+    "sports": "スポーツ"
+  },
+  "foods": {
+    "rice": "おにぎり（1個）",
+    "bread": "食パン（1枚）",
+    "banana": "バナナ（1本）"
+  }
+}

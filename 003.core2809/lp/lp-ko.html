@@ -1,0 +1,938 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CORE 2809 — 2,809단어로 영어의 90% 완성</title>
+    <meta name="description"
+        content="무작위로 단어를 외우지 마세요. CORE 2809는 모든 영어 텍스트의 90%를 커버하는 2,809개의 필수 단어를 제공합니다. 케임브리지 대학의 2억 7,300만 단어 코퍼스 기반. 무료. 12개 언어 지원.">
+    <meta name="keywords" content="영어 어휘, 영어 학습, NGSL, 단어장, 언어 학습, 케임브리지 코퍼스, 필수 영어 단어">
+    <meta property="og:title" content="CORE 2809 — 2,809단어로 영어의 90% 완성">
+    <meta property="og:description"
+        content="모든 영어 텍스트의 90%를 커버하는 2,809개의 단어. 케임브리지 2억 7,300만 단어 코퍼스 기반. 무료. 12개 언어 지원.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://vocabcore.site/">
+    <link rel="canonical" href="https://vocabcore.site/">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg: #06080d;
+            --bg-card: #0c1017;
+            --bg-card-hover: #111821;
+            --accent: #3df5c8;
+            --accent-dim: rgba(61, 245, 200, 0.08);
+            --accent-glow: rgba(61, 245, 200, 0.25);
+            --accent2: #8b5cf6;
+            --accent2-dim: rgba(139, 92, 246, 0.1);
+            --text: #e8edf5;
+            --text-mid: #8a95a8;
+            --text-dim: #4a5568;
+            --border: rgba(255, 255, 255, 0.06);
+            --serif: 'Instrument Serif', Georgia, serif;
+            --sans: 'DM Sans', system-ui, sans-serif;
+            --mono: 'JetBrains Mono', monospace;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: var(--sans);
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* ===== Language Dropdown ===== */
+        .lang-dropdown {
+            position: relative;
+        }
+
+        .lang-btn {
+            background: transparent;
+            color: var(--text-mid);
+            border: 1px solid var(--border);
+            padding: 8px 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-family: var(--sans);
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.2s;
+        }
+
+        .lang-btn:hover {
+            color: var(--text);
+            border-color: var(--text-dim);
+        }
+
+        .lang-menu {
+            position: absolute;
+            top: 100%;
+            right: 0;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 8px;
+            min-width: 180px;
+            display: none;
+            flex-direction: column;
+            gap: 4px;
+            margin-top: 8px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(20px);
+            z-index: 200;
+        }
+
+        .lang-menu::before {
+            content: '';
+            position: absolute;
+            top: -20px;
+            left: 0;
+            width: 100%;
+            height: 20px;
+        }
+
+        .lang-dropdown:hover .lang-menu {
+            display: flex;
+            animation: fadeUp 0.2s ease;
+        }
+
+        .lang-menu a {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 8px 12px;
+            border-radius: 6px;
+            color: var(--text-mid);
+            text-decoration: none;
+            font-size: 13px;
+            transition: all 0.2s;
+            white-space: nowrap;
+        }
+
+        .lang-menu a:hover {
+            background: var(--bg-card-hover);
+            color: var(--text);
+            transform: translateX(2px);
+        }
+
+        /* ===== Grain overlay ===== */
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            opacity: 0.03;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+            pointer-events: none;
+            z-index: 9999;
+        }
+
+        /* ===== Nav ===== */
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 100;
+            padding: 20px 40px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background: rgba(6, 8, 13, 0.8);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .nav-logo {
+            font-family: var(--sans);
+            font-weight: 700;
+            font-size: 18px;
+            letter-spacing: -0.5px;
+            color: var(--text);
+            text-decoration: none;
+        }
+
+        .nav-logo span {
+            color: var(--accent);
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 32px;
+            align-items: center;
+        }
+
+        .nav-links a {
+            color: var(--text-mid);
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+
+        .nav-links a:hover {
+            color: var(--text);
+        }
+
+        .nav-cta {
+            background: var(--accent) !important;
+            color: var(--bg) !important;
+            padding: 10px 24px;
+            border-radius: 8px;
+            font-weight: 600 !important;
+            transition: transform 0.2s, box-shadow 0.2s !important;
+        }
+
+        .nav-cta:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 4px 24px var(--accent-glow);
+        }
+
+        /* ===== Hero ===== */
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 140px 24px 100px;
+            position: relative;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: -20%;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 800px;
+            height: 800px;
+            background: radial-gradient(circle, var(--accent-glow) 0%, transparent 60%);
+            opacity: 0.15;
+            pointer-events: none;
+        }
+
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 20px;
+            background: var(--accent-dim);
+            border: 1px solid rgba(61, 245, 200, 0.15);
+            border-radius: 100px;
+            font-size: 13px;
+            font-weight: 500;
+            color: var(--accent);
+            margin-bottom: 40px;
+            animation: fadeUp 0.8s ease both;
+        }
+
+        .hero-badge::before {
+            content: '🎓';
+        }
+
+        h1 {
+            font-family: var(--serif);
+            font-size: clamp(48px, 8vw, 96px);
+            line-height: 1.05;
+            letter-spacing: -2px;
+            font-weight: 400;
+            max-width: 900px;
+            margin-bottom: 28px;
+            animation: fadeUp 0.8s ease 0.1s both;
+        }
+
+        h1 em {
+            font-style: italic;
+            color: var(--accent);
+        }
+
+        .hero-sub {
+            font-size: 18px;
+            color: var(--text-mid);
+            max-width: 560px;
+            line-height: 1.7;
+            margin-bottom: 48px;
+            animation: fadeUp 0.8s ease 0.2s both;
+        }
+
+        .hero-actions {
+            display: flex;
+            gap: 16px;
+            flex-wrap: wrap;
+            justify-content: center;
+            animation: fadeUp 0.8s ease 0.3s both;
+        }
+
+        .btn-primary {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 16px 36px;
+            background: var(--accent);
+            color: var(--bg);
+            border: none;
+            border-radius: 10px;
+            font-size: 16px;
+            font-weight: 600;
+            font-family: var(--sans);
+            cursor: pointer;
+            text-decoration: none;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 32px var(--accent-glow);
+        }
+
+        .btn-secondary {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 16px 36px;
+            background: transparent;
+            color: var(--text);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            font-size: 16px;
+            font-weight: 500;
+            font-family: var(--sans);
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+
+        .btn-secondary:hover {
+            border-color: var(--text-dim);
+            background: rgba(255, 255, 255, 0.03);
+        }
+
+        /* ===== Scroll indicator ===== */
+        .scroll-hint {
+            position: absolute;
+            bottom: 40px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 8px;
+            color: var(--text-dim);
+            font-size: 12px;
+            animation: float 3s ease-in-out infinite;
+        }
+
+        .scroll-arrow {
+            width: 20px;
+            height: 20px;
+            border-right: 2px solid var(--text-dim);
+            border-bottom: 2px solid var(--text-dim);
+            transform: rotate(45deg);
+        }
+
+        /* ===== Stats strip ===== */
+        .stats-strip {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1px;
+            background: var(--border);
+            border-top: 1px solid var(--border);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .stat-item {
+            background: var(--bg);
+            padding: 48px 24px;
+            text-align: center;
+        }
+
+        .stat-number {
+            font-family: var(--serif);
+            font-size: clamp(36px, 5vw, 56px);
+            color: var(--accent);
+            line-height: 1;
+            margin-bottom: 8px;
+        }
+
+        .stat-label {
+            font-size: 14px;
+            color: var(--text-mid);
+            font-weight: 500;
+        }
+
+        /* ===== Section ===== */
+        section {
+            padding: 120px 24px;
+        }
+
+        .section-inner {
+            max-width: 1100px;
+            margin: 0 auto;
+        }
+
+        .section-label {
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: var(--accent);
+            margin-bottom: 16px;
+        }
+
+        .section-title {
+            font-family: var(--serif);
+            font-size: clamp(32px, 5vw, 52px);
+            line-height: 1.1;
+            letter-spacing: -1px;
+            max-width: 700px;
+            margin-bottom: 24px;
+        }
+
+        .section-desc {
+            font-size: 17px;
+            color: var(--text-mid);
+            max-width: 600px;
+            line-height: 1.7;
+            margin-bottom: 60px;
+        }
+
+        /* ===== Problem section ===== */
+        .problem-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+
+        .problem-card {
+            padding: 36px 28px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            transition: all 0.3s;
+        }
+
+        .problem-card:hover {
+            border-color: rgba(255, 255, 255, 0.1);
+            transform: translateY(-4px);
+        }
+
+        .problem-icon {
+            font-size: 32px;
+            margin-bottom: 20px;
+        }
+
+        .problem-card h3 {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .problem-card p {
+            font-size: 14px;
+            color: var(--text-mid);
+            line-height: 1.7;
+        }
+
+        /* ===== How it works ===== */
+        .steps {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 32px;
+            counter-reset: step;
+        }
+
+        .step {
+            position: relative;
+            padding: 40px 28px 36px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            counter-increment: step;
+            transition: all 0.3s;
+        }
+
+        .step:hover {
+            border-color: var(--accent);
+            box-shadow: 0 0 40px var(--accent-dim);
+        }
+
+        .step::before {
+            content: counter(step, decimal-leading-zero);
+            font-family: var(--mono);
+            font-size: 48px;
+            font-weight: 500;
+            color: var(--accent);
+            opacity: 0.2;
+            line-height: 1;
+            margin-bottom: 20px;
+            display: block;
+        }
+
+        .step h3 {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .step p {
+            font-size: 14px;
+            color: var(--text-mid);
+            line-height: 1.7;
+        }
+
+        /* ===== Languages ===== */
+        .lang-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 12px;
+        }
+
+        .lang-card {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 20px 24px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            transition: all 0.2s;
+            cursor: default;
+        }
+
+        .lang-card:hover {
+            border-color: var(--accent);
+            background: var(--bg-card-hover);
+        }
+
+        .lang-flag {
+            font-size: 28px;
+        }
+
+        .lang-info h4 {
+            font-size: 15px;
+            font-weight: 600;
+        }
+
+        .lang-info span {
+            font-size: 12px;
+            color: var(--text-dim);
+        }
+
+        /* ===== Modes ===== */
+        .modes-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+
+        .mode-card {
+            padding: 40px 28px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            text-align: center;
+            transition: all 0.3s;
+        }
+
+        .mode-card:hover {
+            transform: translateY(-4px);
+            border-color: rgba(255, 255, 255, 0.1);
+            border-color: rgba(255, 255, 255, 0.1);
+        }
+
+        .mode-emoji {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+
+        .mode-card h3 {
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .mode-card p {
+            font-size: 14px;
+            color: var(--text-mid);
+            line-height: 1.7;
+        }
+
+        /* ===== CTA ===== */
+        .cta-section {
+            text-align: center;
+            padding: 120px 24px 140px;
+            position: relative;
+        }
+
+        .cta-section::before {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 600px;
+            height: 600px;
+            background: radial-gradient(circle, rgba(139, 92, 246, 0.15) 0%, transparent 60%);
+            pointer-events: none;
+        }
+
+        .cta-section .section-title {
+            margin: 0 auto 16px;
+            text-align: center;
+        }
+
+        .cta-section .section-desc {
+            margin: 0 auto 48px;
+            text-align: center;
+        }
+
+        /* ===== Footer ===== */
+        footer {
+            border-top: 1px solid var(--border);
+            padding: 40px 24px;
+            text-align: center;
+            font-size: 13px;
+            color: var(--text-dim);
+        }
+
+        footer a {
+            color: var(--text-mid);
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            color: var(--text);
+        }
+
+        /* ===== Animations ===== */
+        @keyframes fadeUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes float {
+
+            0%,
+            100% {
+                transform: translateX(-50%) translateY(0);
+            }
+
+            50% {
+                transform: translateX(-50%) translateY(8px);
+            }
+        }
+
+        /* ===== Responsive ===== */
+        @media (max-width: 900px) {
+            nav {
+                padding: 16px 20px;
+            }
+
+            .nav-links {
+                gap: 16px;
+            }
+
+            .nav-links a:not(.nav-cta) {
+                display: none;
+            }
+
+            .stats-strip {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .problem-grid,
+            .steps,
+            .modes-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .lang-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            section {
+                padding: 80px 20px;
+            }
+        }
+
+        @media (max-width: 500px) {
+            .lang-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .hero-actions {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .btn-primary,
+            .btn-secondary {
+                width: 100%;
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Nav -->
+    <nav>
+        <a href="/" class="nav-logo">CORE <span>2809</span></a>
+        <div class="nav-links">
+            <a href="#why">Why 2809</a>
+            <div class="lang-dropdown">
+                <button class="lang-btn">🇰🇷 한국어 ▾</button>
+                <div class="lang-menu">
+                    <a href="lp.html">🇺🇸 English</a>
+                    <a href="lp-jp.html">🇯🇵 日本語</a>
+                    <a href="lp-zh-cn.html">🇨🇳 中文</a>
+                    <a href="lp-ko.html">🇰🇷 한국어</a>
+                    <a href="lp-th.html">🇹🇭 ไทย</a>
+                    <a href="lp-hi.html">🇮🇳 हिन्दी</a>
+                    <a href="lp-id.html">🇮🇩 Indonesia</a>
+                    <a href="lp-ar.html">🇸🇦 العربية</a>
+                    <a href="lp-fr.html">🇫🇷 Français</a>
+                    <a href="lp-es.html">🇪🇸 Español</a>
+                    <a href="lp-pt.html">🇧🇷 Português</a>
+                    <a href="lp-de.html">🇩🇪 Deutsch</a>
+                    <a href="lp-ru.html">🇷🇺 Русский</a>
+                </div>
+            </div>
+            <a href="#modes">모드</a>
+            <a href="https://vocabcore.site/" class="nav-cta">시작하기 →</a>
+        </div>
+    </nav>
+
+    <!-- Hero -->
+    <section class="hero">
+        <div class="hero-badge">케임브리지 대학교 연구 기반</div>
+        <h1><em>무작위로</em> 외우지 마세요.</h1>
+        <p class="hero-sub">
+            2,809개의 단어만 알면 영어 텍스트의 90%를 이해할 수 있습니다. 케임브리지 대학의 2억 7,300만 단어 코퍼스에서 추출하여, 정말 중요한 단어만 학습할 수 있습니다.
+        </p>
+        <div class="hero-actions">
+            <a href="https://vocabcore.site/" class="btn-primary">무료로 시작하기 → </a>
+            <a href="#why" class="btn-secondary">이론 보기</a>
+        </div>
+        <div class="scroll-hint">
+            <span>스크롤</span>
+            <div class="scroll-arrow"></div>
+        </div>
+    </section>
+
+    <!-- Stats -->
+    <div class="stats-strip">
+        <div class="stat-item">
+            <div class="stat-number">273M</div>
+            <div class="stat-label">분석된 단어 수</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-number">2,809</div>
+            <div class="stat-label">필수 단어</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-number">90%</div>
+            <div class="stat-label">텍스트 커버리지</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-number">12</div>
+            <div class="stat-label">지원 언어</div>
+        </div>
+    </div>
+
+    <!-- Problem -->
+    <section id="why">
+        <div class="section-inner">
+            <div class="section-label">문제점</div>
+            <h2 class="section-title">대부분의 단어장은 추측에 기반합니다</h2>
+            <p class="section-desc">
+                무작위 단어 목록은 여러분이 거의 마주치지 않을 단어에 시간을 낭비하게 합니다. CORE 2809는 다릅니다. 각 단어는 실제 영어에서의 사용 빈도에 따라 순위가 매겨집니다.
+            </p>
+            <div class="problem-grid">
+                <div class="problem-card">
+                    <div class="problem-icon">📚</div>
+                    <h3>10,000 단어장?</h3>
+                    <p>대부분의 "필수" 목록은 너무 부풀려져 있습니다. 사용하기도 전에 70%는 잊어버리게 됩니다. 짧고 효율적인 목록이 길고 초점이 없는 목록보다 항상 낫습니다.</p>
+                </div>
+                <div class="problem-card">
+                    <div class="problem-icon">🎯</div>
+                    <h3>빈도가 중요합니다</h3>
+                    <p>"the"라는 단어는 백만 단어 중 60,000번 등장합니다. "eloquent"는 3번 등장합니다. CORE 2809는 여러분이 실제로 읽고 듣게 될 것을 가르칩니다.
+                    </p>
+                </div>
+                <div class="problem-card">
+                    <div class="problem-icon">🔬</div>
+                    <h3>코퍼스 기반</h3>
+                    <p>교과서 편집자가 고른 것이 아닙니다. 2억 7,300만 단어의 실제 영어에서 추출한 케임브리지 대학의 New General Service List에서 가져왔습니다.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- How it works -->
+    <section style="background: var(--bg-card);">
+        <div class="section-inner">
+            <div class="section-label">작동 방식</div>
+            <h2 class="section-title">유창함을 위한 3단계</h2>
+            <p class="section-desc">회원가입 없음. 유료 결제 없음. 그냥 열고 배우세요.</p>
+            <div class="steps">
+                <div class="step">
+                    <h3>언어 선택</h3>
+                    <p>12개의 모국어 중에서 선택하세요. 모든 단어와 문장은 문맥 속에서 학습할 수 있도록 번역되었습니다.</p>
+                </div>
+                <div class="step">
+                    <h3>모드 선택</h3>
+                    <p>카드를 넘기거나, 오디오를 듣거나, 오토 모드로 손대지 않고 학습하세요. 편한 방식으로 배우세요.</p>
+                </div>
+                <div class="step">
+                    <h3>2,809 단어 정복</h3>
+                    <p>가장 빈도가 높은 순서대로 정리되어 있습니다. 끝나면 마주치는 영어 텍스트의 90%를 읽을 수 있게 됩니다.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Languages -->
+    <section id="languages">
+        <div class="section-inner">
+            <div class="section-label">12개 언어</div>
+            <h2 class="section-title">여러분의 언어. 여러분의 단어. 동일한 과학.</h2>
+            <p class="section-desc">
+                각 번역은 로봇 같은 사전적 정의가 아닌, 자연스러운 문구로 제작되었습니다.
+            </p>
+            <div class="lang-grid">
+                <div class="lang-card"><span class="lang-flag">🇯🇵</span>
+                    <div class="lang-info">
+                        <h4>日本語</h4><span>Japanese</span>
+                    </div>
+                </div>
+                <div class="lang-card"><span class="lang-flag">🇨🇳</span>
+                    <div class="lang-info">
+                        <h4>中文</h4><span>Chinese</span>
+                    </div>
+                </div>
+                <div class="lang-card"><span class="lang-flag">🇰🇷</span>
+                    <div class="lang-info">
+                        <h4>한국어</h4><span>Korean</span>
+                    </div>
+                </div>
+                <div class="lang-card"><span class="lang-flag">🇹🇭</span>
+                    <div class="lang-info">
+                        <h4>ไทย</h4><span>Thai</span>
+                    </div>
+                </div>
+                <div class="lang-card"><span class="lang-flag">🇮🇳</span>
+                    <div class="lang-info">
+                        <h4>हिन्दी</h4><span>Hindi</span>
+                    </div>
+                </div>
+                <div class="lang-card"><span class="lang-flag">🇮🇩</span>
+                    <div class="lang-info">
+                        <h4>Indonesia</h4><span>Indonesian</span>
+                    </div>
+                </div>
+                <div class="lang-card"><span class="lang-flag">🇸🇦</span>
+                    <div class="lang-info">
+                        <h4>العربية</h4><span>Arabic</span>
+                    </div>
+                </div>
+                <div class="lang-card"><span class="lang-flag">🇫🇷</span>
+                    <div class="lang-info">
+                        <h4>Français</h4><span>French</span>
+                    </div>
+                </div>
+                <div class="lang-card"><span class="lang-flag">🇪🇸</span>
+                    <div class="lang-info">
+                        <h4>Español</h4><span>Spanish</span>
+                    </div>
+                </div>
+                <div class="lang-card"><span class="lang-flag">🇧🇷</span>
+                    <div class="lang-info">
+                        <h4>Português</h4><span>Portuguese</span>
+                    </div>
+                </div>
+                <div class="lang-card"><span class="lang-flag">🇩🇪</span>
+                    <div class="lang-info">
+                        <h4>Deutsch</h4><span>German</span>
+                    </div>
+                </div>
+                <div class="lang-card"><span class="lang-flag">🇷🇺</span>
+                    <div class="lang-info">
+                        <h4>Русский</h4><span>Russian</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Modes -->
+    <section id="modes" style="background: var(--bg-card);">
+        <div class="section-inner">
+            <div class="section-label">3가지 학습 모드</div>
+            <h2 class="section-title">나에게 맞는 방식으로 학습하세요</h2>
+            <p class="section-desc">언제든지 모드를 전환하세요. 진행 상황은 저장됩니다.</p>
+            <div class="modes-grid">
+                <div class="mode-card">
+                    <div class="mode-emoji">📜</div>
+                    <h3>슬라이드 모드</h3>
+                    <p>한 번에 100단어씩 훑어보세요. 내 속도에 맞춰 검색하고, 스캔하고, 공부하세요. 집중 학습 시간에 완벽합니다.</p>
+                </div>
+                <div class="mode-card">
+                    <div class="mode-emoji">🔊</div>
+                    <h3>오디오 모드</h3>
+                    <p>예문과 함께 원어민 발음을 들으세요. 한 단어씩, 오디오가 끝나면 자동으로 넘어갑니다.</p>
+                </div>
+                <div class="mode-card">
+                    <div class="mode-emoji">🎬</div>
+                    <h3>오토 모드</h3>
+                    <p>5초마다 바뀌는 핸즈프리 플래시카드. 요리, 이동, 휴식 중 수동적인 학습에 좋습니다.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="cta-section">
+        <div class="section-label">평생 무료</div>
+        <h2 class="section-title">2,809개의 단어만 알면 영어가 유창해집니다</h2>
+        <p class="section-desc">계정 필요 없음. 신용카드 필요 없음. 클릭하고 정말 중요한 단어를 배우기 시작하세요.</p>
+        <a href="https://vocabcore.site/" class="btn-primary">학습 시작하기 →</a>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>CORE 2809 — 케임브리지 대학의 New General Service List (NGSL) 기반</p>
+        <p style="margin-top: 8px;">
+            Word list: <a href="http://www.newgeneralservicelist.org/" target="_blank" rel="noopener">NGSL Project</a>
+        </p>
+    </footer>
+
+</body>
+
+</html>

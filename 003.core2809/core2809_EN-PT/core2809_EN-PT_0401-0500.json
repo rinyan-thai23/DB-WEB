@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 401,
+    "lemma": "body",
+    "source": {
+      "word": "body",
+      "phrases": [
+        "body language",
+        "every body",
+        "body guard"
+      ]
+    },
+    "target": {
+      "word": "corpo",
+      "phrases": [
+        "linguagem corporal",
+        "todo mundo",
+        "guarda-costas"
+      ]
+    },
+    "frequency": 250
+  },
+  {
+    "rank": 402,
+    "lemma": "require",
+    "source": {
+      "word": "require",
+      "phrases": [
+        "require attention",
+        "required fields",
+        "require assistance"
+      ]
+    },
+    "target": {
+      "word": "exigir",
+      "phrases": [
+        "requer atenção",
+        "campos obrigatórios",
+        "precisar de assistência"
+      ]
+    },
+    "frequency": 249
+  },
+  {
+    "rank": 403,
+    "lemma": "wait",
+    "source": {
+      "word": "wait",
+      "phrases": [
+        "wait for",
+        "wait and see",
+        "can't wait"
+      ]
+    },
+    "target": {
+      "word": "esperar",
+      "phrases": [
+        "esperar por",
+        "esperar para ver",
+        "mal posso esperar"
+      ]
+    },
+    "frequency": 249
+  },
+  {
+    "rank": 404,
+    "lemma": "general",
+    "source": {
+      "word": "general",
+      "phrases": [
+        "in general",
+        "general public",
+        "general manager"
+      ]
+    },
+    "target": {
+      "word": "geral",
+      "phrases": [
+        "em geral",
+        "público geral",
+        "gerente geral"
+      ]
+    },
+    "frequency": 248
+  },
+  {
+    "rank": 405,
+    "lemma": "appear",
+    "source": {
+      "word": "appear",
+      "phrases": [
+        "appear to be",
+        "disappear",
+        "it appears that"
+      ]
+    },
+    "target": {
+      "word": "aparecer",
+      "phrases": [
+        "parecer ser",
+        "desaparecer",
+        "parece que"
+      ]
+    },
+    "frequency": 248
+  },
+  {
+    "rank": 406,
+    "lemma": "toward",
+    "source": {
+      "word": "toward",
+      "phrases": [
+        "toward the end",
+        "attitude toward",
+        "move toward"
+      ]
+    },
+    "target": {
+      "word": "em direção a",
+      "phrases": [
+        "perto do fim",
+        "atitude em relação a",
+        "mover-se em direção a"
+      ]
+    },
+    "frequency": 248
+  },
+  {
+    "rank": 407,
+    "lemma": "team",
+    "source": {
+      "word": "team",
+      "phrases": [
+        "team work",
+        "team player",
+        "dream team"
+      ]
+    },
+    "target": {
+      "word": "equipe",
+      "phrases": [
+        "trabalho em equipe",
+        "jogador de equipe",
+        "time dos sonhos"
+      ]
+    },
+    "frequency": 248
+  },
+  {
+    "rank": 408,
+    "lemma": "easy",
+    "source": {
+      "word": "easy",
+      "phrases": [
+        "take it easy",
+        "easy going",
+        "easy to use"
+      ]
+    },
+    "target": {
+      "word": "fácil",
+      "phrases": [
+        "vá com calma",
+        "descontraído",
+        "fácil de usar"
+      ]
+    },
+    "frequency": 248
+  },
+  {
+    "rank": 409,
+    "lemma": "individual",
+    "source": {
+      "word": "individual",
+      "phrases": [
+        "individual rights",
+        "each individual",
+        "individual differences"
+      ]
+    },
+    "target": {
+      "word": "individual",
+      "phrases": [
+        "direitos individuais",
+        "cada indivíduo",
+        "diferenças individuais"
+      ]
+    },
+    "frequency": 248
+  },
+  {
+    "rank": 410,
+    "lemma": "full",
+    "source": {
+      "word": "full",
+      "phrases": [
+        "full of",
+        "full time",
+        "to the full"
+      ]
+    },
+    "target": {
+      "word": "cheio",
+      "phrases": [
+        "cheio de",
+        "tempo integral",
+        "ao máximo"
+      ]
+    },
+    "frequency": 248
+  },
+  {
+    "rank": 411,
+    "lemma": "black",
+    "source": {
+      "word": "black",
+      "phrases": [
+        "black and white",
+        "black sheep",
+        "black hole"
+      ]
+    },
+    "target": {
+      "word": "preto",
+      "phrases": [
+        "preto e branco",
+        "ovelha negra",
+        "buraco negro"
+      ]
+    },
+    "frequency": 248
+  },
+  {
+    "rank": 412,
+    "lemma": "sense",
+    "source": {
+      "word": "sense",
+      "phrases": [
+        "make sense",
+        "common sense",
+        "sense of humor"
+      ]
+    },
+    "target": {
+      "word": "sentido",
+      "phrases": [
+        "fazer sentido",
+        "senso comum",
+        "senso de humor"
+      ]
+    },
+    "frequency": 247
+  },
+  {
+    "rank": 413,
+    "lemma": "perhaps",
+    "source": {
+      "word": "perhaps",
+      "phrases": [
+        "perhaps not",
+        "perhaps so",
+        "will perhaps"
+      ]
+    },
+    "target": {
+      "word": "talvez",
+      "phrases": [
+        "talvez não",
+        "talvez sim",
+        "provavelmente irá"
+      ]
+    },
+    "frequency": 246
+  },
+  {
+    "rank": 414,
+    "lemma": "add",
+    "source": {
+      "word": "add",
+      "phrases": [
+        "add up",
+        "add to",
+        "add value"
+      ]
+    },
+    "target": {
+      "word": "adicionar",
+      "phrases": [
+        "fazer sentido",
+        "adicionar a",
+        "agregar valor"
+      ]
+    },
+    "frequency": 245
+  },
+  {
+    "rank": 415,
+    "lemma": "rule",
+    "source": {
+      "word": "rule",
+      "phrases": [
+        "follow the rules",
+        "rule out",
+        "as a rule"
+      ]
+    },
+    "target": {
+      "word": "regra",
+      "phrases": [
+        "seguir as regras",
+        "descartar",
+        "via de regra"
+      ]
+    },
+    "frequency": 245
+  },
+  {
+    "rank": 416,
+    "lemma": "pass",
+    "source": {
+      "word": "pass",
+      "phrases": [
+        "pass away",
+        "pass the test",
+        "pass by"
+      ]
+    },
+    "target": {
+      "word": "passar",
+      "phrases": [
+        "falecer",
+        "passar no teste",
+        "passar por"
+      ]
+    },
+    "frequency": 243
+  },
+  {
+    "rank": 417,
+    "lemma": "produce",
+    "source": {
+      "word": "produce",
+      "phrases": [
+        "produce results",
+        "mass produce",
+        "fresh produce"
+      ]
+    },
+    "target": {
+      "word": "produzir",
+      "phrases": [
+        "produzir resultados",
+        "produzir em massa",
+        "produtos frescos"
+      ]
+    },
+    "frequency": 243
+  },
+  {
+    "rank": 418,
+    "lemma": "sell",
+    "source": {
+      "word": "sell",
+      "phrases": [
+        "sell out",
+        "best selling",
+        "buy and sell"
+      ]
+    },
+    "target": {
+      "word": "vender",
+      "phrases": [
+        "esgotar",
+        "mais vendido",
+        "comprar e vender"
+      ]
+    },
+    "frequency": 243
+  },
+  {
+    "rank": 419,
+    "lemma": "short",
+    "source": {
+      "word": "short",
+      "phrases": [
+        "short term",
+        "in short",
+        "run short"
+      ]
+    },
+    "target": {
+      "word": "curto",
+      "phrases": [
+        "curto prazo",
+        "em resumo",
+        "ficar sem"
+      ]
+    },
+    "frequency": 241
+  },
+  {
+    "rank": 420,
+    "lemma": "agree",
+    "source": {
+      "word": "agree",
+      "phrases": [
+        "agree with",
+        "agree to",
+        "couldn't agree more"
+      ]
+    },
+    "target": {
+      "word": "concordar",
+      "phrases": [
+        "concordar com",
+        "concordar em",
+        "não poderia concordar mais"
+      ]
+    },
+    "frequency": 240
+  },
+  {
+    "rank": 421,
+    "lemma": "law",
+    "source": {
+      "word": "law",
+      "phrases": [
+        "law and order",
+        "break the law",
+        "lawyer"
+      ]
+    },
+    "target": {
+      "word": "lei",
+      "phrases": [
+        "lei e ordem",
+        "quebrar a lei",
+        "advogado"
+      ]
+    },
+    "frequency": 239
+  },
+  {
+    "rank": 422,
+    "lemma": "everything",
+    "source": {
+      "word": "everything",
+      "phrases": [
+        "everything is fine",
+        "thanks for everything",
+        "everything else"
+      ]
+    },
+    "target": {
+      "word": "tudo",
+      "phrases": [
+        "está tudo bem",
+        "obrigado por tudo",
+        "todo o resto"
+      ]
+    },
+    "frequency": 238
+  },
+  {
+    "rank": 423,
+    "lemma": "research",
+    "source": {
+      "word": "research",
+      "phrases": [
+        "market research",
+        "do research",
+        "research and development"
+      ]
+    },
+    "target": {
+      "word": "pesquisa",
+      "phrases": [
+        "pesquisa de mercado",
+        "fazer pesquisa",
+        "pesquisa e desenvolvimento"
+      ]
+    },
+    "frequency": 237
+  },
+  {
+    "rank": 424,
+    "lemma": "cover",
+    "source": {
+      "word": "cover",
+      "phrases": [
+        "cover up",
+        "take cover",
+        "book cover"
+      ]
+    },
+    "target": {
+      "word": "capa",
+      "phrases": [
+        "encobrir",
+        "procurar abrigo",
+        "capa de livro"
+      ]
+    },
+    "frequency": 236
+  },
+  {
+    "rank": 425,
+    "lemma": "paper",
+    "source": {
+      "word": "paper",
+      "phrases": [
+        "piece of paper",
+        "paper work",
+        "paper back"
+      ]
+    },
+    "target": {
+      "word": "papel",
+      "phrases": [
+        "pedaço de papel",
+        "papelada",
+        "livro de bolso"
+      ]
+    },
+    "frequency": 236
+  },
+  {
+    "rank": 426,
+    "lemma": "position",
+    "source": {
+      "word": "position",
+      "phrases": [
+        "in a position to",
+        "positioning",
+        "take a position"
+      ]
+    },
+    "target": {
+      "word": "posição",
+      "phrases": [
+        "em posição de",
+        "posicionamento",
+        "tomar uma posição"
+      ]
+    },
+    "frequency": 236
+  },
+  {
+    "rank": 427,
+    "lemma": "near",
+    "source": {
+      "word": "near",
+      "phrases": [
+        "near future",
+        "near by",
+        "come near"
+      ]
+    },
+    "target": {
+      "word": "perto",
+      "phrases": [
+        "futuro próximo",
+        "por perto",
+        "chegar perto"
+      ]
+    },
+    "frequency": 236
+  },
+  {
+    "rank": 428,
+    "lemma": "human",
+    "source": {
+      "word": "human",
+      "phrases": [
+        "human being",
+        "human rights",
+        "human nature"
+      ]
+    },
+    "target": {
+      "word": "humano",
+      "phrases": [
+        "ser humano",
+        "direitos humanos",
+        "natureza humana"
+      ]
+    },
+    "frequency": 235
+  },
+  {
+    "rank": 429,
+    "lemma": "computer",
+    "source": {
+      "word": "computer",
+      "phrases": [
+        "computer science",
+        "personal computer",
+        "computer game"
+      ]
+    },
+    "target": {
+      "word": "computador",
+      "phrases": [
+        "ciência da computação",
+        "computador pessoal",
+        "jogo de computador"
+      ]
+    },
+    "frequency": 235
+  },
+  {
+    "rank": 430,
+    "lemma": "situation",
+    "source": {
+      "word": "situation",
+      "phrases": [
+        "win win situation",
+        "current situation",
+        "bad situation"
+      ]
+    },
+    "target": {
+      "word": "situação",
+      "phrases": [
+        "situação onde todos ganham",
+        "situação atual",
+        "situação ruim"
+      ]
+    },
+    "frequency": 235
+  },
+  {
+    "rank": 431,
+    "lemma": "staff",
+    "source": {
+      "word": "staff",
+      "phrases": [
+        "staff member",
+        "medical staff",
+        "short staffed"
+      ]
+    },
+    "target": {
+      "word": "equipe",
+      "phrases": [
+        "membro da equipe",
+        "equipe médica",
+        "falta de pessoal"
+      ]
+    },
+    "frequency": 234
+  },
+  {
+    "rank": 432,
+    "lemma": "activity",
+    "source": {
+      "word": "activity",
+      "phrases": [
+        "outdoor activity",
+        "daily activity",
+        "activity level"
+      ]
+    },
+    "target": {
+      "word": "atividade",
+      "phrases": [
+        "atividade ao ar livre",
+        "atividade diária",
+        "nível de atividade"
+      ]
+    },
+    "frequency": 234
+  },
+  {
+    "rank": 433,
+    "lemma": "film",
+    "source": {
+      "word": "film",
+      "phrases": [
+        "film festival",
+        "short film",
+        "feature film"
+      ]
+    },
+    "target": {
+      "word": "filme",
+      "phrases": [
+        "festival de cinema",
+        "curta-metragem",
+        "longa-metragem"
+      ]
+    },
+    "frequency": 232
+  },
+  {
+    "rank": 434,
+    "lemma": "morning",
+    "source": {
+      "word": "morning",
+      "phrases": [
+        "good morning",
+        "this morning",
+        "morning glory"
+      ]
+    },
+    "target": {
+      "word": "manhã",
+      "phrases": [
+        "bom dia",
+        "esta manhã",
+        "bons-dias"
+      ]
+    },
+    "frequency": 232
+  },
+  {
+    "rank": 435,
+    "lemma": "war",
+    "source": {
+      "word": "war",
+      "phrases": [
+        "world war",
+        "civil war",
+        "at war"
+      ]
+    },
+    "target": {
+      "word": "guerra",
+      "phrases": [
+        "guerra mundial",
+        "guerra civil",
+        "em guerra"
+      ]
+    },
+    "frequency": 231
+  },
+  {
+    "rank": 436,
+    "lemma": "account",
+    "source": {
+      "word": "account",
+      "phrases": [
+        "bank account",
+        "account for",
+        "on account of"
+      ]
+    },
+    "target": {
+      "word": "conta",
+      "phrases": [
+        "conta bancária",
+        "explicar",
+        "por causa de"
+      ]
+    },
+    "frequency": 231
+  },
+  {
+    "rank": 437,
+    "lemma": "shop",
+    "source": {
+      "word": "shop",
+      "phrases": [
+        "shopping mall",
+        "coffee shop",
+        "shop online"
+      ]
+    },
+    "target": {
+      "word": "loja",
+      "phrases": [
+        "shopping center",
+        "cafeteria",
+        "comprar online"
+      ]
+    },
+    "frequency": 230
+  },
+  {
+    "rank": 438,
+    "lemma": "major",
+    "source": {
+      "word": "major",
+      "phrases": [
+        "major problem",
+        "majority",
+        "major in"
+      ]
+    },
+    "target": {
+      "word": "maior",
+      "phrases": [
+        "problema maior",
+        "maioria",
+        "especializar-se em"
+      ]
+    },
+    "frequency": 229
+  },
+  {
+    "rank": 439,
+    "lemma": "someone",
+    "source": {
+      "word": "someone",
+      "phrases": [
+        "someone else",
+        "someone special",
+        "meet someone"
+      ]
+    },
+    "target": {
+      "word": "alguém",
+      "phrases": [
+        "outra pessoa",
+        "alguém especial",
+        "conhecer alguém"
+      ]
+    },
+    "frequency": 228
+  },
+  {
+    "rank": 440,
+    "lemma": "above",
+    "source": {
+      "word": "above",
+      "phrases": [
+        "above all",
+        "rise above",
+        "above average"
+      ]
+    },
+    "target": {
+      "word": "acima",
+      "phrases": [
+        "acima de tudo",
+        "elevar-se acima",
+        "acima da média"
+      ]
+    },
+    "frequency": 228
+  },
+  {
+    "rank": 441,
+    "lemma": "design",
+    "source": {
+      "word": "design",
+      "phrases": [
+        "graphic design",
+        "by design",
+        "interior design"
+      ]
+    },
+    "target": {
+      "word": "design",
+      "phrases": [
+        "design gráfico",
+        "por design",
+        "design de interiores"
+      ]
+    },
+    "frequency": 228
+  },
+  {
+    "rank": 442,
+    "lemma": "event",
+    "source": {
+      "word": "event",
+      "phrases": [
+        "sporting event",
+        "main event",
+        "in the event of"
+      ]
+    },
+    "target": {
+      "word": "evento",
+      "phrases": [
+        "evento esportivo",
+        "evento principal",
+        "no caso de"
+      ]
+    },
+    "frequency": 228
+  },
+  {
+    "rank": 443,
+    "lemma": "special",
+    "source": {
+      "word": "special",
+      "phrases": [
+        "special offer",
+        "something special",
+        "special guest"
+      ]
+    },
+    "target": {
+      "word": "especial",
+      "phrases": [
+        "oferta especial",
+        "algo especial",
+        "convidado especial"
+      ]
+    },
+    "frequency": 228
+  },
+  {
+    "rank": 444,
+    "lemma": "sometimes",
+    "source": {
+      "word": "sometimes",
+      "phrases": [
+        "sometimes I feel",
+        "sometimes you win",
+        "only sometimes"
+      ]
+    },
+    "target": {
+      "word": "às vezes",
+      "phrases": [
+        "às vezes eu sinto",
+        "às vezes você ganha",
+        "apenas às vezes"
+      ]
+    },
+    "frequency": 227
+  },
+  {
+    "rank": 445,
+    "lemma": "condition",
+    "source": {
+      "word": "condition",
+      "phrases": [
+        "in good condition",
+        "terms and conditions",
+        "air conditioner"
+      ]
+    },
+    "target": {
+      "word": "condição",
+      "phrases": [
+        "em boas condições",
+        "termos e condições",
+        "ar condicionado"
+      ]
+    },
+    "frequency": 226
+  },
+  {
+    "rank": 446,
+    "lemma": "carry",
+    "source": {
+      "word": "carry",
+      "phrases": [
+        "carry out",
+        "carry on",
+        "carry a bag"
+      ]
+    },
+    "target": {
+      "word": "carregar",
+      "phrases": [
+        "realizar",
+        "continuar",
+        "carregar uma bolsa"
+      ]
+    },
+    "frequency": 226
+  },
+  {
+    "rank": 447,
+    "lemma": "choose",
+    "source": {
+      "word": "choose",
+      "phrases": [
+        "choose from",
+        "choose to",
+        "pick and choose"
+      ]
+    },
+    "target": {
+      "word": "escolher",
+      "phrases": [
+        "escolher entre",
+        "escolher para",
+        "escolher a dedo"
+      ]
+    },
+    "frequency": 225
+  },
+  {
+    "rank": 448,
+    "lemma": "father",
+    "source": {
+      "word": "father",
+      "phrases": [
+        "father figure",
+        "grand father",
+        "like father like son"
+      ]
+    },
+    "target": {
+      "word": "pai",
+      "phrases": [
+        "figura paterna",
+        "avô",
+        "tal pai tal filho"
+      ]
+    },
+    "frequency": 225
+  },
+  {
+    "rank": 449,
+    "lemma": "decision",
+    "source": {
+      "word": "decision",
+      "phrases": [
+        "make a decision",
+        "final decision",
+        "big decision"
+      ]
+    },
+    "target": {
+      "word": "decisão",
+      "phrases": [
+        "tomar uma decisão",
+        "decisão final",
+        "decisão importante"
+      ]
+    },
+    "frequency": 224
+  },
+  {
+    "rank": 450,
+    "lemma": "table",
+    "source": {
+      "word": "table",
+      "phrases": [
+        "table tennis",
+        "on the table",
+        "time table"
+      ]
+    },
+    "target": {
+      "word": "tabela",
+      "phrases": [
+        "tênis de mesa",
+        "sobre a mesa",
+        "cronograma"
+      ]
+    },
+    "frequency": 224
+  },
+  {
+    "rank": 451,
+    "lemma": "certain",
+    "source": {
+      "word": "certain",
+      "phrases": [
+        "certain amount",
+        "for certain",
+        "make certain"
+      ]
+    },
+    "target": {
+      "word": "certo",
+      "phrases": [
+        "certa quantidade",
+        "com certeza",
+        "certificar-se"
+      ]
+    },
+    "frequency": 223
+  },
+  {
+    "rank": 452,
+    "lemma": "forward",
+    "source": {
+      "word": "forward",
+      "phrases": [
+        "look forward to",
+        "move forward",
+        "pay it forward"
+      ]
+    },
+    "target": {
+      "word": "frente",
+      "phrases": [
+        "ansioso por",
+        "seguir em frente",
+        "fazer o bem sem olhar a quem"
+      ]
+    },
+    "frequency": 223
+  },
+  {
+    "rank": 453,
+    "lemma": "main",
+    "source": {
+      "word": "main",
+      "phrases": [
+        "main street",
+        "main course",
+        "main character"
+      ]
+    },
+    "target": {
+      "word": "principal",
+      "phrases": [
+        "rua principal",
+        "prato principal",
+        "personagem principal"
+      ]
+    },
+    "frequency": 223
+  },
+  {
+    "rank": 454,
+    "lemma": "die",
+    "source": {
+      "word": "die",
+      "phrases": [
+        "die hard",
+        "die of",
+        "never say die"
+      ]
+    },
+    "target": {
+      "word": "morrer",
+      "phrases": [
+        "duro de matar",
+        "morrer de",
+        "nunca desista"
+      ]
+    },
+    "frequency": 222
+  },
+  {
+    "rank": 455,
+    "lemma": "bear",
+    "source": {
+      "word": "bear",
+      "phrases": [
+        "polar bear",
+        "bear in mind",
+        "can't bear"
+      ]
+    },
+    "target": {
+      "word": "urso",
+      "phrases": [
+        "urso polar",
+        "ter em mente",
+        "não suportar"
+      ]
+    },
+    "frequency": 222
+  },
+  {
+    "rank": 456,
+    "lemma": "cut",
+    "source": {
+      "word": "cut",
+      "phrases": [
+        "cut off",
+        "cut down",
+        "hair cut"
+      ]
+    },
+    "target": {
+      "word": "cortar",
+      "phrases": [
+        "cortar",
+        "reduzir",
+        "corte de cabelo"
+      ]
+    },
+    "frequency": 221
+  },
+  {
+    "rank": 457,
+    "lemma": "describe",
+    "source": {
+      "word": "describe",
+      "phrases": [
+        "describe yourself",
+        "describe in detail",
+        "hard to describe"
+      ]
+    },
+    "target": {
+      "word": "descrever",
+      "phrases": [
+        "descrever a si mesmo",
+        "descrever em detalhes",
+        "difícil de descrever"
+      ]
+    },
+    "frequency": 220
+  },
+  {
+    "rank": 458,
+    "lemma": "himself",
+    "source": {
+      "word": "himself",
+      "phrases": [
+        "by himself",
+        "to himself",
+        "be himself"
+      ]
+    },
+    "target": {
+      "word": "si mesmo",
+      "phrases": [
+        "sozinho",
+        "para si mesmo",
+        "ser ele mesmo"
+      ]
+    },
+    "frequency": 220
+  },
+  {
+    "rank": 459,
+    "lemma": "available",
+    "source": {
+      "word": "available",
+      "phrases": [
+        "available now",
+        "not available",
+        "available for"
+      ]
+    },
+    "target": {
+      "word": "disponível",
+      "phrases": [
+        "disponível agora",
+        "não disponível",
+        "disponível para"
+      ]
+    },
+    "frequency": 220
+  },
+  {
+    "rank": 460,
+    "lemma": "especially",
+    "source": {
+      "word": "especially",
+      "phrases": [
+        "especially for you",
+        "not especially",
+        "especially when"
+      ]
+    },
+    "target": {
+      "word": "especialmente",
+      "phrases": [
+        "especialmente para você",
+        "não especialmente",
+        "especialmente quando"
+      ]
+    },
+    "frequency": 220
+  },
+  {
+    "rank": 461,
+    "lemma": "strong",
+    "source": {
+      "word": "strong",
+      "phrases": [
+        "stay strong",
+        "strong point",
+        "go strong"
+      ]
+    },
+    "target": {
+      "word": "forte",
+      "phrases": [
+        "fique forte",
+        "ponto forte",
+        "continuar firme"
+      ]
+    },
+    "frequency": 218
+  },
+  {
+    "rank": 462,
+    "lemma": "rise",
+    "source": {
+      "word": "rise",
+      "phrases": [
+        "sun rise",
+        "rise up",
+        "pay rise"
+      ]
+    },
+    "target": {
+      "word": "subir",
+      "phrases": [
+        "nascer do sol",
+        "elevar-se",
+        "aumento de salário"
+      ]
+    },
+    "frequency": 218
+  },
+  {
+    "rank": 463,
+    "lemma": "girl",
+    "source": {
+      "word": "girl",
+      "phrases": [
+        "baby girl",
+        "girl friend",
+        "go girl"
+      ]
+    },
+    "target": {
+      "word": "menina",
+      "phrases": [
+        "bebê menina",
+        "namorada",
+        "vai garota"
+      ]
+    },
+    "frequency": 217
+  },
+  {
+    "rank": 464,
+    "lemma": "maybe",
+    "source": {
+      "word": "maybe",
+      "phrases": [
+        "maybe later",
+        "maybe not",
+        "call me maybe"
+      ]
+    },
+    "target": {
+      "word": "talvez",
+      "phrases": [
+        "talvez mais tarde",
+        "talvez não",
+        "me ligue quem sabe"
+      ]
+    },
+    "frequency": 217
+  },
+  {
+    "rank": 465,
+    "lemma": "community",
+    "source": {
+      "word": "community",
+      "phrases": [
+        "community center",
+        "online community",
+        "local community"
+      ]
+    },
+    "target": {
+      "word": "comunidade",
+      "phrases": [
+        "centro comunitário",
+        "comunidade online",
+        "comunidade local"
+      ]
+    },
+    "frequency": 217
+  },
+  {
+    "rank": 466,
+    "lemma": "else",
+    "source": {
+      "word": "else",
+      "phrases": [
+        "anything else",
+        "somewhere else",
+        "or else"
+      ]
+    },
+    "target": {
+      "word": "outro",
+      "phrases": [
+        "mais alguma coisa",
+        "em outro lugar",
+        "ou então"
+      ]
+    },
+    "frequency": 216
+  },
+  {
+    "rank": 467,
+    "lemma": "particular",
+    "source": {
+      "word": "particular",
+      "phrases": [
+        "in particular",
+        "nothing particular",
+        "particular about"
+      ]
+    },
+    "target": {
+      "word": "particular",
+      "phrases": [
+        "em particular",
+        "nada de especial",
+        "exigente com"
+      ]
+    },
+    "frequency": 215
+  },
+  {
+    "rank": 468,
+    "lemma": "role",
+    "source": {
+      "word": "role",
+      "phrases": [
+        "play a role",
+        "role model",
+        "lead role"
+      ]
+    },
+    "target": {
+      "word": "papel",
+      "phrases": [
+        "desempenhar um papel",
+        "modelo a seguir",
+        "papel principal"
+      ]
+    },
+    "frequency": 215
+  },
+  {
+    "rank": 469,
+    "lemma": "join",
+    "source": {
+      "word": "join",
+      "phrases": [
+        "join us",
+        "join in",
+        "join the club"
+      ]
+    },
+    "target": {
+      "word": "juntar-se",
+      "phrases": [
+        "junte-se a nós",
+        "participar",
+        "bem-vindo ao clube"
+      ]
+    },
+    "frequency": 215
+  },
+  {
+    "rank": 470,
+    "lemma": "difficult",
+    "source": {
+      "word": "difficult",
+      "phrases": [
+        "difficult to",
+        "difficult situation",
+        "technical difficulty"
+      ]
+    },
+    "target": {
+      "word": "difícil",
+      "phrases": [
+        "difícil de",
+        "situação difícil",
+        "dificuldade técnica"
+      ]
+    },
+    "frequency": 215
+  },
+  {
+    "rank": 471,
+    "lemma": "please",
+    "source": {
+      "word": "please",
+      "phrases": [
+        "please help",
+        "yes please",
+        "pleased to meet you"
+      ]
+    },
+    "target": {
+      "word": "por favor",
+      "phrases": [
+        "por favor ajude",
+        "sim por favor",
+        "prazer em conhecê-lo"
+      ]
+    },
+    "frequency": 213
+  },
+  {
+    "rank": 472,
+    "lemma": "detail",
+    "source": {
+      "word": "detail",
+      "phrases": [
+        "in detail",
+        "minor detail",
+        "attention to detail"
+      ]
+    },
+    "target": {
+      "word": "detalhe",
+      "phrases": [
+        "em detalhes",
+        "detalhe insignificante",
+        "atenção aos detalhes"
+      ]
+    },
+    "frequency": 213
+  },
+  {
+    "rank": 473,
+    "lemma": "difference",
+    "source": {
+      "word": "difference",
+      "phrases": [
+        "make a difference",
+        "tell the difference",
+        "big difference"
+      ]
+    },
+    "target": {
+      "word": "diferença",
+      "phrases": [
+        "fazer a diferença",
+        "notar a diferença",
+        "grande diferença"
+      ]
+    },
+    "frequency": 212
+  },
+  {
+    "rank": 474,
+    "lemma": "action",
+    "source": {
+      "word": "action",
+      "phrases": [
+        "take action",
+        "action movie",
+        "in action"
+      ]
+    },
+    "target": {
+      "word": "ação",
+      "phrases": [
+        "tomar atitude",
+        "filme de ação",
+        "em ação"
+      ]
+    },
+    "frequency": 210
+  },
+  {
+    "rank": 475,
+    "lemma": "health",
+    "source": {
+      "word": "health",
+      "phrases": [
+        "health care",
+        "mental health",
+        "in good health"
+      ]
+    },
+    "target": {
+      "word": "saúde",
+      "phrases": [
+        "cuidados de saúde",
+        "saúde mental",
+        "com boa saúde"
+      ]
+    },
+    "frequency": 209
+  },
+  {
+    "rank": 476,
+    "lemma": "eat",
+    "source": {
+      "word": "eat",
+      "phrases": [
+        "eat out",
+        "eat up",
+        "healthy eating"
+      ]
+    },
+    "target": {
+      "word": "comer",
+      "phrases": [
+        "comer fora",
+        "comer tudo",
+        "alimentação saudável"
+      ]
+    },
+    "frequency": 209
+  },
+  {
+    "rank": 477,
+    "lemma": "step",
+    "source": {
+      "word": "step",
+      "phrases": [
+        "step by step",
+        "watch your step",
+        "step up"
+      ]
+    },
+    "target": {
+      "word": "passo",
+      "phrases": [
+        "passo a passo",
+        "cuidado onde pisa",
+        "dar um passo à frente"
+      ]
+    },
+    "frequency": 208
+  },
+  {
+    "rank": 478,
+    "lemma": true,
+    "source": {
+      "word": "true",
+      "phrases": [
+        "come true",
+        "true story",
+        "true love"
+      ]
+    },
+    "target": {
+      "word": "verdadeiro",
+      "phrases": [
+        "tornar-se realidade",
+        "história real",
+        "amor verdadeiro"
+      ]
+    },
+    "frequency": 208
+  },
+  {
+    "rank": 479,
+    "lemma": "phone",
+    "source": {
+      "word": "phone",
+      "phrases": [
+        "phone call",
+        "cell phone",
+        "answer the phone"
+      ]
+    },
+    "target": {
+      "word": "telefone",
+      "phrases": [
+        "chamada telefônica",
+        "celular",
+        "atender o telefone"
+      ]
+    },
+    "frequency": 207
+  },
+  {
+    "rank": 480,
+    "lemma": "themselves",
+    "source": {
+      "word": "themselves",
+      "phrases": [
+        "by themselves",
+        "for themselves",
+        "be themselves"
+      ]
+    },
+    "target": {
+      "word": "eles mesmos",
+      "phrases": [
+        "por si mesmos",
+        "para si mesmos",
+        "serem eles mesmos"
+      ]
+    },
+    "frequency": 207
+  },
+  {
+    "rank": 481,
+    "lemma": "draw",
+    "source": {
+      "word": "draw",
+      "phrases": [
+        "draw a picture",
+        "draw attention",
+        "draw near"
+      ]
+    },
+    "target": {
+      "word": "desenhar",
+      "phrases": [
+        "desenhar uma imagem",
+        "atrair atenção",
+        "aproximar-se"
+      ]
+    },
+    "frequency": 207
+  },
+  {
+    "rank": 482,
+    "lemma": "white",
+    "source": {
+      "word": "white",
+      "phrases": [
+        "white house",
+        "white lie",
+        "snow white"
+      ]
+    },
+    "target": {
+      "word": "branco",
+      "phrases": [
+        "casa branca",
+        "mentira piedosa",
+        "branca de neve"
+      ]
+    },
+    "frequency": 206
+  },
+  {
+    "rank": 483,
+    "lemma": "date",
+    "source": {
+      "word": "date",
+      "phrases": [
+        "up to date",
+        "blind date",
+        "save the date"
+      ]
+    },
+    "target": {
+      "word": "data",
+      "phrases": [
+        "atualizado",
+        "encontro às cegas",
+        "reserve a data"
+      ]
+    },
+    "frequency": 205
+  },
+  {
+    "rank": 484,
+    "lemma": "practice",
+    "source": {
+      "word": "practice",
+      "phrases": [
+        "practice makes perfect",
+        "in practice",
+        "practice English"
+      ]
+    },
+    "target": {
+      "word": "prática",
+      "phrases": [
+        "a prática leva à perfeição",
+        "na prática",
+        "praticar inglês"
+      ]
+    },
+    "frequency": 205
+  },
+  {
+    "rank": 485,
+    "lemma": "model",
+    "source": {
+      "word": "model",
+      "phrases": [
+        "role model",
+        "model car",
+        "new model"
+      ]
+    },
+    "target": {
+      "word": "modelo",
+      "phrases": [
+        "modelo de conduta",
+        "carro de brinquedo",
+        "modelo novo"
+      ]
+    },
+    "frequency": 205
+  },
+  {
+    "rank": 486,
+    "lemma": "raise",
+    "source": {
+      "word": "raise",
+      "phrases": [
+        "raise hand",
+        "fund raise",
+        "raise a child"
+      ]
+    },
+    "target": {
+      "word": "levantar",
+      "phrases": [
+        "levantar a mão",
+        "arrecadação de fundos",
+        "criar um filho"
+      ]
+    },
+    "frequency": 205
+  },
+  {
+    "rank": 487,
+    "lemma": "customer",
+    "source": {
+      "word": "customer",
+      "phrases": [
+        "customer service",
+        "regular customer",
+        "customer satisfaction"
+      ]
+    },
+    "target": {
+      "word": "cliente",
+      "phrases": [
+        "atendimento ao cliente",
+        "cliente regular",
+        "satisfação do cliente"
+      ]
+    },
+    "frequency": 205
+  },
+  {
+    "rank": 488,
+    "lemma": "front",
+    "source": {
+      "word": "front",
+      "phrases": [
+        "in front of",
+        "front door",
+        "front page"
+      ]
+    },
+    "target": {
+      "word": "frente",
+      "phrases": [
+        "na frente de",
+        "porta da frente",
+        "página principal"
+      ]
+    },
+    "frequency": 203
+  },
+  {
+    "rank": 489,
+    "lemma": "explain",
+    "source": {
+      "word": "explain",
+      "phrases": [
+        "explain to",
+        "explain why",
+        "let me explain"
+      ]
+    },
+    "target": {
+      "word": "explicar",
+      "phrases": [
+        "explicar para",
+        "explicar o porquê",
+        "deixe-me explicar"
+      ]
+    },
+    "frequency": 202
+  },
+  {
+    "rank": 490,
+    "lemma": "door",
+    "source": {
+      "word": "door",
+      "phrases": [
+        "open the door",
+        "next door",
+        "door to door"
+      ]
+    },
+    "target": {
+      "word": "porta",
+      "phrases": [
+        "abrir a porta",
+        "ao lado",
+        "de porta em porta"
+      ]
+    },
+    "frequency": 202
+  },
+  {
+    "rank": 491,
+    "lemma": "outside",
+    "source": {
+      "word": "outside",
+      "phrases": [
+        "go outside",
+        "outside the box",
+        "from the outside"
+      ]
+    },
+    "target": {
+      "word": "fora",
+      "phrases": [
+        "ir para fora",
+        "fora da caixa",
+        "pelo lado de fora"
+      ]
+    },
+    "frequency": 200
+  },
+  {
+    "rank": 492,
+    "lemma": "behind",
+    "source": {
+      "word": "behind",
+      "phrases": [
+        "left behind",
+        "behind the scenes",
+        "behind schedule"
+      ]
+    },
+    "target": {
+      "word": "atrás",
+      "phrases": [
+        "deixado para trás",
+        "bastidores",
+        "atrasado"
+      ]
+    },
+    "frequency": 200
+  },
+  {
+    "rank": 493,
+    "lemma": "economic",
+    "source": {
+      "word": "economic",
+      "phrases": [
+        "economic growth",
+        "economic crisis",
+        "socio-economic"
+      ]
+    },
+    "target": {
+      "word": "econômico",
+      "phrases": [
+        "crescimento econômico",
+        "crise econômica",
+        "socioeconômico"
+      ]
+    },
+    "frequency": 199
+  },
+  {
+    "rank": 494,
+    "lemma": "site",
+    "source": {
+      "word": "site",
+      "phrases": [
+        "web site",
+        "construction site",
+        "on site"
+      ]
+    },
+    "target": {
+      "word": "local",
+      "phrases": [
+        "site",
+        "canteiro de obras",
+        "no local"
+      ]
+    },
+    "frequency": 199
+  },
+  {
+    "rank": 495,
+    "lemma": "approach",
+    "source": {
+      "word": "approach",
+      "phrases": [
+        "new approach",
+        "approach the bench",
+        "fast approaching"
+      ]
+    },
+    "target": {
+      "word": "abordagem",
+      "phrases": [
+        "nova abordagem",
+        "aproximar-se do juiz",
+        "aproximando-se rapidamente"
+      ]
+    },
+    "frequency": 199
+  },
+  {
+    "rank": 496,
+    "lemma": "teacher",
+    "source": {
+      "word": "teacher",
+      "phrases": [
+        "english teacher",
+        "school teacher",
+        "best teacher"
+      ]
+    },
+    "target": {
+      "word": "professor",
+      "phrases": [
+        "professor de inglês",
+        "professor de escola",
+        "melhor professor"
+      ]
+    },
+    "frequency": 199
+  },
+  {
+    "rank": 497,
+    "lemma": "land",
+    "source": {
+      "word": "land",
+      "phrases": [
+        "land on",
+        "land lord",
+        "holy land"
+      ]
+    },
+    "target": {
+      "word": "terra",
+      "phrases": [
+        "pousar em",
+        "proprietário",
+        "terra santa"
+      ]
+    },
+    "frequency": 197
+  },
+  {
+    "rank": 498,
+    "lemma": "charge",
+    "source": {
+      "word": "charge",
+      "phrases": [
+        "in charge of",
+        "free of charge",
+        "charge battery"
+      ]
+    },
+    "target": {
+      "word": "cargo",
+      "phrases": [
+        "responsável por",
+        "gratuito",
+        "carregar bateria"
+      ]
+    },
+    "frequency": 197
+  },
+  {
+    "rank": 499,
+    "lemma": "finally",
+    "source": {
+      "word": "finally",
+      "phrases": [
+        "finally done",
+        "and finally",
+        "finally met"
+      ]
+    },
+    "target": {
+      "word": "finalmente",
+      "phrases": [
+        "finalmente concluído",
+        "e finalmente",
+        "finalmente conheceu"
+      ]
+    },
+    "frequency": 197
+  },
+  {
+    "rank": 500,
+    "lemma": "sign",
+    "source": {
+      "word": "sign",
+      "phrases": [
+        "sign up",
+        "sign in",
+        "traffic sign"
+      ]
+    },
+    "target": {
+      "word": "sinal",
+      "phrases": [
+        "inscrever-se",
+        "entrar",
+        "placa de trânsito"
+      ]
+    },
+    "frequency": 197
+  }
+]

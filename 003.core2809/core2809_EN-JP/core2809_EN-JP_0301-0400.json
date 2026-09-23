@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 301,
+    "lemma": "control",
+    "source": {
+      "word": "control",
+      "phrases": [
+        "remote control",
+        "under control",
+        "out of control"
+      ]
+    },
+    "target": {
+      "word": "支配／管理",
+      "phrases": [
+        "リモコン",
+        "管理下にある",
+        "制御不能"
+      ]
+    },
+    "frequency": 320
+  },
+  {
+    "rank": 302,
+    "lemma": "already",
+    "source": {
+      "word": "already",
+      "phrases": [
+        "already done",
+        "seen it already",
+        "enough already"
+      ]
+    },
+    "target": {
+      "word": "すでに",
+      "phrases": [
+        "もう終わった",
+        "もう見た",
+        "もう十分だ"
+      ]
+    },
+    "frequency": 318
+  },
+  {
+    "rank": 303,
+    "lemma": "concern",
+    "source": {
+      "word": "concern",
+      "phrases": [
+        "concern about",
+        "no concern of yours",
+        "main concern"
+      ]
+    },
+    "target": {
+      "word": "懸念／関心",
+      "phrases": [
+        "〜への懸念",
+        "あなたには関係ない",
+        "主な関心事"
+      ]
+    },
+    "frequency": 317
+  },
+  {
+    "rank": 304,
+    "lemma": "product",
+    "source": {
+      "word": "product",
+      "phrases": [
+        "new product",
+        "dairy product",
+        "by-product"
+      ]
+    },
+    "target": {
+      "word": "製品",
+      "phrases": [
+        "新製品",
+        "乳製品",
+        "副産物"
+      ]
+    },
+    "frequency": 317
+  },
+  {
+    "rank": 305,
+    "lemma": "lose",
+    "source": {
+      "word": "lose",
+      "phrases": [
+        "lose weight",
+        "lose my way",
+        "lose face"
+      ]
+    },
+    "target": {
+      "word": "失う／負ける",
+      "phrases": [
+        "痩せる",
+        "道に迷う",
+        "面目を失う"
+      ]
+    },
+    "frequency": 316
+  },
+  {
+    "rank": 306,
+    "lemma": "story",
+    "source": {
+      "word": "story",
+      "phrases": [
+        "tell a story",
+        "true story",
+        "short story"
+      ]
+    },
+    "target": {
+      "word": "物語／話",
+      "phrases": [
+        "話をする",
+        "実話",
+        "短編小説"
+      ]
+    },
+    "frequency": 315
+  },
+  {
+    "rank": 307,
+    "lemma": "almost",
+    "source": {
+      "word": "almost",
+      "phrases": [
+        "almost there",
+        "almost finished",
+        "almost ready"
+      ]
+    },
+    "target": {
+      "word": "ほとんど",
+      "phrases": [
+        "もう一息（あと少し）",
+        "ほぼ終わった",
+        "ほぼ準備完了"
+      ]
+    },
+    "frequency": 315
+  },
+  {
+    "rank": 308,
+    "lemma": "continue",
+    "source": {
+      "word": "continue",
+      "phrases": [
+        "continue to",
+        "to be continued",
+        "continue working"
+      ]
+    },
+    "target": {
+      "word": "続ける",
+      "phrases": [
+        "〜し続ける",
+        "つづく（次回へ）",
+        "働き続ける"
+      ]
+    },
+    "frequency": 314
+  },
+  {
+    "rank": 309,
+    "lemma": "stand",
+    "source": {
+      "word": "stand",
+      "phrases": [
+        "stand up",
+        "can't stand",
+        "stand out"
+      ]
+    },
+    "target": {
+      "word": "立つ／我慢する",
+      "phrases": [
+        "立ち上がる",
+        "我慢できない",
+        "目立つ"
+      ]
+    },
+    "frequency": 313
+  },
+  {
+    "rank": 310,
+    "lemma": "whole",
+    "source": {
+      "word": "whole",
+      "phrases": [
+        "whole world",
+        "whole life",
+        "as a whole"
+      ]
+    },
+    "target": {
+      "word": "全体の",
+      "phrases": [
+        "全世界",
+        "一生",
+        "全体として"
+      ]
+    },
+    "frequency": 313
+  },
+  {
+    "rank": 311,
+    "lemma": "yet",
+    "source": {
+      "word": "yet",
+      "phrases": [
+        "not yet",
+        "have you yet?",
+        "and yet"
+      ]
+    },
+    "target": {
+      "word": "まだ／しかし",
+      "phrases": [
+        "まだ〜ない",
+        "もう〜しましたか？",
+        "それにもかかわらず"
+      ]
+    },
+    "frequency": 313
+  },
+  {
+    "rank": 312,
+    "lemma": "rate",
+    "source": {
+      "word": "rate",
+      "phrases": [
+        "interest rate",
+        "first rate",
+        "exchange rate"
+      ]
+    },
+    "target": {
+      "word": "割合／率／評価する",
+      "phrases": [
+        "金利",
+        "一流の",
+        "為替レート"
+      ]
+    },
+    "frequency": 312
+  },
+  {
+    "rank": 313,
+    "lemma": "care",
+    "source": {
+      "word": "care",
+      "phrases": [
+        "take care",
+        "I don't care",
+        "care about"
+      ]
+    },
+    "target": {
+      "word": "世話／気にかける",
+      "phrases": [
+        "気をつけて",
+        "気にしない",
+        "〜を大切にする"
+      ]
+    },
+    "frequency": 311
+  },
+  {
+    "rank": 314,
+    "lemma": "expect",
+    "source": {
+      "word": "expect",
+      "phrases": [
+        "expect to",
+        "what did you expect?",
+        "fully expect"
+      ]
+    },
+    "target": {
+      "word": "予期する／期待する",
+      "phrases": [
+        "〜するつもりだ",
+        "何を期待していたの？",
+        "十分に予期する"
+      ]
+    },
+    "frequency": 311
+  },
+  {
+    "rank": 315,
+    "lemma": "effect",
+    "source": {
+      "word": "effect",
+      "phrases": [
+        "side effect",
+        "special effect",
+        "take effect"
+      ]
+    },
+    "target": {
+      "word": "効果／影響",
+      "phrases": [
+        "副作用",
+        "特殊効果",
+        "効力を発する"
+      ]
+    },
+    "frequency": 311
+  },
+  {
+    "rank": 316,
+    "lemma": "sort",
+    "source": {
+      "word": "sort",
+      "phrases": [
+        "sort of",
+        "what sort of",
+        "sort out"
+      ]
+    },
+    "target": {
+      "word": "種類／分類する",
+      "phrases": [
+        "ある種の／まあね",
+        "どんな種類の",
+        "整理する／解決する"
+      ]
+    },
+    "frequency": 311
+  },
+  {
+    "rank": 317,
+    "lemma": "ever",
+    "source": {
+      "word": "ever",
+      "phrases": [
+        "ever since",
+        "best ever",
+        "hardly ever"
+      ]
+    },
+    "target": {
+      "word": "かつて／これまでに",
+      "phrases": [
+        "それ以来ずっと",
+        "史上最高の",
+        "めったに〜ない"
+      ]
+    },
+    "frequency": 311
+  },
+  {
+    "rank": 318,
+    "lemma": "anything",
+    "source": {
+      "word": "anything",
+      "phrases": [
+        "anything else?",
+        "anything goes",
+        "if anything"
+      ]
+    },
+    "target": {
+      "word": "何か／何でも",
+      "phrases": [
+        "他にご注文は？",
+        "何でもあり",
+        "どちらかと言えば"
+      ]
+    },
+    "frequency": 310
+  },
+  {
+    "rank": 319,
+    "lemma": "cause",
+    "source": {
+      "word": "cause",
+      "phrases": [
+        "cause and effect",
+        "cause of death",
+        "good cause"
+      ]
+    },
+    "target": {
+      "word": "原因／引き起こす",
+      "phrases": [
+        "原因と結果",
+        "死因",
+        "正当な理由／大義"
+      ]
+    },
+    "frequency": 309
+  },
+  {
+    "rank": 320,
+    "lemma": "fall",
+    "source": {
+      "word": "fall",
+      "phrases": [
+        "fall in love",
+        "fall asleep",
+        "fall apart"
+      ]
+    },
+    "target": {
+      "word": "落ちる／秋",
+      "phrases": [
+        "恋に落ちる",
+        "眠りに落ちる",
+        "バラバラになる"
+      ]
+    },
+    "frequency": 309
+  },
+  {
+    "rank": 321,
+    "lemma": "deal",
+    "source": {
+      "word": "deal",
+      "phrases": [
+        "big deal",
+        "deal with",
+        "it's a deal"
+      ]
+    },
+    "target": {
+      "word": "取引／扱う",
+      "phrases": [
+        "大したこと",
+        "対処する",
+        "取引成立だ"
+      ]
+    },
+    "frequency": 309
+  },
+  {
+    "rank": 322,
+    "lemma": "water",
+    "source": {
+      "word": "water",
+      "phrases": [
+        "mineral water",
+        "in hot water",
+        "water proof"
+      ]
+    },
+    "target": {
+      "word": "水",
+      "phrases": [
+        "ミネラルウォーター",
+        "苦境に立たされて",
+        "防水"
+      ]
+    },
+    "frequency": 307
+  },
+  {
+    "rank": 323,
+    "lemma": "send",
+    "source": {
+      "word": "send",
+      "phrases": [
+        "send a message",
+        "send back",
+        "send for"
+      ]
+    },
+    "target": {
+      "word": "送る",
+      "phrases": [
+        "メッセージを送る",
+        "送り返す",
+        "呼び寄せる"
+      ]
+    },
+    "frequency": 306
+  },
+  {
+    "rank": 324,
+    "lemma": "allow",
+    "source": {
+      "word": "allow",
+      "phrases": [
+        "allow me",
+        "not allowed",
+        "allow for"
+      ]
+    },
+    "target": {
+      "word": "許す",
+      "phrases": [
+        "私にさせてください",
+        "禁止されている",
+        "考慮に入れる"
+      ]
+    },
+    "frequency": 305
+  },
+  {
+    "rank": 325,
+    "lemma": "soon",
+    "source": {
+      "word": "soon",
+      "phrases": [
+        "see you soon",
+        "as soon as",
+        "too soon"
+      ]
+    },
+    "target": {
+      "word": "すぐに",
+      "phrases": [
+        "またね",
+        "〜するとすぐに",
+        "早すぎる"
+      ]
+    },
+    "frequency": 304
+  },
+  {
+    "rank": 326,
+    "lemma": "watch",
+    "source": {
+      "word": "watch",
+      "phrases": [
+        "watch out",
+        "watch tv",
+        "wrist watch"
+      ]
+    },
+    "target": {
+      "word": "見る／時計",
+      "phrases": [
+        "気をつけて",
+        "テレビを見る",
+        "腕時計"
+      ]
+    },
+    "frequency": 302
+  },
+  {
+    "rank": 327,
+    "lemma": "base",
+    "source": {
+      "word": "base",
+      "phrases": [
+        "based on",
+        "base camp",
+        "touch base"
+      ]
+    },
+    "target": {
+      "word": "土台／基礎",
+      "phrases": [
+        "〜に基づいて",
+        "ベースキャンプ",
+        "連絡を取る"
+      ]
+    },
+    "frequency": 300
+  },
+  {
+    "rank": 328,
+    "lemma": "probably",
+    "source": {
+      "word": "probably",
+      "phrases": [
+        "probably not",
+        "most probably",
+        "you're probably right"
+      ]
+    },
+    "target": {
+      "word": "たぶん",
+      "phrases": [
+        "たぶん違う",
+        "十中八九",
+        "たぶんその通りだ"
+      ]
+    },
+    "frequency": 299
+  },
+  {
+    "rank": 329,
+    "lemma": "suggest",
+    "source": {
+      "word": "suggest",
+      "phrases": [
+        "suggest that",
+        "highly suggest",
+        "as suggested"
+      ]
+    },
+    "target": {
+      "word": "提案する",
+      "phrases": [
+        "〜と提案する",
+        "強く勧める",
+        "提案通りに"
+      ]
+    },
+    "frequency": 298
+  },
+  {
+    "rank": 330,
+    "lemma": "past",
+    "source": {
+      "word": "past",
+      "phrases": [
+        "in the past",
+        "past tense",
+        "walk past"
+      ]
+    },
+    "target": {
+      "word": "過去",
+      "phrases": [
+        "過去に",
+        "過去形",
+        "通り過ぎる"
+      ]
+    },
+    "frequency": 297
+  },
+  {
+    "rank": 331,
+    "lemma": "power",
+    "source": {
+      "word": "power",
+      "phrases": [
+        "power plant",
+        "nuclear power",
+        "power up"
+      ]
+    },
+    "target": {
+      "word": "力／権力",
+      "phrases": [
+        "発電所",
+        "原子力",
+        "電源を入れる／強化する"
+      ]
+    },
+    "frequency": 296
+  },
+  {
+    "rank": 332,
+    "lemma": "test",
+    "source": {
+      "word": "test",
+      "phrases": [
+        "test drive",
+        "blood test",
+        "put to the test"
+      ]
+    },
+    "target": {
+      "word": "試験／検査",
+      "phrases": [
+        "試乗",
+        "血液検査",
+        "試す"
+      ]
+    },
+    "frequency": 296
+  },
+  {
+    "rank": 333,
+    "lemma": "visit",
+    "source": {
+      "word": "visit",
+      "phrases": [
+        "visit a website",
+        "pay a visit",
+        "flying visit"
+      ]
+    },
+    "target": {
+      "word": "訪れる",
+      "phrases": [
+        "ウェブサイトを見る",
+        "訪問する",
+        "短時間の訪問"
+      ]
+    },
+    "frequency": 295
+  },
+  {
+    "rank": 334,
+    "lemma": "center",
+    "source": {
+      "word": "center",
+      "phrases": [
+        "center of",
+        "shopping center",
+        "city center"
+      ]
+    },
+    "target": {
+      "word": "中心",
+      "phrases": [
+        "〜の中心",
+        "ショッピングセンター",
+        "都心"
+      ]
+    },
+    "frequency": 295
+  },
+  {
+    "rank": 335,
+    "lemma": "grow",
+    "source": {
+      "word": "grow",
+      "phrases": [
+        "grow up",
+        "grow old",
+        "grow plants"
+      ]
+    },
+    "target": {
+      "word": "成長する／育てる",
+      "phrases": [
+        "大人になる",
+        "年をとる",
+        "植物を育てる"
+      ]
+    },
+    "frequency": 294
+  },
+  {
+    "rank": 336,
+    "lemma": "nothing",
+    "source": {
+      "word": "nothing",
+      "phrases": [
+        "nothing special",
+        "nothing but",
+        "better than nothing"
+      ]
+    },
+    "target": {
+      "word": "何も〜ない",
+      "phrases": [
+        "特にない",
+        "ただ〜だけ",
+        "ないよりマシ"
+      ]
+    },
+    "frequency": 294
+  },
+  {
+    "rank": 337,
+    "lemma": "return",
+    "source": {
+      "word": "return",
+      "phrases": [
+        "in return",
+        "return trip",
+        "many happy returns"
+      ]
+    },
+    "target": {
+      "word": "戻る／返す",
+      "phrases": [
+        "お返しに",
+        "往復旅行",
+        "誕生日おめでとう"
+      ]
+    },
+    "frequency": 294
+  },
+  {
+    "rank": 338,
+    "lemma": "mother",
+    "source": {
+      "word": "mother",
+      "phrases": [
+        "mother tongue",
+        "mother nature",
+        "single mother"
+      ]
+    },
+    "target": {
+      "word": "母",
+      "phrases": [
+        "母国語",
+        "大自然",
+        "シングルマザー"
+      ]
+    },
+    "frequency": 293
+  },
+  {
+    "rank": 339,
+    "lemma": "walk",
+    "source": {
+      "word": "walk",
+      "phrases": [
+        "go for a walk",
+        "take a walk",
+        "walk away"
+      ]
+    },
+    "target": {
+      "word": "歩く",
+      "phrases": [
+        "散歩に行く",
+        "散歩する",
+        "立ち去る"
+      ]
+    },
+    "frequency": 291
+  },
+  {
+    "rank": 340,
+    "lemma": "matter",
+    "source": {
+      "word": "matter",
+      "phrases": [
+        "no matter what",
+        "matter of time",
+        "what's the matter?"
+      ]
+    },
+    "target": {
+      "word": "事柄／重要である",
+      "phrases": [
+        "たとえ何があろうと",
+        "時間の問題",
+        "どうしたの？"
+      ]
+    },
+    "frequency": 290
+  },
+  {
+    "rank": 341,
+    "lemma": "mind",
+    "source": {
+      "word": "mind",
+      "phrases": [
+        "change my mind",
+        "never mind",
+        "keep in mind"
+      ]
+    },
+    "target": {
+      "word": "心／気にする",
+      "phrases": [
+        "気が変わる",
+        "気にしないで",
+        "覚えておく"
+      ]
+    },
+    "frequency": 290
+  },
+  {
+    "rank": 342,
+    "lemma": "value",
+    "source": {
+      "word": "value",
+      "phrases": [
+        "value for money",
+        "add value",
+        "face value"
+      ]
+    },
+    "target": {
+      "word": "価値",
+      "phrases": [
+        "価格に見合う価値（コスパ）",
+        "付加価値をつける",
+        "額面通りに"
+      ]
+    },
+    "frequency": 289
+  },
+  {
+    "rank": 343,
+    "lemma": "office",
+    "source": {
+      "word": "office",
+      "phrases": [
+        "post office",
+        "box office",
+        "office hours"
+      ]
+    },
+    "target": {
+      "word": "事務所／役所",
+      "phrases": [
+        "郵便局",
+        "チケット売り場／興行収入",
+        "営業時間"
+      ]
+    },
+    "frequency": 288
+  },
+  {
+    "rank": 344,
+    "lemma": "record",
+    "source": {
+      "word": "record",
+      "phrases": [
+        "world record",
+        "off the record",
+        "record player"
+      ]
+    },
+    "target": {
+      "word": "記録／録音する",
+      "phrases": [
+        "世界記録",
+        "オフレコで（非公式に）",
+        "レコードプレーヤー"
+      ]
+    },
+    "frequency": 287
+  },
+  {
+    "rank": 345,
+    "lemma": "stay",
+    "source": {
+      "word": "stay",
+      "phrases": [
+        "stay home",
+        "stay tuned",
+        "stay up"
+      ]
+    },
+    "target": {
+      "word": "滞在する／ままでいる",
+      "phrases": [
+        "家にいる",
+        "チャンネルはそのままで",
+        "夜更かしする"
+      ]
+    },
+    "frequency": 286
+  },
+  {
+    "rank": 346,
+    "lemma": "force",
+    "source": {
+      "word": "force",
+      "phrases": [
+        "air force",
+        "force to",
+        "join forces"
+      ]
+    },
+    "target": {
+      "word": "力／強制する",
+      "phrases": [
+        "空軍",
+        "無理やり〜させる",
+        "力を合わせる"
+      ]
+    },
+    "frequency": 286
+  },
+  {
+    "rank": 347,
+    "lemma": "stop",
+    "source": {
+      "word": "stop",
+      "phrases": [
+        "stop it",
+        "non stop",
+        "bus stop"
+      ]
+    },
+    "target": {
+      "word": "止まる／やめる",
+      "phrases": [
+        "やめて",
+        "休みなしで",
+        "バス停"
+      ]
+    },
+    "frequency": 285
+  },
+  {
+    "rank": 348,
+    "lemma": "several",
+    "source": {
+      "word": "several",
+      "phrases": [
+        "several times",
+        "several people",
+        "several years"
+      ]
+    },
+    "target": {
+      "word": "いくつかの",
+      "phrases": [
+        "数回",
+        "数人",
+        "数年"
+      ]
+    },
+    "frequency": 285
+  },
+  {
+    "rank": 349,
+    "lemma": "light",
+    "source": {
+      "word": "light",
+      "phrases": [
+        "turn on the light",
+        "light weight",
+        "green light"
+      ]
+    },
+    "target": {
+      "word": "光／軽い",
+      "phrases": [
+        "電気をつける",
+        "軽量",
+        "ゴーサイン"
+      ]
+    },
+    "frequency": 284
+  },
+  {
+    "rank": 350,
+    "lemma": "develop",
+    "source": {
+      "word": "develop",
+      "phrases": [
+        "develop skills",
+        "developing country",
+        "research and develop"
+      ]
+    },
+    "target": {
+      "word": "発展させる／開発する",
+      "phrases": [
+        "スキルを伸ばす",
+        "発展途上国",
+        "研究開発"
+      ]
+    },
+    "frequency": 282
+  },
+  {
+    "rank": 351,
+    "lemma": "remember",
+    "source": {
+      "word": "remember",
+      "phrases": [
+        "remember me",
+        "remember to",
+        "as I remember"
+      ]
+    },
+    "target": {
+      "word": "覚えている",
+      "phrases": [
+        "私のこと覚えててね",
+        "忘れずに〜する",
+        "私の記憶では"
+      ]
+    },
+    "frequency": 282
+  },
+  {
+    "rank": 352,
+    "lemma": "bit",
+    "source": {
+      "word": "bit",
+      "phrases": [
+        "little bit",
+        "bit by bit",
+        "quite a bit"
+      ]
+    },
+    "target": {
+      "word": "少し",
+      "phrases": [
+        "ほんの少し",
+        "少しずつ",
+        "かなりたくさん"
+      ]
+    },
+    "frequency": 281
+  },
+  {
+    "rank": 353,
+    "lemma": "share",
+    "source": {
+      "word": "share",
+      "phrases": [
+        "market share",
+        "share with",
+        "share price"
+      ]
+    },
+    "target": {
+      "word": "共有する／分け前",
+      "phrases": [
+        "市場シェア",
+        "〜と共有する",
+        "株価"
+      ]
+    },
+    "frequency": 281
+  },
+  {
+    "rank": 354,
+    "lemma": "real",
+    "source": {
+      "word": "real",
+      "phrases": [
+        "real estate",
+        "for real",
+        "get real"
+      ]
+    },
+    "target": {
+      "word": "本物の",
+      "phrases": [
+        "不動産",
+        "マジで",
+        "現実を見ろ"
+      ]
+    },
+    "frequency": 280
+  },
+  {
+    "rank": 355,
+    "lemma": "answer",
+    "source": {
+      "word": "answer",
+      "phrases": [
+        "answer the phone",
+        "the answer is",
+        "question and answer"
+      ]
+    },
+    "target": {
+      "word": "答え／答える",
+      "phrases": [
+        "電話に出る",
+        "答えは〜だ",
+        "質疑応答"
+      ]
+    },
+    "frequency": 279
+  },
+  {
+    "rank": 356,
+    "lemma": "sit",
+    "source": {
+      "word": "sit",
+      "phrases": [
+        "sit down",
+        "sit still",
+        "baby sit"
+      ]
+    },
+    "target": {
+      "word": "座る",
+      "phrases": [
+        "座る",
+        "じっとしている",
+        "子守をする"
+      ]
+    },
+    "frequency": 278
+  },
+  {
+    "rank": 357,
+    "lemma": "figure",
+    "source": {
+      "word": "figure",
+      "phrases": [
+        "figure out",
+        "action figure",
+        "public figure"
+      ]
+    },
+    "target": {
+      "word": "数字／姿／理解する",
+      "phrases": [
+        "理解する／解決する",
+        "フィギュア（人形）",
+        "有名人"
+      ]
+    },
+    "frequency": 278
+  },
+  {
+    "rank": 358,
+    "lemma": "letter",
+    "source": {
+      "word": "letter",
+      "phrases": [
+        "love letter",
+        "capital letter",
+        "letter of intent"
+      ]
+    },
+    "target": {
+      "word": "手紙／文字",
+      "phrases": [
+        "ラブレター",
+        "大文字",
+        "意向表明書"
+      ]
+    },
+    "frequency": 277
+  },
+  {
+    "rank": 359,
+    "lemma": "decide",
+    "source": {
+      "word": "decide",
+      "phrases": [
+        "decide to",
+        "decide on",
+        "you decide"
+      ]
+    },
+    "target": {
+      "word": "決める",
+      "phrases": [
+        "〜することにする",
+        "〜に決める",
+        "あなたが決めて"
+      ]
+    },
+    "frequency": 276
+  },
+  {
+    "rank": 360,
+    "lemma": "language",
+    "source": {
+      "word": "language",
+      "phrases": [
+        "body language",
+        "sign language",
+        "foreign language"
+      ]
+    },
+    "target": {
+      "word": "言語",
+      "phrases": [
+        "ボディランゲージ",
+        "手話",
+        "外国語"
+      ]
+    },
+    "frequency": 275
+  },
+  {
+    "rank": 361,
+    "lemma": "subject",
+    "source": {
+      "word": "subject",
+      "phrases": [
+        "subject to",
+        "favorite subject",
+        "change the subject"
+      ]
+    },
+    "target": {
+      "word": "主題／科目",
+      "phrases": [
+        "〜を条件として／〜しがちだ",
+        "好きな科目",
+        "話題を変える"
+      ]
+    },
+    "frequency": 273
+  },
+  {
+    "rank": 362,
+    "lemma": "class",
+    "source": {
+      "word": "class",
+      "phrases": [
+        "first class",
+        "business class",
+        "world class"
+      ]
+    },
+    "target": {
+      "word": "階級／授業",
+      "phrases": [
+        "ファーストクラス／一流",
+        "ビジネスクラス",
+        "世界レベル"
+      ]
+    },
+    "frequency": 272
+  },
+  {
+    "rank": 363,
+    "lemma": "development",
+    "source": {
+      "word": "development",
+      "phrases": [
+        "under development",
+        "software development",
+        "sustainable development"
+      ]
+    },
+    "target": {
+      "word": "開発／発展",
+      "phrases": [
+        "開発中",
+        "ソフトウェア開発",
+        "持続可能な開発"
+      ]
+    },
+    "frequency": 270
+  },
+  {
+    "rank": 364,
+    "lemma": "town",
+    "source": {
+      "word": "town",
+      "phrases": [
+        "home town",
+        "out of town",
+        "go to town"
+      ]
+    },
+    "target": {
+      "word": "町",
+      "phrases": [
+        "故郷",
+        "町を離れて",
+        "豪遊する／本気でやる"
+      ]
+    },
+    "frequency": 269
+  },
+  {
+    "rank": 365,
+    "lemma": "half",
+    "source": {
+      "word": "half",
+      "phrases": [
+        "half an hour",
+        "half way",
+        "cut in half"
+      ]
+    },
+    "target": {
+      "word": "半分",
+      "phrases": [
+        "30分（半時間）",
+        "途中",
+        "半分に切る"
+      ]
+    },
+    "frequency": 269
+  },
+  {
+    "rank": 366,
+    "lemma": "minute",
+    "source": {
+      "word": "minute",
+      "phrases": [
+        "wait a minute",
+        "last minute",
+        "minute detail"
+      ]
+    },
+    "target": {
+      "word": "分／微細な",
+      "phrases": [
+        "ちょっと待って",
+        "土壇場の",
+        "詳細（マイナーな詳細）"
+      ]
+    },
+    "frequency": 268
+  },
+  {
+    "rank": 367,
+    "lemma": "food",
+    "source": {
+      "word": "food",
+      "phrases": [
+        "fast food",
+        "food poisoning",
+        "food chain"
+      ]
+    },
+    "target": {
+      "word": "食べ物",
+      "phrases": [
+        "ファストフード",
+        "食中毒",
+        "食物連鎖"
+      ]
+    },
+    "frequency": 268
+  },
+  {
+    "rank": 368,
+    "lemma": "break",
+    "source": {
+      "word": "break",
+      "phrases": [
+        "take a break",
+        "break the law",
+        "give me a break"
+      ]
+    },
+    "target": {
+      "word": "壊す／休憩",
+      "phrases": [
+        "休憩する",
+        "法律を破る",
+        "いい加減にしてくれ"
+      ]
+    },
+    "frequency": 268
+  },
+  {
+    "rank": 369,
+    "lemma": "clear",
+    "source": {
+      "word": "clear",
+      "phrases": [
+        "loud and clear",
+        "steer clear",
+        "make clear"
+      ]
+    },
+    "target": {
+      "word": "澄んだ／明らかな",
+      "phrases": [
+        "はっきりと",
+        "避ける",
+        "明確にする"
+      ]
+    },
+    "frequency": 266
+  },
+  {
+    "rank": 370,
+    "lemma": "future",
+    "source": {
+      "word": "future",
+      "phrases": [
+        "in the future",
+        "near future",
+        "no future"
+      ]
+    },
+    "target": {
+      "word": "未来",
+      "phrases": [
+        "将来",
+        "近未来",
+        "先がない"
+      ]
+    },
+    "frequency": 266
+  },
+  {
+    "rank": 371,
+    "lemma": "either",
+    "source": {
+      "word": "either",
+      "phrases": [
+        "either or",
+        "me either",
+        "either way"
+      ]
+    },
+    "target": {
+      "word": "どちらか／〜もまた（ない）",
+      "phrases": [
+        "二者択一",
+        "私も（〜ない）",
+        "どちらにしても"
+      ]
+    },
+    "frequency": 266
+  },
+  {
+    "rank": 372,
+    "lemma": "ago",
+    "source": {
+      "word": "ago",
+      "phrases": [
+        "long ago",
+        "years ago",
+        "a while ago"
+      ]
+    },
+    "target": {
+      "word": "〜前",
+      "phrases": [
+        "ずっと前",
+        "数年前",
+        "さっき"
+      ]
+    },
+    "frequency": 265
+  },
+  {
+    "rank": 373,
+    "lemma": "per",
+    "source": {
+      "word": "per",
+      "phrases": [
+        "per person",
+        "per cent",
+        "miles per hour"
+      ]
+    },
+    "target": {
+      "word": "〜につき",
+      "phrases": [
+        "一人につき",
+        "パーセント",
+        "時速マイル"
+      ]
+    },
+    "frequency": 265
+  },
+  {
+    "rank": 374,
+    "lemma": "remain",
+    "source": {
+      "word": "remain",
+      "phrases": [
+        "remain silent",
+        "remain to be seen",
+        "remains"
+      ]
+    },
+    "target": {
+      "word": "残る／〜のままである",
+      "phrases": [
+        "黙秘する",
+        "まだわからない",
+        "残り物／遺跡"
+      ]
+    },
+    "frequency": 265
+  },
+  {
+    "rank": 375,
+    "lemma": "top",
+    "source": {
+      "word": "top",
+      "phrases": [
+        "on top of",
+        "top secret",
+        "top quality"
+      ]
+    },
+    "target": {
+      "word": "頂上／トップ",
+      "phrases": [
+        "〜の上に／加えて",
+        "極秘",
+        "最高品質"
+      ]
+    },
+    "frequency": 265
+  },
+  {
+    "rank": 376,
+    "lemma": "among",
+    "source": {
+      "word": "among",
+      "phrases": [
+        "among others",
+        "among us",
+        "distribute among"
+      ]
+    },
+    "target": {
+      "word": "〜の間で",
+      "phrases": [
+        "とりわけ",
+        "私たちの間で",
+        "〜の間で分配する"
+      ]
+    },
+    "frequency": 265
+  },
+  {
+    "rank": 377,
+    "lemma": "win",
+    "source": {
+      "word": "win",
+      "phrases": [
+        "win a prize",
+        "win win",
+        "you win"
+      ]
+    },
+    "target": {
+      "word": "勝つ",
+      "phrases": [
+        "賞をとる",
+        "ウィンウィン（双方よし）",
+        "あなたの勝ちだ"
+      ]
+    },
+    "frequency": 264
+  },
+  {
+    "rank": 378,
+    "lemma": "color",
+    "source": {
+      "word": "color",
+      "phrases": [
+        "what color?",
+        "color blind",
+        "off color"
+      ]
+    },
+    "target": {
+      "word": "色",
+      "phrases": [
+        "何色？",
+        "色盲の",
+        "顔色が悪い／際どい"
+      ]
+    },
+    "frequency": 263
+  },
+  {
+    "rank": 379,
+    "lemma": "involve",
+    "source": {
+      "word": "involve",
+      "phrases": [
+        "get involved",
+        "involved in",
+        "involve risk"
+      ]
+    },
+    "target": {
+      "word": "巻き込む／含む",
+      "phrases": [
+        "関わる",
+        "〜に関与している",
+        "リスクを伴う"
+      ]
+    },
+    "frequency": 260
+  },
+  {
+    "rank": 380,
+    "lemma": "reach",
+    "source": {
+      "word": "reach",
+      "phrases": [
+        "out of reach",
+        "reach out",
+        "reach a goal"
+      ]
+    },
+    "target": {
+      "word": "届く／達する",
+      "phrases": [
+        "手の届かない",
+        "手を差し伸べる／連絡する",
+        "目標に達する"
+      ]
+    },
+    "frequency": 260
+  },
+  {
+    "rank": 381,
+    "lemma": "social",
+    "source": {
+      "word": "social",
+      "phrases": [
+        "social media",
+        "social security",
+        "social life"
+      ]
+    },
+    "target": {
+      "word": "社会の／社交の",
+      "phrases": [
+        "ソーシャルメディア",
+        "社会保障",
+        "付き合い（社交生活）"
+      ]
+    },
+    "frequency": 260
+  },
+  {
+    "rank": 382,
+    "lemma": "period",
+    "source": {
+      "word": "period",
+      "phrases": [
+        "time period",
+        "trial period",
+        "period."
+      ]
+    },
+    "target": {
+      "word": "期間／時代／終止符",
+      "phrases": [
+        "期間",
+        "試用期間",
+        "以上。（話は終わり）"
+      ]
+    },
+    "frequency": 259
+  },
+  {
+    "rank": 383,
+    "lemma": "across",
+    "source": {
+      "word": "across",
+      "phrases": [
+        "across from",
+        "come across",
+        "across the board"
+      ]
+    },
+    "target": {
+      "word": "〜を横切って",
+      "phrases": [
+        "〜の向かい側に",
+        "偶然出会う",
+        "全面的に／一律に"
+      ]
+    },
+    "frequency": 258
+  },
+  {
+    "rank": 384,
+    "lemma": "note",
+    "source": {
+      "word": "note",
+      "phrases": [
+        "take note",
+        "make a note",
+        "bank note"
+      ]
+    },
+    "target": {
+      "word": "メモ／紙幣／注目する",
+      "phrases": [
+        "注目する",
+        "メモをとる",
+        "紙幣"
+      ]
+    },
+    "frequency": 258
+  },
+  {
+    "rank": 385,
+    "lemma": "history",
+    "source": {
+      "word": "history",
+      "phrases": [
+        "world history",
+        "make history",
+        "history repeats itself"
+      ]
+    },
+    "target": {
+      "word": "歴史",
+      "phrases": [
+        "世界史",
+        "歴史を作る（偉業）",
+        "歴史は繰り返す"
+      ]
+    },
+    "frequency": 258
+  },
+  {
+    "rank": 386,
+    "lemma": "create",
+    "source": {
+      "word": "create",
+      "phrases": [
+        "create an account",
+        "create jobs",
+        "create problems"
+      ]
+    },
+    "target": {
+      "word": "創造する／作る",
+      "phrases": [
+        "アカウントを作成する",
+        "雇用を生む",
+        "問題を起こす"
+      ]
+    },
+    "frequency": 258
+  },
+  {
+    "rank": 387,
+    "lemma": "drive",
+    "source": {
+      "word": "drive",
+      "phrases": [
+        "drive a car",
+        "drive me crazy",
+        "hard drive"
+      ]
+    },
+    "target": {
+      "word": "運転する／駆り立てる",
+      "phrases": [
+        "車を運転する",
+        "イライラさせる",
+        "ハードディスク"
+      ]
+    },
+    "frequency": 258
+  },
+  {
+    "rank": 388,
+    "lemma": "along",
+    "source": {
+      "word": "along",
+      "phrases": [
+        "along with",
+        "all along",
+        "get along"
+      ]
+    },
+    "target": {
+      "word": "〜に沿って",
+      "phrases": [
+        "〜と一緒に",
+        "最初からずっと",
+        "仲良くやる"
+      ]
+    },
+    "frequency": 257
+  },
+  {
+    "rank": 389,
+    "lemma": "type",
+    "source": {
+      "word": "type",
+      "phrases": [
+        "blood type",
+        "my type",
+        "type up"
+      ]
+    },
+    "target": {
+      "word": "型／タイプ／打つ",
+      "phrases": [
+        "血液型",
+        "私の好み",
+        "タイプ入力する"
+      ]
+    },
+    "frequency": 257
+  },
+  {
+    "rank": 390,
+    "lemma": "sound",
+    "source": {
+      "word": "sound",
+      "phrases": [
+        "sound good",
+        "safe and sound",
+        "sound like"
+      ]
+    },
+    "target": {
+      "word": "音／〜に聞こえる",
+      "phrases": [
+        "いいですね（良さそう）",
+        "無事に",
+        "〜のように聞こえる"
+      ]
+    },
+    "frequency": 256
+  },
+  {
+    "rank": 391,
+    "lemma": "eye",
+    "source": {
+      "word": "eye",
+      "phrases": [
+        "keep an eye on",
+        "eye contact",
+        "catch my eye"
+      ]
+    },
+    "target": {
+      "word": "目",
+      "phrases": [
+        "〜を見張る",
+        "アイコンタクト",
+        "目に留まる"
+      ]
+    },
+    "frequency": 256
+  },
+  {
+    "rank": 392,
+    "lemma": "music",
+    "source": {
+      "word": "music",
+      "phrases": [
+        "listen to music",
+        "live music",
+        "face the music"
+      ]
+    },
+    "target": {
+      "word": "音楽",
+      "phrases": [
+        "音楽を聴く",
+        "生演奏",
+        "報いを受ける（現実を受け入れる）"
+      ]
+    },
+    "frequency": 255
+  },
+  {
+    "rank": 393,
+    "lemma": "game",
+    "source": {
+      "word": "game",
+      "phrases": [
+        "video game",
+        "game over",
+        "play a game"
+      ]
+    },
+    "target": {
+      "word": "ゲーム／試合",
+      "phrases": [
+        "テレビゲーム",
+        "ゲームオーバー",
+        "ゲームをする"
+      ]
+    },
+    "frequency": 255
+  },
+  {
+    "rank": 394,
+    "lemma": "political",
+    "source": {
+      "word": "political",
+      "phrases": [
+        "political party",
+        "political power",
+        "political asylum"
+      ]
+    },
+    "target": {
+      "word": "政治の",
+      "phrases": [
+        "政党",
+        "政治権力",
+        "政治亡命"
+      ]
+    },
+    "frequency": 255
+  },
+  {
+    "rank": 395,
+    "lemma": "free",
+    "source": {
+      "word": "free",
+      "phrases": [
+        "free time",
+        "duty free",
+        "feel free"
+      ]
+    },
+    "target": {
+      "word": "自由な／無料の",
+      "phrases": [
+        "自由時間",
+        "免税",
+        "遠慮なく〜する"
+      ]
+    },
+    "frequency": 255
+  },
+  {
+    "rank": 396,
+    "lemma": "receive",
+    "source": {
+      "word": "receive",
+      "phrases": [
+        "receive a letter",
+        "well received",
+        "receive a call"
+      ]
+    },
+    "target": {
+      "word": "受け取る",
+      "phrases": [
+        "手紙を受け取る",
+        "好評を博した",
+        "電話を受ける"
+      ]
+    },
+    "frequency": 254
+  },
+  {
+    "rank": 397,
+    "lemma": "moment",
+    "source": {
+      "word": "moment",
+      "phrases": [
+        "just a moment",
+        "at the moment",
+        "moment of truth"
+      ]
+    },
+    "target": {
+      "word": "瞬間",
+      "phrases": [
+        "ちょっと待って",
+        "今のところ",
+        "正念場"
+      ]
+    },
+    "frequency": 254
+  },
+  {
+    "rank": 398,
+    "lemma": "sale",
+    "source": {
+      "word": "sale",
+      "phrases": [
+        "for sale",
+        "on sale",
+        "sales tax"
+      ]
+    },
+    "target": {
+      "word": "販売／特売",
+      "phrases": [
+        "売り出し中",
+        "特売中",
+        "消費税"
+      ]
+    },
+    "frequency": 254
+  },
+  {
+    "rank": 399,
+    "lemma": "policy",
+    "source": {
+      "word": "policy",
+      "phrases": [
+        "insurance policy",
+        "privacy policy",
+        "foreign policy"
+      ]
+    },
+    "target": {
+      "word": "政策／方針",
+      "phrases": [
+        "保険証券",
+        "プライバシーポリシー",
+        "外交政策"
+      ]
+    },
+    "frequency": 253
+  },
+  {
+    "rank": 400,
+    "lemma": "further",
+    "source": {
+      "word": "further",
+      "phrases": [
+        "further information",
+        "go further",
+        "until further notice"
+      ]
+    },
+    "target": {
+      "word": "さらなる／もっと遠く",
+      "phrases": [
+        "詳しい情報",
+        "さらに進む",
+        "追って通知があるまで"
+      ]
+    },
+    "frequency": 251
+  }
+]

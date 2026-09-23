@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 1101,
+    "lemma": "progress",
+    "source": {
+      "word": "progress",
+      "phrases": [
+        "make progress",
+        "in progress",
+        "work in progress"
+      ]
+    },
+    "target": {
+      "word": "progreso",
+      "phrases": [
+        "progresar",
+        "en curso",
+        "trabajo en curso"
+      ]
+    },
+    "frequency": 82
+  },
+  {
+    "rank": 1102,
+    "lemma": "truth",
+    "source": {
+      "word": "truth",
+      "phrases": [
+        "tell the truth",
+        "moment of truth",
+        "to tell the truth"
+      ]
+    },
+    "target": {
+      "word": "verdad",
+      "phrases": [
+        "decir la verdad",
+        "momento de la verdad",
+        "a decir verdad"
+      ]
+    },
+    "frequency": 82
+  },
+  {
+    "rank": 1103,
+    "lemma": "nobody",
+    "source": {
+      "word": "nobody",
+      "phrases": [
+        "nobody knows",
+        "nobody cares",
+        "like nobody else"
+      ]
+    },
+    "target": {
+      "word": "nadie",
+      "phrases": [
+        "nadie sabe",
+        "a nadie le importa",
+        "como nadie más"
+      ]
+    },
+    "frequency": 82
+  },
+  {
+    "rank": 1104,
+    "lemma": "examine",
+    "source": {
+      "word": "examine",
+      "phrases": [
+        "examine carefully",
+        "examine the patient",
+        "cross examine"
+      ]
+    },
+    "target": {
+      "word": "examinar",
+      "phrases": [
+        "examinar cuidadosamente",
+        "examinar al paciente",
+        "interrogar"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1105,
+    "lemma": "lay",
+    "source": {
+      "word": "lay",
+      "phrases": [
+        "lay down",
+        "lay off",
+        "lay the foundation"
+      ]
+    },
+    "target": {
+      "word": "colocar",
+      "phrases": [
+        "acostarse",
+        "despedir",
+        "sentar las bases"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1106,
+    "lemma": "speed",
+    "source": {
+      "word": "speed",
+      "phrases": [
+        "speed limit",
+        "high speed",
+        "speed up"
+      ]
+    },
+    "target": {
+      "word": "velocidad",
+      "phrases": [
+        "límite de velocidad",
+        "alta velocidad",
+        "acelerar"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1107,
+    "lemma": "politics",
+    "source": {
+      "word": "politics",
+      "phrases": [
+        "go into politics",
+        "dirty politics",
+        "talk politics"
+      ]
+    },
+    "target": {
+      "word": "política",
+      "phrases": [
+        "entrar en política",
+        "política sucia",
+        "hablar de política"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1108,
+    "lemma": "reply",
+    "source": {
+      "word": "reply",
+      "phrases": [
+        "reply to",
+        "no reply",
+        "reply email"
+      ]
+    },
+    "target": {
+      "word": "responder",
+      "phrases": [
+        "responder a",
+        "sin respuesta",
+        "responder correo electrónico"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1109,
+    "lemma": "display",
+    "source": {
+      "word": "display",
+      "phrases": [
+        "on display",
+        "display screen",
+        "display affection"
+      ]
+    },
+    "target": {
+      "word": "mostrar",
+      "phrases": [
+        "en exhibición",
+        "pantalla de visualización",
+        "demostrar afecto"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1110,
+    "lemma": "transfer",
+    "source": {
+      "word": "transfer",
+      "phrases": [
+        "transfer money",
+        "transfer to",
+        "bank transfer"
+      ]
+    },
+    "target": {
+      "word": "transferencia",
+      "phrases": [
+        "transferir dinero",
+        "transferir a",
+        "transferencia bancaria"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1111,
+    "lemma": "perfect",
+    "source": {
+      "word": "perfect",
+      "phrases": [
+        "perfect match",
+        "nobody's perfect",
+        "makes perfect"
+      ]
+    },
+    "target": {
+      "word": "perfecto",
+      "phrases": [
+        "pareja perfecta",
+        "nadie es perfecto",
+        "hace al maestro"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1112,
+    "lemma": "slightly",
+    "source": {
+      "word": "slightly",
+      "phrases": [
+        "slightly different",
+        "slightly better",
+        "smile slightly"
+      ]
+    },
+    "target": {
+      "word": "ligeramente",
+      "phrases": [
+        "ligeramente diferente",
+        "ligeramente mejor",
+        "sonreír levemente"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1113,
+    "lemma": "overall",
+    "source": {
+      "word": "overall",
+      "phrases": [
+        "overall impression",
+        "overall score",
+        "overall health"
+      ]
+    },
+    "target": {
+      "word": "general",
+      "phrases": [
+        "impresión general",
+        "puntuación total",
+        "salud general"
+      ]
+    },
+    "frequency": 81
+  },
+  {
+    "rank": 1114,
+    "lemma": "intend",
+    "source": {
+      "word": "intend",
+      "phrases": [
+        "intend to",
+        "no pun intended",
+        "fully intend"
+      ]
+    },
+    "target": {
+      "word": "pretender",
+      "phrases": [
+        "tener la intención de",
+        "sin doble sentido",
+        "tener plena intención"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1115,
+    "lemma": "user",
+    "source": {
+      "word": "user",
+      "phrases": [
+        "user friendly",
+        "user name",
+        "user interface"
+      ]
+    },
+    "target": {
+      "word": "usuario",
+      "phrases": [
+        "fácil de usar",
+        "nombre de usuario",
+        "interfaz de usuario"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1116,
+    "lemma": "respond",
+    "source": {
+      "word": "respond",
+      "phrases": [
+        "respond to",
+        "respond quickly",
+        "fail to respond"
+      ]
+    },
+    "target": {
+      "word": "responder",
+      "phrases": [
+        "responder a",
+        "responder rápidamente",
+        "no responder"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1117,
+    "lemma": "dinner",
+    "source": {
+      "word": "dinner",
+      "phrases": [
+        "have dinner",
+        "dinner party",
+        "make dinner"
+      ]
+    },
+    "target": {
+      "word": "cena",
+      "phrases": [
+        "cenar",
+        "cena de gala",
+        "hacer la cena"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1118,
+    "lemma": "slow",
+    "source": {
+      "word": "slow",
+      "phrases": [
+        "slow down",
+        "slow motion",
+        "slowly but surely"
+      ]
+    },
+    "target": {
+      "word": "lento",
+      "phrases": [
+        "desacelerar",
+        "cámara lenta",
+        "lento pero seguro"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1119,
+    "lemma": "regular",
+    "source": {
+      "word": "regular",
+      "phrases": [
+        "regular exercise",
+        "regular customer",
+        "regular basis"
+      ]
+    },
+    "target": {
+      "word": "regular",
+      "phrases": [
+        "ejercicio regular",
+        "cliente habitual",
+        "base regular"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1120,
+    "lemma": "physical",
+    "source": {
+      "word": "physical",
+      "phrases": [
+        "physical education",
+        "physical health",
+        "physical contact"
+      ]
+    },
+    "target": {
+      "word": "físico",
+      "phrases": [
+        "educación física",
+        "salud física",
+        "contacto físico"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1121,
+    "lemma": "apart",
+    "source": {
+      "word": "apart",
+      "phrases": [
+        "fall apart",
+        "tell apart",
+        "take apart"
+      ]
+    },
+    "target": {
+      "word": "aparte",
+      "phrases": [
+        "desmoronarse",
+        "distinguir",
+        "desarmar"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1122,
+    "lemma": "suit",
+    "source": {
+      "word": "suit",
+      "phrases": [
+        "suit yourself",
+        "follow suit",
+        "bathing suit"
+      ]
+    },
+    "target": {
+      "word": "traje",
+      "phrases": [
+        "como quieras",
+        "hacer lo mismo",
+        "traje de baño"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1123,
+    "lemma": "federal",
+    "source": {
+      "word": "federal",
+      "phrases": [
+        "federal government",
+        "federal law",
+        "federal reserve"
+      ]
+    },
+    "target": {
+      "word": "federal",
+      "phrases": [
+        "gobierno federal",
+        "ley federal",
+        "reserva federal"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1124,
+    "lemma": "reveal",
+    "source": {
+      "word": "reveal",
+      "phrases": [
+        "reveal the truth",
+        "reveal a secret",
+        "revealing dress"
+      ]
+    },
+    "target": {
+      "word": "revelar",
+      "phrases": [
+        "revelar la verdad",
+        "revelar un secreto",
+        "vestido revelador"
+      ]
+    },
+    "frequency": 80
+  },
+  {
+    "rank": 1125,
+    "lemma": "percentage",
+    "source": {
+      "word": "percentage",
+      "phrases": [
+        "high percentage",
+        "percentage point",
+        "small percentage"
+      ]
+    },
+    "target": {
+      "word": "porcentaje",
+      "phrases": [
+        "alto porcentaje",
+        "punto porcentual",
+        "pequeño porcentaje"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1126,
+    "lemma": "peace",
+    "source": {
+      "word": "peace",
+      "phrases": [
+        "peace of mind",
+        "rest in peace",
+        "world peace"
+      ]
+    },
+    "target": {
+      "word": "paz",
+      "phrases": [
+        "paz mental",
+        "descanse en paz",
+        "paz mundial"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1127,
+    "lemma": "status",
+    "source": {
+      "word": "status",
+      "phrases": [
+        "social status",
+        "status symbol",
+        "status quo"
+      ]
+    },
+    "target": {
+      "word": "estado",
+      "phrases": [
+        "estatus social",
+        "símbolo de estatus",
+        "status quo"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1128,
+    "lemma": "crime",
+    "source": {
+      "word": "crime",
+      "phrases": [
+        "commit a crime",
+        "crime scene",
+        "organized crime"
+      ]
+    },
+    "target": {
+      "word": "crimen",
+      "phrases": [
+        "cometer un crimen",
+        "escena del crimen",
+        "crimen organizado"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1129,
+    "lemma": "decline",
+    "source": {
+      "word": "decline",
+      "phrases": [
+        "decline an offer",
+        "sharp decline",
+        "in decline"
+      ]
+    },
+    "target": {
+      "word": "disminución",
+      "phrases": [
+        "rechazar una oferta",
+        "fuerte caída",
+        "en declive"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1130,
+    "lemma": "decade",
+    "source": {
+      "word": "decade",
+      "phrases": [
+        "last decade",
+        "decade ago",
+        "over a decade"
+      ]
+    },
+    "target": {
+      "word": "década",
+      "phrases": [
+        "última década",
+        "hace una década",
+        "más de una década"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1131,
+    "lemma": "launch",
+    "source": {
+      "word": "launch",
+      "phrases": [
+        "launch a product",
+        "launch a rocket",
+        "soft launch"
+      ]
+    },
+    "target": {
+      "word": "lanzamiento",
+      "phrases": [
+        "lanzar un producto",
+        "lanzar un cohete",
+        "lanzamiento suave"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1132,
+    "lemma": "warn",
+    "source": {
+      "word": "warn",
+      "phrases": [
+        "warn about",
+        "warn you",
+        "fair warning"
+      ]
+    },
+    "target": {
+      "word": "advertir",
+      "phrases": [
+        "advertir sobre",
+        "advertirte",
+        "aviso justo"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1133,
+    "lemma": "consumer",
+    "source": {
+      "word": "consumer",
+      "phrases": [
+        "consumer goods",
+        "consumer protection",
+        "consumer spending"
+      ]
+    },
+    "target": {
+      "word": "consumidor",
+      "phrases": [
+        "bienes de consumo",
+        "protección al consumidor",
+        "gasto del consumidor"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1134,
+    "lemma": "favor",
+    "source": {
+      "word": "favor",
+      "phrases": [
+        "do me a favor",
+        "in favor of",
+        "return the favor"
+      ]
+    },
+    "target": {
+      "word": "favor",
+      "phrases": [
+        "hazme un favor",
+        "a favor de",
+        "devolver el favor"
+      ]
+    },
+    "frequency": 79
+  },
+  {
+    "rank": 1135,
+    "lemma": "dry",
+    "source": {
+      "word": "dry",
+      "phrases": [
+        "dry skin",
+        "dry cleaning",
+        "high and dry"
+      ]
+    },
+    "target": {
+      "word": "seco",
+      "phrases": [
+        "piel seca",
+        "lavado en seco",
+        "dejado a su suerte"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1136,
+    "lemma": "partner",
+    "source": {
+      "word": "partner",
+      "phrases": [
+        "business partner",
+        "life partner",
+        "partner in crime"
+      ]
+    },
+    "target": {
+      "word": "socio",
+      "phrases": [
+        "socio de negocios",
+        "compañero de vida",
+        "cómplice"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1137,
+    "lemma": "institution",
+    "source": {
+      "word": "institution",
+      "phrases": [
+        "financial institution",
+        "educational institution",
+        "mental institution"
+      ]
+    },
+    "target": {
+      "word": "institución",
+      "phrases": [
+        "institución financiera",
+        "institución educativa",
+        "institución mental"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1138,
+    "lemma": "spot",
+    "source": {
+      "word": "spot",
+      "phrases": [
+        "on the spot",
+        "blind spot",
+        "parking spot"
+      ]
+    },
+    "target": {
+      "word": "lugar",
+      "phrases": [
+        "en el acto",
+        "punto ciego",
+        "lugar de estacionamiento"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1139,
+    "lemma": "horse",
+    "source": {
+      "word": "horse",
+      "phrases": [
+        "ride a horse",
+        "dark horse",
+        "hold your horses"
+      ]
+    },
+    "target": {
+      "word": "caballo",
+      "phrases": [
+        "montar a caballo",
+        "caballo negro",
+        "parar el carro"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1140,
+    "lemma": "eventually",
+    "source": {
+      "word": "eventually",
+      "phrases": [
+        "will eventually",
+        "eventually lead to",
+        "eventually found"
+      ]
+    },
+    "target": {
+      "word": "eventualmente",
+      "phrases": [
+        "finalmente lo hará",
+        "conducir eventualmente a",
+        "finalmente encontrado"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1141,
+    "lemma": "heat",
+    "source": {
+      "word": "heat",
+      "phrases": [
+        "heat wave",
+        "turn up the heat",
+        "heat of the moment"
+      ]
+    },
+    "target": {
+      "word": "calor",
+      "phrases": [
+        "ola de calor",
+        "subir el calor",
+        "en el calor del momento"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1142,
+    "lemma": "excite",
+    "source": {
+      "word": "excite",
+      "phrases": [
+        "excited about",
+        "nothing to get excited about",
+        "excite the crowd"
+      ]
+    },
+    "target": {
+      "word": "emocionar",
+      "phrases": [
+        "emocionado por",
+        "nada de qué emocionarse",
+        "emocionar a la multitud"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1143,
+    "lemma": "reader",
+    "source": {
+      "word": "reader",
+      "phrases": [
+        "mind reader",
+        "card reader",
+        "avid reader"
+      ]
+    },
+    "target": {
+      "word": "lector",
+      "phrases": [
+        "lector de mentes",
+        "lector de tarjetas",
+        "lector ávido"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1144,
+    "lemma": "importance",
+    "source": {
+      "word": "importance",
+      "phrases": [
+        "of great importance",
+        "attach importance to",
+        "realize the importance"
+      ]
+    },
+    "target": {
+      "word": "importancia",
+      "phrases": [
+        "de gran importancia",
+        "dar importancia a",
+        "darse cuenta de la importancia"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1145,
+    "lemma": "distance",
+    "source": {
+      "word": "distance",
+      "phrases": [
+        "long distance",
+        "keep your distance",
+        "in the distance"
+      ]
+    },
+    "target": {
+      "word": "distancia",
+      "phrases": [
+        "larga distancia",
+        "mantener la distancia",
+        "en la distancia"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1146,
+    "lemma": "guide",
+    "source": {
+      "word": "guide",
+      "phrases": [
+        "tour guide",
+        "guide dog",
+        "user guide"
+      ]
+    },
+    "target": {
+      "word": "guía",
+      "phrases": [
+        "guía turístico",
+        "perro guía",
+        "guía de usuario"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1147,
+    "lemma": "grant",
+    "source": {
+      "word": "grant",
+      "phrases": [
+        "take for granted",
+        "grant a wish",
+        "grant permission"
+      ]
+    },
+    "target": {
+      "word": "conceder",
+      "phrases": [
+        "dar por sentado",
+        "conceder un deseo",
+        "conceder permiso"
+      ]
+    },
+    "frequency": 78
+  },
+  {
+    "rank": 1148,
+    "lemma": "taxi",
+    "source": {
+      "word": "taxi",
+      "phrases": [
+        "take a taxi",
+        "taxi driver",
+        "call a taxi"
+      ]
+    },
+    "target": {
+      "word": "taxi",
+      "phrases": [
+        "tomar un taxi",
+        "taxista",
+        "llamar a un taxi"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1149,
+    "lemma": "feed",
+    "source": {
+      "word": "feed",
+      "phrases": [
+        "feed the dog",
+        "feed on",
+        "breast feed"
+      ]
+    },
+    "target": {
+      "word": "alimentar",
+      "phrases": [
+        "alimentar al perro",
+        "alimentarse de",
+        "amamantar"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1150,
+    "lemma": "pain",
+    "source": {
+      "word": "pain",
+      "phrases": [
+        "pain in the neck",
+        "no pain no gain",
+        "feel pain"
+      ]
+    },
+    "target": {
+      "word": "dolor",
+      "phrases": [
+        "un dolor de muelas (molestia)",
+        "sin dolor no hay ganancia",
+        "sentir dolor"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1151,
+    "lemma": "sector",
+    "source": {
+      "word": "sector",
+      "phrases": [
+        "private sector",
+        "public sector",
+        "agricultural sector"
+      ]
+    },
+    "target": {
+      "word": "sector",
+      "phrases": [
+        "sector privado",
+        "sector público",
+        "sector agrícola"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1152,
+    "lemma": "mistake",
+    "source": {
+      "word": "mistake",
+      "phrases": [
+        "make a mistake",
+        "by mistake",
+        "learn from mistakes"
+      ]
+    },
+    "target": {
+      "word": "error",
+      "phrases": [
+        "cometer un error",
+        "por error",
+        "aprender de los errores"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1153,
+    "lemma": "ensure",
+    "source": {
+      "word": "ensure",
+      "phrases": [
+        "ensure safety",
+        "ensure that",
+        "to ensure"
+      ]
+    },
+    "target": {
+      "word": "asegurar",
+      "phrases": [
+        "asegurar la seguridad",
+        "asegurar que",
+        "para asegurar"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1154,
+    "lemma": "satisfy",
+    "source": {
+      "word": "satisfy",
+      "phrases": [
+        "satisfy needs",
+        "satisfied with",
+        "customer satisfaction"
+      ]
+    },
+    "target": {
+      "word": "satisfacer",
+      "phrases": [
+        "satisfacer necesidades",
+        "satisfecho con",
+        "satisfacción del cliente"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1155,
+    "lemma": "chief",
+    "source": {
+      "word": "chief",
+      "phrases": [
+        "chief executive",
+        "commander in chief",
+        "editor in chief"
+      ]
+    },
+    "target": {
+      "word": "jefe",
+      "phrases": [
+        "director ejecutivo",
+        "comandante en jefe",
+        "editor en jefe"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1156,
+    "lemma": "cool",
+    "source": {
+      "word": "cool",
+      "phrases": [
+        "keep cool",
+        "cool down",
+        "that's cool"
+      ]
+    },
+    "target": {
+      "word": "fresco",
+      "phrases": [
+        "mantener la calma",
+        "enfriarse",
+        "eso es genial"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1157,
+    "lemma": "expert",
+    "source": {
+      "word": "expert",
+      "phrases": [
+        "expert opinion",
+        "expert in",
+        "become an expert"
+      ]
+    },
+    "target": {
+      "word": "experto",
+      "phrases": [
+        "opinión experta",
+        "experto en",
+        "convertirse en experto"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1158,
+    "lemma": "wave",
+    "source": {
+      "word": "wave",
+      "phrases": [
+        "wave goodbye",
+        "heat wave",
+        "make waves"
+      ]
+    },
+    "target": {
+      "word": "ola",
+      "phrases": [
+        "decir adiós con la mano",
+        "ola de calor",
+        "causar revuelo"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1159,
+    "lemma": "south",
+    "source": {
+      "word": "south",
+      "phrases": [
+        "south pole",
+        "down south",
+        "South Africa"
+      ]
+    },
+    "target": {
+      "word": "sur",
+      "phrases": [
+        "polo sur",
+        "hacia el sur",
+        "Sudáfrica"
+      ]
+    },
+    "frequency": 77
+  },
+  {
+    "rank": 1160,
+    "lemma": "labor",
+    "source": {
+      "word": "labor",
+      "phrases": [
+        "child labor",
+        "labor market",
+        "manual labor"
+      ]
+    },
+    "target": {
+      "word": "trabajo",
+      "phrases": [
+        "trabajo infantil",
+        "mercado laboral",
+        "trabajo manual"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1161,
+    "lemma": "surface",
+    "source": {
+      "word": "surface",
+      "phrases": [
+        "on the surface",
+        "surface area",
+        "scratch the surface"
+      ]
+    },
+    "target": {
+      "word": "superficie",
+      "phrases": [
+        "en la superficie",
+        "área de superficie",
+        "arañar la superficie"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1162,
+    "lemma": "library",
+    "source": {
+      "word": "library",
+      "phrases": [
+        "public library",
+        "go to the library",
+        "library card"
+      ]
+    },
+    "target": {
+      "word": "biblioteca",
+      "phrases": [
+        "biblioteca pública",
+        "ir a la biblioteca",
+        "carné de la biblioteca"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1163,
+    "lemma": "excellent",
+    "source": {
+      "word": "excellent",
+      "phrases": [
+        "excellent work",
+        "excellent idea",
+        "excellent condition"
+      ]
+    },
+    "target": {
+      "word": "excelente",
+      "phrases": [
+        "excelente trabajo",
+        "excelente idea",
+        "excelente condición"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1164,
+    "lemma": "edge",
+    "source": {
+      "word": "edge",
+      "phrases": [
+        "on the edge",
+        "cutting edge",
+        "competitive edge"
+      ]
+    },
+    "target": {
+      "word": "borde",
+      "phrases": [
+        "en el borde",
+        "vanguardia",
+        "ventaja competitiva"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1165,
+    "lemma": "camp",
+    "source": {
+      "word": "camp",
+      "phrases": [
+        "summer camp",
+        "base camp",
+        "set up camp"
+      ]
+    },
+    "target": {
+      "word": "campamento",
+      "phrases": [
+        "campamento de verano",
+        "campamento base",
+        "montar el campamento"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1166,
+    "lemma": "audience",
+    "source": {
+      "word": "audience",
+      "phrases": [
+        "target audience",
+        "audience member",
+        "captivate the audience"
+      ]
+    },
+    "target": {
+      "word": "audiencia",
+      "phrases": [
+        "público objetivo",
+        "miembro de la audiencia",
+        "cautivar a la audiencia"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1167,
+    "lemma": "lift",
+    "source": {
+      "word": "lift",
+      "phrases": [
+        "give a lift",
+        "lift weights",
+        "ski lift"
+      ]
+    },
+    "target": {
+      "word": "levantar",
+      "phrases": [
+        "llevar a alguien",
+        "levantar pesas",
+        "telesilla"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1168,
+    "lemma": "procedure",
+    "source": {
+      "word": "procedure",
+      "phrases": [
+        "standard procedure",
+        "surgical procedure",
+        "follow procedure"
+      ]
+    },
+    "target": {
+      "word": "procedimiento",
+      "phrases": [
+        "procedimiento estándar",
+        "procedimiento quirúrgico",
+        "seguir el procedimiento"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1169,
+    "lemma": "email",
+    "source": {
+      "word": "email",
+      "phrases": [
+        "send an email",
+        "email address",
+        "check email"
+      ]
+    },
+    "target": {
+      "word": "correo electrónico",
+      "phrases": [
+        "enviar un correo electrónico",
+        "dirección de correo electrónico",
+        "revisar el correo"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1170,
+    "lemma": "global",
+    "source": {
+      "word": "global",
+      "phrases": [
+        "global warming",
+        "global economy",
+        "go global"
+      ]
+    },
+    "target": {
+      "word": "global",
+      "phrases": [
+        "calentamiento global",
+        "economía global",
+        "internacionalizarse"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1171,
+    "lemma": "struggle",
+    "source": {
+      "word": "struggle",
+      "phrases": [
+        "struggle to",
+        "struggle with",
+        "power struggle"
+      ]
+    },
+    "target": {
+      "word": "lucha",
+      "phrases": [
+        "luchar por",
+        "luchar con",
+        "lucha de poder"
+      ]
+    },
+    "frequency": 76
+  },
+  {
+    "rank": 1172,
+    "lemma": "advertise",
+    "source": {
+      "word": "advertise",
+      "phrases": [
+        "advertise a product",
+        "advertise for",
+        "advertising agency"
+      ]
+    },
+    "target": {
+      "word": "anunciar",
+      "phrases": [
+        "anunciar un producto",
+        "hacer publicidad de",
+        "agencia de publicidad"
+      ]
+    },
+    "frequency": 75
+  },
+  {
+    "rank": 1173,
+    "lemma": "select",
+    "source": {
+      "word": "select",
+      "phrases": [
+        "select all",
+        "select a file",
+        "carefully selected"
+      ]
+    },
+    "target": {
+      "word": "seleccionar",
+      "phrases": [
+        "seleccionar todo",
+        "seleccionar un archivo",
+        "cuidadosamente seleccionado"
+      ]
+    },
+    "frequency": 75
+  },
+  {
+    "rank": 1174,
+    "lemma": "surround",
+    "source": {
+      "word": "surround",
+      "phrases": [
+        "surround sound",
+        "surrounded by",
+        "surrounding area"
+      ]
+    },
+    "target": {
+      "word": "rodear",
+      "phrases": [
+        "sonido envolvente",
+        "rodeado por",
+        "zona circundante"
+      ]
+    },
+    "frequency": 75
+  },
+  {
+    "rank": 1175,
+    "lemma": "extent",
+    "source": {
+      "word": "extent",
+      "phrases": [
+        "to some extent",
+        "to a great extent",
+        "full extent"
+      ]
+    },
+    "target": {
+      "word": "medida",
+      "phrases": [
+        "hasta cierto punto",
+        "en gran medida",
+        "extensión total"
+      ]
+    },
+    "frequency": 75
+  },
+  {
+    "rank": 1176,
+    "lemma": "river",
+    "source": {
+      "word": "river",
+      "phrases": [
+        "river bank",
+        "cross the river",
+        "river flows"
+      ]
+    },
+    "target": {
+      "word": "río",
+      "phrases": [
+        "orilla del río",
+        "cruzar el río",
+        "el río fluye"
+      ]
+    },
+    "frequency": 75
+  },
+  {
+    "rank": 1177,
+    "lemma": "annual",
+    "source": {
+      "word": "annual",
+      "phrases": [
+        "annual report",
+        "annual income",
+        "annual leave"
+      ]
+    },
+    "target": {
+      "word": "anual",
+      "phrases": [
+        "informe anual",
+        "ingresos anuales",
+        "vacaciones anuales"
+      ]
+    },
+    "frequency": 75
+  },
+  {
+    "rank": 1178,
+    "lemma": "fully",
+    "source": {
+      "word": "fully",
+      "phrases": [
+        "fully understand",
+        "fully booked",
+        "fully operational"
+      ]
+    },
+    "target": {
+      "word": "completamente",
+      "phrases": [
+        "entender completamente",
+        "completamente reservado",
+        "totalmente operativo"
+      ]
+    },
+    "frequency": 75
+  },
+  {
+    "rank": 1179,
+    "lemma": "contrast",
+    "source": {
+      "word": "contrast",
+      "phrases": [
+        "in contrast to",
+        "high contrast",
+        "compare and contrast"
+      ]
+    },
+    "target": {
+      "word": "contraste",
+      "phrases": [
+        "en contraste con",
+        "alto contraste",
+        "comparar y contrastar"
+      ]
+    },
+    "frequency": 75
+  },
+  {
+    "rank": 1180,
+    "lemma": "roll",
+    "source": {
+      "word": "roll",
+      "phrases": [
+        "rock and roll",
+        "roll over",
+        "on a roll"
+      ]
+    },
+    "target": {
+      "word": "rodar",
+      "phrases": [
+        "rock and roll",
+        "darse la vuelta",
+        "estar en racha"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1181,
+    "lemma": "reality",
+    "source": {
+      "word": "reality",
+      "phrases": [
+        "reality check",
+        "in reality",
+        "virtual reality"
+      ]
+    },
+    "target": {
+      "word": "realidad",
+      "phrases": [
+        "baño de realidad",
+        "en realidad",
+        "realidad virtual"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1182,
+    "lemma": "photograph",
+    "source": {
+      "word": "photograph",
+      "phrases": [
+        "take a photograph",
+        "old photograph",
+        "color photograph"
+      ]
+    },
+    "target": {
+      "word": "fotografía",
+      "phrases": [
+        "tomar una fotografía",
+        "fotografía antigua",
+        "fotografía a color"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1183,
+    "lemma": "artist",
+    "source": {
+      "word": "artist",
+      "phrases": [
+        "makeup artist",
+        "graphic artist",
+        "con artist"
+      ]
+    },
+    "target": {
+      "word": "artista",
+      "phrases": [
+        "maquillador",
+        "artista gráfico",
+        "estafador"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1184,
+    "lemma": "conflict",
+    "source": {
+      "word": "conflict",
+      "phrases": [
+        "conflict of interest",
+        "resolve conflict",
+        "armed conflict"
+      ]
+    },
+    "target": {
+      "word": "conflicto",
+      "phrases": [
+        "conflicto de intereses",
+        "resolver un conflicto",
+        "conflicto armado"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1185,
+    "lemma": "entire",
+    "source": {
+      "word": "entire",
+      "phrases": [
+        "entire world",
+        "entire life",
+        "entire time"
+      ]
+    },
+    "target": {
+      "word": "entero",
+      "phrases": [
+        "mundo entero",
+        "vida entera",
+        "todo el tiempo"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1186,
+    "lemma": "presence",
+    "source": {
+      "word": "presence",
+      "phrases": [
+        "presence of mind",
+        "your presence is requested",
+        "ghostly presence"
+      ]
+    },
+    "target": {
+      "word": "presencia",
+      "phrases": [
+        "presencia de ánimo",
+        "se solicita su presencia",
+        "presencia fantasmal"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1187,
+    "lemma": "crowd",
+    "source": {
+      "word": "crowd",
+      "phrases": [
+        "crowd funding",
+        "follow the crowd",
+        "crowd control"
+      ]
+    },
+    "target": {
+      "word": "multitud",
+      "phrases": [
+        "financiamiento colectivo",
+        "seguir a la multitud",
+        "control de multitudes"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1188,
+    "lemma": "corner",
+    "source": {
+      "word": "corner",
+      "phrases": [
+        "around the corner",
+        "cut corners",
+        "in the corner"
+      ]
+    },
+    "target": {
+      "word": "esquina",
+      "phrases": [
+        "a la vuelta de la esquina",
+        "escatimar recursos",
+        "en la esquina"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1189,
+    "lemma": "gas",
+    "source": {
+      "word": "gas",
+      "phrases": [
+        "gas station",
+        "tear gas",
+        "natural gas"
+      ]
+    },
+    "target": {
+      "word": "gas",
+      "phrases": [
+        "gasolinera",
+        "gas lacrimógeno",
+        "gas natural"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1190,
+    "lemma": "shift",
+    "source": {
+      "word": "shift",
+      "phrases": [
+        "night shift",
+        "shift gears",
+        "shift blame"
+      ]
+    },
+    "target": {
+      "word": "turno",
+      "phrases": [
+        "turno de noche",
+        "cambiar de marcha",
+        "echar la culpa"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1191,
+    "lemma": "net",
+    "source": {
+      "word": "net",
+      "phrases": [
+        "internet",
+        "safety net",
+        "net worth"
+      ]
+    },
+    "target": {
+      "word": "red",
+      "phrases": [
+        "internet",
+        "red de seguridad",
+        "patrimonio neto"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1192,
+    "lemma": "category",
+    "source": {
+      "word": "category",
+      "phrases": [
+        "category of",
+        "fall into a category",
+        "main category"
+      ]
+    },
+    "target": {
+      "word": "categoría",
+      "phrases": [
+        "categoría de",
+        "entrar en una categoría",
+        "categoría principal"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1193,
+    "lemma": "secretary",
+    "source": {
+      "word": "secretary",
+      "phrases": [
+        "secretary of state",
+        "medical secretary",
+        "general secretary"
+      ]
+    },
+    "target": {
+      "word": "secretario",
+      "phrases": [
+        "secretario de estado",
+        "secretario médico",
+        "secretario general"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1194,
+    "lemma": "defense",
+    "source": {
+      "word": "defense",
+      "phrases": [
+        "self defense",
+        "defense mechanism",
+        "in defense of"
+      ]
+    },
+    "target": {
+      "word": "defensa",
+      "phrases": [
+        "defensa propia",
+        "mecanismo de defensa",
+        "en defensa de"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1195,
+    "lemma": "quick",
+    "source": {
+      "word": "quick",
+      "phrases": [
+        "quick fix",
+        "quick question",
+        "quick sand"
+      ]
+    },
+    "target": {
+      "word": "rápido",
+      "phrases": [
+        "solución rápida",
+        "pregunta rápida",
+        "arenas movedizas"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1196,
+    "lemma": "cook",
+    "source": {
+      "word": "cook",
+      "phrases": [
+        "cook dinner",
+        "cook book",
+        "too many cooks"
+      ]
+    },
+    "target": {
+      "word": "cocinar",
+      "phrases": [
+        "cocinar la cena",
+        "libro de cocina",
+        "muchos cocineros"
+      ]
+    },
+    "frequency": 74
+  },
+  {
+    "rank": 1197,
+    "lemma": "spread",
+    "source": {
+      "word": "spread",
+      "phrases": [
+        "spread the word",
+        "spread out",
+        "spread sheet"
+      ]
+    },
+    "target": {
+      "word": "difundir",
+      "phrases": [
+        "correr la voz",
+        "extenderse",
+        "hoja de cálculo"
+      ]
+    },
+    "frequency": 73
+  },
+  {
+    "rank": 1198,
+    "lemma": "nuclear",
+    "source": {
+      "word": "nuclear",
+      "phrases": [
+        "nuclear power",
+        "nuclear weapon",
+        "nuclear family"
+      ]
+    },
+    "target": {
+      "word": "nuclear",
+      "phrases": [
+        "energía nuclear",
+        "arma nuclear",
+        "familia nuclear"
+      ]
+    },
+    "frequency": 73
+  },
+  {
+    "rank": 1199,
+    "lemma": "scale",
+    "source": {
+      "word": "scale",
+      "phrases": [
+        "large scale",
+        "bathroom scale",
+        "on a scale of 1 to 10"
+      ]
+    },
+    "target": {
+      "word": "escala",
+      "phrases": [
+        "a gran escala",
+        "báscula de baño",
+        "en una escala del 1 al 10"
+      ]
+    },
+    "frequency": 73
+  },
+  {
+    "rank": 1200,
+    "lemma": "driver",
+    "source": {
+      "word": "driver",
+      "phrases": [
+        "taxi driver",
+        "driver's license",
+        "backseat driver"
+      ]
+    },
+    "target": {
+      "word": "conductor",
+      "phrases": [
+        "taxista",
+        "licencia de conducir",
+        "copiloto que da órdenes"
+      ]
+    },
+    "frequency": 73
+  }
+]

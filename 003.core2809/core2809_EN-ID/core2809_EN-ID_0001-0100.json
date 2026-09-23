@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 1,
+    "lemma": "the",
+    "source": {
+      "word": "the",
+      "phrases": [
+        "in the morning",
+        "the best",
+        "at the moment"
+      ]
+    },
+    "target": {
+      "word": "itu",
+      "phrases": [
+        "di pagi hari",
+        "yang terbaik",
+        "saat ini"
+      ]
+    },
+    "frequency": 60910
+  },
+  {
+    "rank": 2,
+    "lemma": "be",
+    "source": {
+      "word": "be",
+      "phrases": [
+        "be careful",
+        "be happy",
+        "don't be shy"
+      ]
+    },
+    "target": {
+      "word": "menjadi",
+      "phrases": [
+        "hati-hati",
+        "berbahagialah",
+        "jangan malu-malu"
+      ]
+    },
+    "frequency": 48575
+  },
+  {
+    "rank": 3,
+    "lemma": "and",
+    "source": {
+      "word": "and",
+      "phrases": [
+        "you and I",
+        "bread and butter",
+        "wait and see"
+      ]
+    },
+    "target": {
+      "word": "dan",
+      "phrases": [
+        "kamu dan aku",
+        "roti dan mentega",
+        "tunggu dan lihat saja"
+      ]
+    },
+    "frequency": 30789
+  },
+  {
+    "rank": 4,
+    "lemma": "of",
+    "source": {
+      "word": "of",
+      "phrases": [
+        "piece of cake",
+        "kind of",
+        "out of order"
+      ]
+    },
+    "target": {
+      "word": "dari",
+      "phrases": [
+        "sangat mudah",
+        "semacam",
+        "sedang rusak"
+      ]
+    },
+    "frequency": 30126
+  },
+  {
+    "rank": 5,
+    "lemma": "to",
+    "source": {
+      "word": "to",
+      "phrases": [
+        "go to sleep",
+        "nice to meet you",
+        "have to"
+      ]
+    },
+    "target": {
+      "word": "ke",
+      "phrases": [
+        "pergi tidur",
+        "senang bertemu denganmu",
+        "harus"
+      ]
+    },
+    "frequency": 29272
+  },
+  {
+    "rank": 6,
+    "lemma": "a",
+    "source": {
+      "word": "a",
+      "phrases": [
+        "a lot of",
+        "once upon a time",
+        "have a look"
+      ]
+    },
+    "target": {
+      "word": "sebuah",
+      "phrases": [
+        "banyak",
+        "pada zaman dahulu kala",
+        "coba lihat"
+      ]
+    },
+    "frequency": 27872
+  },
+  {
+    "rank": 7,
+    "lemma": "in",
+    "source": {
+      "word": "in",
+      "phrases": [
+        "in fact",
+        "in time",
+        "keep in mind"
+      ]
+    },
+    "target": {
+      "word": "di dalam",
+      "phrases": [
+        "sebenarnya",
+        "tepat waktu",
+        "ingatlah"
+      ]
+    },
+    "frequency": 21142
+  },
+  {
+    "rank": 8,
+    "lemma": "have",
+    "source": {
+      "word": "have",
+      "phrases": [
+        "have fun",
+        "have a cold",
+        "have to"
+      ]
+    },
+    "target": {
+      "word": "memiliki",
+      "phrases": [
+        "bersenang-senang",
+        "sedang pilek",
+        "harus"
+      ]
+    },
+    "frequency": 14210
+  },
+  {
+    "rank": 9,
+    "lemma": "it",
+    "source": {
+      "word": "it",
+      "phrases": [
+        "make it",
+        "take it easy",
+        "that's it"
+      ]
+    },
+    "target": {
+      "word": "itu",
+      "phrases": [
+        "berhasil melakukannya",
+        "santai saja",
+        "itu saja"
+      ]
+    },
+    "frequency": 13772
+  },
+  {
+    "rank": 10,
+    "lemma": "you",
+    "source": {
+      "word": "you",
+      "phrases": [
+        "you know",
+        "thank you",
+        "good for you"
+      ]
+    },
+    "target": {
+      "word": "kamu",
+      "phrases": [
+        "kamu tahu",
+        "terima kasih",
+        "bagus untukmu"
+      ]
+    },
+    "frequency": 12810
+  },
+  {
+    "rank": 11,
+    "lemma": "he",
+    "source": {
+      "word": "he",
+      "phrases": [
+        "he says",
+        "is he okay?",
+        "here he comes"
+      ]
+    },
+    "target": {
+      "word": "dia",
+      "phrases": [
+        "dia bilang",
+        "apakah dia baik-baik saja?",
+        "ini dia datang"
+      ]
+    },
+    "frequency": 11017
+  },
+  {
+    "rank": 12,
+    "lemma": "for",
+    "source": {
+      "word": "for",
+      "phrases": [
+        "for example",
+        "look for",
+        "good for"
+      ]
+    },
+    "target": {
+      "word": "untuk",
+      "phrases": [
+        "sebagai contoh",
+        "mencari",
+        "bagus untuk"
+      ]
+    },
+    "frequency": 10025
+  },
+  {
+    "rank": 13,
+    "lemma": "they",
+    "source": {
+      "word": "they",
+      "phrases": [
+        "they say",
+        "who are they?",
+        "they are here"
+      ]
+    },
+    "target": {
+      "word": "mereka",
+      "phrases": [
+        "kata orang",
+        "siapa mereka?",
+        "mereka ada di sini"
+      ]
+    },
+    "frequency": 9764
+  },
+  {
+    "rank": 14,
+    "lemma": "not",
+    "source": {
+      "word": "not",
+      "phrases": [
+        "why not?",
+        "not at all",
+        "not yet"
+      ]
+    },
+    "target": {
+      "word": "tidak",
+      "phrases": [
+        "kenapa tidak?",
+        "sama sekali tidak",
+        "belum"
+      ]
+    },
+    "frequency": 9494
+  },
+  {
+    "rank": 15,
+    "lemma": "that",
+    "source": {
+      "word": "that",
+      "phrases": [
+        "that's right",
+        "like that",
+        "after that"
+      ]
+    },
+    "target": {
+      "word": "itu",
+      "phrases": [
+        "itu benar",
+        "seperti itu",
+        "setelah itu"
+      ]
+    },
+    "frequency": 8653
+  },
+  {
+    "rank": 16,
+    "lemma": "we",
+    "source": {
+      "word": "we",
+      "phrases": [
+        "here we go",
+        "shall we?",
+        "we are family"
+      ]
+    },
+    "target": {
+      "word": "kita",
+      "phrases": [
+        "ayo kita mulai",
+        "bagaimana kalau kita?",
+        "kita adalah keluarga"
+      ]
+    },
+    "frequency": 8401
+  },
+  {
+    "rank": 17,
+    "lemma": "on",
+    "source": {
+      "word": "on",
+      "phrases": [
+        "come on",
+        "hold on",
+        "on time"
+      ]
+    },
+    "target": {
+      "word": "di atas",
+      "phrases": [
+        "ayolah",
+        "tunggu sebentar",
+        "tepat waktu"
+      ]
+    },
+    "frequency": 7763
+  },
+  {
+    "rank": 18,
+    "lemma": "with",
+    "source": {
+      "word": "with",
+      "phrases": [
+        "go with",
+        "deal with",
+        "to begin with"
+      ]
+    },
+    "target": {
+      "word": "dengan",
+      "phrases": [
+        "ikut dengan",
+        "menangani",
+        "untuk memulai dengan"
+      ]
+    },
+    "frequency": 7381
+  },
+  {
+    "rank": 19,
+    "lemma": "this",
+    "source": {
+      "word": "this",
+      "phrases": [
+        "this is it",
+        "like this",
+        "this morning"
+      ]
+    },
+    "target": {
+      "word": "ini",
+      "phrases": [
+        "inilah saatnya",
+        "seperti ini",
+        "pagi ini"
+      ]
+    },
+    "frequency": 7003
+  },
+  {
+    "rank": 20,
+    "lemma": "I",
+    "source": {
+      "word": "I",
+      "phrases": [
+        "I think",
+        "I see",
+        "I guess"
+      ]
+    },
+    "target": {
+      "word": "saya",
+      "phrases": [
+        "saya pikir",
+        "saya mengerti",
+        "saya rasa"
+      ]
+    },
+    "frequency": 6820
+  },
+  {
+    "rank": 21,
+    "lemma": "do",
+    "source": {
+      "word": "do",
+      "phrases": [
+        "do my best",
+        "do it",
+        "How do you do?"
+      ]
+    },
+    "target": {
+      "word": "melakukan",
+      "phrases": [
+        "melakukan yang terbaik",
+        "lakukan saja",
+        "Apa kabar?"
+      ]
+    },
+    "frequency": 6802
+  },
+  {
+    "rank": 22,
+    "lemma": "as",
+    "source": {
+      "word": "as",
+      "phrases": [
+        "as soon as",
+        "as well as",
+        "as usual"
+      ]
+    },
+    "target": {
+      "word": "sebagai",
+      "phrases": [
+        "sesegera mungkin",
+        "serta",
+        "seperti biasa"
+      ]
+    },
+    "frequency": 6747
+  },
+  {
+    "rank": 23,
+    "lemma": "at",
+    "source": {
+      "word": "at",
+      "phrases": [
+        "at least",
+        "at first",
+        "look at"
+      ]
+    },
+    "target": {
+      "word": "di",
+      "phrases": [
+        "setidaknya",
+        "pada awalnya",
+        "melihat ke"
+      ]
+    },
+    "frequency": 5570
+  },
+  {
+    "rank": 24,
+    "lemma": "she",
+    "source": {
+      "word": "she",
+      "phrases": [
+        "she said",
+        "is she there?",
+        "here she comes"
+      ]
+    },
+    "target": {
+      "word": "dia (perempuan)",
+      "phrases": [
+        "dia berkata",
+        "apakah dia ada di sana?",
+        "ini dia datang"
+      ]
+    },
+    "frequency": 5195
+  },
+  {
+    "rank": 25,
+    "lemma": "but",
+    "source": {
+      "word": "but",
+      "phrases": [
+        "but also",
+        "anything but",
+        "nothing but"
+      ]
+    },
+    "target": {
+      "word": "tetapi",
+      "phrases": [
+        "tetapi juga",
+        "apa pun kecuali",
+        "tidak lain hanyalah"
+      ]
+    },
+    "frequency": 5087
+  },
+  {
+    "rank": 26,
+    "lemma": "from",
+    "source": {
+      "word": "from",
+      "phrases": [
+        "where are you from?",
+        "from now on",
+        "far from"
+      ]
+    },
+    "target": {
+      "word": "dari",
+      "phrases": [
+        "dari mana asalmu?",
+        "mulai sekarang",
+        "jauh dari"
+      ]
+    },
+    "frequency": 4598
+  },
+  {
+    "rank": 27,
+    "lemma": "by",
+    "source": {
+      "word": "by",
+      "phrases": [
+        "by the way",
+        "side by side",
+        "day by day"
+      ]
+    },
+    "target": {
+      "word": "oleh",
+      "phrases": [
+        "ngomong-ngomong",
+        "berdampingan",
+        "hari demi hari"
+      ]
+    },
+    "frequency": 4323
+  },
+  {
+    "rank": 28,
+    "lemma": "will",
+    "source": {
+      "word": "will",
+      "phrases": [
+        "will be",
+        "I will",
+        "time will tell"
+      ]
+    },
+    "target": {
+      "word": "akan",
+      "phrases": [
+        "akan menjadi",
+        "saya akan",
+        "waktu yang akan menjawab"
+      ]
+    },
+    "frequency": 4195
+  },
+  {
+    "rank": 29,
+    "lemma": "or",
+    "source": {
+      "word": "or",
+      "phrases": [
+        "or else",
+        "more or less",
+        "now or never"
+      ]
+    },
+    "target": {
+      "word": "atau",
+      "phrases": [
+        "atau jika tidak",
+        "kurang lebih",
+        "sekarang atau tidak sama sekali"
+      ]
+    },
+    "frequency": 4060
+  },
+  {
+    "rank": 30,
+    "lemma": "say",
+    "source": {
+      "word": "say",
+      "phrases": [
+        "that is to say",
+        "needless to say",
+        "to say the least"
+      ]
+    },
+    "target": {
+      "word": "mengatakan",
+      "phrases": [
+        "yaitu",
+        "tidak perlu dikatakan lagi",
+        "setidaknya"
+      ]
+    },
+    "frequency": 3425
+  },
+  {
+    "rank": 31,
+    "lemma": "go",
+    "source": {
+      "word": "go",
+      "phrases": [
+        "let it go",
+        "go ahead",
+        "go on"
+      ]
+    },
+    "target": {
+      "word": "pergi",
+      "phrases": [
+        "lepaskan",
+        "silakan",
+        "lanjutkan"
+      ]
+    },
+    "frequency": 3260
+  },
+  {
+    "rank": 32,
+    "lemma": "so",
+    "source": {
+      "word": "so",
+      "phrases": [
+        "so far",
+        "and so on",
+        "so what?"
+      ]
+    },
+    "target": {
+      "word": "jadi",
+      "phrases": [
+        "sejauh ini",
+        "dan seterusnya",
+        "lalu kenapa?"
+      ]
+    },
+    "frequency": 3227
+  },
+  {
+    "rank": 33,
+    "lemma": "all",
+    "source": {
+      "word": "all",
+      "phrases": [
+        "after all",
+        "all right",
+        "at all"
+      ]
+    },
+    "target": {
+      "word": "semua",
+      "phrases": [
+        "bagaimanapun juga",
+        "baiklah",
+        "sama sekali"
+      ]
+    },
+    "frequency": 3175
+  },
+  {
+    "rank": 34,
+    "lemma": "if",
+    "source": {
+      "word": "if",
+      "phrases": [
+        "if only",
+        "as if",
+        "what if"
+      ]
+    },
+    "target": {
+      "word": "jika",
+      "phrases": [
+        "seandainya saja",
+        "seolah-olah",
+        "bagaimana jika"
+      ]
+    },
+    "frequency": 3009
+  },
+  {
+    "rank": 35,
+    "lemma": "one",
+    "source": {
+      "word": "one",
+      "phrases": [
+        "one by one",
+        "one day",
+        "the one"
+      ]
+    },
+    "target": {
+      "word": "satu",
+      "phrases": [
+        "satu per satu",
+        "suatu hari",
+        "si dia"
+      ]
+    },
+    "frequency": 2997
+  },
+  {
+    "rank": 36,
+    "lemma": "would",
+    "source": {
+      "word": "would",
+      "phrases": [
+        "would like to",
+        "would you?",
+        "it would be"
+      ]
+    },
+    "target": {
+      "word": "akan",
+      "phrases": [
+        "ingin",
+        "maukah Anda?",
+        "itu akan menjadi"
+      ]
+    },
+    "frequency": 2997
+  },
+  {
+    "rank": 37,
+    "lemma": "about",
+    "source": {
+      "word": "about",
+      "phrases": [
+        "how about",
+        "about to",
+        "what about"
+      ]
+    },
+    "target": {
+      "word": "tentang",
+      "phrases": [
+        "bagaimana dengan",
+        "hampir",
+        "bagaimana dengan"
+      ]
+    },
+    "frequency": 2967
+  },
+  {
+    "rank": 38,
+    "lemma": "can",
+    "source": {
+      "word": "can",
+      "phrases": [
+        "can't help",
+        "as soon as I can",
+        "can you?"
+      ]
+    },
+    "target": {
+      "word": "bisa",
+      "phrases": [
+        "tidak bisa menahan",
+        "sesegera mungkin",
+        "bisakah Anda?"
+      ]
+    },
+    "frequency": 2890
+  },
+  {
+    "rank": 39,
+    "lemma": "which",
+    "source": {
+      "word": "which",
+      "phrases": [
+        "which one",
+        "in which",
+        "on which"
+      ]
+    },
+    "target": {
+      "word": "yang mana",
+      "phrases": [
+        "yang mana satu",
+        "di mana",
+        "pada yang mana"
+      ]
+    },
+    "frequency": 2886
+  },
+  {
+    "rank": 40,
+    "lemma": "there",
+    "source": {
+      "word": "there",
+      "phrases": [
+        "over there",
+        "is there?",
+        "there is"
+      ]
+    },
+    "target": {
+      "word": "di sana",
+      "phrases": [
+        "di sebelah sana",
+        "apakah ada?",
+        "ada"
+      ]
+    },
+    "frequency": 2820
+  },
+  {
+    "rank": 41,
+    "lemma": "know",
+    "source": {
+      "word": "know",
+      "phrases": [
+        "you know",
+        "I know",
+        "let me know"
+      ]
+    },
+    "target": {
+      "word": "tahu",
+      "phrases": [
+        "kamu tahu",
+        "aku tahu",
+        "beri tahu aku"
+      ]
+    },
+    "frequency": 2634
+  },
+  {
+    "rank": 42,
+    "lemma": "more",
+    "source": {
+      "word": "more",
+      "phrases": [
+        "more and more",
+        "no more",
+        "more than"
+      ]
+    },
+    "target": {
+      "word": "lebih",
+      "phrases": [
+        "makin lama makin banyak",
+        "tidak lagi",
+        "lebih dari"
+      ]
+    },
+    "frequency": 2631
+  },
+  {
+    "rank": 43,
+    "lemma": "get",
+    "source": {
+      "word": "get",
+      "phrases": [
+        "get up",
+        "get it",
+        "get ready"
+      ]
+    },
+    "target": {
+      "word": "mendapatkan",
+      "phrases": [
+        "bangun",
+        "mengerti",
+        "bersiap"
+      ]
+    },
+    "frequency": 2573
+  },
+  {
+    "rank": 44,
+    "lemma": "who",
+    "source": {
+      "word": "who",
+      "phrases": [
+        "who knows",
+        "guess who",
+        "who are you?"
+      ]
+    },
+    "target": {
+      "word": "siapa",
+      "phrases": [
+        "siapa yang tahu",
+        "tebak siapa",
+        "siapa kamu?"
+      ]
+    },
+    "frequency": 2534
+  },
+  {
+    "rank": 45,
+    "lemma": "like",
+    "source": {
+      "word": "like",
+      "phrases": [
+        "look like",
+        "would like",
+        "something like"
+      ]
+    },
+    "target": {
+      "word": "suka",
+      "phrases": [
+        "terlihat seperti",
+        "ingin",
+        "sesuatu seperti"
+      ]
+    },
+    "frequency": 2465
+  },
+  {
+    "rank": 46,
+    "lemma": "when",
+    "source": {
+      "word": "when",
+      "phrases": [
+        "since when",
+        "when possible",
+        "only when"
+      ]
+    },
+    "target": {
+      "word": "kapan",
+      "phrases": [
+        "sejak kapan",
+        "jika memungkinkan",
+        "hanya ketika"
+      ]
+    },
+    "frequency": 2435
+  },
+  {
+    "rank": 47,
+    "lemma": "think",
+    "source": {
+      "word": "think",
+      "phrases": [
+        "think about",
+        "I think so",
+        "don't think"
+      ]
+    },
+    "target": {
+      "word": "berpikir",
+      "phrases": [
+        "berpikir tentang",
+        "aku rasa begitu",
+        "jangan berpikir"
+      ]
+    },
+    "frequency": 2433
+  },
+  {
+    "rank": 48,
+    "lemma": "make",
+    "source": {
+      "word": "make",
+      "phrases": [
+        "make sure",
+        "make sense",
+        "make up"
+      ]
+    },
+    "target": {
+      "word": "membuat",
+      "phrases": [
+        "memastikan",
+        "masuk akal",
+        "berdandan"
+      ]
+    },
+    "frequency": 2359
+  },
+  {
+    "rank": 49,
+    "lemma": "time",
+    "source": {
+      "word": "time",
+      "phrases": [
+        "on time",
+        "waste of time",
+        "take your time"
+      ]
+    },
+    "target": {
+      "word": "waktu",
+      "phrases": [
+        "tepat waktu",
+        "buang-buang waktu",
+        "santai saja"
+      ]
+    },
+    "frequency": 2302
+  },
+  {
+    "rank": 50,
+    "lemma": "see",
+    "source": {
+      "word": "see",
+      "phrases": [
+        "I see",
+        "see you",
+        "let me see"
+      ]
+    },
+    "target": {
+      "word": "melihat",
+      "phrases": [
+        "aku mengerti",
+        "sampai jumpa",
+        "coba aku lihat"
+      ]
+    },
+    "frequency": 2226
+  },
+  {
+    "rank": 51,
+    "lemma": "what",
+    "source": {
+      "word": "what",
+      "phrases": [
+        "what's up",
+        "what if",
+        "so what"
+      ]
+    },
+    "target": {
+      "word": "apa",
+      "phrases": [
+        "apa kabar",
+        "bagaimana jika",
+        "lalu kenapa"
+      ]
+    },
+    "frequency": 2204
+  },
+  {
+    "rank": 52,
+    "lemma": "up",
+    "source": {
+      "word": "up",
+      "phrases": [
+        "give up",
+        "what's up",
+        "up to you"
+      ]
+    },
+    "target": {
+      "word": "atas",
+      "phrases": [
+        "menyerah",
+        "apa kabar",
+        "terserah kamu"
+      ]
+    },
+    "frequency": 2150
+  },
+  {
+    "rank": 53,
+    "lemma": "some",
+    "source": {
+      "word": "some",
+      "phrases": [
+        "some day",
+        "some kind of",
+        "some people"
+      ]
+    },
+    "target": {
+      "word": "beberapa",
+      "phrases": [
+        "suatu hari nanti",
+        "sejenis",
+        "beberapa orang"
+      ]
+    },
+    "frequency": 2130
+  },
+  {
+    "rank": 54,
+    "lemma": "other",
+    "source": {
+      "word": "other",
+      "phrases": [
+        "each other",
+        "other than",
+        "the other day"
+      ]
+    },
+    "target": {
+      "word": "lain",
+      "phrases": [
+        "satu sama lain",
+        "selain",
+        "beberapa hari yang lalu"
+      ]
+    },
+    "frequency": 2100
+  },
+  {
+    "rank": 55,
+    "lemma": "out",
+    "source": {
+      "word": "out",
+      "phrases": [
+        "watch out",
+        "out of",
+        "figure out"
+      ]
+    },
+    "target": {
+      "word": "keluar",
+      "phrases": [
+        "awas",
+        "keluar dari",
+        "mencari tahu"
+      ]
+    },
+    "frequency": 2064
+  },
+  {
+    "rank": 56,
+    "lemma": "good",
+    "source": {
+      "word": "good",
+      "phrases": [
+        "good at",
+        "no good",
+        "good luck"
+      ]
+    },
+    "target": {
+      "word": "baik",
+      "phrases": [
+        "pandai dalam",
+        "tidak baik",
+        "semoga beruntung"
+      ]
+    },
+    "frequency": 2038
+  },
+  {
+    "rank": 57,
+    "lemma": "people",
+    "source": {
+      "word": "people",
+      "phrases": [
+        "many people",
+        "young people",
+        "other people"
+      ]
+    },
+    "target": {
+      "word": "orang",
+      "phrases": [
+        "banyak orang",
+        "anak muda",
+        "orang lain"
+      ]
+    },
+    "frequency": 2019
+  },
+  {
+    "rank": 58,
+    "lemma": "year",
+    "source": {
+      "word": "year",
+      "phrases": [
+        "last year",
+        "Happy New Year",
+        "per year"
+      ]
+    },
+    "target": {
+      "word": "tahun",
+      "phrases": [
+        "tahun lalu",
+        "Selamat Tahun Baru",
+        "per tahun"
+      ]
+    },
+    "frequency": 1949
+  },
+  {
+    "rank": 59,
+    "lemma": "take",
+    "source": {
+      "word": "take",
+      "phrases": [
+        "take care",
+        "take place",
+        "take off"
+      ]
+    },
+    "target": {
+      "word": "mengambil",
+      "phrases": [
+        "berhati-hati",
+        "terjadi",
+        "lepas landas"
+      ]
+    },
+    "frequency": 1873
+  },
+  {
+    "rank": 60,
+    "lemma": "no",
+    "source": {
+      "word": "no",
+      "phrases": [
+        "no problem",
+        "no way",
+        "no doubt"
+      ]
+    },
+    "target": {
+      "word": "tidak",
+      "phrases": [
+        "tidak masalah",
+        "tidak mungkin",
+        "tidak ragu"
+      ]
+    },
+    "frequency": 1854
+  },
+  {
+    "rank": 61,
+    "lemma": "well",
+    "source": {
+      "word": "well",
+      "phrases": [
+        "as well",
+        "do well",
+        "well known"
+      ]
+    },
+    "target": {
+      "word": "baik",
+      "phrases": [
+        "juga",
+        "berhasil",
+        "terkenal"
+      ]
+    },
+    "frequency": 1835
+  },
+  {
+    "rank": 62,
+    "lemma": "because",
+    "source": {
+      "word": "because",
+      "phrases": [
+        "because of",
+        "just because",
+        "partly because"
+      ]
+    },
+    "target": {
+      "word": "karena",
+      "phrases": [
+        "karena",
+        "hanya karena",
+        "sebagian karena"
+      ]
+    },
+    "frequency": 1824
+  },
+  {
+    "rank": 63,
+    "lemma": "very",
+    "source": {
+      "word": "very",
+      "phrases": [
+        "very much",
+        "very good",
+        "the very best"
+      ]
+    },
+    "target": {
+      "word": "sangat",
+      "phrases": [
+        "sangat banyak",
+        "sangat baik",
+        "yang terbaik"
+      ]
+    },
+    "frequency": 1792
+  },
+  {
+    "rank": 64,
+    "lemma": "just",
+    "source": {
+      "word": "just",
+      "phrases": [
+        "just now",
+        "just a moment",
+        "just in case"
+      ]
+    },
+    "target": {
+      "word": "hanya",
+      "phrases": [
+        "baru saja",
+        "tunggu sebentar",
+        "hanya untuk jaga-jaga"
+      ]
+    },
+    "frequency": 1751
+  },
+  {
+    "rank": 65,
+    "lemma": "come",
+    "source": {
+      "word": "come",
+      "phrases": [
+        "come true",
+        "come on",
+        "how come?"
+      ]
+    },
+    "target": {
+      "word": "datang",
+      "phrases": [
+        "menjadi kenyataan",
+        "ayo",
+        "bagaimana bisa?"
+      ]
+    },
+    "frequency": 1694
+  },
+  {
+    "rank": 66,
+    "lemma": "could",
+    "source": {
+      "word": "could",
+      "phrases": [
+        "could be",
+        "could you?",
+        "I wish I could"
+      ]
+    },
+    "target": {
+      "word": "bisa",
+      "phrases": [
+        "bisa jadi",
+        "bisakah Anda?",
+        "seandainya saya bisa"
+      ]
+    },
+    "frequency": 1688
+  },
+  {
+    "rank": 67,
+    "lemma": "work",
+    "source": {
+      "word": "work",
+      "phrases": [
+        "work out",
+        "at work",
+        "good work"
+      ]
+    },
+    "target": {
+      "word": "bekerja",
+      "phrases": [
+        "berhasil",
+        "sedang bekerja",
+        "kerja bagus"
+      ]
+    },
+    "frequency": 1674
+  },
+  {
+    "rank": 68,
+    "lemma": "use",
+    "source": {
+      "word": "use",
+      "phrases": [
+        "used to",
+        "no use",
+        "make use of"
+      ]
+    },
+    "target": {
+      "word": "menggunakan",
+      "phrases": [
+        "biasanya",
+        "tidak ada gunanya",
+        "memanfaatkan"
+      ]
+    },
+    "frequency": 1657
+  },
+  {
+    "rank": 69,
+    "lemma": "than",
+    "source": {
+      "word": "than",
+      "phrases": [
+        "more than",
+        "rather than",
+        "other than"
+      ]
+    },
+    "target": {
+      "word": "daripada",
+      "phrases": [
+        "lebih dari",
+        "daripada",
+        "selain"
+      ]
+    },
+    "frequency": 1591
+  },
+  {
+    "rank": 70,
+    "lemma": "now",
+    "source": {
+      "word": "now",
+      "phrases": [
+        "just now",
+        "now and then",
+        "right now"
+      ]
+    },
+    "target": {
+      "word": "sekarang",
+      "phrases": [
+        "baru saja",
+        "sesekali",
+        "sekarang juga"
+      ]
+    },
+    "frequency": 1563
+  },
+  {
+    "rank": 71,
+    "lemma": "then",
+    "source": {
+      "word": "then",
+      "phrases": [
+        "back then",
+        "and then",
+        "since then"
+      ]
+    },
+    "target": {
+      "word": "kemudian",
+      "phrases": [
+        "saat itu",
+        "dan kemudian",
+        "sejak saat itu"
+      ]
+    },
+    "frequency": 1554
+  },
+  {
+    "rank": 72,
+    "lemma": "also",
+    "source": {
+      "word": "also",
+      "phrases": [
+        "but also",
+        "see also",
+        "me also"
+      ]
+    },
+    "target": {
+      "word": "juga",
+      "phrases": [
+        "tetapi juga",
+        "lihat juga",
+        "saya juga"
+      ]
+    },
+    "frequency": 1552
+  },
+  {
+    "rank": 73,
+    "lemma": "into",
+    "source": {
+      "word": "into",
+      "phrases": [
+        "look into",
+        "run into",
+        "turn into"
+      ]
+    },
+    "target": {
+      "word": "ke dalam",
+      "phrases": [
+        "menyelidiki",
+        "bertemu secara tidak sengaja",
+        "berubah menjadi"
+      ]
+    },
+    "frequency": 1477
+  },
+  {
+    "rank": 74,
+    "lemma": "only",
+    "source": {
+      "word": "only",
+      "phrases": [
+        "only if",
+        "only one",
+        "if only"
+      ]
+    },
+    "target": {
+      "word": "hanya",
+      "phrases": [
+        "hanya jika",
+        "hanya satu",
+        "seandainya saja"
+      ]
+    },
+    "frequency": 1475
+  },
+  {
+    "rank": 75,
+    "lemma": "look",
+    "source": {
+      "word": "look",
+      "phrases": [
+        "look for",
+        "look after",
+        "look like"
+      ]
+    },
+    "target": {
+      "word": "melihat",
+      "phrases": [
+        "mencari",
+        "merawat",
+        "terlihat seperti"
+      ]
+    },
+    "frequency": 1370
+  },
+  {
+    "rank": 76,
+    "lemma": "want",
+    "source": {
+      "word": "want",
+      "phrases": [
+        "want to",
+        "if you want",
+        "what do you want?"
+      ]
+    },
+    "target": {
+      "word": "ingin",
+      "phrases": [
+        "ingin",
+        "jika Anda mau",
+        "apa yang Anda inginkan?"
+      ]
+    },
+    "frequency": 1354
+  },
+  {
+    "rank": 77,
+    "lemma": "give",
+    "source": {
+      "word": "give",
+      "phrases": [
+        "give up",
+        "give me",
+        "give a hand"
+      ]
+    },
+    "target": {
+      "word": "memberi",
+      "phrases": [
+        "menyerah",
+        "berikan saya",
+        "membantu"
+      ]
+    },
+    "frequency": 1332
+  },
+  {
+    "rank": 78,
+    "lemma": "first",
+    "source": {
+      "word": "first",
+      "phrases": [
+        "at first",
+        "first of all",
+        "safety first"
+      ]
+    },
+    "target": {
+      "word": "pertama",
+      "phrases": [
+        "pada awalnya",
+        "pertama-tama",
+        "utamakan keselamatan"
+      ]
+    },
+    "frequency": 1321
+  },
+  {
+    "rank": 79,
+    "lemma": "new",
+    "source": {
+      "word": "new",
+      "phrases": [
+        "brand new",
+        "New York",
+        "what's new?"
+      ]
+    },
+    "target": {
+      "word": "baru",
+      "phrases": [
+        "baru gres",
+        "New York",
+        "apa yang baru?"
+      ]
+    },
+    "frequency": 1290
+  },
+  {
+    "rank": 80,
+    "lemma": "way",
+    "source": {
+      "word": "way",
+      "phrases": [
+        "by the way",
+        "no way",
+        "on the way"
+      ]
+    },
+    "target": {
+      "word": "cara",
+      "phrases": [
+        "omong-omong",
+        "tidak mungkin",
+        "sedang dalam perjalanan"
+      ]
+    },
+    "frequency": 1279
+  },
+  {
+    "rank": 81,
+    "lemma": "find",
+    "source": {
+      "word": "find",
+      "phrases": [
+        "find out",
+        "find a way",
+        "hard to find"
+      ]
+    },
+    "target": {
+      "word": "menemukan",
+      "phrases": [
+        "mencari tahu",
+        "menemukan jalan",
+        "sulit ditemukan"
+      ]
+    },
+    "frequency": 1236
+  },
+  {
+    "rank": 82,
+    "lemma": "over",
+    "source": {
+      "word": "over",
+      "phrases": [
+        "over there",
+        "all over",
+        "game over"
+      ]
+    },
+    "target": {
+      "word": "berakhir",
+      "phrases": [
+        "di sana",
+        "di seluruh",
+        "permainan berakhir"
+      ]
+    },
+    "frequency": 1235
+  },
+  {
+    "rank": 83,
+    "lemma": "any",
+    "source": {
+      "word": "any",
+      "phrases": [
+        "any time",
+        "any more",
+        "in any case"
+      ]
+    },
+    "target": {
+      "word": "apa pun",
+      "phrases": [
+        "kapan saja",
+        "lagi",
+        "dalam hal apa pun"
+      ]
+    },
+    "frequency": 1224
+  },
+  {
+    "rank": 84,
+    "lemma": "after",
+    "source": {
+      "word": "after",
+      "phrases": [
+        "after all",
+        "look after",
+        "after you"
+      ]
+    },
+    "target": {
+      "word": "setelah",
+      "phrases": [
+        "lagipula",
+        "menjaga",
+        "setelah Anda"
+      ]
+    },
+    "frequency": 1210
+  },
+  {
+    "rank": 85,
+    "lemma": "day",
+    "source": {
+      "word": "day",
+      "phrases": [
+        "all day",
+        "have a nice day",
+        "day by day"
+      ]
+    },
+    "target": {
+      "word": "hari",
+      "phrases": [
+        "sepanjang hari",
+        "semoga harimu menyenangkan",
+        "hari demi hari"
+      ]
+    },
+    "frequency": 1187
+  },
+  {
+    "rank": 86,
+    "lemma": "where",
+    "source": {
+      "word": "where",
+      "phrases": [
+        "where are you?",
+        "where to?",
+        "know where"
+      ]
+    },
+    "target": {
+      "word": "di mana",
+      "phrases": [
+        "di mana kamu?",
+        "ke mana?",
+        "tahu di mana"
+      ]
+    },
+    "frequency": 1187
+  },
+  {
+    "rank": 87,
+    "lemma": "thing",
+    "source": {
+      "word": "thing",
+      "phrases": [
+        "one more thing",
+        "the thing is",
+        "do your thing"
+      ]
+    },
+    "target": {
+      "word": "hal",
+      "phrases": [
+        "satu hal lagi",
+        "masalahnya adalah",
+        "lakukan bagianmu"
+      ]
+    },
+    "frequency": 1161
+  },
+  {
+    "rank": 88,
+    "lemma": "most",
+    "source": {
+      "word": "most",
+      "phrases": [
+        "most of",
+        "make the most of",
+        "at most"
+      ]
+    },
+    "target": {
+      "word": "paling",
+      "phrases": [
+        "sebagian besar",
+        "memanfaatkan sebaik-baiknya",
+        "paling banyak"
+      ]
+    },
+    "frequency": 1146
+  },
+  {
+    "rank": 89,
+    "lemma": "should",
+    "source": {
+      "word": "should",
+      "phrases": [
+        "should be",
+        "I should",
+        "you should know"
+      ]
+    },
+    "target": {
+      "word": "seharusnya",
+      "phrases": [
+        "seharusnya",
+        "saya seharusnya",
+        "kamu harus tahu"
+      ]
+    },
+    "frequency": 1132
+  },
+  {
+    "rank": 90,
+    "lemma": "need",
+    "source": {
+      "word": "need",
+      "phrases": [
+        "need to",
+        "in need",
+        "no need"
+      ]
+    },
+    "target": {
+      "word": "perlu",
+      "phrases": [
+        "perlu",
+        "membutuhkan",
+        "tidak perlu"
+      ]
+    },
+    "frequency": 1129
+  },
+  {
+    "rank": 91,
+    "lemma": "much",
+    "source": {
+      "word": "much",
+      "phrases": [
+        "too much",
+        "thank you very much",
+        "how much"
+      ]
+    },
+    "target": {
+      "word": "banyak",
+      "phrases": [
+        "terlalu banyak",
+        "terima kasih banyak",
+        "berapa banyak"
+      ]
+    },
+    "frequency": 1125
+  },
+  {
+    "rank": 92,
+    "lemma": "right",
+    "source": {
+      "word": "right",
+      "phrases": [
+        "right now",
+        "all right",
+        "that's right"
+      ]
+    },
+    "target": {
+      "word": "benar",
+      "phrases": [
+        "sekarang juga",
+        "baiklah",
+        "itu benar"
+      ]
+    },
+    "frequency": 1113
+  },
+  {
+    "rank": 93,
+    "lemma": "how",
+    "source": {
+      "word": "how",
+      "phrases": [
+        "how about",
+        "how much",
+        "how to"
+      ]
+    },
+    "target": {
+      "word": "bagaimana",
+      "phrases": [
+        "bagaimana dengan",
+        "berapa banyak",
+        "cara"
+      ]
+    },
+    "frequency": 1093
+  },
+  {
+    "rank": 94,
+    "lemma": "back",
+    "source": {
+      "word": "back",
+      "phrases": [
+        "come back",
+        "back and forth",
+        "give back"
+      ]
+    },
+    "target": {
+      "word": "kembali",
+      "phrases": [
+        "datang kembali",
+        "bolak-balik",
+        "mengembalikan"
+      ]
+    },
+    "frequency": 1051
+  },
+  {
+    "rank": 95,
+    "lemma": "mean",
+    "source": {
+      "word": "mean",
+      "phrases": [
+        "I mean",
+        "what do you mean?",
+        "meant to be"
+      ]
+    },
+    "target": {
+      "word": "berarti",
+      "phrases": [
+        "maksud saya",
+        "apa maksudmu?",
+        "seharusnya terjadi"
+      ]
+    },
+    "frequency": 1021
+  },
+  {
+    "rank": 96,
+    "lemma": "even",
+    "source": {
+      "word": "even",
+      "phrases": [
+        "even if",
+        "even though",
+        "break even"
+      ]
+    },
+    "target": {
+      "word": "bahkan",
+      "phrases": [
+        "bahkan jika",
+        "meskipun",
+        "impas"
+      ]
+    },
+    "frequency": 988
+  },
+  {
+    "rank": 97,
+    "lemma": "may",
+    "source": {
+      "word": "may",
+      "phrases": [
+        "may I?",
+        "may be",
+        "come what may"
+      ]
+    },
+    "target": {
+      "word": "boleh",
+      "phrases": [
+        "bolehkah saya?",
+        "mungkin",
+        "apa pun yang terjadi"
+      ]
+    },
+    "frequency": 959
+  },
+  {
+    "rank": 98,
+    "lemma": "here",
+    "source": {
+      "word": "here",
+      "phrases": [
+        "here is",
+        "come here",
+        "same here"
+      ]
+    },
+    "target": {
+      "word": "di sini",
+      "phrases": [
+        "ini dia",
+        "kemari",
+        "sama halnya di sini"
+      ]
+    },
+    "frequency": 947
+  },
+  {
+    "rank": 99,
+    "lemma": "many",
+    "source": {
+      "word": "many",
+      "phrases": [
+        "many times",
+        "how many",
+        "as many as"
+      ]
+    },
+    "target": {
+      "word": "banyak",
+      "phrases": [
+        "berkali-kali",
+        "berapa banyak",
+        "sebanyak"
+      ]
+    },
+    "frequency": 945
+  },
+  {
+    "rank": 100,
+    "lemma": "such",
+    "source": {
+      "word": "such",
+      "phrases": [
+        "such as",
+        "such a",
+        "no such thing"
+      ]
+    },
+    "target": {
+      "word": "seperti",
+      "phrases": [
+        "seperti",
+        "sedemikian",
+        "tidak ada hal semacam itu"
+      ]
+    },
+    "frequency": 936
+  }
+]

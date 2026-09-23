@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 101,
+    "lemma": "last",
+    "source": {
+      "word": "last",
+      "phrases": [
+        "last year",
+        "at last",
+        "last name"
+      ]
+    },
+    "target": {
+      "word": "마지막",
+      "phrases": [
+        "작년",
+        "마침내",
+        "성(이름)"
+      ]
+    },
+    "frequency": 917
+  },
+  {
+    "rank": 102,
+    "lemma": "child",
+    "source": {
+      "word": "child",
+      "phrases": [
+        "only child",
+        "inner child",
+        "child care"
+      ]
+    },
+    "target": {
+      "word": "아이",
+      "phrases": [
+        "외동아이",
+        "내면의 아이",
+        "보육"
+      ]
+    },
+    "frequency": 910
+  },
+  {
+    "rank": 103,
+    "lemma": "tell",
+    "source": {
+      "word": "tell",
+      "phrases": [
+        "tell a lie",
+        "tell the truth",
+        "time will tell"
+      ]
+    },
+    "target": {
+      "word": "말하다",
+      "phrases": [
+        "거짓말하다",
+        "진실을 말하다",
+        "시간이 해결해 줄 것이다"
+      ]
+    },
+    "frequency": 901
+  },
+  {
+    "rank": 104,
+    "lemma": "really",
+    "source": {
+      "word": "really",
+      "phrases": [
+        "really good",
+        "not really",
+        "really?"
+      ]
+    },
+    "target": {
+      "word": "정말로",
+      "phrases": [
+        "정말 좋은",
+        "설마",
+        "정말?"
+      ]
+    },
+    "frequency": 870
+  },
+  {
+    "rank": 105,
+    "lemma": "call",
+    "source": {
+      "word": "call",
+      "phrases": [
+        "phone call",
+        "call off",
+        "call for"
+      ]
+    },
+    "target": {
+      "word": "전화/부르다",
+      "phrases": [
+        "전화 통화",
+        "취소하다",
+        "요구하다"
+      ]
+    },
+    "frequency": 869
+  },
+  {
+    "rank": 106,
+    "lemma": "before",
+    "source": {
+      "word": "before",
+      "phrases": [
+        "before long",
+        "the day before",
+        "never before"
+      ]
+    },
+    "target": {
+      "word": "전에",
+      "phrases": [
+        "머지않아",
+        "그 전날",
+        "단 한 번도 ~않다"
+      ]
+    },
+    "frequency": 849
+  },
+  {
+    "rank": 107,
+    "lemma": "company",
+    "source": {
+      "word": "company",
+      "phrases": [
+        "good company",
+        "company car",
+        "keep company"
+      ]
+    },
+    "target": {
+      "word": "회사/동행",
+      "phrases": [
+        "좋은 동료",
+        "회사 차",
+        "함께 있어 주다"
+      ]
+    },
+    "frequency": 842
+  },
+  {
+    "rank": 108,
+    "lemma": "through",
+    "source": {
+      "word": "through",
+      "phrases": [
+        "go through",
+        "through the night",
+        "see through"
+      ]
+    },
+    "target": {
+      "word": "~을 통해",
+      "phrases": [
+        "겪다",
+        "밤새도록",
+        "꿰뚫어 보다"
+      ]
+    },
+    "frequency": 838
+  },
+  {
+    "rank": 109,
+    "lemma": "down",
+    "source": {
+      "word": "down",
+      "phrases": [
+        "calm down",
+        "upside down",
+        "look down"
+      ]
+    },
+    "target": {
+      "word": "아래로",
+      "phrases": [
+        "진정하다",
+        "거꾸로",
+        "무시하다"
+      ]
+    },
+    "frequency": 833
+  },
+  {
+    "rank": 110,
+    "lemma": "show",
+    "source": {
+      "word": "show",
+      "phrases": [
+        "show up",
+        "show off",
+        "TV show"
+      ]
+    },
+    "target": {
+      "word": "보여주다",
+      "phrases": [
+        "나타나다",
+        "자랑하다",
+        "TV 프로그램"
+      ]
+    },
+    "frequency": 827
+  },
+  {
+    "rank": 111,
+    "lemma": "life",
+    "source": {
+      "word": "life",
+      "phrases": [
+        "life style",
+        "daily life",
+        "life is short"
+      ]
+    },
+    "target": {
+      "word": "인생/삶",
+      "phrases": [
+        "생활 방식",
+        "일상생활",
+        "인생은 짧다"
+      ]
+    },
+    "frequency": 812
+  },
+  {
+    "rank": 112,
+    "lemma": "man",
+    "source": {
+      "word": "man",
+      "phrases": [
+        "old man",
+        "best man",
+        "man made"
+      ]
+    },
+    "target": {
+      "word": "남자",
+      "phrases": [
+        "노인",
+        "신랑 들러리",
+        "인조의"
+      ]
+    },
+    "frequency": 807
+  },
+  {
+    "rank": 113,
+    "lemma": "change",
+    "source": {
+      "word": "change",
+      "phrases": [
+        "change my mind",
+        "change clothes",
+        "small change"
+      ]
+    },
+    "target": {
+      "word": "변화/바꾸다",
+      "phrases": [
+        "마음을 바꾸다",
+        "옷을 갈아입다",
+        "잔돈"
+      ]
+    },
+    "frequency": 799
+  },
+  {
+    "rank": 114,
+    "lemma": "place",
+    "source": {
+      "word": "place",
+      "phrases": [
+        "take place",
+        "in place of",
+        "nice place"
+      ]
+    },
+    "target": {
+      "word": "장소",
+      "phrases": [
+        "개최되다",
+        "~을 대신하여",
+        "좋은 장소"
+      ]
+    },
+    "frequency": 795
+  },
+  {
+    "rank": 115,
+    "lemma": "long",
+    "source": {
+      "word": "long",
+      "phrases": [
+        "long time",
+        "how long",
+        "so long"
+      ]
+    },
+    "target": {
+      "word": "긴/오래",
+      "phrases": [
+        "오랜 시간",
+        "얼마나 오래",
+        "안녕(작별 인사)"
+      ]
+    },
+    "frequency": 791
+  },
+  {
+    "rank": 116,
+    "lemma": "between",
+    "source": {
+      "word": "between",
+      "phrases": [
+        "between us",
+        "far between",
+        "in between"
+      ]
+    },
+    "target": {
+      "word": "~사이에",
+      "phrases": [
+        "우리 사이에",
+        "드문",
+        "중간에"
+      ]
+    },
+    "frequency": 784
+  },
+  {
+    "rank": 117,
+    "lemma": "feel",
+    "source": {
+      "word": "feel",
+      "phrases": [
+        "feel like",
+        "feel free",
+        "feel better"
+      ]
+    },
+    "target": {
+      "word": "느끼다",
+      "phrases": [
+        "~하고 싶다",
+        "내키는 대로 하다",
+        "기분이 더 나아지다"
+      ]
+    },
+    "frequency": 780
+  },
+  {
+    "rank": 118,
+    "lemma": "too",
+    "source": {
+      "word": "too",
+      "phrases": [
+        "me too",
+        "too much",
+        "too late"
+      ]
+    },
+    "target": {
+      "word": "또한/너무",
+      "phrases": [
+        "나도 마찬가지야",
+        "너무 많이",
+        "너무 늦은"
+      ]
+    },
+    "frequency": 763
+  },
+  {
+    "rank": 119,
+    "lemma": "still",
+    "source": {
+      "word": "still",
+      "phrases": [
+        "still here",
+        "stand still",
+        "still water"
+      ]
+    },
+    "target": {
+      "word": "여전히",
+      "phrases": [
+        "아직 여기",
+        "가만히 서 있다",
+        "잔잔한 물"
+      ]
+    },
+    "frequency": 752
+  },
+  {
+    "rank": 120,
+    "lemma": "problem",
+    "source": {
+      "word": "problem",
+      "phrases": [
+        "no problem",
+        "big problem",
+        "solve a problem"
+      ]
+    },
+    "target": {
+      "word": "문제",
+      "phrases": [
+        "천만에요",
+        "큰 문제",
+        "문제를 해결하다"
+      ]
+    },
+    "frequency": 733
+  },
+  {
+    "rank": 121,
+    "lemma": "write",
+    "source": {
+      "word": "write",
+      "phrases": [
+        "write down",
+        "write back",
+        "write a letter"
+      ]
+    },
+    "target": {
+      "word": "쓰다",
+      "phrases": [
+        "적어 두다",
+        "답장을 쓰다",
+        "편지를 쓰다"
+      ]
+    },
+    "frequency": 732
+  },
+  {
+    "rank": 122,
+    "lemma": "same",
+    "source": {
+      "word": "same",
+      "phrases": [
+        "same to you",
+        "at the same time",
+        "all the same"
+      ]
+    },
+    "target": {
+      "word": "같은",
+      "phrases": [
+        "당신도 마찬가지예요",
+        "동시에",
+        "그럼에도 불구하고"
+      ]
+    },
+    "frequency": 721
+  },
+  {
+    "rank": 123,
+    "lemma": "lot",
+    "source": {
+      "word": "lot",
+      "phrases": [
+        "a lot of",
+        "thanks a lot",
+        "parking lot"
+      ]
+    },
+    "target": {
+      "word": "많음/장소",
+      "phrases": [
+        "많은",
+        "대단히 감사합니다",
+        "주차장"
+      ]
+    },
+    "frequency": 715
+  },
+  {
+    "rank": 124,
+    "lemma": "great",
+    "source": {
+      "word": "great",
+      "phrases": [
+        "great job",
+        "sounds great",
+        "a great deal"
+      ]
+    },
+    "target": {
+      "word": "훌륭한",
+      "phrases": [
+        "잘했어",
+        "좋게 들리네요",
+        "상당히 많은"
+      ]
+    },
+    "frequency": 710
+  },
+  {
+    "rank": 125,
+    "lemma": "try",
+    "source": {
+      "word": "try",
+      "phrases": [
+        "try on",
+        "try out",
+        "give it a try"
+      ]
+    },
+    "target": {
+      "word": "시도하다",
+      "phrases": [
+        "입어보다",
+        "시험해보다",
+        "한번 해보다"
+      ]
+    },
+    "frequency": 699
+  },
+  {
+    "rank": 126,
+    "lemma": "leave",
+    "source": {
+      "word": "leave",
+      "phrases": [
+        "leave alone",
+        "leave a message",
+        "on leave"
+      ]
+    },
+    "target": {
+      "word": "떠나다/남겨두다",
+      "phrases": [
+        "혼자 내버려 두다",
+        "메시지를 남기다",
+        "휴가 중"
+      ]
+    },
+    "frequency": 699
+  },
+  {
+    "rank": 127,
+    "lemma": "number",
+    "source": {
+      "word": "number",
+      "phrases": [
+        "phone number",
+        "a number of",
+        "number one"
+      ]
+    },
+    "target": {
+      "word": "번호/수",
+      "phrases": [
+        "전화번호",
+        "많은 수의",
+        "제일의/최고의"
+      ]
+    },
+    "frequency": 698
+  },
+  {
+    "rank": 128,
+    "lemma": "both",
+    "source": {
+      "word": "both",
+      "phrases": [
+        "both of them",
+        "both A and B",
+        "both sides"
+      ]
+    },
+    "target": {
+      "word": "둘 다",
+      "phrases": [
+        "그들 둘 다",
+        "A와 B 둘 다",
+        "양측"
+      ]
+    },
+    "frequency": 695
+  },
+  {
+    "rank": 129,
+    "lemma": "own",
+    "source": {
+      "word": "own",
+      "phrases": [
+        "my own",
+        "on my own",
+        "own a house"
+      ]
+    },
+    "target": {
+      "word": "자신의/소유하다",
+      "phrases": [
+        "나 자신의",
+        "나 스스로",
+        "집을 소유하다"
+      ]
+    },
+    "frequency": 693
+  },
+  {
+    "rank": 130,
+    "lemma": "part",
+    "source": {
+      "word": "part",
+      "phrases": [
+        "take part in",
+        "part time",
+        "part of"
+      ]
+    },
+    "target": {
+      "word": "부분/역할",
+      "phrases": [
+        "~에 참여하다",
+        "아르바이트/파트타임",
+        "~의 일부"
+      ]
+    },
+    "frequency": 692
+  },
+  {
+    "rank": 131,
+    "lemma": "point",
+    "source": {
+      "word": "point",
+      "phrases": [
+        "point of view",
+        "point out",
+        "to the point"
+      ]
+    },
+    "target": {
+      "word": "지점/요점",
+      "phrases": [
+        "관점",
+        "지적하다",
+        "요령 있게/적절한"
+      ]
+    },
+    "frequency": 684
+  },
+  {
+    "rank": 132,
+    "lemma": "little",
+    "source": {
+      "word": "little",
+      "phrases": [
+        "a little",
+        "little bit",
+        "little by little"
+      ]
+    },
+    "target": {
+      "word": "작은/거의 없는",
+      "phrases": [
+        "조금",
+        "약간",
+        "조금씩/점차"
+      ]
+    },
+    "frequency": 681
+  },
+  {
+    "rank": 133,
+    "lemma": "help",
+    "source": {
+      "word": "help",
+      "phrases": [
+        "help yourself",
+        "cannot help",
+        "ask for help"
+      ]
+    },
+    "target": {
+      "word": "돕다",
+      "phrases": [
+        "마음껏 드세요",
+        "~하지 않을 수 없다",
+        "도움을 요청하다"
+      ]
+    },
+    "frequency": 680
+  },
+  {
+    "rank": 134,
+    "lemma": "ask",
+    "source": {
+      "word": "ask",
+      "phrases": [
+        "ask for",
+        "ask out",
+        "don't ask"
+      ]
+    },
+    "target": {
+      "word": "묻다/요청하다",
+      "phrases": [
+        "~을 요청하다",
+        "데이트를 신청하다",
+        "묻지 마세요"
+      ]
+    },
+    "frequency": 675
+  },
+  {
+    "rank": 135,
+    "lemma": "meet",
+    "source": {
+      "word": "meet",
+      "phrases": [
+        "nice to meet you",
+        "meet the needs",
+        "meet again"
+      ]
+    },
+    "target": {
+      "word": "만나다/충족시키다",
+      "phrases": [
+        "만나서 반가워요",
+        "필요를 충족시키다",
+        "다시 만나다"
+      ]
+    },
+    "frequency": 671
+  },
+  {
+    "rank": 136,
+    "lemma": "start",
+    "source": {
+      "word": "start",
+      "phrases": [
+        "start over",
+        "start up",
+        "fresh start"
+      ]
+    },
+    "target": {
+      "word": "시작하다",
+      "phrases": [
+        "다시 시작하다",
+        "가동하다/창업하다",
+        "새로운 시작"
+      ]
+    },
+    "frequency": 669
+  },
+  {
+    "rank": 137,
+    "lemma": "talk",
+    "source": {
+      "word": "talk",
+      "phrases": [
+        "talk about",
+        "talk to",
+        "small talk"
+      ]
+    },
+    "target": {
+      "word": "말하다",
+      "phrases": [
+        "~에 대해 이야기하다",
+        "~에게 말을 걸다",
+        "한담/잡담"
+      ]
+    },
+    "frequency": 665
+  },
+  {
+    "rank": 138,
+    "lemma": "something",
+    "source": {
+      "word": "something",
+      "phrases": [
+        "something else",
+        "something wrong",
+        "something like"
+      ]
+    },
+    "target": {
+      "word": "무언가",
+      "phrases": [
+        "그 밖의 다른 것",
+        "무언가 잘못된 것",
+        "~와 같은 것"
+      ]
+    },
+    "frequency": 665
+  },
+  {
+    "rank": 139,
+    "lemma": "put",
+    "source": {
+      "word": "put",
+      "phrases": [
+        "put on",
+        "put off",
+        "put up with"
+      ]
+    },
+    "target": {
+      "word": "놓다/두다",
+      "phrases": [
+        "입다/쓰다",
+        "미루다/연기하다",
+        "~을 참다"
+      ]
+    },
+    "frequency": 655
+  },
+  {
+    "rank": 140,
+    "lemma": "another",
+    "source": {
+      "word": "another",
+      "phrases": [
+        "one after another",
+        "another day",
+        "one way or another"
+      ]
+    },
+    "target": {
+      "word": "또 다른 하나",
+      "phrases": [
+        "차례차례",
+        "다른 날",
+        "어떻게 해서든"
+      ]
+    },
+    "frequency": 655
+  },
+  {
+    "rank": 141,
+    "lemma": "become",
+    "source": {
+      "word": "become",
+      "phrases": [
+        "become friends",
+        "become aware",
+        "what has become of...?"
+      ]
+    },
+    "target": {
+      "word": "~이 되다",
+      "phrases": [
+        "친구가 되다",
+        "알게 되다",
+        "~은 어떻게 되었나?"
+      ]
+    },
+    "frequency": 654
+  },
+  {
+    "rank": 142,
+    "lemma": "interest",
+    "source": {
+      "word": "interest",
+      "phrases": [
+        "interest rate",
+        "take an interest",
+        "of interest"
+      ]
+    },
+    "target": {
+      "word": "관심, 이자",
+      "phrases": [
+        "이자율",
+        "관심을 갖다",
+        "흥미로운"
+      ]
+    },
+    "frequency": 653
+  },
+  {
+    "rank": 143,
+    "lemma": "country",
+    "source": {
+      "word": "country",
+      "phrases": [
+        "foreign country",
+        "country side",
+        "cross country"
+      ]
+    },
+    "target": {
+      "word": "나라, 시골",
+      "phrases": [
+        "외국",
+        "시골",
+        "크로스 컨트리"
+      ]
+    },
+    "frequency": 653
+  },
+  {
+    "rank": 144,
+    "lemma": "old",
+    "source": {
+      "word": "old",
+      "phrases": [
+        "how old",
+        "old fashioned",
+        "grow old"
+      ]
+    },
+    "target": {
+      "word": "나이 든, 오래된",
+      "phrases": [
+        "몇 살",
+        "구식의",
+        "나이가 들다"
+      ]
+    },
+    "frequency": 647
+  },
+  {
+    "rank": 145,
+    "lemma": "each",
+    "source": {
+      "word": "each",
+      "phrases": [
+        "each other",
+        "each and every",
+        "each time"
+      ]
+    },
+    "target": {
+      "word": "각각의",
+      "phrases": [
+        "서로",
+        "하나하나 모두",
+        "매번"
+      ]
+    },
+    "frequency": 646
+  },
+  {
+    "rank": 146,
+    "lemma": "school",
+    "source": {
+      "word": "school",
+      "phrases": [
+        "high school",
+        "at school",
+        "school bus"
+      ]
+    },
+    "target": {
+      "word": "학교",
+      "phrases": [
+        "고등학교",
+        "학교에서",
+        "학교 버스"
+      ]
+    },
+    "frequency": 638
+  },
+  {
+    "rank": 147,
+    "lemma": "late",
+    "source": {
+      "word": "late",
+      "phrases": [
+        "late for",
+        "see you later",
+        "of late"
+      ]
+    },
+    "target": {
+      "word": "늦은",
+      "phrases": [
+        "~에 늦은",
+        "나중에 봐요",
+        "최근에"
+      ]
+    },
+    "frequency": 638
+  },
+  {
+    "rank": 148,
+    "lemma": "high",
+    "source": {
+      "word": "high",
+      "phrases": [
+        "high school",
+        "high quality",
+        "high five"
+      ]
+    },
+    "target": {
+      "word": "높은",
+      "phrases": [
+        "고등학교",
+        "고품질",
+        "하이파이브"
+      ]
+    },
+    "frequency": 637
+  },
+  {
+    "rank": 149,
+    "lemma": "different",
+    "source": {
+      "word": "different",
+      "phrases": [
+        "different from",
+        "make a difference",
+        "something different"
+      ]
+    },
+    "target": {
+      "word": "다른",
+      "phrases": [
+        "~와 다른",
+        "차이를 만들다",
+        "뭔가 다른 것"
+      ]
+    },
+    "frequency": 636
+  },
+  {
+    "rank": 150,
+    "lemma": "off",
+    "source": {
+      "word": "off",
+      "phrases": [
+        "take off",
+        "day off",
+        "turn off"
+      ]
+    },
+    "target": {
+      "word": "떨어져, 꺼진",
+      "phrases": [
+        "이륙하다, 벗다",
+        "쉬는 날",
+        "끄다"
+      ]
+    },
+    "frequency": 630
+  },
+  {
+    "rank": 151,
+    "lemma": "next",
+    "source": {
+      "word": "next",
+      "phrases": [
+        "next to",
+        "next year",
+        "next door"
+      ]
+    },
+    "target": {
+      "word": "다음의",
+      "phrases": [
+        "~옆에",
+        "내년",
+        "옆집"
+      ]
+    },
+    "frequency": 620
+  },
+  {
+    "rank": 152,
+    "lemma": "end",
+    "source": {
+      "word": "end",
+      "phrases": [
+        "in the end",
+        "end up",
+        "no end"
+      ]
+    },
+    "target": {
+      "word": "끝",
+      "phrases": [
+        "결국",
+        "결국 ~하게 되다",
+        "끝이 없는"
+      ]
+    },
+    "frequency": 619
+  },
+  {
+    "rank": 153,
+    "lemma": "live",
+    "source": {
+      "word": "live",
+      "phrases": [
+        "live in",
+        "live stream",
+        "live a life"
+      ]
+    },
+    "target": {
+      "word": "살다, 생생한",
+      "phrases": [
+        "~에 살다",
+        "라이브 스트리밍",
+        "삶을 살다"
+      ]
+    },
+    "frequency": 608
+  },
+  {
+    "rank": 154,
+    "lemma": "why",
+    "source": {
+      "word": "why",
+      "phrases": [
+        "why not?",
+        "that's why",
+        "reason why"
+      ]
+    },
+    "target": {
+      "word": "왜",
+      "phrases": [
+        "왜 안 돼?",
+        "그것이 ~한 이유다",
+        "이유"
+      ]
+    },
+    "frequency": 607
+  },
+  {
+    "rank": 155,
+    "lemma": "while",
+    "source": {
+      "word": "while",
+      "phrases": [
+        "for a while",
+        "worth while",
+        "while ago"
+      ]
+    },
+    "target": {
+      "word": "~하는 동안, 잠시",
+      "phrases": [
+        "잠시 동안",
+        "가치 있는",
+        "조금 전"
+      ]
+    },
+    "frequency": 598
+  },
+  {
+    "rank": 156,
+    "lemma": "world",
+    "source": {
+      "word": "world",
+      "phrases": [
+        "all over the world",
+        "world wide",
+        "out of this world"
+      ]
+    },
+    "target": {
+      "word": "세계",
+      "phrases": [
+        "전 세계적으로",
+        "전 세계적인",
+        "기막히게 좋은"
+      ]
+    },
+    "frequency": 597
+  },
+  {
+    "rank": 157,
+    "lemma": "week",
+    "source": {
+      "word": "week",
+      "phrases": [
+        "last week",
+        "once a week",
+        "weekend"
+      ]
+    },
+    "target": {
+      "word": "주",
+      "phrases": [
+        "지난주",
+        "일주일에 한 번",
+        "주말"
+      ]
+    },
+    "frequency": 596
+  },
+  {
+    "rank": 158,
+    "lemma": "play",
+    "source": {
+      "word": "play",
+      "phrases": [
+        "play a role",
+        "play the guitar",
+        "play games"
+      ]
+    },
+    "target": {
+      "word": "놀다, 연주하다",
+      "phrases": [
+        "역할을 하다",
+        "기타를 치다",
+        "게임을 하다"
+      ]
+    },
+    "frequency": 593
+  },
+  {
+    "rank": 159,
+    "lemma": "might",
+    "source": {
+      "word": "might",
+      "phrases": [
+        "might be",
+        "might as well",
+        "with all one's might"
+      ]
+    },
+    "target": {
+      "word": "~일지도 모른다, 힘",
+      "phrases": [
+        "~일지도 모른다",
+        "~하는 편이 낫다",
+        "온 힘을 다해"
+      ]
+    },
+    "frequency": 587
+  },
+  {
+    "rank": 160,
+    "lemma": "must",
+    "source": {
+      "word": "must",
+      "phrases": [
+        "must be",
+        "must have",
+        "a must"
+      ]
+    },
+    "target": {
+      "word": "~해야 한다, 틀림없다",
+      "phrases": [
+        "~임에 틀림없다",
+        "~했음에 틀림없다",
+        "필수품"
+      ]
+    },
+    "frequency": 586
+  },
+  {
+    "rank": 161,
+    "lemma": "home",
+    "source": {
+      "word": "home",
+      "phrases": [
+        "at home",
+        "go home",
+        "home town"
+      ]
+    },
+    "target": {
+      "word": "집",
+      "phrases": [
+        "집에서",
+        "집에 가다",
+        "고향"
+      ]
+    },
+    "frequency": 585
+  },
+  {
+    "rank": 162,
+    "lemma": "never",
+    "source": {
+      "word": "never",
+      "phrases": [
+        "never mind",
+        "never ever",
+        "now or never"
+      ]
+    },
+    "target": {
+      "word": "절대로 ~않다",
+      "phrases": [
+        "신경 쓰지 마세요",
+        "절대로",
+        "지금 아니면 절대 안 돼"
+      ]
+    },
+    "frequency": 580
+  },
+  {
+    "rank": 163,
+    "lemma": "include",
+    "source": {
+      "word": "include",
+      "phrases": [
+        "including tax",
+        "include me",
+        "not included"
+      ]
+    },
+    "target": {
+      "word": "포함하다",
+      "phrases": [
+        "세금 포함",
+        "나를 포함해",
+        "포함되지 않음"
+      ]
+    },
+    "frequency": 575
+  },
+  {
+    "rank": 164,
+    "lemma": "course",
+    "source": {
+      "word": "course",
+      "phrases": [
+        "of course",
+        "in the course of",
+        "stay the course"
+      ]
+    },
+    "target": {
+      "word": "과정",
+      "phrases": [
+        "물론이지",
+        "~의 과정에서",
+        "계속 밀고 나가다"
+      ]
+    },
+    "frequency": 575
+  },
+  {
+    "rank": 165,
+    "lemma": "house",
+    "source": {
+      "word": "house",
+      "phrases": [
+        "open house",
+        "house work",
+        "full house"
+      ]
+    },
+    "target": {
+      "word": "집",
+      "phrases": [
+        "오픈 하우스",
+        "집안일",
+        "만석"
+      ]
+    },
+    "frequency": 572
+  },
+  {
+    "rank": 166,
+    "lemma": "report",
+    "source": {
+      "word": "report",
+      "phrases": [
+        "report card",
+        "weather report",
+        "report to"
+      ]
+    },
+    "target": {
+      "word": "보고",
+      "phrases": [
+        "성적표",
+        "일기 예보",
+        "~에게 보고하다"
+      ]
+    },
+    "frequency": 570
+  },
+  {
+    "rank": 167,
+    "lemma": "group",
+    "source": {
+      "word": "group",
+      "phrases": [
+        "group of",
+        "age group",
+        "group photo"
+      ]
+    },
+    "target": {
+      "word": "그룹",
+      "phrases": [
+        "~의 무리",
+        "연령대",
+        "단체 사진"
+      ]
+    },
+    "frequency": 569
+  },
+  {
+    "rank": 168,
+    "lemma": "case",
+    "source": {
+      "word": "case",
+      "phrases": [
+        "in case",
+        "case study",
+        "just in case"
+      ]
+    },
+    "target": {
+      "word": "경우",
+      "phrases": [
+        "~의 경우에 대비하여",
+        "사례 연구",
+        "혹시 모르니까"
+      ]
+    },
+    "frequency": 569
+  },
+  {
+    "rank": 169,
+    "lemma": "woman",
+    "source": {
+      "word": "woman",
+      "phrases": [
+        "career woman",
+        "wonder woman",
+        "young woman"
+      ]
+    },
+    "target": {
+      "word": "여성",
+      "phrases": [
+        "커리어 우먼",
+        "원더 우먼",
+        "젊은 여성"
+      ]
+    },
+    "frequency": 568
+  },
+  {
+    "rank": 170,
+    "lemma": "around",
+    "source": {
+      "word": "around",
+      "phrases": [
+        "around the world",
+        "turn around",
+        "around here"
+      ]
+    },
+    "target": {
+      "word": "주변에",
+      "phrases": [
+        "전 세계에",
+        "뒤를 돌아보다",
+        "이 근처에"
+      ]
+    },
+    "frequency": 568
+  },
+  {
+    "rank": 171,
+    "lemma": "book",
+    "source": {
+      "word": "book",
+      "phrases": [
+        "read a book",
+        "book a flight",
+        "text book"
+      ]
+    },
+    "target": {
+      "word": "책",
+      "phrases": [
+        "책을 읽다",
+        "비행기를 예약하다",
+        "교과서"
+      ]
+    },
+    "frequency": 566
+  },
+  {
+    "rank": 172,
+    "lemma": "family",
+    "source": {
+      "word": "family",
+      "phrases": [
+        "family tree",
+        "family name",
+        "run in the family"
+      ]
+    },
+    "target": {
+      "word": "가족",
+      "phrases": [
+        "가계도",
+        "성(姓)",
+        "가족 내력이다"
+      ]
+    },
+    "frequency": 565
+  },
+  {
+    "rank": 173,
+    "lemma": "seem",
+    "source": {
+      "word": "seem",
+      "phrases": [
+        "seem to be",
+        "it seems that",
+        "doesn't seem like"
+      ]
+    },
+    "target": {
+      "word": "~처럼 보이다",
+      "phrases": [
+        "~인 것 같다",
+        "~인 것처럼 보인다",
+        "~인 것 같지 않다"
+      ]
+    },
+    "frequency": 562
+  },
+  {
+    "rank": 174,
+    "lemma": "let",
+    "source": {
+      "word": "let",
+      "phrases": [
+        "let's go",
+        "let me know",
+        "let it be"
+      ]
+    },
+    "target": {
+      "word": "시키다",
+      "phrases": [
+        "가자",
+        "나에게 알려줘",
+        "그대로 두다"
+      ]
+    },
+    "frequency": 555
+  },
+  {
+    "rank": 175,
+    "lemma": "again",
+    "source": {
+      "word": "again",
+      "phrases": [
+        "try again",
+        "once again",
+        "never again"
+      ]
+    },
+    "target": {
+      "word": "다시",
+      "phrases": [
+        "다시 시도하다",
+        "한 번 더",
+        "다시는 안 함"
+      ]
+    },
+    "frequency": 554
+  },
+  {
+    "rank": 176,
+    "lemma": "kind",
+    "source": {
+      "word": "kind",
+      "phrases": [
+        "kind of",
+        "be kind to",
+        "what kind of"
+      ]
+    },
+    "target": {
+      "word": "종류",
+      "phrases": [
+        "일종의",
+        "~에게 친절하다",
+        "어떤 종류의"
+      ]
+    },
+    "frequency": 554
+  },
+  {
+    "rank": 177,
+    "lemma": "keep",
+    "source": {
+      "word": "keep",
+      "phrases": [
+        "keep going",
+        "keep in mind",
+        "keep away"
+      ]
+    },
+    "target": {
+      "word": "유지하다",
+      "phrases": [
+        "계속 가다",
+        "명심하다",
+        "멀리하다"
+      ]
+    },
+    "frequency": 551
+  },
+  {
+    "rank": 178,
+    "lemma": "hear",
+    "source": {
+      "word": "hear",
+      "phrases": [
+        "hear from",
+        "hear of",
+        "hard of hearing"
+      ]
+    },
+    "target": {
+      "word": "듣다",
+      "phrases": [
+        "~로부터 소식을 듣다",
+        "~에 대해 듣다",
+        "귀가 어두운"
+      ]
+    },
+    "frequency": 546
+  },
+  {
+    "rank": 179,
+    "lemma": "system",
+    "source": {
+      "word": "system",
+      "phrases": [
+        "solar system",
+        "immune system",
+        "sound system"
+      ]
+    },
+    "target": {
+      "word": "시스템",
+      "phrases": [
+        "태양계",
+        "면역 체계",
+        "음향 시스템"
+      ]
+    },
+    "frequency": 545
+  },
+  {
+    "rank": 180,
+    "lemma": "every",
+    "source": {
+      "word": "every",
+      "phrases": [
+        "every day",
+        "every time",
+        "every single"
+      ]
+    },
+    "target": {
+      "word": "모든",
+      "phrases": [
+        "매일",
+        "매번",
+        "하나하나 모두"
+      ]
+    },
+    "frequency": 545
+  },
+  {
+    "rank": 181,
+    "lemma": "question",
+    "source": {
+      "word": "question",
+      "phrases": [
+        "ask a question",
+        "out of the question",
+        "question mark"
+      ]
+    },
+    "target": {
+      "word": "질문",
+      "phrases": [
+        "질문하다",
+        "불가능한",
+        "물음표"
+      ]
+    },
+    "frequency": 542
+  },
+  {
+    "rank": 182,
+    "lemma": "during",
+    "source": {
+      "word": "during",
+      "phrases": [
+        "during the day",
+        "during the war",
+        "during my stay"
+      ]
+    },
+    "target": {
+      "word": "~동안",
+      "phrases": [
+        "낮 동안에",
+        "전쟁 중에",
+        "머무르는 동안"
+      ]
+    },
+    "frequency": 540
+  },
+  {
+    "rank": 183,
+    "lemma": "always",
+    "source": {
+      "word": "always",
+      "phrases": [
+        "always have",
+        "as always",
+        "not always"
+      ]
+    },
+    "target": {
+      "word": "항상",
+      "phrases": [
+        "항상 가지고 있다",
+        "늘 그렇듯",
+        "항상 ~인 것은 아니다"
+      ]
+    },
+    "frequency": 531
+  },
+  {
+    "rank": 184,
+    "lemma": "big",
+    "source": {
+      "word": "big",
+      "phrases": [
+        "big deal",
+        "big brother",
+        "dream big"
+      ]
+    },
+    "target": {
+      "word": "큰",
+      "phrases": [
+        "큰일",
+        "형 또는 오빠",
+        "큰 꿈을 가지다"
+      ]
+    },
+    "frequency": 527
+  },
+  {
+    "rank": 185,
+    "lemma": "set",
+    "source": {
+      "word": "set",
+      "phrases": [
+        "set up",
+        "all set",
+        "sunset"
+      ]
+    },
+    "target": {
+      "word": "설정하다",
+      "phrases": [
+        "설치하다",
+        "준비 완료",
+        "일몰"
+      ]
+    },
+    "frequency": 526
+  },
+  {
+    "rank": 186,
+    "lemma": "small",
+    "source": {
+      "word": "small",
+      "phrases": [
+        "small talk",
+        "small world",
+        "feel small"
+      ]
+    },
+    "target": {
+      "word": "작은",
+      "phrases": [
+        "한담",
+        "좁은 세상",
+        "위축되다"
+      ]
+    },
+    "frequency": 525
+  },
+  {
+    "rank": 187,
+    "lemma": "study",
+    "source": {
+      "word": "study",
+      "phrases": [
+        "study hard",
+        "case study",
+        "study abroad"
+      ]
+    },
+    "target": {
+      "word": "공부하다",
+      "phrases": [
+        "열심히 공부하다",
+        "사례 연구",
+        "유학하다"
+      ]
+    },
+    "frequency": 524
+  },
+  {
+    "rank": 188,
+    "lemma": "follow",
+    "source": {
+      "word": "follow",
+      "phrases": [
+        "follow me",
+        "follow the rules",
+        "as follows"
+      ]
+    },
+    "target": {
+      "word": "따르다",
+      "phrases": [
+        "나를 따르라",
+        "규칙을 준수하다",
+        "다음과 같이"
+      ]
+    },
+    "frequency": 521
+  },
+  {
+    "rank": 189,
+    "lemma": "begin",
+    "source": {
+      "word": "begin",
+      "phrases": [
+        "to begin with",
+        "begin again",
+        "begin at the beginning"
+      ]
+    },
+    "target": {
+      "word": "시작하다",
+      "phrases": [
+        "우선",
+        "다시 시작하다",
+        "처음부터 시작하다"
+      ]
+    },
+    "frequency": 518
+  },
+  {
+    "rank": 190,
+    "lemma": "important",
+    "source": {
+      "word": "important",
+      "phrases": [
+        "important to",
+        "most important",
+        "play an important role"
+      ]
+    },
+    "target": {
+      "word": "중요한",
+      "phrases": [
+        "~에 중요한",
+        "가장 중요한",
+        "중요한 역할을 하다"
+      ]
+    },
+    "frequency": 518
+  },
+  {
+    "rank": 191,
+    "lemma": "since",
+    "source": {
+      "word": "since",
+      "phrases": [
+        "ever since",
+        "since then",
+        "long since"
+      ]
+    },
+    "target": {
+      "word": "~이후로",
+      "phrases": [
+        "그 이후로 줄곧",
+        "그때 이후로",
+        "오래전에"
+      ]
+    },
+    "frequency": 515
+  },
+  {
+    "rank": 192,
+    "lemma": "run",
+    "source": {
+      "word": "run",
+      "phrases": [
+        "run away",
+        "run out of",
+        "run a business"
+      ]
+    },
+    "target": {
+      "word": "달리다",
+      "phrases": [
+        "도망치다",
+        "~이 바닥나다",
+        "사업을 운영하다"
+      ]
+    },
+    "frequency": 510
+  },
+  {
+    "rank": 193,
+    "lemma": "under",
+    "source": {
+      "word": "under",
+      "phrases": [
+        "under control",
+        "under pressure",
+        "under water"
+      ]
+    },
+    "target": {
+      "word": "~아래에",
+      "phrases": [
+        "제어 하에",
+        "압박을 받는",
+        "물속에"
+      ]
+    },
+    "frequency": 509
+  },
+  {
+    "rank": 194,
+    "lemma": "turn",
+    "source": {
+      "word": "turn",
+      "phrases": [
+        "turn on",
+        "turn out",
+        "your turn"
+      ]
+    },
+    "target": {
+      "word": "돌리다",
+      "phrases": [
+        "켜다",
+        "~임이 밝혀지다",
+        "너의 차례"
+      ]
+    },
+    "frequency": 509
+  },
+  {
+    "rank": 195,
+    "lemma": "few",
+    "source": {
+      "word": "few",
+      "phrases": [
+        "a few",
+        "quite a few",
+        "few people"
+      ]
+    },
+    "target": {
+      "word": "거의 없는",
+      "phrases": [
+        "몇몇의",
+        "꽤 많은",
+        "소수의 사람들"
+      ]
+    },
+    "frequency": 509
+  },
+  {
+    "rank": 196,
+    "lemma": "bring",
+    "source": {
+      "word": "bring",
+      "phrases": [
+        "bring up",
+        "bring about",
+        "bring it on"
+      ]
+    },
+    "target": {
+      "word": "가져오다",
+      "phrases": [
+        "말을 꺼내다",
+        "초래하다",
+        "덤벼 봐"
+      ]
+    },
+    "frequency": 502
+  },
+  {
+    "rank": 197,
+    "lemma": "early",
+    "source": {
+      "word": "early",
+      "phrases": [
+        "early bird",
+        "early days",
+        "arrive early"
+      ]
+    },
+    "target": {
+      "word": "이른",
+      "phrases": [
+        "일찍 일어나는 새",
+        "초창기",
+        "일찍 도착하다"
+      ]
+    },
+    "frequency": 499
+  },
+  {
+    "rank": 198,
+    "lemma": "hand",
+    "source": {
+      "word": "hand",
+      "phrases": [
+        "give a hand",
+        "on the other hand",
+        "hand in hand"
+      ]
+    },
+    "target": {
+      "word": "손",
+      "phrases": [
+        "도와주다",
+        "반면에",
+        "손에 손 잡고"
+      ]
+    },
+    "frequency": 497
+  },
+  {
+    "rank": 199,
+    "lemma": "state",
+    "source": {
+      "word": "state",
+      "phrases": [
+        "state of mind",
+        "United States",
+        "state clearly"
+      ]
+    },
+    "target": {
+      "word": "상태",
+      "phrases": [
+        "심리 상태",
+        "미국",
+        "명확히 밝히다"
+      ]
+    },
+    "frequency": 494
+  },
+  {
+    "rank": 200,
+    "lemma": "move",
+    "source": {
+      "word": "move",
+      "phrases": [
+        "move on",
+        "move in",
+        "on the move"
+      ]
+    },
+    "target": {
+      "word": "움직이다",
+      "phrases": [
+        "계속 나아가다",
+        "이사 오다",
+        "활동 중인"
+      ]
+    },
+    "frequency": 493
+  }
+]

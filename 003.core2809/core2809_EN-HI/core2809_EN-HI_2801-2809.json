@@ -1,0 +1,191 @@
+[
+  {
+    "rank": 2801,
+    "lemma": "alright",
+    "source": {
+      "word": "alright",
+      "phrases": [
+        "it's alright",
+        "are you alright?",
+        "everything is alright"
+      ]
+    },
+    "target": {
+      "word": "ठीक",
+      "phrases": [
+        "यह ठीक है",
+        "क्या आप ठीक हैं?",
+        "सब कुछ ठीक है"
+      ]
+    },
+    "frequency": 11
+  },
+  {
+    "rank": 2802,
+    "lemma": "lazy",
+    "source": {
+      "word": "lazy",
+      "phrases": [
+        "lazy afternoon",
+        "lazy bones",
+        "too lazy to"
+      ]
+    },
+    "target": {
+      "word": "आलसी",
+      "phrases": [
+        "आलसी दोपहर",
+        "बेहद आलसी व्यक्ति",
+        "करने में बहुत आलस आना"
+      ]
+    },
+    "frequency": 10
+  },
+  {
+    "rank": 2803,
+    "lemma": "hello",
+    "source": {
+      "word": "hello",
+      "phrases": [
+        "say hello",
+        "hello world",
+        "hello there"
+      ]
+    },
+    "target": {
+      "word": "नमस्ते",
+      "phrases": [
+        "नमस्ते कहें",
+        "नमस्ते दुनिया",
+        "वहाँ नमस्ते"
+      ]
+    },
+    "frequency": 10
+  },
+  {
+    "rank": 2804,
+    "lemma": "hunger",
+    "source": {
+      "word": "hunger",
+      "phrases": [
+        "satisfy hunger",
+        "hunger strike",
+        "hunger for"
+      ]
+    },
+    "target": {
+      "word": "भूख",
+      "phrases": [
+        "भूख मिटाना",
+        "भूख हड़ताल",
+        "के लिए भूख"
+      ]
+    },
+    "frequency": 9
+  },
+  {
+    "rank": 2805,
+    "lemma": "insure",
+    "source": {
+      "word": "insure",
+      "phrases": [
+        "insure against",
+        "insure a car",
+        "fully insured"
+      ]
+    },
+    "target": {
+      "word": "बीमा करना",
+      "phrases": [
+        "के विरुद्ध बीमा",
+        "कार का बीमा करना",
+        "पूरी तरह से बीमित"
+      ]
+    },
+    "frequency": 9
+  },
+  {
+    "rank": 2806,
+    "lemma": "ashamed",
+    "source": {
+      "word": "ashamed",
+      "phrases": [
+        "ashamed of",
+        "feel ashamed",
+        "nothing to be ashamed of"
+      ]
+    },
+    "target": {
+      "word": "शर्मिंदा",
+      "phrases": [
+        "पर शर्मिंदा",
+        "शर्मिंदगी महसूस करना",
+        "शर्मिंदा होने वाली कोई बात नहीं"
+      ]
+    },
+    "frequency": 8
+  },
+  {
+    "rank": 2807,
+    "lemma": "found",
+    "source": {
+      "word": "found",
+      "phrases": [
+        "found a company",
+        "lost and found",
+        "well founded"
+      ]
+    },
+    "target": {
+      "word": "स्थापित करना",
+      "phrases": [
+        "कंपनी की स्थापना करना",
+        "खोया और पाया",
+        "सुव्यवस्थित"
+      ]
+    },
+    "frequency": 7
+  },
+  {
+    "rank": 2808,
+    "lemma": "blog",
+    "source": {
+      "word": "blog",
+      "phrases": [
+        "write a blog",
+        "travel blog",
+        "blog post"
+      ]
+    },
+    "target": {
+      "word": "ब्लॉग",
+      "phrases": [
+        "ब्लॉग लिखना",
+        "यात्रा ब्लॉग",
+        "ब्लॉग पोस्ट"
+      ]
+    },
+    "frequency": 7
+  },
+  {
+    "rank": 2809,
+    "lemma": "thirst",
+    "source": {
+      "word": "thirst",
+      "phrases": [
+        "quench thirst",
+        "thirst for knowledge",
+        "die of thirst"
+      ]
+    },
+    "target": {
+      "word": "प्यास",
+      "phrases": [
+        "प्यास बुझाना",
+        "ज्ञान की प्यास",
+        "प्यास से मरना"
+      ]
+    },
+    "frequency": 3
+  }
+]

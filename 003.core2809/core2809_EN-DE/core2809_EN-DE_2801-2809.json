@@ -1,0 +1,191 @@
+[
+  {
+    "rank": 2801,
+    "lemma": "alright",
+    "source": {
+      "word": "alright",
+      "phrases": [
+        "it's alright",
+        "are you alright?",
+        "everything is alright"
+      ]
+    },
+    "target": {
+      "word": "in Ordnung",
+      "phrases": [
+        "es ist in Ordnung",
+        "geht es dir gut?",
+        "alles ist in Ordnung"
+      ]
+    },
+    "frequency": 11
+  },
+  {
+    "rank": 2802,
+    "lemma": "lazy",
+    "source": {
+      "word": "lazy",
+      "phrases": [
+        "lazy afternoon",
+        "lazy bones",
+        "too lazy to"
+      ]
+    },
+    "target": {
+      "word": "faul",
+      "phrases": [
+        "fauler Nachmittag",
+        "Faulpelz",
+        "zu faul um"
+      ]
+    },
+    "frequency": 10
+  },
+  {
+    "rank": 2803,
+    "lemma": "hello",
+    "source": {
+      "word": "hello",
+      "phrases": [
+        "say hello",
+        "hello world",
+        "hello there"
+      ]
+    },
+    "target": {
+      "word": "hallo",
+      "phrases": [
+        "hallo sagen",
+        "Hallo Welt",
+        "hallo du da"
+      ]
+    },
+    "frequency": 10
+  },
+  {
+    "rank": 2804,
+    "lemma": "hunger",
+    "source": {
+      "word": "hunger",
+      "phrases": [
+        "satisfy hunger",
+        "hunger strike",
+        "hunger for"
+      ]
+    },
+    "target": {
+      "word": "Hunger",
+      "phrases": [
+        "Hunger stillen",
+        "Hungerstreik",
+        "Hunger nach"
+      ]
+    },
+    "frequency": 9
+  },
+  {
+    "rank": 2805,
+    "lemma": "insure",
+    "source": {
+      "word": "insure",
+      "phrases": [
+        "insure against",
+        "insure a car",
+        "fully insured"
+      ]
+    },
+    "target": {
+      "word": "versichern",
+      "phrases": [
+        "versichern gegen",
+        "ein Auto versichern",
+        "voll versichert"
+      ]
+    },
+    "frequency": 9
+  },
+  {
+    "rank": 2806,
+    "lemma": "ashamed",
+    "source": {
+      "word": "ashamed",
+      "phrases": [
+        "ashamed of",
+        "feel ashamed",
+        "nothing to be ashamed of"
+      ]
+    },
+    "target": {
+      "word": "beschämt",
+      "phrases": [
+        "beschämt über",
+        "sich schämen",
+        "nichts wofür man sich schämen müsste"
+      ]
+    },
+    "frequency": 8
+  },
+  {
+    "rank": 2807,
+    "lemma": "found",
+    "source": {
+      "word": "found",
+      "phrases": [
+        "found a company",
+        "lost and found",
+        "well founded"
+      ]
+    },
+    "target": {
+      "word": "gründen",
+      "phrases": [
+        "eine Firma gründen",
+        "Fundbüro",
+        "gut begründet"
+      ]
+    },
+    "frequency": 7
+  },
+  {
+    "rank": 2808,
+    "lemma": "blog",
+    "source": {
+      "word": "blog",
+      "phrases": [
+        "write a blog",
+        "travel blog",
+        "blog post"
+      ]
+    },
+    "target": {
+      "word": "Blog",
+      "phrases": [
+        "einen Blog schreiben",
+        "Reiseblog",
+        "Blogbeitrag"
+      ]
+    },
+    "frequency": 7
+  },
+  {
+    "rank": 2809,
+    "lemma": "thirst",
+    "source": {
+      "word": "thirst",
+      "phrases": [
+        "quench thirst",
+        "thirst for knowledge",
+        "die of thirst"
+      ]
+    },
+    "target": {
+      "word": "Durst",
+      "phrases": [
+        "Durst löschen",
+        "Wissensdurst",
+        "vor Durst sterben"
+      ]
+    },
+    "frequency": 3
+  }
+]

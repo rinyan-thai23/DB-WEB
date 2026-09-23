@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 601,
+    "lemma": "particularly",
+    "source": {
+      "word": "particularly",
+      "phrases": [
+        "particularly interested",
+        "not particularly",
+        "particularly good"
+      ]
+    },
+    "target": {
+      "word": "особенно",
+      "phrases": [
+        "особенно заинтересован",
+        "не особо",
+        "особенно хорош"
+      ]
+    },
+    "frequency": 162
+  },
+  {
+    "rank": 602,
+    "lemma": "wife",
+    "source": {
+      "word": "wife",
+      "phrases": [
+        "husband and wife",
+        "my wife",
+        "house wife"
+      ]
+    },
+    "target": {
+      "word": "жена",
+      "phrases": [
+        "муж и жена",
+        "моя жена",
+        "домохозяйка"
+      ]
+    },
+    "frequency": 161
+  },
+  {
+    "rank": 603,
+    "lemma": "sport",
+    "source": {
+      "word": "sport",
+      "phrases": [
+        "play sports",
+        "sport car",
+        "team sport"
+      ]
+    },
+    "target": {
+      "word": "спорт",
+      "phrases": [
+        "заниматься спортом",
+        "спортивная машина",
+        "командный вид спорта"
+      ]
+    },
+    "frequency": 161
+  },
+  {
+    "rank": 604,
+    "lemma": "prepare",
+    "source": {
+      "word": "prepare",
+      "phrases": [
+        "prepare for",
+        "prepare dinner",
+        "be prepared"
+      ]
+    },
+    "target": {
+      "word": "готовить",
+      "phrases": [
+        "готовиться к",
+        "готовить ужин",
+        "будь готов"
+      ]
+    },
+    "frequency": 160
+  },
+  {
+    "rank": 605,
+    "lemma": "discuss",
+    "source": {
+      "word": "discuss",
+      "phrases": [
+        "discuss the problem",
+        "discuss with",
+        "discuss details"
+      ]
+    },
+    "target": {
+      "word": "обсуждать",
+      "phrases": [
+        "обсуждать проблему",
+        "обсуждать с",
+        "обсуждать детали"
+      ]
+    },
+    "frequency": 160
+  },
+  {
+    "rank": 606,
+    "lemma": "response",
+    "source": {
+      "word": "response",
+      "phrases": [
+        "in response to",
+        "quick response",
+        "no response"
+      ]
+    },
+    "target": {
+      "word": "ответ",
+      "phrases": [
+        "в ответ на",
+        "быстрый ответ",
+        "нет ответа"
+      ]
+    },
+    "frequency": 159
+  },
+  {
+    "rank": 607,
+    "lemma": "voice",
+    "source": {
+      "word": "voice",
+      "phrases": [
+        "loud voice",
+        "voice mail",
+        "raise your voice"
+      ]
+    },
+    "target": {
+      "word": "голос",
+      "phrases": [
+        "громкий голос",
+        "голосовая почта",
+        "повысить голос"
+      ]
+    },
+    "frequency": 159
+  },
+  {
+    "rank": 608,
+    "lemma": "piece",
+    "source": {
+      "word": "piece",
+      "phrases": [
+        "piece of cake",
+        "piece of paper",
+        "in one piece"
+      ]
+    },
+    "target": {
+      "word": "кусок",
+      "phrases": [
+        "проще простого",
+        "лист бумаги",
+        "в целости и сохранности"
+      ]
+    },
+    "frequency": 159
+  },
+  {
+    "rank": 609,
+    "lemma": "finish",
+    "source": {
+      "word": "finish",
+      "phrases": [
+        "finish line",
+        "finish work",
+        "finish up"
+      ]
+    },
+    "target": {
+      "word": "заканчивать",
+      "phrases": [
+        "финишная черта",
+        "закончить работу",
+        "завершать"
+      ]
+    },
+    "frequency": 158
+  },
+  {
+    "rank": 610,
+    "lemma": "suppose",
+    "source": {
+      "word": "suppose",
+      "phrases": [
+        "I suppose",
+        "supposed to",
+        "suppose that"
+      ]
+    },
+    "target": {
+      "word": "полагать",
+      "phrases": [
+        "я полагаю",
+        "должен был",
+        "предположим, что"
+      ]
+    },
+    "frequency": 157
+  },
+  {
+    "rank": 611,
+    "lemma": "apply",
+    "source": {
+      "word": "apply",
+      "phrases": [
+        "apply for",
+        "apply to",
+        "apply rules"
+      ]
+    },
+    "target": {
+      "word": "подавать заявление",
+      "phrases": [
+        "подать заявку на",
+        "применяться к",
+        "применять правила"
+      ]
+    },
+    "frequency": 157
+  },
+  {
+    "rank": 612,
+    "lemma": "president",
+    "source": {
+      "word": "president",
+      "phrases": [
+        "vice president",
+        "president elect",
+        "company president"
+      ]
+    },
+    "target": {
+      "word": "президент",
+      "phrases": [
+        "вице-президент",
+        "избранный президент",
+        "президент компании"
+      ]
+    },
+    "frequency": 157
+  },
+  {
+    "rank": 613,
+    "lemma": "fire",
+    "source": {
+      "word": "fire",
+      "phrases": [
+        "on fire",
+        "fire fighter",
+        "you're fired"
+      ]
+    },
+    "target": {
+      "word": "огонь",
+      "phrases": [
+        "в огне",
+        "пожарный",
+        "ты уволен"
+      ]
+    },
+    "frequency": 157
+  },
+  {
+    "rank": 614,
+    "lemma": "compare",
+    "source": {
+      "word": "compare",
+      "phrases": [
+        "compare to",
+        "compare with",
+        "compared to"
+      ]
+    },
+    "target": {
+      "word": "сравнивать",
+      "phrases": [
+        "сравнивать с (направленно)",
+        "сравнивать с (взаимно)",
+        "по сравнению с"
+      ]
+    },
+    "frequency": 157
+  },
+  {
+    "rank": 615,
+    "lemma": "court",
+    "source": {
+      "word": "court",
+      "phrases": [
+        "court case",
+        "tennis court",
+        "in court"
+      ]
+    },
+    "target": {
+      "word": "суд",
+      "phrases": [
+        "судебное дело",
+        "теннисный корт",
+        "в суде"
+      ]
+    },
+    "frequency": 156
+  },
+  {
+    "rank": 616,
+    "lemma": "police",
+    "source": {
+      "word": "police",
+      "phrases": [
+        "police officer",
+        "call the police",
+        "police station"
+      ]
+    },
+    "target": {
+      "word": "полиция",
+      "phrases": [
+        "офицер полиции",
+        "вызвать полицию",
+        "полицейский участок"
+      ]
+    },
+    "frequency": 156
+  },
+  {
+    "rank": 617,
+    "lemma": "store",
+    "source": {
+      "word": "store",
+      "phrases": [
+        "department store",
+        "grocery store",
+        "store data"
+      ]
+    },
+    "target": {
+      "word": "магазин",
+      "phrases": [
+        "универмаг",
+        "продуктовый магазин",
+        "хранить данные"
+      ]
+    },
+    "frequency": 156
+  },
+  {
+    "rank": 618,
+    "lemma": "poor",
+    "source": {
+      "word": "poor",
+      "phrases": [
+        "poor quality",
+        "poor people",
+        "poor thing"
+      ]
+    },
+    "target": {
+      "word": "бедный",
+      "phrases": [
+        "плохое качество",
+        "бедные люди",
+        "бедняжка"
+      ]
+    },
+    "frequency": 156
+  },
+  {
+    "rank": 619,
+    "lemma": "knowledge",
+    "source": {
+      "word": "knowledge",
+      "phrases": [
+        "general knowledge",
+        "knowledge is power",
+        "common knowledge"
+      ]
+    },
+    "target": {
+      "word": "знания",
+      "phrases": [
+        "общие знания",
+        "знание — сила",
+        "общеизвестный факт"
+      ]
+    },
+    "frequency": 155
+  },
+  {
+    "rank": 620,
+    "lemma": "laugh",
+    "source": {
+      "word": "laugh",
+      "phrases": [
+        "laugh at",
+        "laugh out loud",
+        "make me laugh"
+      ]
+    },
+    "target": {
+      "word": "смеяться",
+      "phrases": [
+        "смеяться над",
+        "смеяться вслух",
+        "рассмеши меня"
+      ]
+    },
+    "frequency": 155
+  },
+  {
+    "rank": 621,
+    "lemma": "arm",
+    "source": {
+      "word": "arm",
+      "phrases": [
+        "arm in arm",
+        "broken arm",
+        "twist my arm"
+      ]
+    },
+    "target": {
+      "word": "рука",
+      "phrases": [
+        "под руку",
+        "сломанная рука",
+        "выкручивать мне руки"
+      ]
+    },
+    "frequency": 155
+  },
+  {
+    "rank": 622,
+    "lemma": "heart",
+    "source": {
+      "word": "heart",
+      "phrases": [
+        "break my heart",
+        "by heart",
+        "heart beat"
+      ]
+    },
+    "target": {
+      "word": "сердце",
+      "phrases": [
+        "разбить мне сердце",
+        "наизусть",
+        "сердцебиение"
+      ]
+    },
+    "frequency": 155
+  },
+  {
+    "rank": 623,
+    "lemma": "source",
+    "source": {
+      "word": "source",
+      "phrases": [
+        "source code",
+        "open source",
+        "source of"
+      ]
+    },
+    "target": {
+      "word": "источник",
+      "phrases": [
+        "исходный код",
+        "открытый исходный код",
+        "источник чего-либо"
+      ]
+    },
+    "frequency": 155
+  },
+  {
+    "rank": 624,
+    "lemma": "employee",
+    "source": {
+      "word": "employee",
+      "phrases": [
+        "company employee",
+        "employee benefits",
+        "full-time employee"
+      ]
+    },
+    "target": {
+      "word": "сотрудник",
+      "phrases": [
+        "сотрудник компании",
+        "льготы для сотрудников",
+        "штатный сотрудник"
+      ]
+    },
+    "frequency": 154
+  },
+  {
+    "rank": 625,
+    "lemma": "manage",
+    "source": {
+      "word": "manage",
+      "phrases": [
+        "manage to",
+        "manage time",
+        "project manage"
+      ]
+    },
+    "target": {
+      "word": "управлять",
+      "phrases": [
+        "удаваться",
+        "управлять временем",
+        "управлять проектом"
+      ]
+    },
+    "frequency": 154
+  },
+  {
+    "rank": 626,
+    "lemma": "simply",
+    "source": {
+      "word": "simply",
+      "phrases": [
+        "put simply",
+        "simply the best",
+        "simply because"
+      ]
+    },
+    "target": {
+      "word": "просто",
+      "phrases": [
+        "проще говоря",
+        "просто лучший",
+        "просто потому что"
+      ]
+    },
+    "frequency": 153
+  },
+  {
+    "rank": 627,
+    "lemma": "bank",
+    "source": {
+      "word": "bank",
+      "phrases": [
+        "bank account",
+        "piggy bank",
+        "river bank"
+      ]
+    },
+    "target": {
+      "word": "банк",
+      "phrases": [
+        "банковский счет",
+        "копилка",
+        "берег реки"
+      ]
+    },
+    "frequency": 153
+  },
+  {
+    "rank": 628,
+    "lemma": "firm",
+    "source": {
+      "word": "firm",
+      "phrases": [
+        "law firm",
+        "stand firm",
+        "firm handshake"
+      ]
+    },
+    "target": {
+      "word": "фирма",
+      "phrases": [
+        "юридическая фирма",
+        "стоять на своем",
+        "крепкое рукопожатие"
+      ]
+    },
+    "frequency": 153
+  },
+  {
+    "rank": 629,
+    "lemma": "cell",
+    "source": {
+      "word": "cell",
+      "phrases": [
+        "cell phone",
+        "blood cell",
+        "prison cell"
+      ]
+    },
+    "target": {
+      "word": "клетка",
+      "phrases": [
+        "мобильный телефон",
+        "клетка крови",
+        "тюремная камера"
+      ]
+    },
+    "frequency": 153
+  },
+  {
+    "rank": 630,
+    "lemma": "article",
+    "source": {
+      "word": "article",
+      "phrases": [
+        "news article",
+        "article of clothing",
+        "definite article"
+      ]
+    },
+    "target": {
+      "word": "статья",
+      "phrases": [
+        "новостная статья",
+        "предмет одежды",
+        "определенный артикль"
+      ]
+    },
+    "frequency": 152
+  },
+  {
+    "rank": 631,
+    "lemma": "fast",
+    "source": {
+      "word": "fast",
+      "phrases": [
+        "fast food",
+        "fast asleep",
+        "hold fast"
+      ]
+    },
+    "target": {
+      "word": "быстрый",
+      "phrases": [
+        "фастфуд",
+        "крепко спящий",
+        "держаться крепко"
+      ]
+    },
+    "frequency": 151
+  },
+  {
+    "rank": 632,
+    "lemma": "attack",
+    "source": {
+      "word": "attack",
+      "phrases": [
+        "heart attack",
+        "under attack",
+        "panic attack"
+      ]
+    },
+    "target": {
+      "word": "приступ",
+      "phrases": [
+        "сердечный приступ",
+        "под ударом",
+        "паническая атака"
+      ]
+    },
+    "frequency": 151
+  },
+  {
+    "rank": 633,
+    "lemma": "foreign",
+    "source": {
+      "word": "foreign",
+      "phrases": [
+        "foreign language",
+        "foreign country",
+        "foreign exchange"
+      ]
+    },
+    "target": {
+      "word": "иностранный",
+      "phrases": [
+        "иностранный язык",
+        "чужая страна",
+        "обмен валюты"
+      ]
+    },
+    "frequency": 151
+  },
+  {
+    "rank": 634,
+    "lemma": "surprise",
+    "source": {
+      "word": "surprise",
+      "phrases": [
+        "surprise party",
+        "by surprise",
+        "to my surprise"
+      ]
+    },
+    "target": {
+      "word": "сюрприз",
+      "phrases": [
+        "вечеринка-сюрприз",
+        "врасплох",
+        "к моему удивлению"
+      ]
+    },
+    "frequency": 151
+  },
+  {
+    "rank": 635,
+    "lemma": "feature",
+    "source": {
+      "word": "feature",
+      "phrases": [
+        "special feature",
+        "facial features",
+        "main feature"
+      ]
+    },
+    "target": {
+      "word": "особенность",
+      "phrases": [
+        "специальная функция",
+        "черты лица",
+        "главная особенность"
+      ]
+    },
+    "frequency": 150
+  },
+  {
+    "rank": 636,
+    "lemma": "factor",
+    "source": {
+      "word": "factor",
+      "phrases": [
+        "key factor",
+        "risk factor",
+        "factor in"
+      ]
+    },
+    "target": {
+      "word": "фактор",
+      "phrases": [
+        "ключевой фактор",
+        "фактор риска",
+        "учитывать"
+      ]
+    },
+    "frequency": 150
+  },
+  {
+    "rank": 637,
+    "lemma": "pretty",
+    "source": {
+      "word": "pretty",
+      "phrases": [
+        "pretty good",
+        "pretty much",
+        "pretty girl"
+      ]
+    },
+    "target": {
+      "word": "довольно",
+      "phrases": [
+        "довольно хорошо",
+        "почти",
+        "симпатичная девушка"
+      ]
+    },
+    "frequency": 150
+  },
+  {
+    "rank": 638,
+    "lemma": "recently",
+    "source": {
+      "word": "recently",
+      "phrases": [
+        "until recently",
+        "most recently",
+        "recently married"
+      ]
+    },
+    "target": {
+      "word": "недавно",
+      "phrases": [
+        "до недавнего времени",
+        "совсем недавно",
+        "недавно поженившиеся"
+      ]
+    },
+    "frequency": 150
+  },
+  {
+    "rank": 639,
+    "lemma": "affect",
+    "source": {
+      "word": "affect",
+      "phrases": [
+        "affect the outcome",
+        "badly affect",
+        "deeply affected"
+      ]
+    },
+    "target": {
+      "word": "влиять",
+      "phrases": [
+        "влиять на результат",
+        "плохо влиять",
+        "глубоко затронут"
+      ]
+    },
+    "frequency": 150
+  },
+  {
+    "rank": 640,
+    "lemma": "drop",
+    "source": {
+      "word": "drop",
+      "phrases": [
+        "drop by",
+        "drop out",
+        "drop a line"
+      ]
+    },
+    "target": {
+      "word": "бросать",
+      "phrases": [
+        "заскочить в гости",
+        "бросить учебу",
+        "черкнуть пару строк"
+      ]
+    },
+    "frequency": 150
+  },
+  {
+    "rank": 641,
+    "lemma": "recent",
+    "source": {
+      "word": "recent",
+      "phrases": [
+        "recent years",
+        "recent study",
+        "in recent times"
+      ]
+    },
+    "target": {
+      "word": "недавний",
+      "phrases": [
+        "последние годы",
+        "недавнее исследование",
+        "в последнее время"
+      ]
+    },
+    "frequency": 149
+  },
+  {
+    "rank": 642,
+    "lemma": "relate",
+    "source": {
+      "word": "relate",
+      "phrases": [
+        "relate to",
+        "related topic",
+        "how does this relate?"
+      ]
+    },
+    "target": {
+      "word": "относиться",
+      "phrases": [
+        "относиться к",
+        "связанная тема",
+        "как это относится?"
+      ]
+    },
+    "frequency": 149
+  },
+  {
+    "rank": 643,
+    "lemma": "official",
+    "source": {
+      "word": "official",
+      "phrases": [
+        "official website",
+        "government official",
+        "it's official"
+      ]
+    },
+    "target": {
+      "word": "официальный",
+      "phrases": [
+        "официальный сайт",
+        "государственный чиновник",
+        "это официально"
+      ]
+    },
+    "frequency": 149
+  },
+  {
+    "rank": 644,
+    "lemma": "financial",
+    "source": {
+      "word": "financial",
+      "phrases": [
+        "financial crisis",
+        "financial support",
+        "financial year"
+      ]
+    },
+    "target": {
+      "word": "финансовый",
+      "phrases": [
+        "финансовый кризис",
+        "финансовая поддержка",
+        "финансовый год"
+      ]
+    },
+    "frequency": 149
+  },
+  {
+    "rank": 645,
+    "lemma": "miss",
+    "source": {
+      "word": "miss",
+      "phrases": [
+        "miss you",
+        "miss the bus",
+        "hit or miss"
+      ]
+    },
+    "target": {
+      "word": "скучать / пропускать",
+      "phrases": [
+        "скучаю по тебе",
+        "опоздать на автобус",
+        "пан или пропал"
+      ]
+    },
+    "frequency": 149
+  },
+  {
+    "rank": 646,
+    "lemma": "art",
+    "source": {
+      "word": "art",
+      "phrases": [
+        "work of art",
+        "modern art",
+        "state of the art"
+      ]
+    },
+    "target": {
+      "word": "искусство",
+      "phrases": [
+        "произведение искусства",
+        "современное искусство",
+        "передовой уровень"
+      ]
+    },
+    "frequency": 149
+  },
+  {
+    "rank": 647,
+    "lemma": "campaign",
+    "source": {
+      "word": "campaign",
+      "phrases": [
+        "election campaign",
+        "marketing campaign",
+        "ad campaign"
+      ]
+    },
+    "target": {
+      "word": "кампания",
+      "phrases": [
+        "предвыборная кампания",
+        "маркетинговая кампания",
+        "рекламная кампания"
+      ]
+    },
+    "frequency": 148
+  },
+  {
+    "rank": 648,
+    "lemma": "private",
+    "source": {
+      "word": "private",
+      "phrases": [
+        "private life",
+        "private school",
+        "in private"
+      ]
+    },
+    "target": {
+      "word": "частный",
+      "phrases": [
+        "частная жизнь",
+        "частная школа",
+        "наедине"
+      ]
+    },
+    "frequency": 148
+  },
+  {
+    "rank": 649,
+    "lemma": "pause",
+    "source": {
+      "word": "pause",
+      "phrases": [
+        "take a pause",
+        "pause button",
+        "pregnant pause"
+      ]
+    },
+    "target": {
+      "word": "пауза",
+      "phrases": [
+        "сделать паузу",
+        "кнопка паузы",
+        "многозначительная пауза"
+      ]
+    },
+    "frequency": 148
+  },
+  {
+    "rank": 650,
+    "lemma": "everyone",
+    "source": {
+      "word": "everyone",
+      "phrases": [
+        "everyone else",
+        "hi everyone",
+        "everyone knows"
+      ]
+    },
+    "target": {
+      "word": "все",
+      "phrases": [
+        "все остальные",
+        "всем привет",
+        "все знают"
+      ]
+    },
+    "frequency": 148
+  },
+  {
+    "rank": 651,
+    "lemma": "forget",
+    "source": {
+      "word": "forget",
+      "phrases": [
+        "forget it",
+        "don't forget",
+        "never forget"
+      ]
+    },
+    "target": {
+      "word": "забывать",
+      "phrases": [
+        "забудь об этом",
+        "не забудь",
+        "никогда не забывай"
+      ]
+    },
+    "frequency": 147
+  },
+  {
+    "rank": 652,
+    "lemma": "page",
+    "source": {
+      "word": "page",
+      "phrases": [
+        "front page",
+        "web page",
+        "on the same page"
+      ]
+    },
+    "target": {
+      "word": "страница",
+      "phrases": [
+        "главная страница",
+        "веб-страница",
+        "на одной волне"
+      ]
+    },
+    "frequency": 147
+  },
+  {
+    "rank": 653,
+    "lemma": "worry",
+    "source": {
+      "word": "worry",
+      "phrases": [
+        "don't worry",
+        "worry about",
+        "no worries"
+      ]
+    },
+    "target": {
+      "word": "беспокоиться",
+      "phrases": [
+        "не беспокойся",
+        "беспокоиться о",
+        "без проблем"
+      ]
+    },
+    "frequency": 147
+  },
+  {
+    "rank": 654,
+    "lemma": "summer",
+    "source": {
+      "word": "summer",
+      "phrases": [
+        "summer vacation",
+        "last summer",
+        "summer camp"
+      ]
+    },
+    "target": {
+      "word": "лето",
+      "phrases": [
+        "летние каникулы",
+        "прошлым летом",
+        "летний лагерь"
+      ]
+    },
+    "frequency": 147
+  },
+  {
+    "rank": 655,
+    "lemma": "drink",
+    "source": {
+      "word": "drink",
+      "phrases": [
+        "soft drink",
+        "drink water",
+        "food and drink"
+      ]
+    },
+    "target": {
+      "word": "напиток",
+      "phrases": [
+        "безалкогольный напиток",
+        "пить воду",
+        "еда и напитки"
+      ]
+    },
+    "frequency": 147
+  },
+  {
+    "rank": 656,
+    "lemma": "opinion",
+    "source": {
+      "word": "opinion",
+      "phrases": [
+        "in my opinion",
+        "public opinion",
+        "second opinion"
+      ]
+    },
+    "target": {
+      "word": "мнение",
+      "phrases": [
+        "по моему мнению",
+        "общественное мнение",
+        "второе мнение"
+      ]
+    },
+    "frequency": 147
+  },
+  {
+    "rank": 657,
+    "lemma": "park",
+    "source": {
+      "word": "park",
+      "phrases": [
+        "national park",
+        "car park",
+        "theme park"
+      ]
+    },
+    "target": {
+      "word": "парк",
+      "phrases": [
+        "национальный парк",
+        "автостоянка",
+        "парк развлечений"
+      ]
+    },
+    "frequency": 146
+  },
+  {
+    "rank": 658,
+    "lemma": "represent",
+    "source": {
+      "word": "represent",
+      "phrases": [
+        "represent the country",
+        "represent value",
+        "sales rep"
+      ]
+    },
+    "target": {
+      "word": "представлять",
+      "phrases": [
+        "представлять страну",
+        "представлять ценность",
+        "торговый представитель"
+      ]
+    },
+    "frequency": 146
+  },
+  {
+    "rank": 659,
+    "lemma": "key",
+    "source": {
+      "word": "key",
+      "phrases": [
+        "key to success",
+        "key word",
+        "key point"
+      ]
+    },
+    "target": {
+      "word": "ключ",
+      "phrases": [
+        "ключ к успеху",
+        "ключевое слово",
+        "ключевой момент"
+      ]
+    },
+    "frequency": 146
+  },
+  {
+    "rank": 660,
+    "lemma": "inside",
+    "source": {
+      "word": "inside",
+      "phrases": [
+        "inside out",
+        "inside the box",
+        "go inside"
+      ]
+    },
+    "target": {
+      "word": "внутри",
+      "phrases": [
+        "наизнанку",
+        "внутри коробки",
+        "зайти внутрь"
+      ]
+    },
+    "frequency": 145
+  },
+  {
+    "rank": 661,
+    "lemma": "manager",
+    "source": {
+      "word": "manager",
+      "phrases": [
+        "general manager",
+        "sales manager",
+        "manager mode"
+      ]
+    },
+    "target": {
+      "word": "менеджер",
+      "phrases": [
+        "генеральный менеджер",
+        "менеджер по продажам",
+        "режим менеджера"
+      ]
+    },
+    "frequency": 145
+  },
+  {
+    "rank": 662,
+    "lemma": "international",
+    "source": {
+      "word": "international",
+      "phrases": [
+        "international airport",
+        "international students",
+        "international law"
+      ]
+    },
+    "target": {
+      "word": "международный",
+      "phrases": [
+        "международный аэропорт",
+        "иностранные студенты",
+        "международное право"
+      ]
+    },
+    "frequency": 144
+  },
+  {
+    "rank": 663,
+    "lemma": "contain",
+    "source": {
+      "word": "contain",
+      "phrases": [
+        "contain information",
+        "container",
+        "contain the virus"
+      ]
+    },
+    "target": {
+      "word": "содержать",
+      "phrases": [
+        "содержать информацию",
+        "контейнер",
+        "сдерживать вирус"
+      ]
+    },
+    "frequency": 144
+  },
+  {
+    "rank": 664,
+    "lemma": "notice",
+    "source": {
+      "word": "notice",
+      "phrases": [
+        "take notice",
+        "short notice",
+        "notice board"
+      ]
+    },
+    "target": {
+      "word": "заметить",
+      "phrases": [
+        "обратить внимание",
+        "в кратчайшие сроки",
+        "доска объявлений"
+      ]
+    },
+    "frequency": 143
+  },
+  {
+    "rank": 665,
+    "lemma": "wonder",
+    "source": {
+      "word": "wonder",
+      "phrases": [
+        "no wonder",
+        "I wonder if",
+        "seven wonders"
+      ]
+    },
+    "target": {
+      "word": "интересоваться",
+      "phrases": [
+        "неудивительно",
+        "интересно, если",
+        "семь чудес света"
+      ]
+    },
+    "frequency": 143
+  },
+  {
+    "rank": 666,
+    "lemma": "nature",
+    "source": {
+      "word": "nature",
+      "phrases": [
+        "mother nature",
+        "human nature",
+        "by nature"
+      ]
+    },
+    "target": {
+      "word": "природа",
+      "phrases": [
+        "мать-природа",
+        "человеческая природа",
+        "по своей природе"
+      ]
+    },
+    "frequency": 143
+  },
+  {
+    "rank": 667,
+    "lemma": "structure",
+    "source": {
+      "word": "structure",
+      "phrases": [
+        "social structure",
+        "structure of",
+        "organizational structure"
+      ]
+    },
+    "target": {
+      "word": "структура",
+      "phrases": [
+        "социальная структура",
+        "структура чего-либо",
+        "организационная структура"
+      ]
+    },
+    "frequency": 143
+  },
+  {
+    "rank": 668,
+    "lemma": "section",
+    "source": {
+      "word": "section",
+      "phrases": [
+        "section chief",
+        "smoking section",
+        "cross section"
+      ]
+    },
+    "target": {
+      "word": "секция",
+      "phrases": [
+        "начальник секции",
+        "место для курения",
+        "поперечное сечение"
+      ]
+    },
+    "frequency": 142
+  },
+  {
+    "rank": 669,
+    "lemma": "myself",
+    "source": {
+      "word": "myself",
+      "phrases": [
+        "by myself",
+        "introduce myself",
+        "talking to myself"
+      ]
+    },
+    "target": {
+      "word": "самого себя",
+      "phrases": [
+        "самостоятельно",
+        "представиться",
+        "разговаривать с самим собой"
+      ]
+    },
+    "frequency": 142
+  },
+  {
+    "rank": 670,
+    "lemma": "exactly",
+    "source": {
+      "word": "exactly",
+      "phrases": [
+        "exactly right",
+        "not exactly",
+        "exactly the same"
+      ]
+    },
+    "target": {
+      "word": "точно",
+      "phrases": [
+        "совершенно верно",
+        "не совсем",
+        "точно такой же"
+      ]
+    },
+    "frequency": 142
+  },
+  {
+    "rank": 671,
+    "lemma": "plant",
+    "source": {
+      "word": "plant",
+      "phrases": [
+        "power plant",
+        "plant a tree",
+        "plant based"
+      ]
+    },
+    "target": {
+      "word": "растение",
+      "phrases": [
+        "электростанция",
+        "посадить дерево",
+        "на растительной основе"
+      ]
+    },
+    "frequency": 142
+  },
+  {
+    "rank": 672,
+    "lemma": "paint",
+    "source": {
+      "word": "paint",
+      "phrases": [
+        "paint a picture",
+        "wet paint",
+        "paint the town red"
+      ]
+    },
+    "target": {
+      "word": "рисовать",
+      "phrases": [
+        "нарисовать картину",
+        "осторожно, окрашено",
+        "уйти в загул"
+      ]
+    },
+    "frequency": 142
+  },
+  {
+    "rank": 673,
+    "lemma": "worker",
+    "source": {
+      "word": "worker",
+      "phrases": [
+        "social worker",
+        "hard worker",
+        "coworker"
+      ]
+    },
+    "target": {
+      "word": "рабочий",
+      "phrases": [
+        "социальный работник",
+        "трудоголик",
+        "коллега"
+      ]
+    },
+    "frequency": 141
+  },
+  {
+    "rank": 674,
+    "lemma": "press",
+    "source": {
+      "word": "press",
+      "phrases": [
+        "press conference",
+        "press the button",
+        "freedom of the press"
+      ]
+    },
+    "target": {
+      "word": "пресса",
+      "phrases": [
+        "пресс-конференция",
+        "нажать на кнопку",
+        "свобода прессы"
+      ]
+    },
+    "frequency": 141
+  },
+  {
+    "rank": 675,
+    "lemma": "whatever",
+    "source": {
+      "word": "whatever",
+      "phrases": [
+        "whatever you say",
+        "whatever happens",
+        "or whatever"
+      ]
+    },
+    "target": {
+      "word": "что угодно",
+      "phrases": [
+        "как скажешь",
+        "что бы ни случилось",
+        "или что-то в этом роде"
+      ]
+    },
+    "frequency": 141
+  },
+  {
+    "rank": 676,
+    "lemma": "necessary",
+    "source": {
+      "word": "necessary",
+      "phrases": [
+        "if necessary",
+        "necessary evil",
+        "absolutely necessary"
+      ]
+    },
+    "target": {
+      "word": "необходимый",
+      "phrases": [
+        "если необходимо",
+        "неизбежное зло",
+        "абсолютно необходимо"
+      ]
+    },
+    "frequency": 141
+  },
+  {
+    "rank": 677,
+    "lemma": "region",
+    "source": {
+      "word": "region",
+      "phrases": [
+        "in the region of",
+        "regional office",
+        "desert region"
+      ]
+    },
+    "target": {
+      "word": "регион",
+      "phrases": [
+        "в районе",
+        "региональный офис",
+        "пустынный регион"
+      ]
+    },
+    "frequency": 141
+  },
+  {
+    "rank": 678,
+    "lemma": "growth",
+    "source": {
+      "word": "growth",
+      "phrases": [
+        "economic growth",
+        "growth rate",
+        "personal growth"
+      ]
+    },
+    "target": {
+      "word": "рост",
+      "phrases": [
+        "экономический рост",
+        "темп роста",
+        "личностный рост"
+      ]
+    },
+    "frequency": 140
+  },
+  {
+    "rank": 679,
+    "lemma": "evening",
+    "source": {
+      "word": "evening",
+      "phrases": [
+        "good evening",
+        "this evening",
+        "evening dress"
+      ]
+    },
+    "target": {
+      "word": "вечер",
+      "phrases": [
+        "добрый вечер",
+        "этим вечером",
+        "вечернее платье"
+      ]
+    },
+    "frequency": 140
+  },
+  {
+    "rank": 680,
+    "lemma": "influence",
+    "source": {
+      "word": "influence",
+      "phrases": [
+        "influence on",
+        "under the influence",
+        "bad influence"
+      ]
+    },
+    "target": {
+      "word": "влияние",
+      "phrases": [
+        "влияние на",
+        "под влиянием",
+        "плохое влияние"
+      ]
+    },
+    "frequency": 140
+  },
+  {
+    "rank": 681,
+    "lemma": "respect",
+    "source": {
+      "word": "respect",
+      "phrases": [
+        "with all due respect",
+        "respect for",
+        "self respect"
+      ]
+    },
+    "target": {
+      "word": "уважение",
+      "phrases": [
+        "при всем уважении",
+        "уважение к",
+        "самоуважение"
+      ]
+    },
+    "frequency": 140
+  },
+  {
+    "rank": 682,
+    "lemma": "various",
+    "source": {
+      "word": "various",
+      "phrases": [
+        "various kinds",
+        "for various reasons",
+        "various ways"
+      ]
+    },
+    "target": {
+      "word": "различный",
+      "phrases": [
+        "различные виды",
+        "по разным причинам",
+        "различные способы"
+      ]
+    },
+    "frequency": 140
+  },
+  {
+    "rank": 683,
+    "lemma": "catch",
+    "source": {
+      "word": "catch",
+      "phrases": [
+        "catch up",
+        "catch a cold",
+        "catch the bus"
+      ]
+    },
+    "target": {
+      "word": "поймать",
+      "phrases": [
+        "нагнать",
+        "простудиться",
+        "успеть на автобус"
+      ]
+    },
+    "frequency": 140
+  },
+  {
+    "rank": 684,
+    "lemma": "thus",
+    "source": {
+      "word": "thus",
+      "phrases": [
+        "thus far",
+        "and thus",
+        "thus becoming"
+      ]
+    },
+    "target": {
+      "word": "таким образом",
+      "phrases": [
+        "до сих пор",
+        "и таким образом",
+        "становясь таким образом"
+      ]
+    },
+    "frequency": 139
+  },
+  {
+    "rank": 685,
+    "lemma": "skill",
+    "source": {
+      "word": "skill",
+      "phrases": [
+        "communication skill",
+        "skill set",
+        "social skills"
+      ]
+    },
+    "target": {
+      "word": "навык",
+      "phrases": [
+        "навык общения",
+        "набор навыков",
+        "социальные навыки"
+      ]
+    },
+    "frequency": 139
+  },
+  {
+    "rank": 686,
+    "lemma": "attempt",
+    "source": {
+      "word": "attempt",
+      "phrases": [
+        "attempt to",
+        "first attempt",
+        "suicide attempt"
+      ]
+    },
+    "target": {
+      "word": "попытка",
+      "phrases": [
+        "пытаться",
+        "первая попытка",
+        "попытка самоубийства"
+      ]
+    },
+    "frequency": 139
+  },
+  {
+    "rank": 687,
+    "lemma": "son",
+    "source": {
+      "word": "son",
+      "phrases": [
+        "son in law",
+        "father and son",
+        "god son"
+      ]
+    },
+    "target": {
+      "word": "сын",
+      "phrases": [
+        "зять",
+        "отец и сын",
+        "крестный сын"
+      ]
+    },
+    "frequency": 139
+  },
+  {
+    "rank": 688,
+    "lemma": "simple",
+    "source": {
+      "word": "simple",
+      "phrases": [
+        "simple plan",
+        "simple life",
+        "keep it simple"
+      ]
+    },
+    "target": {
+      "word": "простой",
+      "phrases": [
+        "простой план",
+        "простая жизнь",
+        "будь проще"
+      ]
+    },
+    "frequency": 138
+  },
+  {
+    "rank": 689,
+    "lemma": "medium",
+    "source": {
+      "word": "medium",
+      "phrases": [
+        "medium size",
+        "medium rare",
+        "happy medium"
+      ]
+    },
+    "target": {
+      "word": "средний",
+      "phrases": [
+        "средний размер",
+        "средней прожарки",
+        "золотая середина"
+      ]
+    },
+    "frequency": 138
+  },
+  {
+    "rank": 690,
+    "lemma": "average",
+    "source": {
+      "word": "average",
+      "phrases": [
+        "on average",
+        "above average",
+        "average person"
+      ]
+    },
+    "target": {
+      "word": "средний",
+      "phrases": [
+        "в среднем",
+        "выше среднего",
+        "обычный человек"
+      ]
+    },
+    "frequency": 138
+  },
+  {
+    "rank": 691,
+    "lemma": "stock",
+    "source": {
+      "word": "stock",
+      "phrases": [
+        "stock market",
+        "out of stock",
+        "chicken stock"
+      ]
+    },
+    "target": {
+      "word": "запас",
+      "phrases": [
+        "фондовый рынок",
+        "нет в наличии",
+        "куриный бульон"
+      ]
+    },
+    "frequency": 138
+  },
+  {
+    "rank": 692,
+    "lemma": "management",
+    "source": {
+      "word": "management",
+      "phrases": [
+        "time management",
+        "management team",
+        "under new management"
+      ]
+    },
+    "target": {
+      "word": "управление",
+      "phrases": [
+        "тайм-менеджмент",
+        "команда менеджеров",
+        "под новым руководством"
+      ]
+    },
+    "frequency": 138
+  },
+  {
+    "rank": 693,
+    "lemma": "character",
+    "source": {
+      "word": "character",
+      "phrases": [
+        "main character",
+        "character trait",
+        "Chinese character"
+      ]
+    },
+    "target": {
+      "word": "персонаж",
+      "phrases": [
+        "главный герой",
+        "черта характера",
+        "китайский иероглиф"
+      ]
+    },
+    "frequency": 138
+  },
+  {
+    "rank": 694,
+    "lemma": "bed",
+    "source": {
+      "word": "bed",
+      "phrases": [
+        "go to bed",
+        "king size bed",
+        "bed and breakfast"
+      ]
+    },
+    "target": {
+      "word": "кровать",
+      "phrases": [
+        "ложиться спать",
+        "двуспальная кровать",
+        "ночлег и завтрак"
+      ]
+    },
+    "frequency": 137
+  },
+  {
+    "rank": 695,
+    "lemma": "hit",
+    "source": {
+      "word": "hit",
+      "phrases": [
+        "hit the road",
+        "hit on",
+        "big hit"
+      ]
+    },
+    "target": {
+      "word": "удар",
+      "phrases": [
+        "отправиться в путь",
+        "подкатывать",
+        "большой хит"
+      ]
+    },
+    "frequency": 137
+  },
+  {
+    "rank": 696,
+    "lemma": "establish",
+    "source": {
+      "word": "establish",
+      "phrases": [
+        "establish a company",
+        "established fact",
+        "establish connection"
+      ]
+    },
+    "target": {
+      "word": "основать",
+      "phrases": [
+        "основать компанию",
+        "установленный факт",
+        "установить связь"
+      ]
+    },
+    "frequency": 137
+  },
+  {
+    "rank": 697,
+    "lemma": "indeed",
+    "source": {
+      "word": "indeed",
+      "phrases": [
+        "yes indeed",
+        "very good indeed",
+        "friend in need is a friend indeed"
+      ]
+    },
+    "target": {
+      "word": "действительно",
+      "phrases": [
+        "да, действительно",
+        "действительно очень хорошо",
+        "друг познается в беде"
+      ]
+    },
+    "frequency": 137
+  },
+  {
+    "rank": 698,
+    "lemma": "final",
+    "source": {
+      "word": "final",
+      "phrases": [
+        "final decision",
+        "final exam",
+        "grand final"
+      ]
+    },
+    "target": {
+      "word": "окончательный",
+      "phrases": [
+        "окончательное решение",
+        "выпускной экзамен",
+        "финал"
+      ]
+    },
+    "frequency": 137
+  },
+  {
+    "rank": 699,
+    "lemma": "economy",
+    "source": {
+      "word": "economy",
+      "phrases": [
+        "global economy",
+        "market economy",
+        "economy class"
+      ]
+    },
+    "target": {
+      "word": "экономика",
+      "phrases": [
+        "мировая экономика",
+        "рыночная экономика",
+        "эконом-класс"
+      ]
+    },
+    "frequency": 137
+  },
+  {
+    "rank": 700,
+    "lemma": "fit",
+    "source": {
+      "word": "fit",
+      "phrases": [
+        "fit in",
+        "keep fit",
+        "one size fits all"
+      ]
+    },
+    "target": {
+      "word": "подходить",
+      "phrases": [
+        "вписаться",
+        "быть в форме",
+        "универсальный размер"
+      ]
+    },
+    "frequency": 137
+  }
+]

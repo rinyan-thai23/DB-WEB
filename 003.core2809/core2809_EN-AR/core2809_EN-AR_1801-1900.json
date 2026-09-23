@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 1801,
+    "lemma": "injury",
+    "source": {
+      "word": "injury",
+      "phrases": [
+        "serious injury",
+        "risk of injury",
+        "minor injury"
+      ]
+    },
+    "target": {
+      "word": "إصابة",
+      "phrases": [
+        "إصابة خطيرة",
+        "خطر الإصابة",
+        "إصابة طفيفة"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1802,
+    "lemma": "vast",
+    "source": {
+      "word": "vast",
+      "phrases": [
+        "vast majority",
+        "vast area",
+        "vast amount"
+      ]
+    },
+    "target": {
+      "word": "شاسع",
+      "phrases": [
+        "الأغلبية الساحقة",
+        "منطقة شاسعة",
+        "كمية هائلة"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1803,
+    "lemma": "exhibition",
+    "source": {
+      "word": "exhibition",
+      "phrases": [
+        "art exhibition",
+        "on exhibition",
+        "exhibition game"
+      ]
+    },
+    "target": {
+      "word": "معرض",
+      "phrases": [
+        "معرض فني",
+        "قيد العرض",
+        "مباراة استعراضية"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1804,
+    "lemma": "producer",
+    "source": {
+      "word": "producer",
+      "phrases": [
+        "music producer",
+        "film producer",
+        "executive producer"
+      ]
+    },
+    "target": {
+      "word": "منتج",
+      "phrases": [
+        "منتج موسيقي",
+        "منتج أفلام",
+        "منتج منفذ"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1805,
+    "lemma": "regional",
+    "source": {
+      "word": "regional",
+      "phrases": [
+        "regional office",
+        "regional manager",
+        "regional difference"
+      ]
+    },
+    "target": {
+      "word": "إقليمي",
+      "phrases": [
+        "مكتب إقليمي",
+        "مدير إقليمي",
+        "اختلاف إقليمي"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1806,
+    "lemma": "immediate",
+    "source": {
+      "word": "immediate",
+      "phrases": [
+        "immediate family",
+        "immediate effect",
+        "immediate response"
+      ]
+    },
+    "target": {
+      "word": "فوري",
+      "phrases": [
+        "العائلة المباشرة",
+        "تأثير فوري",
+        "استجابة فورية"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1807,
+    "lemma": "incident",
+    "source": {
+      "word": "incident",
+      "phrases": [
+        "without incident",
+        "major incident",
+        "isolated incident"
+      ]
+    },
+    "target": {
+      "word": "حادثة",
+      "phrases": [
+        "دون وقوع حوادث",
+        "حادث جسيم",
+        "حادث معزول"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1808,
+    "lemma": "childhood",
+    "source": {
+      "word": "childhood",
+      "phrases": [
+        "early childhood",
+        "childhood friend",
+        "childhood memory"
+      ]
+    },
+    "target": {
+      "word": "طفولة",
+      "phrases": [
+        "الطفولة المبكرة",
+        "صديق الطفولة",
+        "ذكرى الطفولة"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1809,
+    "lemma": "draft",
+    "source": {
+      "word": "draft",
+      "phrases": [
+        "rough draft",
+        "draft beer",
+        "draft pick"
+      ]
+    },
+    "target": {
+      "word": "مسودة",
+      "phrases": [
+        "مسودة أولية",
+        "بيرة برميل",
+        "اختيار المسودة"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1810,
+    "lemma": "slip",
+    "source": {
+      "word": "slip",
+      "phrases": [
+        "slip up",
+        "slip of the tongue",
+        "slip away"
+      ]
+    },
+    "target": {
+      "word": "انزلاق",
+      "phrases": [
+        "يخطئ",
+        "زلة لسان",
+        "يتسلل بعيداً"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1811,
+    "lemma": "accompany",
+    "source": {
+      "word": "accompany",
+      "phrases": [
+        "accompany you",
+        "piano accompaniment",
+        "accompanied by"
+      ]
+    },
+    "target": {
+      "word": "يرافق",
+      "phrases": [
+        "يرافقك",
+        "مرافقة موسيقية",
+        "مصحوب بـ"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1812,
+    "lemma": "politician",
+    "source": {
+      "word": "politician",
+      "phrases": [
+        "corrupt politician",
+        "career politician",
+        "local politician"
+      ]
+    },
+    "target": {
+      "word": "سياسي",
+      "phrases": [
+        "سياسي فاسد",
+        "سياسي محترف",
+        "سياسي محلي"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1813,
+    "lemma": "angry",
+    "source": {
+      "word": "angry",
+      "phrases": [
+        "get angry",
+        "angry with",
+        "angry bird"
+      ]
+    },
+    "target": {
+      "word": "غاضب",
+      "phrases": [
+        "يغضب",
+        "غاضب من",
+        "طائر غاضب"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1814,
+    "lemma": "knock",
+    "source": {
+      "word": "knock",
+      "phrases": [
+        "knock on the door",
+        "knock out",
+        "knock it off"
+      ]
+    },
+    "target": {
+      "word": "يطرق",
+      "phrases": [
+        "يطرق على الباب",
+        "ضربة قاضية",
+        "توقف عن ذلك"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1815,
+    "lemma": "seed",
+    "source": {
+      "word": "seed",
+      "phrases": [
+        "plant a seed",
+        "seed money",
+        "sesame seed"
+      ]
+    },
+    "target": {
+      "word": "بذرة",
+      "phrases": [
+        "يزرع بذرة",
+        "رأس مال أولي",
+        "بذرة السمسم"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1816,
+    "lemma": "salary",
+    "source": {
+      "word": "salary",
+      "phrases": [
+        "annual salary",
+        "high salary",
+        "base salary"
+      ]
+    },
+    "target": {
+      "word": "راتب",
+      "phrases": [
+        "راتب سنوي",
+        "راتب مرتفع",
+        "راتب أساسي"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1817,
+    "lemma": "illustrate",
+    "source": {
+      "word": "illustrate",
+      "phrases": [
+        "illustrate a point",
+        "illustrated book",
+        "to illustrate"
+      ]
+    },
+    "target": {
+      "word": "يوضح",
+      "phrases": [
+        "يوضح نقطة",
+        "كتاب مصور",
+        "للتوضيح"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1818,
+    "lemma": "imply",
+    "source": {
+      "word": "imply",
+      "phrases": [
+        "imply that",
+        "what are you implying?",
+        "implied meaning"
+      ]
+    },
+    "target": {
+      "word": "يلمح",
+      "phrases": [
+        "يلمح إلى أن",
+        "ماذا تلمح؟",
+        "معنى ضمني"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1819,
+    "lemma": "breakfast",
+    "source": {
+      "word": "breakfast",
+      "phrases": [
+        "eat breakfast",
+        "breakfast in bed",
+        "skip breakfast"
+      ]
+    },
+    "target": {
+      "word": "إفطار",
+      "phrases": [
+        "يتناول الإفطار",
+        "إفطار في السرير",
+        "تخطي وجبة الإفطار"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1820,
+    "lemma": "temporary",
+    "source": {
+      "word": "temporary",
+      "phrases": [
+        "temporary job",
+        "temporary solution",
+        "temporary file"
+      ]
+    },
+    "target": {
+      "word": "مؤقت",
+      "phrases": [
+        "وظيفة مؤقتة",
+        "حل مؤقت",
+        "ملف مؤقت"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1821,
+    "lemma": "liberal",
+    "source": {
+      "word": "liberal",
+      "phrases": [
+        "liberal arts",
+        "liberal party",
+        "liberal view"
+      ]
+    },
+    "target": {
+      "word": "ليبرالي",
+      "phrases": [
+        "الفنون الليبرالية",
+        "الحزب الليبرالي",
+        "وجهة نظر ليبرالية"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1822,
+    "lemma": "lake",
+    "source": {
+      "word": "lake",
+      "phrases": [
+        "lake side",
+        "great lakes",
+        "swan lake"
+      ]
+    },
+    "target": {
+      "word": "بحيرة",
+      "phrases": [
+        "جانب البحيرة",
+        "البحيرات العظمى",
+        "بحيرة البجع"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1823,
+    "lemma": "qualify",
+    "source": {
+      "word": "qualify",
+      "phrases": [
+        "qualify for",
+        "qualify as",
+        "fail to qualify"
+      ]
+    },
+    "target": {
+      "word": "يتأهل",
+      "phrases": [
+        "يتأهل لـ",
+        "يتأهل كـ",
+        "يفشل في التأهل"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1824,
+    "lemma": "competitive",
+    "source": {
+      "word": "competitive",
+      "phrases": [
+        "competitive market",
+        "highly competitive",
+        "competitive price"
+      ]
+    },
+    "target": {
+      "word": "تنافسي",
+      "phrases": [
+        "سوق تنافسي",
+        "تنافسي للغاية",
+        "سعر تنافسي"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1825,
+    "lemma": "truly",
+    "source": {
+      "word": "truly",
+      "phrases": [
+        "yours truly",
+        "truly amazing",
+        "truly believe"
+      ]
+    },
+    "target": {
+      "word": "حقاً",
+      "phrases": [
+        "المخلص لك",
+        "مذهل حقاً",
+        "أعتقد حقاً"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1826,
+    "lemma": "hi",
+    "source": {
+      "word": "hi",
+      "phrases": [
+        "say hi",
+        "hi there",
+        "hi five"
+      ]
+    },
+    "target": {
+      "word": "مرحباً",
+      "phrases": [
+        "قل مرحباً",
+        "مرحباً بك",
+        "تحية كف بكف"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1827,
+    "lemma": "yellow",
+    "source": {
+      "word": "yellow",
+      "phrases": [
+        "yellow card",
+        "yellow cab",
+        "yellow pages"
+      ]
+    },
+    "target": {
+      "word": "أصفر",
+      "phrases": [
+        "بطاقة صفراء",
+        "تاكسي أصفر",
+        "الصفحات الصفراء"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1828,
+    "lemma": "habit",
+    "source": {
+      "word": "habit",
+      "phrases": [
+        "bad habit",
+        "kick the habit",
+        "habit of"
+      ]
+    },
+    "target": {
+      "word": "عادة",
+      "phrases": [
+        "عادة سيئة",
+        "الإقلاع عن العادة",
+        "عادة الـ"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1829,
+    "lemma": "disk",
+    "source": {
+      "word": "disk",
+      "phrases": [
+        "hard disk",
+        "floppy disk",
+        "slipped disk"
+      ]
+    },
+    "target": {
+      "word": "قرص",
+      "phrases": [
+        "قرص صلب",
+        "قرص مرن",
+        "انزلاق غضروفي"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1830,
+    "lemma": "core",
+    "source": {
+      "word": "core",
+      "phrases": [
+        "core value",
+        "core business",
+        "rotten to the core"
+      ]
+    },
+    "target": {
+      "word": "جوهر",
+      "phrases": [
+        "قيمة جوهرية",
+        "العمل الأساسي",
+        "فاسد حتى النخاع"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1831,
+    "lemma": "emotional",
+    "source": {
+      "word": "emotional",
+      "phrases": [
+        "emotional support",
+        "get emotional",
+        "emotional intelligence"
+      ]
+    },
+    "target": {
+      "word": "عاطفي",
+      "phrases": [
+        "دعم عاطفي",
+        "يصبح عاطفياً",
+        "الذكاء العاطفي"
+      ]
+    },
+    "frequency": 41
+  },
+  {
+    "rank": 1832,
+    "lemma": "aircraft",
+    "source": {
+      "word": "aircraft",
+      "phrases": [
+        "military aircraft",
+        "aircraft carrier",
+        "light aircraft"
+      ]
+    },
+    "target": {
+      "word": "طائرة",
+      "phrases": [
+        "طائرة عسكرية",
+        "حاملة طائرات",
+        "طائرة خفيفة"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1833,
+    "lemma": "self",
+    "source": {
+      "word": "self",
+      "phrases": [
+        "self confidence",
+        "self esteem",
+        "by yourself"
+      ]
+    },
+    "target": {
+      "word": "الذات",
+      "phrases": [
+        "الثقة بالنفس",
+        "تقدير الذات",
+        "بمفردك"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1834,
+    "lemma": "metal",
+    "source": {
+      "word": "metal",
+      "phrases": [
+        "heavy metal",
+        "precious metal",
+        "metal detector"
+      ]
+    },
+    "target": {
+      "word": "معدن",
+      "phrases": [
+        "معدن ثقيل",
+        "معدن ثمين",
+        "جهاز كشف المعادن"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1835,
+    "lemma": "existence",
+    "source": {
+      "word": "existence",
+      "phrases": [
+        "come into existence",
+        "non existence",
+        "struggle for existence"
+      ]
+    },
+    "target": {
+      "word": "وجود",
+      "phrases": [
+        "يظهر للوجود",
+        "عدم الوجود",
+        "الصراع من أجل الوجود"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1836,
+    "lemma": "bone",
+    "source": {
+      "word": "bone",
+      "phrases": [
+        "broken bone",
+        "bone density",
+        "skin and bone"
+      ]
+    },
+    "target": {
+      "word": "عظم",
+      "phrases": [
+        "عظم مكسور",
+        "كثافة العظام",
+        "جلد وعظم"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1837,
+    "lemma": "panel",
+    "source": {
+      "word": "panel",
+      "phrases": [
+        "solar panel",
+        "control panel",
+        "panel discussion"
+      ]
+    },
+    "target": {
+      "word": "لوحة",
+      "phrases": [
+        "لوح شمسي",
+        "لوحة التحكم",
+        "حلقة نقاشية"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1838,
+    "lemma": "prime",
+    "source": {
+      "word": "prime",
+      "phrases": [
+        "prime minister",
+        "prime time",
+        "prime example"
+      ]
+    },
+    "target": {
+      "word": "رئيسي",
+      "phrases": [
+        "رئيس الوزراء",
+        "وقت الذروة",
+        "مثال جوهري"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1839,
+    "lemma": "appointment",
+    "source": {
+      "word": "appointment",
+      "phrases": [
+        "make an appointment",
+        "doctor's appointment",
+        "by appointment"
+      ]
+    },
+    "target": {
+      "word": "موعد",
+      "phrases": [
+        "تحديد موعد",
+        "موعد مع الطبيب",
+        "بموعد مسبق"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1840,
+    "lemma": "emphasize",
+    "source": {
+      "word": "emphasize",
+      "phrases": [
+        "emphasize that",
+        "emphasize importance",
+        "strongly emphasize"
+      ]
+    },
+    "target": {
+      "word": "يؤكد",
+      "phrases": [
+        "يؤكد أن",
+        "يؤكد الأهمية",
+        "يؤكد بشدة"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1841,
+    "lemma": "maximum",
+    "source": {
+      "word": "maximum",
+      "phrases": [
+        "maximum security",
+        "maximum speed",
+        "to the maximum"
+      ]
+    },
+    "target": {
+      "word": "الحد الأقصى",
+      "phrases": [
+        "حراسة مشددة",
+        "السرعة القصوى",
+        "إلى أقصى حد"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1842,
+    "lemma": "effectively",
+    "source": {
+      "word": "effectively",
+      "phrases": [
+        "communicate effectively",
+        "work effectively",
+        "effectively deal with"
+      ]
+    },
+    "target": {
+      "word": "بفعالية",
+      "phrases": [
+        "تواصل بفعالية",
+        "يعمل بفعالية",
+        "التعامل بفعالية مع"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1843,
+    "lemma": "elsewhere",
+    "source": {
+      "word": "elsewhere",
+      "phrases": [
+        "go elsewhere",
+        "look elsewhere",
+        "somewhere elsewhere"
+      ]
+    },
+    "target": {
+      "word": "في مكان آخر",
+      "phrases": [
+        "اذهب إلى مكان آخر",
+        "ابحث في مكان آخر",
+        "في مكان آخَر ما"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1844,
+    "lemma": "bother",
+    "source": {
+      "word": "bother",
+      "phrases": [
+        "don't bother",
+        "sorry to bother you",
+        "can't be bothered"
+      ]
+    },
+    "target": {
+      "word": "يزعج",
+      "phrases": [
+        "لا تهتم",
+        "آسف لإزعاجك",
+        "لا يبالي"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1845,
+    "lemma": "initiative",
+    "source": {
+      "word": "initiative",
+      "phrases": [
+        "take the initiative",
+        "new initiative",
+        "own initiative"
+      ]
+    },
+    "target": {
+      "word": "مبادرة",
+      "phrases": [
+        "يأخذ زمام المبادرة",
+        "مبادرة جديدة",
+        "مبادرة ذاتية"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1846,
+    "lemma": "sharp",
+    "source": {
+      "word": "sharp",
+      "phrases": [
+        "sharp knife",
+        "sharp turn",
+        "look sharp"
+      ]
+    },
+    "target": {
+      "word": "حاد",
+      "phrases": [
+        "سكين حاد",
+        "منعطف حاد",
+        "يبدو أنيقاً"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1847,
+    "lemma": "diet",
+    "source": {
+      "word": "diet",
+      "phrases": [
+        "on a diet",
+        "balanced diet",
+        "diet coke"
+      ]
+    },
+    "target": {
+      "word": "حمية غذائية",
+      "phrases": [
+        "يتبع حمية",
+        "حمية متوازنة",
+        "دايت كولا"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1848,
+    "lemma": "motion",
+    "source": {
+      "word": "motion",
+      "phrases": [
+        "slow motion",
+        "motion sickness",
+        "set in motion"
+      ]
+    },
+    "target": {
+      "word": "حركة",
+      "phrases": [
+        "حركة بطيئة",
+        "دوار الحركة",
+        "يضعه قيد التنفيذ"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1849,
+    "lemma": "gray",
+    "source": {
+      "word": "gray",
+      "phrases": [
+        "gray area",
+        "gray hair",
+        "shades of gray"
+      ]
+    },
+    "target": {
+      "word": "رمادي",
+      "phrases": [
+        "منطقة رمادية",
+        "شعر رمادي",
+        "ظلال الرمادي"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1850,
+    "lemma": "plastic",
+    "source": {
+      "word": "plastic",
+      "phrases": [
+        "plastic surgery",
+        "plastic bag",
+        "fantastic plastic"
+      ]
+    },
+    "target": {
+      "word": "بلاستيك",
+      "phrases": [
+        "جراحة تجميلية",
+        "كيس بلاستيكي",
+        "بلاستيك رائع"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1851,
+    "lemma": "complicate",
+    "source": {
+      "word": "complicate",
+      "phrases": [
+        "complicated relationship",
+        "don't complicate things",
+        "complicating factor"
+      ]
+    },
+    "target": {
+      "word": "يعقد",
+      "phrases": [
+        "علاقة معقدة",
+        "لا تعقد الأمور",
+        "عامل معقد"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1852,
+    "lemma": "discipline",
+    "source": {
+      "word": "discipline",
+      "phrases": [
+        "self discipline",
+        "maintain discipline",
+        "academic discipline"
+      ]
+    },
+    "target": {
+      "word": "انضباط",
+      "phrases": [
+        "الانضباط الذاتي",
+        "الحفاظ على الانضباط",
+        "تخصص أكاديمي"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1853,
+    "lemma": "disappoint",
+    "source": {
+      "word": "disappoint",
+      "phrases": [
+        "disappointed in",
+        "disappoint you",
+        "don't disappoint me"
+      ]
+    },
+    "target": {
+      "word": "يخيب أمل",
+      "phrases": [
+        "محبط من",
+        "يخيب أملك",
+        "لا تخيب أملي"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1854,
+    "lemma": "boss",
+    "source": {
+      "word": "boss",
+      "phrases": [
+        "like a boss",
+        "boss around",
+        "big boss"
+      ]
+    },
+    "target": {
+      "word": "رئيس",
+      "phrases": [
+        "مثل الزعيم",
+        "يتسلط على",
+        "الزعيم الكبير"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1855,
+    "lemma": "assumption",
+    "source": {
+      "word": "assumption",
+      "phrases": [
+        "make an assumption",
+        "wrong assumption",
+        "on the assumption"
+      ]
+    },
+    "target": {
+      "word": "افتراض",
+      "phrases": [
+        "يفترض افتراضاً",
+        "افتراض خاطئ",
+        "بناءً على افتراض"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1856,
+    "lemma": "freeze",
+    "source": {
+      "word": "freeze",
+      "phrases": [
+        "freeze over",
+        "brain freeze",
+        "freeze frame"
+      ]
+    },
+    "target": {
+      "word": "يتجمد",
+      "phrases": [
+        "يتجمد بالكامل",
+        "صداع الآيس كريم",
+        "تجميد الصورة"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1857,
+    "lemma": "extreme",
+    "source": {
+      "word": "extreme",
+      "phrases": [
+        "extreme sports",
+        "extreme weather",
+        "go to extremes"
+      ]
+    },
+    "target": {
+      "word": "شديد",
+      "phrases": [
+        "رياضات خطرة",
+        "طقس قاسي",
+        "يذهب إلى أقصى الحدود"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1858,
+    "lemma": "passage",
+    "source": {
+      "word": "passage",
+      "phrases": [
+        "rite of passage",
+        "passage of time",
+        "secret passage"
+      ]
+    },
+    "target": {
+      "word": "ممر",
+      "phrases": [
+        "طقوس العبور",
+        "مرور الوقت",
+        "ممر سري"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1859,
+    "lemma": "reputation",
+    "source": {
+      "word": "reputation",
+      "phrases": [
+        "good reputation",
+        "reputation for",
+        "bad reputation"
+      ]
+    },
+    "target": {
+      "word": "سمعة",
+      "phrases": [
+        "سمعة طيبة",
+        "مشهور بـ",
+        "سمعة سيئة"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1860,
+    "lemma": "forth",
+    "source": {
+      "word": "forth",
+      "phrases": [
+        "back and forth",
+        "bring forth",
+        "so on and so forth"
+      ]
+    },
+    "target": {
+      "word": "إلى الأمام",
+      "phrases": [
+        "ذهاباً وإياباً",
+        "يُظهر أو ينتج",
+        "إلى آخره"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1861,
+    "lemma": "negotiation",
+    "source": {
+      "word": "negotiation",
+      "phrases": [
+        "negotiation skills",
+        "under negotiation",
+        "price negotiation"
+      ]
+    },
+    "target": {
+      "word": "تفاوض",
+      "phrases": [
+        "مهارات التفاوض",
+        "قيد التفاوض",
+        "تفاوض على السعر"
+      ]
+    },
+    "frequency": 40
+  },
+  {
+    "rank": 1862,
+    "lemma": "mechanism",
+    "source": {
+      "word": "mechanism",
+      "phrases": [
+        "defense mechanism",
+        "coping mechanism",
+        "clockwork mechanism"
+      ]
+    },
+    "target": {
+      "word": "آلية",
+      "phrases": [
+        "آلية دفاعية",
+        "آلية التكيف",
+        "آلية عمل الساعة"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1863,
+    "lemma": "coat",
+    "source": {
+      "word": "coat",
+      "phrases": [
+        "winter coat",
+        "coat of arms",
+        "sugar coat"
+      ]
+    },
+    "target": {
+      "word": "معطف",
+      "phrases": [
+        "معطف شتوي",
+        "شعار النبالة",
+        "تغطية بالسكر (تجميل الواقع)"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1864,
+    "lemma": "democracy",
+    "source": {
+      "word": "democracy",
+      "phrases": [
+        "liberal democracy",
+        "democracy in action",
+        "direct democracy"
+      ]
+    },
+    "target": {
+      "word": "ديمقراطية",
+      "phrases": [
+        "ديمقراطية ليبرالية",
+        "الديمقراطية في العمل",
+        "ديمقراطية مباشرة"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1865,
+    "lemma": "pocket",
+    "source": {
+      "word": "pocket",
+      "phrases": [
+        "pocket money",
+        "out of pocket",
+        "pick pocket"
+      ]
+    },
+    "target": {
+      "word": "جيب",
+      "phrases": [
+        "مصروف جيب",
+        "من الجيب الخاص",
+        "نشال"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1866,
+    "lemma": "lucky",
+    "source": {
+      "word": "lucky",
+      "phrases": [
+        "lucky guy",
+        "get lucky",
+        "lucky charm"
+      ]
+    },
+    "target": {
+      "word": "محظوظ",
+      "phrases": [
+        "شخص محظوظ",
+        "يحالفه الحظ",
+        "تميمة حظ"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1867,
+    "lemma": "crash",
+    "source": {
+      "word": "crash",
+      "phrases": [
+        "car crash",
+        "crash course",
+        "stock market crash"
+      ]
+    },
+    "target": {
+      "word": "اصطدام",
+      "phrases": [
+        "حادث سيارة",
+        "دورة مكثفة",
+        "انهيار سوق الأسهم"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1868,
+    "lemma": "observation",
+    "source": {
+      "word": "observation",
+      "phrases": [
+        "under observation",
+        "observation deck",
+        "keen observation"
+      ]
+    },
+    "target": {
+      "word": "ملاحظة",
+      "phrases": [
+        "تحت المراقبة",
+        "منصة مراقبة",
+        "ملاحظة دقيقة"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1869,
+    "lemma": "meat",
+    "source": {
+      "word": "meat",
+      "phrases": [
+        "red meat",
+        "meat eater",
+        "meat and potatoes"
+      ]
+    },
+    "target": {
+      "word": "لحم",
+      "phrases": [
+        "لحم أحمر",
+        "آكل لحوم",
+        "الأساسيات الجوهرية"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1870,
+    "lemma": "concentration",
+    "source": {
+      "word": "concentration",
+      "phrases": [
+        "concentration camp",
+        "lose concentration",
+        "high concentration"
+      ]
+    },
+    "target": {
+      "word": "تركيز",
+      "phrases": [
+        "معسكر اعتقال",
+        "فقدان التركيز",
+        "تركيز عالٍ"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1871,
+    "lemma": "implication",
+    "source": {
+      "word": "implication",
+      "phrases": [
+        "implication of",
+        "by implication",
+        "serious implications"
+      ]
+    },
+    "target": {
+      "word": "تضمين أو تداعيات",
+      "phrases": [
+        "تضمين لـ",
+        "بالاستنتاج",
+        "تداعيات خطيرة"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1872,
+    "lemma": "deserve",
+    "source": {
+      "word": "deserve",
+      "phrases": [
+        "you deserve it",
+        "deserve better",
+        "well deserved"
+      ]
+    },
+    "target": {
+      "word": "يستحق",
+      "phrases": [
+        "أنت تستحق ذلك",
+        "تستحق الأفضل",
+        "مستحق بجدارة"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1873,
+    "lemma": "unusual",
+    "source": {
+      "word": "unusual",
+      "phrases": [
+        "unusual behavior",
+        "nothing unusual",
+        "highly unusual"
+      ]
+    },
+    "target": {
+      "word": "غير عادي",
+      "phrases": [
+        "سلوك غير عادي",
+        "لا شيء غير عادي",
+        "غير عادي للغاية"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1874,
+    "lemma": "defend",
+    "source": {
+      "word": "defend",
+      "phrases": [
+        "defend against",
+        "defend yourself",
+        "defend the title"
+      ]
+    },
+    "target": {
+      "word": "يدافع",
+      "phrases": [
+        "يدافع ضد",
+        "دافع عن نفسك",
+        "دافع عن اللقب"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1875,
+    "lemma": "classic",
+    "source": {
+      "word": "classic",
+      "phrases": [
+        "classic car",
+        "classic rock",
+        "instant classic"
+      ]
+    },
+    "target": {
+      "word": "كلاسيكي",
+      "phrases": [
+        "سيارة كلاسيكية",
+        "موسيقى الروك الكلاسيكية",
+        "عمل كلاسيكي فوري"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1876,
+    "lemma": "king",
+    "source": {
+      "word": "king",
+      "phrases": [
+        "king size",
+        "lion king",
+        "king of pop"
+      ]
+    },
+    "target": {
+      "word": "ملك",
+      "phrases": [
+        "حجم ملكي كبير",
+        "الأسد الملك",
+        "ملك البوب"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1877,
+    "lemma": "interaction",
+    "source": {
+      "word": "interaction",
+      "phrases": [
+        "social interaction",
+        "interaction with",
+        "drug interaction"
+      ]
+    },
+    "target": {
+      "word": "تفاعل",
+      "phrases": [
+        "تفاعل اجتماعي",
+        "تفاعل مع",
+        "تفاعل دوائي"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1878,
+    "lemma": "repair",
+    "source": {
+      "word": "repair",
+      "phrases": [
+        "under repair",
+        "repair shop",
+        "beyond repair"
+      ]
+    },
+    "target": {
+      "word": "إصلاح",
+      "phrases": [
+        "تحت الإصلاح",
+        "ورشة إصلاح",
+        "غير قابل للإصلاح"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1879,
+    "lemma": "collapse",
+    "source": {
+      "word": "collapse",
+      "phrases": [
+        "collapse of",
+        "economic collapse",
+        "building collapse"
+      ]
+    },
+    "target": {
+      "word": "انهيار",
+      "phrases": [
+        "انهيار لـ",
+        "انهيار اقتصادي",
+        "انهيار مبنى"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1880,
+    "lemma": "borrow",
+    "source": {
+      "word": "borrow",
+      "phrases": [
+        "borrow money",
+        "borrow a book",
+        "beg borrow or steal"
+      ]
+    },
+    "target": {
+      "word": "يستعير",
+      "phrases": [
+        "يقترض مالاً",
+        "يستعير كتاباً",
+        "بأي وسيلة كانت"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1881,
+    "lemma": "fundamental",
+    "source": {
+      "word": "fundamental",
+      "phrases": [
+        "fundamental rights",
+        "fundamental difference",
+        "fundamental problem"
+      ]
+    },
+    "target": {
+      "word": "أساسي",
+      "phrases": [
+        "حقوق أساسية",
+        "اختلاف أساسي",
+        "مشكلة أساسية"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1882,
+    "lemma": "dish",
+    "source": {
+      "word": "dish",
+      "phrases": [
+        "main dish",
+        "wash the dishes",
+        "satellite dish"
+      ]
+    },
+    "target": {
+      "word": "طبق",
+      "phrases": [
+        "طبق رئيسي",
+        "غسل الأطباق",
+        "طبق أقمار صناعية"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1883,
+    "lemma": "abroad",
+    "source": {
+      "word": "abroad",
+      "phrases": [
+        "study abroad",
+        "go abroad",
+        "travel abroad"
+      ]
+    },
+    "target": {
+      "word": "خارج البلاد",
+      "phrases": [
+        "الدراسة بالخارج",
+        "الذهاب للخارج",
+        "السفر للخارج"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1884,
+    "lemma": "soul",
+    "source": {
+      "word": "soul",
+      "phrases": [
+        "soul mate",
+        "body and soul",
+        "lost soul"
+      ]
+    },
+    "target": {
+      "word": "روح",
+      "phrases": [
+        "تأم روح",
+        "جسداً وروحاً",
+        "روح ضائعة"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1885,
+    "lemma": "capable",
+    "source": {
+      "word": "capable",
+      "phrases": [
+        "capable of",
+        "capable person",
+        "fully capable"
+      ]
+    },
+    "target": {
+      "word": "قادر",
+      "phrases": [
+        "قادر على",
+        "شخص قادر",
+        "قادر تماماً"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1886,
+    "lemma": "defeat",
+    "source": {
+      "word": "defeat",
+      "phrases": [
+        "admit defeat",
+        "accept defeat",
+        "defeat the enemy"
+      ]
+    },
+    "target": {
+      "word": "هزيمة",
+      "phrases": [
+        "الاعتراف بالهزيمة",
+        "تقبل الهزيمة",
+        "هزيمة العدو"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1887,
+    "lemma": "presidential",
+    "source": {
+      "word": "presidential",
+      "phrases": [
+        "presidential election",
+        "presidential suite",
+        "presidential candidate"
+      ]
+    },
+    "target": {
+      "word": "رئاسي",
+      "phrases": [
+        "انتخابات رئاسية",
+        "جناح رئاسي",
+        "مرشح رئاسي"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1888,
+    "lemma": "perfectly",
+    "source": {
+      "word": "perfectly",
+      "phrases": [
+        "perfectly fine",
+        "fit perfectly",
+        "perfectly clear"
+      ]
+    },
+    "target": {
+      "word": "بشكل مثالي",
+      "phrases": [
+        "بخير تماماً",
+        "يناسب تماماً",
+        "واضح تماماً"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1889,
+    "lemma": "enhance",
+    "source": {
+      "word": "enhance",
+      "phrases": [
+        "enhance performance",
+        "enhance quality",
+        "enhanced security"
+      ]
+    },
+    "target": {
+      "word": "تحسين",
+      "phrases": [
+        "تحسين الأداء",
+        "تحسين الجودة",
+        "أمن معزز"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1890,
+    "lemma": "proud",
+    "source": {
+      "word": "proud",
+      "phrases": [
+        "proud of",
+        "do me proud",
+        "proud father"
+      ]
+    },
+    "target": {
+      "word": "فخور",
+      "phrases": [
+        "فخور بـ",
+        "تجعلني فخوراً",
+        "أب فخور"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1891,
+    "lemma": "emergency",
+    "source": {
+      "word": "emergency",
+      "phrases": [
+        "in case of emergency",
+        "emergency room",
+        "state of emergency"
+      ]
+    },
+    "target": {
+      "word": "طوارئ",
+      "phrases": [
+        "في حالة الطوارئ",
+        "غرفة الطوارئ",
+        "حالة الطوارئ"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1892,
+    "lemma": "educational",
+    "source": {
+      "word": "educational",
+      "phrases": [
+        "educational system",
+        "educational value",
+        "educational toy"
+      ]
+    },
+    "target": {
+      "word": "تعليمي",
+      "phrases": [
+        "نظام تعليمي",
+        "قيمة تعليمية",
+        "لعبة تعليمية"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1893,
+    "lemma": "distinguish",
+    "source": {
+      "word": "distinguish",
+      "phrases": [
+        "distinguish between",
+        "distinguish from",
+        "hard to distinguish"
+      ]
+    },
+    "target": {
+      "word": "يميّز",
+      "phrases": [
+        "يميز بين",
+        "يميز عن",
+        "يصعب التمييز"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1894,
+    "lemma": "substantial",
+    "source": {
+      "word": "substantial",
+      "phrases": [
+        "substantial amount",
+        "substantial change",
+        "substantial evidence"
+      ]
+    },
+    "target": {
+      "word": "جوهري",
+      "phrases": [
+        "كمية كبيرة",
+        "تغيير جوهري",
+        "أدلة ملموسة"
+      ]
+    },
+    "frequency": 39
+  },
+  {
+    "rank": 1895,
+    "lemma": "nearby",
+    "source": {
+      "word": "nearby",
+      "phrases": [
+        "nearby hotel",
+        "live nearby",
+        "nearby town"
+      ]
+    },
+    "target": {
+      "word": "قريب",
+      "phrases": [
+        "فندق قريب",
+        "يسكن بالجوار",
+        "بلدة مجاورة"
+      ]
+    },
+    "frequency": 38
+  },
+  {
+    "rank": 1896,
+    "lemma": "manufacturer",
+    "source": {
+      "word": "manufacturer",
+      "phrases": [
+        "car manufacturer",
+        "leading manufacturer",
+        "original equipment manufacturer"
+      ]
+    },
+    "target": {
+      "word": "مصنع",
+      "phrases": [
+        "مصنع سيارات",
+        "شركة مصنعة رائدة",
+        "المصنع الأصلي للمعدات"
+      ]
+    },
+    "frequency": 38
+  },
+  {
+    "rank": 1897,
+    "lemma": "slide",
+    "source": {
+      "word": "slide",
+      "phrases": [
+        "slide down",
+        "slide show",
+        "let it slide"
+      ]
+    },
+    "target": {
+      "word": "ينزلق",
+      "phrases": [
+        "ينزلق للأسفل",
+        "عرض شرائح",
+        "تجاوز عن الأمر"
+      ]
+    },
+    "frequency": 38
+  },
+  {
+    "rank": 1898,
+    "lemma": "valuable",
+    "source": {
+      "word": "valuable",
+      "phrases": [
+        "valuable asset",
+        "valuable lesson",
+        "valuable information"
+      ]
+    },
+    "target": {
+      "word": "قيم",
+      "phrases": [
+        "أصل قيم",
+        "درس قيم",
+        "معلومات قيمة"
+      ]
+    },
+    "frequency": 38
+  },
+  {
+    "rank": 1899,
+    "lemma": "personally",
+    "source": {
+      "word": "personally",
+      "phrases": [
+        "personally speaking",
+        "take it personally",
+        "know personally"
+      ]
+    },
+    "target": {
+      "word": "شخصياً",
+      "phrases": [
+        "أتحدث شخصياً",
+        "تأخذه على محمل شخصي",
+        "يعرف شخصياً"
+      ]
+    },
+    "frequency": 38
+  },
+  {
+    "rank": 1900,
+    "lemma": "breast",
+    "source": {
+      "word": "breast",
+      "phrases": [
+        "breast cancer",
+        "chicken breast",
+        "breast milk"
+      ]
+    },
+    "target": {
+      "word": "صدر",
+      "phrases": [
+        "سرطان الثدي",
+        "صدر دجاج",
+        "حليب الأم"
+      ]
+    },
+    "frequency": 38
+  }
+]

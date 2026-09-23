@@ -1,0 +1,143 @@
+{
+  "lang": "en",
+  "nativeName": "English",
+  "tagline": "Every movement counts.",
+  "hero": "Your movement.\nMade measurable.",
+  "intro": "A morning walk, a favourite sport, everyday chores.\nExplore the energy you use, with your weight and time.",
+  "browse": "Explore activities",
+  "calculator": "Calculator",
+  "about": "About METs",
+  "search": "Search activities (walking, cleaning…)",
+  "all": "All",
+  "activities": {
+    "walking": {
+      "name": "Walking",
+      "description": "Level ground, 4.5–5.5 km/h"
+    },
+    "running": {
+      "name": "Running",
+      "description": "Running at 8.0–8.4 km/h"
+    },
+    "cycling": {
+      "name": "Cycling",
+      "description": "Leisure cycling below 16 km/h"
+    },
+    "vacuum_cleaning": {
+      "name": "Vacuuming",
+      "description": "Ordinary vacuuming, moderate effort"
+    },
+    "gardening": {
+      "name": "Gardening",
+      "description": "General garden work, moderate effort"
+    },
+    "dog_walking": {
+      "name": "Dog walking",
+      "description": "An ordinary walk with a dog"
+    },
+    "hiking": {
+      "name": "Hiking",
+      "description": "Cross-country hiking"
+    },
+    "stair_climbing": {
+      "name": "Stair climbing",
+      "description": "General stair climbing"
+    },
+    "sweeping": {
+      "name": "Sweeping",
+      "description": "Sweeping floors or carpets"
+    },
+    "mopping": {
+      "name": "Mopping",
+      "description": "Standing, moderate-effort mopping"
+    },
+    "window_cleaning": {
+      "name": "Window cleaning",
+      "description": "Ordinary window washing"
+    },
+    "cooking": {
+      "name": "Cooking",
+      "description": "Light food preparation, standing or sitting"
+    },
+    "washing_dishes": {
+      "name": "Washing dishes",
+      "description": "Ordinary dishwashing"
+    },
+    "mowing": {
+      "name": "Lawn mowing",
+      "description": "Walking, moderate-effort lawn mowing"
+    },
+    "weeding": {
+      "name": "Weeding",
+      "description": "Moderate-effort weeding"
+    },
+    "planting": {
+      "name": "Potting plants",
+      "description": "Light potting and transplanting"
+    },
+    "badminton": {
+      "name": "Badminton",
+      "description": "Social singles or doubles"
+    },
+    "basketball": {
+      "name": "Basketball",
+      "description": "Basketball game"
+    },
+    "table_tennis": {
+      "name": "Table tennis",
+      "description": "General table tennis"
+    },
+    "tennis": {
+      "name": "Tennis",
+      "description": "General tennis, moderate effort"
+    }
+  },
+  "category": "Category",
+  "weight": "Weight",
+  "minutes": "Duration",
+  "min": "min",
+  "activity": "Choose an activity",
+  "result": "Estimated energy burned",
+  "estimate": "An estimate including resting energy",
+  "detail": "Explore this activity",
+  "quick": "A little movement. A quick calculation.",
+  "quickSub": "Choose an activity, your weight and duration.",
+  "explore": "Find your everyday movement.",
+  "exploreSub": "Pick an activity to calculate and compare.",
+  "timeTable": "Calories by duration",
+  "weightTable": "Calories by weight",
+  "compare": "Compare other activities",
+  "food": "The equivalent energy in food",
+  "foodNote": "Illustrative servings: rice ball 180, bread 160, banana 90 kcal. Portions, ingredients and products vary. These are not meal replacements or exercise recommendations.",
+  "reverse": "From energy to time",
+  "target": "Target energy",
+  "fat": "1 kg body fat reference (7,700 kcal)",
+  "fatNote": "An energy-only illustration, not a promise of losing 1 kg of fat. Diet, water, resting metabolism, individual differences and metabolic adaptation affect weight change. Not a recommendation for continuous exercise.",
+  "related": "Related activities",
+  "metTitle": "What is a MET?",
+  "metText": "MET describes activity intensity relative to rest, defined as 1 MET. A 3 MET activity uses roughly three times the energy of resting.",
+  "formula": "How we calculate",
+  "source": "Data source",
+  "note": "Estimates vary with age, fitness, body composition and environment. The 2024 Adult Compendium mainly covers adults aged 19–59. Not intended for medical decisions.",
+  "empty": "No activities found. Try another search.",
+  "invalid": "Enter weight 1–500 kg, duration 0–1,440 min, and target 0–100,000 kcal.",
+  "titleSuffix": " — calories burned",
+  "home": "Home",
+  "live": "Updates as you type",
+  "count": "activities",
+  "based": "Based on the 2024 Compendium",
+  "footer": "There is energy in the everyday.",
+  "nojs": "Enable JavaScript for calculation and search. Activity descriptions and default reference tables remain available.",
+  "categories": {
+    "walking": "Walking",
+    "running": "Running",
+    "cycling": "Cycling",
+    "home": "Home",
+    "garden": "Garden",
+    "sports": "Sports"
+  },
+  "foods": {
+    "rice": "Rice ball (1 piece)",
+    "bread": "Bread (1 slice)",
+    "banana": "Banana (1 piece)"
+  }
+}

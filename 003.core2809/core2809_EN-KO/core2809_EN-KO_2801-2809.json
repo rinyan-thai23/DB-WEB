@@ -1,0 +1,191 @@
+[
+  {
+    "rank": 2801,
+    "lemma": "alright",
+    "source": {
+      "word": "alright",
+      "phrases": [
+        "it's alright",
+        "are you alright?",
+        "everything is alright"
+      ]
+    },
+    "target": {
+      "word": "괜찮은",
+      "phrases": [
+        "괜찮아요",
+        "괜찮으세요?",
+        "모든 것이 괜찮습니다"
+      ]
+    },
+    "frequency": 11
+  },
+  {
+    "rank": 2802,
+    "lemma": "lazy",
+    "source": {
+      "word": "lazy",
+      "phrases": [
+        "lazy afternoon",
+        "lazy bones",
+        "too lazy to"
+      ]
+    },
+    "target": {
+      "word": "게으른",
+      "phrases": [
+        "나른한 오후",
+        "게으름뱅이",
+        "~하기에 너무 귀찮은"
+      ]
+    },
+    "frequency": 10
+  },
+  {
+    "rank": 2803,
+    "lemma": "hello",
+    "source": {
+      "word": "hello",
+      "phrases": [
+        "say hello",
+        "hello world",
+        "hello there"
+      ]
+    },
+    "target": {
+      "word": "안녕",
+      "phrases": [
+        "인사하다",
+        "헬로 월드",
+        "거기 안녕하세요"
+      ]
+    },
+    "frequency": 10
+  },
+  {
+    "rank": 2804,
+    "lemma": "hunger",
+    "source": {
+      "word": "hunger",
+      "phrases": [
+        "satisfy hunger",
+        "hunger strike",
+        "hunger for"
+      ]
+    },
+    "target": {
+      "word": "배고픔",
+      "phrases": [
+        "허기를 채우다",
+        "단식 투쟁",
+        "~에 대한 갈망"
+      ]
+    },
+    "frequency": 9
+  },
+  {
+    "rank": 2805,
+    "lemma": "insure",
+    "source": {
+      "word": "insure",
+      "phrases": [
+        "insure against",
+        "insure a car",
+        "fully insured"
+      ]
+    },
+    "target": {
+      "word": "보험에 들다",
+      "phrases": [
+        "~에 대비해 보험을 들다",
+        "자동차 보험을 들다",
+        "보험에 완전히 가입된"
+      ]
+    },
+    "frequency": 9
+  },
+  {
+    "rank": 2806,
+    "lemma": "ashamed",
+    "source": {
+      "word": "ashamed",
+      "phrases": [
+        "ashamed of",
+        "feel ashamed",
+        "nothing to be ashamed of"
+      ]
+    },
+    "target": {
+      "word": "부끄러워하는",
+      "phrases": [
+        "~을 부끄러워하는",
+        "부끄러움을 느끼다",
+        "부끄러워할 일이 아니다"
+      ]
+    },
+    "frequency": 8
+  },
+  {
+    "rank": 2807,
+    "lemma": "found",
+    "source": {
+      "word": "found",
+      "phrases": [
+        "found a company",
+        "lost and found",
+        "well founded"
+      ]
+    },
+    "target": {
+      "word": "설립하다",
+      "phrases": [
+        "회사를 설립하다",
+        "분실물 보관소",
+        "근거가 충분한"
+      ]
+    },
+    "frequency": 7
+  },
+  {
+    "rank": 2808,
+    "lemma": "blog",
+    "source": {
+      "word": "blog",
+      "phrases": [
+        "write a blog",
+        "travel blog",
+        "blog post"
+      ]
+    },
+    "target": {
+      "word": "블로그",
+      "phrases": [
+        "블로그를 쓰다",
+        "여행 블로그",
+        "블로그 포스트"
+      ]
+    },
+    "frequency": 7
+  },
+  {
+    "rank": 2809,
+    "lemma": "thirst",
+    "source": {
+      "word": "thirst",
+      "phrases": [
+        "quench thirst",
+        "thirst for knowledge",
+        "die of thirst"
+      ]
+    },
+    "target": {
+      "word": "갈증",
+      "phrases": [
+        "갈증을 해소하다",
+        "지식에 대한 갈구",
+        "목말라 죽다"
+      ]
+    },
+    "frequency": 3
+  }
+]

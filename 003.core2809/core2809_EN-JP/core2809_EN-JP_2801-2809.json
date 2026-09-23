@@ -1,0 +1,191 @@
+[
+  {
+    "rank": 2801,
+    "lemma": "alright",
+    "source": {
+      "word": "alright",
+      "phrases": [
+        "it's alright",
+        "are you alright?",
+        "everything is alright"
+      ]
+    },
+    "target": {
+      "word": "大丈夫／申し分ない",
+      "phrases": [
+        "大丈夫だよ",
+        "大丈夫ですか？",
+        "全て順調だ"
+      ]
+    },
+    "frequency": 11
+  },
+  {
+    "rank": 2802,
+    "lemma": "lazy",
+    "source": {
+      "word": "lazy",
+      "phrases": [
+        "lazy afternoon",
+        "lazy bones",
+        "too lazy to"
+      ]
+    },
+    "target": {
+      "word": "怠惰な／のんびりした",
+      "phrases": [
+        "のんびりした午後",
+        "怠け者",
+        "〜するのが面倒くさい"
+      ]
+    },
+    "frequency": 10
+  },
+  {
+    "rank": 2803,
+    "lemma": "hello",
+    "source": {
+      "word": "hello",
+      "phrases": [
+        "say hello",
+        "hello world",
+        "hello there"
+      ]
+    },
+    "target": {
+      "word": "こんにちは",
+      "phrases": [
+        "よろしく伝える",
+        "ハローワールド（プログラミング）",
+        "やあ、こんにちは"
+      ]
+    },
+    "frequency": 10
+  },
+  {
+    "rank": 2804,
+    "lemma": "hunger",
+    "source": {
+      "word": "hunger",
+      "phrases": [
+        "satisfy hunger",
+        "hunger strike",
+        "hunger for"
+      ]
+    },
+    "target": {
+      "word": "空腹／渇望",
+      "phrases": [
+        "空腹を満たす",
+        "ハンガーストライキ",
+        "〜への渇望"
+      ]
+    },
+    "frequency": 9
+  },
+  {
+    "rank": 2805,
+    "lemma": "insure",
+    "source": {
+      "word": "insure",
+      "phrases": [
+        "insure against",
+        "insure a car",
+        "fully insured"
+      ]
+    },
+    "target": {
+      "word": "保険をかける",
+      "phrases": [
+        "〜に保険をかける",
+        "車に保険をかける",
+        "完備された保険"
+      ]
+    },
+    "frequency": 9
+  },
+  {
+    "rank": 2806,
+    "lemma": "ashamed",
+    "source": {
+      "word": "ashamed",
+      "phrases": [
+        "ashamed of",
+        "feel ashamed",
+        "nothing to be ashamed of"
+      ]
+    },
+    "target": {
+      "word": "恥じて",
+      "phrases": [
+        "〜を恥じて",
+        "恥ずかしく思う",
+        "恥じることは何もない"
+      ]
+    },
+    "frequency": 8
+  },
+  {
+    "rank": 2807,
+    "lemma": "found",
+    "source": {
+      "word": "found",
+      "phrases": [
+        "found a company",
+        "lost and found",
+        "well founded"
+      ]
+    },
+    "target": {
+      "word": "設立する／創設する",
+      "phrases": [
+        "会社を設立する",
+        "遺失物取扱所",
+        "根拠のある"
+      ]
+    },
+    "frequency": 7
+  },
+  {
+    "rank": 2808,
+    "lemma": "blog",
+    "source": {
+      "word": "blog",
+      "phrases": [
+        "write a blog",
+        "travel blog",
+        "blog post"
+      ]
+    },
+    "target": {
+      "word": "ブログ",
+      "phrases": [
+        "ブログを書く",
+        "旅行ブログ",
+        "ブログ記事"
+      ]
+    },
+    "frequency": 7
+  },
+  {
+    "rank": 2809,
+    "lemma": "thirst",
+    "source": {
+      "word": "thirst",
+      "phrases": [
+        "quench thirst",
+        "thirst for knowledge",
+        "die of thirst"
+      ]
+    },
+    "target": {
+      "word": "渇き",
+      "phrases": [
+        "渇きを癒やす",
+        "知識への渇望",
+        "渇きで死ぬ"
+      ]
+    },
+    "frequency": 3
+  }
+]

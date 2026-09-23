@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IT Terminology Dictionary</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #f1f5f9; }
+        [v-cloak] { display: none; }
+        .card-hover:hover { transform: translateY(-2px); box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); }
+        
+        /* Play Mode Animation */
+        .fade-enter-active, .fade-leave-active { transition: opacity 0.4s ease; }
+        .fade-enter-from, .fade-leave-to { opacity: 0; }
+        
+        .slide-up-enter-active { transition: all 0.4s ease-out; }
+        .slide-up-enter-from { opacity: 0; transform: translateY(20px); }
+
+        /* Speaking Pulse Animation */
+        @keyframes speak-pulse {
+            0% { transform: scale(1); color: #1e293b; }
+            50% { transform: scale(1.05); color: #2563eb; }
+            100% { transform: scale(1); color: #1e293b; }
+        }
+        /* 翻訳テキスト用のアニメーション */
+        @keyframes speak-pulse-blue {
+            0% { transform: scale(1); color: #2563eb; }
+            50% { transform: scale(1.05); color: #1d4ed8; }
+            100% { transform: scale(1); color: #2563eb; }
+        }
+        
+        .speaking-en { animation: speak-pulse 0.5s ease-in-out; color: #2563eb !important; }
+        .speaking-target { animation: speak-pulse-blue 0.5s ease-in-out; }
+    </style>
+</head>
+<body>
+    <div id="app" v-cloak class="min-h-screen flex flex-col">
+        
+        <header v-if="viewMode !== 'play'" class="p-4 md:p-8 pb-0 max-w-7xl mx-auto w-full z-10">
+            <div class="bg-white rounded-2xl shadow-sm border border-slate-200 p-5 flex flex-col md:flex-row justify-between items-center gap-5">
+                
+                <div class="flex items-center gap-3">
+                    <div class="bg-blue-600 text-white p-2 rounded-lg text-2xl">📚</div>
+                    <div>
+                        <h1 class="text-2xl font-bold text-slate-800 tracking-tight">IT Terminology</h1>
+                        <p class="text-xs text-slate-500 font-medium">Terms: {{ filteredItems.length }} / {{ items.length }}</p>
+                    </div>
+                </div>
+
+                <div class="flex flex-col sm:flex-row gap-3 w-full md:w-auto">
+                    <div class="relative group">
+                        <select v-model="targetLang" class="appearance-none bg-slate-50 border border-slate-300 text-slate-700 py-2.5 pl-4 pr-10 rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-500 w-full sm:w-40 font-medium cursor-pointer transition-colors hover:border-blue-400">
+                            <option value="jp">🇯🇵 日本語</option>
+                            <option value="en">🇺🇸 English</option>
+                            <option value="th">🇹🇭 Thai</option>
+                            <option value="zh">🇨🇳 Chinese</option>
+                            <option value="es">🇪🇸 Spanish</option>
+                            <option value="fr">🇫🇷 French</option>
+                            <option value="de">🇩🇪 German</option>
+                            <option value="pt">🇵🇹 Portuguese</option>
+                            <option value="id">🇮🇩 Indonesian</option>
+                            <option value="ru">🇷🇺 Russian</option>
+                            <option value="hi">🇮🇳 Hindi</option>
+                            <option value="ar">🇸🇦 Arabic</option>
+                            <option value="ko">🇰🇷 Korean</option>
+                        </select>
+                        <span class="absolute right-3 top-3.5 text-slate-400 pointer-events-none text-xs">▼</span>
+                    </div>
+
+                    <div class="flex bg-slate-100 p-1 rounded-xl border border-slate-200">
+                        <button @click="viewMode = 'list'" :class="{'bg-white text-blue-600 shadow-sm': viewMode === 'list'}" class="px-4 py-2 rounded-lg text-sm font-bold transition-all text-slate-500 hover:text-slate-700">
+                            ☰ List
+                        </button>
+                        <button @click="viewMode = 'card'" :class="{'bg-white text-blue-600 shadow-sm': viewMode === 'card'}" class="px-4 py-2 rounded-lg text-sm font-bold transition-all text-slate-500 hover:text-slate-700">
+                            ▣ Card
+                        </button>
+                        <button @click="startPlayMode" class="ml-1 px-4 py-2 rounded-lg text-sm font-bold transition-all bg-blue-600 text-white hover:bg-blue-700 shadow-sm flex items-center gap-1">
+                            <span>▶</span> Play
+                        </button>
+                    </div>
+
+                    <div class="relative w-full sm:w-56">
+                        <input type="text" v-model="search" placeholder="Search..." class="w-full bg-white border border-slate-300 text-slate-700 py-2.5 pl-9 pr-4 rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all shadow-sm">
+                        <span class="absolute left-3 top-2.5 text-slate-400">🔍</span>
+                        <button v-if="search" @click="search = ''" class="absolute right-3 top-2.5 text-slate-400 hover:text-slate-600">✕</button>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main class="flex-grow p-4 md:p-8 max-w-7xl mx-auto w-full relative">
+            
+            <div v-if="loading" class="flex flex-col items-center justify-center py-20 text-slate-400">
+                <div class="w-10 h-10 border-4 border-blue-200 border-t-blue-600 rounded-full animate-spin mb-4"></div>
+                <p>Loading Dictionary...</p>
+            </div>
+
+            <div v-else-if="filteredItems.length === 0" class="text-center py-20">
+                <p class="text-slate-500 text-lg">No terms found.</p>
+            </div>
+
+            <transition name="fade">
+                <div v-if="viewMode === 'play'" class="fixed inset-0 z-50 bg-slate-900 flex flex-col items-center justify-center p-6">
+                    
+                    <div class="absolute top-0 left-0 w-full h-2 bg-slate-800">
+                        <div class="h-full bg-blue-500 transition-all duration-500" :style="{ width: ((currentIndex + 1) / filteredItems.length) * 100 + '%' }"></div>
+                    </div>
+
+                    <div class="absolute top-6 right-6 flex gap-4 z-50">
+                        <div class="text-slate-400 font-mono text-sm bg-slate-800 px-3 py-1 rounded-full border border-slate-700">
+                            {{ currentIndex + 1 }} / {{ filteredItems.length }}
+                        </div>
+                        <button @click="stopPlayMode" class="text-white bg-slate-700 hover:bg-red-600 px-4 py-1 rounded-full text-sm font-bold transition-colors">
+                            ✕ Stop
+                        </button>
+                    </div>
+
+                    <transition name="slide-up" mode="out-in">
+                        <div :key="currentItem.termKey" class="bg-white w-full max-w-2xl rounded-3xl shadow-2xl p-8 md:p-12 text-center flex flex-col items-center justify-center min-h-[50vh] relative overflow-hidden">
+                            
+                            <div class="absolute top-0 left-0 w-full h-2 bg-blue-500"></div>
+
+                            <h2 class="text-5xl md:text-7xl font-black text-slate-800 mb-6 tracking-tight transition-colors duration-200"
+                                :class="{ 'speaking-en': activeSpeech === 'en' }">
+                                {{ currentItem.termKey }}
+                            </h2>
+
+                            <div class="mb-8 h-6 flex justify-center items-center">
+                                <span v-if="activeSpeech" class="text-blue-500 font-bold text-sm tracking-widest uppercase flex items-center gap-2">
+                                    <span class="w-2 h-2 bg-blue-500 rounded-full animate-ping"></span> 
+                                    {{ activeSpeech === 'en' ? 'English' : langLabel(targetLang) }}
+                                </span>
+                            </div>
+
+                            <div v-if="targetLang !== 'en'" 
+                                 class="text-3xl md:text-4xl font-bold text-blue-600 mb-8 transition-all duration-200"
+                                 :class="{ 'speaking-target': activeSpeech === 'target' }">
+                                {{ getItem(currentItem, 'Term') }}
+                            </div>
+
+                            <p class="text-xl text-slate-600 leading-relaxed max-w-xl font-medium">
+                                {{ getItem(currentItem, 'Meaning') }}
+                            </p>
+                            
+                            <div class="mt-8 flex gap-2 justify-center">
+                                <span class="px-3 py-1 bg-slate-100 text-slate-500 rounded-full text-xs font-bold uppercase tracking-wider">
+                                    {{ getItem(currentItem, 'Risk') }}
+                                </span>
+                                <span class="px-3 py-1 bg-blue-50 text-blue-600 rounded-full text-xs font-bold uppercase tracking-wider">
+                                    {{ getItem(currentItem, 'Category') }}
+                                </span>
+                            </div>
+
+                        </div>
+                    </transition>
+                    
+                    <div class="mt-10 flex items-center gap-6">
+                        <button @click="prevCard" class="w-14 h-14 flex items-center justify-center rounded-full bg-slate-800 text-white hover:bg-slate-700 transition text-2xl pb-1">⏮</button>
+                        
+                        <button @click="togglePause" class="h-16 px-10 rounded-full bg-blue-600 text-white hover:bg-blue-500 font-bold shadow-lg shadow-blue-500/30 transition text-lg flex items-center gap-2">
+                            <span class="text-2xl">{{ isPaused ? '▶' : '⏸' }}</span>
+                            <span>{{ isPaused ? 'Resume' : 'Pause' }}</span>
+                        </button>
+                        
+                        <button @click="nextCard" class="w-14 h-14 flex items-center justify-center rounded-full bg-slate-800 text-white hover:bg-slate-700 transition text-2xl pb-1">⏭</button>
+                    </div>
+
+                </div>
+            </transition>
+
+            <div v-if="viewMode !== 'play' && !loading && filteredItems.length > 0">
+                
+                <div v-if="viewMode === 'list'" class="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden">
+                    <div class="overflow-x-auto">
+                        <table class="w-full text-left text-sm text-slate-600">
+                            <thead class="bg-slate-50 text-slate-700 uppercase font-bold text-xs border-b">
+                                <tr>
+                                    <th class="px-6 py-4">Term</th>
+                                    <th class="px-6 py-4">Risk</th>
+                                    <th class="px-6 py-4">Meaning</th>
+                                    <th class="px-6 py-4">Example</th>
+                                </tr>
+                            </thead>
+                            <tbody class="divide-y divide-slate-100">
+                                <tr v-for="item in filteredItems" :key="item.termKey" class="hover:bg-slate-50">
+                                    <td class="px-6 py-4">
+                                        <div class="flex items-center gap-2">
+                                            <span class="text-lg font-bold text-slate-800">{{ item.termKey }}</span>
+                                            <button @click="speak(item.termKey, 'en')" class="text-slate-300 hover:text-blue-500">🔊</button>
+                                        </div>
+                                        <div v-if="targetLang !== 'en'" class="text-blue-600 font-medium flex items-center gap-1">
+                                            {{ getItem(item, 'Term') }}
+                                            <button @click="speak(getItem(item, 'Term'), targetLang)" class="text-slate-300 hover:text-blue-500 text-xs">🔊</button>
+                                        </div>
+                                    </td>
+                                    <td class="px-6 py-4">
+                                        <span class="px-2 py-1 rounded text-xs font-bold bg-slate-100">{{ getItem(item, 'Risk') }}</span>
+                                    </td>
+                                    <td class="px-6 py-4">
+                                        <div class="font-bold text-slate-900">{{ getItem(item, 'Meaning') }}</div>
+                                        <div class="text-xs text-slate-500">{{ getItem(item, 'Description') }}</div>
+                                    </td>
+                                    <td class="px-6 py-4 text-xs font-mono bg-slate-50/50">
+                                        <div class="mb-1">{{ getItem(item, 'Example', 'en') }}</div>
+                                        <div v-if="targetLang !== 'en'" class="text-blue-600">{{ getItem(item, 'Example') }}</div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <div v-else class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                    <div v-for="item in filteredItems" :key="item.termKey" class="bg-white rounded-2xl shadow-sm border border-slate-200 p-6 card-hover flex flex-col">
+                        <div class="flex justify-between items-start mb-4 border-b border-slate-100 pb-4">
+                            <div>
+                                <div class="flex items-center gap-2">
+                                    <h3 class="text-2xl font-bold text-slate-800">{{ item.termKey }}</h3>
+                                    <button @click="speak(item.termKey, 'en')" class="text-slate-300 hover:text-blue-500">🔊</button>
+                                </div>
+                                <p v-if="targetLang !== 'en'" class="text-blue-600 font-bold mt-1 text-lg flex items-center gap-1">
+                                    {{ getItem(item, 'Term') }}
+                                    <button @click="speak(getItem(item, 'Term'), targetLang)" class="text-blue-200 hover:text-blue-600 text-sm">🔊</button>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="flex gap-2 mb-4">
+                            <span class="text-xs font-bold px-2 py-1 rounded bg-slate-100">{{ getItem(item, 'Risk') }}</span>
+                            <span class="text-xs font-bold px-2 py-1 rounded bg-blue-50 text-blue-600">{{ getItem(item, 'Category') }}</span>
+                        </div>
+                        <div class="flex-grow">
+                            <p class="font-bold text-slate-800 mb-2">{{ getItem(item, 'Meaning') }}</p>
+                            <p class="text-sm text-slate-500">{{ getItem(item, 'Description') }}</p>
+                        </div>
+                        <div class="mt-4 pt-4 border-t border-slate-100 bg-slate-50 -mx-6 -mb-6 p-4 rounded-b-2xl">
+                            <p class="font-mono text-xs text-slate-500 mb-1">{{ getItem(item, 'Example', 'en') }}</p>
+                            <p v-if="targetLang !== 'en'" class="font-mono text-xs text-blue-600">{{ getItem(item, 'Example') }}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </main>
+    </div>
+
+    <script>
+        const { createApp } = Vue;
+
+        createApp({
+            data() {
+                return {
+                    loading: true,
+                    items: [],
+                    search: '',
+                    targetLang: 'jp',
+                    viewMode: 'card', 
+                    
+                    // Language Mapping for TTS
+                    langCodeMap: {
+                        'jp': 'ja-JP',
+                        'en': 'en-US',
+                        'th': 'th-TH',
+                        'zh': 'zh-CN',
+                        'es': 'es-ES',
+                        'fr': 'fr-FR',
+                        'de': 'de-DE',
+                        'pt': 'pt-BR',
+                        'id': 'id-ID',
+                        'ru': 'ru-RU',
+                        'hi': 'hi-IN',
+                        'ar': 'ar-SA',
+                        'ko': 'ko-KR'
+                    },
+
+                    // Play Mode State
+                    currentIndex: 0,
+                    isPaused: false,
+                    activeSpeech: null // 'en' or 'target' (now speaking)
+                }
+            },
+            computed: {
+                filteredItems() {
+                    if (!this.search) return this.items;
+                    const query = this.search.toLowerCase();
+                    return this.items.filter(item => {
+                        if (item.termKey && item.termKey.toLowerCase().includes(query)) return true;
+                        const cur = item[this.targetLang];
+                        if (cur && ((cur.Term && cur.Term.includes(query)) || (cur.Meaning && cur.Meaning.includes(query)))) return true;
+                        const enData = item['en'];
+                        if (enData && enData.Meaning && enData.Meaning.toLowerCase().includes(query)) return true;
+                        return false;
+                    });
+                },
+                currentItem() {
+                    if (this.filteredItems.length === 0) return {};
+                    return this.filteredItems[this.currentIndex] || {};
+                }
+            },
+            methods: {
+                getItem(item, field, forceLang = null) {
+                    const lang = forceLang || this.targetLang;
+                    if (item[lang] && item[lang][field]) return item[lang][field];
+                    if (!forceLang && item['en'] && item['en'][field]) return item['en'][field];
+                    return '-';
+                },
+                
+                langLabel(code) {
+                    const map = {
+                        'jp': 'Japanese', 'en': 'English', 'th': 'Thai', 'zh': 'Chinese',
+                        'es': 'Spanish', 'fr': 'French', 'de': 'German', 'pt': 'Portuguese',
+                        'id': 'Indonesian', 'ru': 'Russian', 'hi': 'Hindi', 'ar': 'Arabic', 'ko': 'Korean'
+                    };
+                    return map[code] || code;
+                },
+
+                // --- One-shot Speak ---
+                speak(text, langKey = 'en') {
+                    window.speechSynthesis.cancel();
+                    const u = new SpeechSynthesisUtterance(text);
+                    u.lang = this.langCodeMap[langKey] || 'en-US';
+                    window.speechSynthesis.speak(u);
+                },
+
+                // --- Play Mode Logic ---
+                startPlayMode() {
+                    if (this.filteredItems.length === 0) return;
+                    this.viewMode = 'play';
+                    this.currentIndex = 0;
+                    this.isPaused = false;
+                    this.playSequence();
+                },
+
+                stopPlayMode() {
+                    this.viewMode = 'card';
+                    this.isPaused = false;
+                    this.activeSpeech = null;
+                    window.speechSynthesis.cancel();
+                },
+
+                togglePause() {
+                    this.isPaused = !this.isPaused;
+                    if (this.isPaused) {
+                        window.speechSynthesis.cancel();
+                        this.activeSpeech = null;
+                    } else {
+                        // Resume from start of sequence for simplicity
+                        this.playSequence();
+                    }
+                },
+
+                prevCard() {
+                    window.speechSynthesis.cancel();
+                    this.activeSpeech = null;
+                    if (this.currentIndex > 0) {
+                        this.currentIndex--;
+                        this.playSequence();
+                    }
+                },
+
+                nextCard() {
+                    window.speechSynthesis.cancel();
+                    this.activeSpeech = null;
+                    if (this.currentIndex < this.filteredItems.length - 1) {
+                        this.currentIndex++;
+                        this.playSequence();
+                    } else {
+                        this.stopPlayMode();
+                    }
+                },
+
+                // 発話用Promiseラッパー
+                speakPromise(text, langCode) {
+                    return new Promise(resolve => {
+                        if (!text || this.viewMode !== 'play' || this.isPaused) {
+                            resolve();
+                            return;
+                        }
+                        const u = new SpeechSynthesisUtterance(text);
+                        u.lang = langCode;
+                        u.rate = 1.0;
+
+                        u.onend = () => {
+                            setTimeout(resolve, 500); // 0.5s pause after speech
+                        };
+                        u.onerror = () => {
+                            setTimeout(resolve, 200);
+                        };
+
+                        window.speechSynthesis.speak(u);
+                    });
+                },
+
+                async playSequence() {
+                    if (this.viewMode !== 'play' || this.isPaused) return;
+
+                    const item = this.filteredItems[this.currentIndex];
+                    const enTerm = item.termKey;
+                    const targetTerm = this.getItem(item, 'Term');
+                    const targetCode = this.langCodeMap[this.targetLang];
+
+                    // 3回リピート (EN -> Target)
+                    for (let i = 0; i < 3; i++) {
+                        if (this.viewMode !== 'play' || this.isPaused) return;
+
+                        // 1. Speak English
+                        this.activeSpeech = 'en';
+                        await this.speakPromise(enTerm, 'en-US');
+
+                        if (this.viewMode !== 'play' || this.isPaused) return;
+
+                        // 2. Speak Target (if not EN)
+                        if (this.targetLang !== 'en') {
+                            this.activeSpeech = 'target';
+                            await this.speakPromise(targetTerm, targetCode);
+                        } else {
+                            // If target is EN, just wait a bit or repeat EN? 
+                            // Current logic: EN -> EN is redundant, so loop serves as repeat
+                        }
+                    }
+
+                    this.activeSpeech = null;
+
+                    // Next Card
+                    if (this.viewMode === 'play' && !this.isPaused) {
+                        this.nextCard();
+                    }
+                }
+            },
+            mounted() {
+                fetch('./dictionary.json')
+                    .then(res => res.ok ? res.json() : [])
+                    .then(data => {
+                        this.items = data;
+                        this.loading = false;
+                    })
+                    .catch(() => this.loading = false);
+            }
+        }).mount('#app');
+    </script>
+</body>
+</html>

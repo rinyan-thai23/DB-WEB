@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 2201,
+    "lemma": "adviser",
+    "source": {
+      "word": "adviser",
+      "phrases": [
+        "financial adviser",
+        "trusted adviser",
+        "legal adviser"
+      ]
+    },
+    "target": {
+      "word": "顾问",
+      "phrases": [
+        "财务顾问",
+        "值得信赖的顾问",
+        "法律顾问"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2202,
+    "lemma": "stem",
+    "source": {
+      "word": "stem",
+      "phrases": [
+        "flower stem",
+        "stem cells",
+        "stem from"
+      ]
+    },
+    "target": {
+      "word": "茎 / 起源",
+      "phrases": [
+        "花茎",
+        "干细胞",
+        "源于"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2203,
+    "lemma": "reverse",
+    "source": {
+      "word": "reverse",
+      "phrases": [
+        "reverse gear",
+        "in reverse",
+        "reverse the decision"
+      ]
+    },
+    "target": {
+      "word": "反转 / 后退",
+      "phrases": [
+        "倒档",
+        "反向",
+        "撤销决定"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2204,
+    "lemma": "mode",
+    "source": {
+      "word": "mode",
+      "phrases": [
+        "airplane mode",
+        "mode of transport",
+        "safe mode"
+      ]
+    },
+    "target": {
+      "word": "模式",
+      "phrases": [
+        "飞行模式",
+        "交通方式",
+        "安全模式"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2205,
+    "lemma": "mirror",
+    "source": {
+      "word": "mirror",
+      "phrases": [
+        "look in the mirror",
+        "rearview mirror",
+        "mirror image"
+      ]
+    },
+    "target": {
+      "word": "镜子",
+      "phrases": [
+        "照镜子",
+        "后视镜",
+        "镜像"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2206,
+    "lemma": "awful",
+    "source": {
+      "word": "awful",
+      "phrases": [
+        "awful weather",
+        "feel awful",
+        "awful lot"
+      ]
+    },
+    "target": {
+      "word": "糟糕的",
+      "phrases": [
+        "糟糕的天气",
+        "感觉很难受",
+        "非常多"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2207,
+    "lemma": "pose",
+    "source": {
+      "word": "pose",
+      "phrases": [
+        "strike a pose",
+        "pose a threat",
+        "pose for a photo"
+      ]
+    },
+    "target": {
+      "word": "姿势 / 造成",
+      "phrases": [
+        "摆个姿势",
+        "构成威胁",
+        "拍照合影"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2208,
+    "lemma": "adjust",
+    "source": {
+      "word": "adjust",
+      "phrases": [
+        "adjust the volume",
+        "adjust to",
+        "make adjustments"
+      ]
+    },
+    "target": {
+      "word": "调整",
+      "phrases": [
+        "调节音量",
+        "适应",
+        "做出调整"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2209,
+    "lemma": "creative",
+    "source": {
+      "word": "creative",
+      "phrases": [
+        "creative idea",
+        "creative writing",
+        "be creative"
+      ]
+    },
+    "target": {
+      "word": "创造性的",
+      "phrases": [
+        "创意点子",
+        "创意写作",
+        "发挥创造力"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2210,
+    "lemma": "nowadays",
+    "source": {
+      "word": "nowadays",
+      "phrases": [
+        "nowadays people",
+        "life nowadays",
+        "used nowadays"
+      ]
+    },
+    "target": {
+      "word": "现如今",
+      "phrases": [
+        "当今的人们",
+        "现今的生活",
+        "目前在使用"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2211,
+    "lemma": "poem",
+    "source": {
+      "word": "poem",
+      "phrases": [
+        "write a poem",
+        "love poem",
+        "read a poem"
+      ]
+    },
+    "target": {
+      "word": "诗歌",
+      "phrases": [
+        "写一首诗",
+        "情诗",
+        "读诗"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2212,
+    "lemma": "agricultural",
+    "source": {
+      "word": "agricultural",
+      "phrases": [
+        "agricultural products",
+        "agricultural land",
+        "agricultural revolution"
+      ]
+    },
+    "target": {
+      "word": "农业的",
+      "phrases": [
+        "农产品",
+        "农用土地",
+        "农业革命"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2213,
+    "lemma": "competitor",
+    "source": {
+      "word": "competitor",
+      "phrases": [
+        "main competitor",
+        "beat the competitor",
+        "direct competitor"
+      ]
+    },
+    "target": {
+      "word": "竞争者",
+      "phrases": [
+        "主要竞争对手",
+        "击败对手",
+        "直接竞争对手"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2214,
+    "lemma": "alcohol",
+    "source": {
+      "word": "alcohol",
+      "phrases": [
+        "drink alcohol",
+        "alcohol free",
+        "rubbing alcohol"
+      ]
+    },
+    "target": {
+      "word": "酒精",
+      "phrases": [
+        "饮酒",
+        "无酒精",
+        "医用酒精/消毒酒精"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2215,
+    "lemma": "festival",
+    "source": {
+      "word": "festival",
+      "phrases": [
+        "music festival",
+        "film festival",
+        "summer festival"
+      ]
+    },
+    "target": {
+      "word": "节日 / 庆典",
+      "phrases": [
+        "音乐节",
+        "电影节",
+        "夏季艺术节"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2216,
+    "lemma": "vegetable",
+    "source": {
+      "word": "vegetable",
+      "phrases": [
+        "fresh vegetable",
+        "vegetable garden",
+        "eat vegetables"
+      ]
+    },
+    "target": {
+      "word": "蔬菜",
+      "phrases": [
+        "新鲜蔬菜",
+        "菜园",
+        "吃蔬菜"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2217,
+    "lemma": "van",
+    "source": {
+      "word": "van",
+      "phrases": [
+        "delivery van",
+        "white van",
+        "mini van"
+      ]
+    },
+    "target": {
+      "word": "面包车 / 厢式货车",
+      "phrases": [
+        "送货车",
+        "白色面包车",
+        "小型客货车"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2218,
+    "lemma": "confident",
+    "source": {
+      "word": "confident",
+      "phrases": [
+        "feel confident",
+        "confident in",
+        "self confident"
+      ]
+    },
+    "target": {
+      "word": "自信的",
+      "phrases": [
+        "感到自信",
+        "对...有信心",
+        "自信"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2219,
+    "lemma": "planet",
+    "source": {
+      "word": "planet",
+      "phrases": [
+        "planet earth",
+        "save the planet",
+        "blue planet"
+      ]
+    },
+    "target": {
+      "word": "行星",
+      "phrases": [
+        "地球",
+        "拯救地球",
+        "蓝色星球"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2220,
+    "lemma": "curve",
+    "source": {
+      "word": "curve",
+      "phrases": [
+        "learning curve",
+        "curve ball",
+        "sharp curve"
+      ]
+    },
+    "target": {
+      "word": "曲线",
+      "phrases": [
+        "学习曲线",
+        "变化球",
+        "急转弯"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2221,
+    "lemma": "knee",
+    "source": {
+      "word": "knee",
+      "phrases": [
+        "on my knees",
+        "knee deep",
+        "knee injury"
+      ]
+    },
+    "target": {
+      "word": "膝盖",
+      "phrases": [
+        "跪下",
+        "深陷其中",
+        "膝盖受伤"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2222,
+    "lemma": "overcome",
+    "source": {
+      "word": "overcome",
+      "phrases": [
+        "overcome obstacles",
+        "overcome fear",
+        "overcome with emotion"
+      ]
+    },
+    "target": {
+      "word": "克服",
+      "phrases": [
+        "克服障碍",
+        "克服恐惧",
+        "感慨万千"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2223,
+    "lemma": "web",
+    "source": {
+      "word": "web",
+      "phrases": [
+        "world wide web",
+        "spider web",
+        "surf the web"
+      ]
+    },
+    "target": {
+      "word": "网",
+      "phrases": [
+        "万维网",
+        "蜘蛛网",
+        "网上冲浪"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2224,
+    "lemma": "depth",
+    "source": {
+      "word": "depth",
+      "phrases": [
+        "in depth",
+        "depth of field",
+        "out of my depth"
+      ]
+    },
+    "target": {
+      "word": "深度",
+      "phrases": [
+        "深入地",
+        "景深",
+        "无力应付"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2225,
+    "lemma": "entrance",
+    "source": {
+      "word": "entrance",
+      "phrases": [
+        "main entrance",
+        "free entrance",
+        "make an entrance"
+      ]
+    },
+    "target": {
+      "word": "入口",
+      "phrases": [
+        "正门",
+        "免费入场",
+        "隆重登场"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2226,
+    "lemma": "log",
+    "source": {
+      "word": "log",
+      "phrases": [
+        "log in",
+        "keep a log",
+        "log cabin"
+      ]
+    },
+    "target": {
+      "word": "日志",
+      "phrases": [
+        "登录",
+        "做记录",
+        "小木屋"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2227,
+    "lemma": "giant",
+    "source": {
+      "word": "giant",
+      "phrases": [
+        "giant steps",
+        "gentle giant",
+        "gas giant"
+      ]
+    },
+    "target": {
+      "word": "巨人",
+      "phrases": [
+        "巨大的进步",
+        "和蔼的巨人",
+        "气态巨行星"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2228,
+    "lemma": "god",
+    "source": {
+      "word": "god",
+      "phrases": [
+        "thank god",
+        "oh my god",
+        "god bless"
+      ]
+    },
+    "target": {
+      "word": "上帝",
+      "phrases": [
+        "谢天谢地",
+        "我的天哪",
+        "上帝保佑"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2229,
+    "lemma": "portion",
+    "source": {
+      "word": "portion",
+      "phrases": [
+        "portion of",
+        "small portion",
+        "generous portion"
+      ]
+    },
+    "target": {
+      "word": "部分",
+      "phrases": [
+        "一部分",
+        "小份",
+        "分量充足"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2230,
+    "lemma": "substance",
+    "source": {
+      "word": "substance",
+      "phrases": [
+        "chemical substance",
+        "substance abuse",
+        "banned substance"
+      ]
+    },
+    "target": {
+      "word": "物质",
+      "phrases": [
+        "化学物质",
+        "药物滥用",
+        "违禁物质"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2231,
+    "lemma": "extensive",
+    "source": {
+      "word": "extensive",
+      "phrases": [
+        "extensive research",
+        "extensive knowledge",
+        "extensive damage"
+      ]
+    },
+    "target": {
+      "word": "广泛的",
+      "phrases": [
+        "深入研究",
+        "博学",
+        "广泛的破坏"
+      ]
+    },
+    "frequency": 31
+  },
+  {
+    "rank": 2232,
+    "lemma": "interpret",
+    "source": {
+      "word": "interpret",
+      "phrases": [
+        "interpret dreams",
+        "interpret data",
+        "hard to interpret"
+      ]
+    },
+    "target": {
+      "word": "解释",
+      "phrases": [
+        "释梦",
+        "解读数据",
+        "难以解释"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2233,
+    "lemma": "independence",
+    "source": {
+      "word": "independence",
+      "phrases": [
+        "independence day",
+        "financial independence",
+        "declare independence"
+      ]
+    },
+    "target": {
+      "word": "独立",
+      "phrases": [
+        "独立日",
+        "财务自由",
+        "宣布独立"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2234,
+    "lemma": "sugar",
+    "source": {
+      "word": "sugar",
+      "phrases": [
+        "sugar free",
+        "brown sugar",
+        "blood sugar"
+      ]
+    },
+    "target": {
+      "word": "糖",
+      "phrases": [
+        "无糖",
+        "红糖",
+        "血糖"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2235,
+    "lemma": "inner",
+    "source": {
+      "word": "inner",
+      "phrases": [
+        "inner peace",
+        "inner circle",
+        "inner beauty"
+      ]
+    },
+    "target": {
+      "word": "内在的",
+      "phrases": [
+        "内心平静",
+        "核心圈子",
+        "内在美"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2236,
+    "lemma": "harm",
+    "source": {
+      "word": "harm",
+      "phrases": [
+        "do no harm",
+        "cause harm",
+        "out of harm's way"
+      ]
+    },
+    "target": {
+      "word": "伤害",
+      "phrases": [
+        "不造成伤害",
+        "造成伤害",
+        "脱离危险"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2237,
+    "lemma": "consult",
+    "source": {
+      "word": "consult",
+      "phrases": [
+        "consult a doctor",
+        "consult with",
+        "consult a lawyer"
+      ]
+    },
+    "target": {
+      "word": "咨询",
+      "phrases": [
+        "看医生",
+        "商量",
+        "咨询律师"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2238,
+    "lemma": "pink",
+    "source": {
+      "word": "pink",
+      "phrases": [
+        "pink panther",
+        "in the pink",
+        "pinky swear"
+      ]
+    },
+    "target": {
+      "word": "粉红色",
+      "phrases": [
+        "粉红豹",
+        "非常健康",
+        "拉钩上吊"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2239,
+    "lemma": "shadow",
+    "source": {
+      "word": "shadow",
+      "phrases": [
+        "cast a shadow",
+        "in the shadow",
+        "eye shadow"
+      ]
+    },
+    "target": {
+      "word": "阴影",
+      "phrases": [
+        "投下阴影",
+        "在阴影中",
+        "眼影"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2240,
+    "lemma": "strip",
+    "source": {
+      "word": "strip",
+      "phrases": [
+        "comic strip",
+        "landing strip",
+        "strip off"
+      ]
+    },
+    "target": {
+      "word": "条",
+      "phrases": [
+        "连环画",
+        "降落跑道",
+        "脱掉"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2241,
+    "lemma": "smooth",
+    "source": {
+      "word": "smooth",
+      "phrases": [
+        "smooth skin",
+        "smooth sailing",
+        "smooth operator"
+      ]
+    },
+    "target": {
+      "word": "光滑",
+      "phrases": [
+        "光滑的皮肤",
+        "一帆风顺",
+        "圆滑的人"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2242,
+    "lemma": "intervention",
+    "source": {
+      "word": "intervention",
+      "phrases": [
+        "government intervention",
+        "early intervention",
+        "medical intervention"
+      ]
+    },
+    "target": {
+      "word": "干预",
+      "phrases": [
+        "政府干预",
+        "早期干预",
+        "医疗干预"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2243,
+    "lemma": "impress",
+    "source": {
+      "word": "impress",
+      "phrases": [
+        "impress someone",
+        "dress to impress",
+        "deeply impressed"
+      ]
+    },
+    "target": {
+      "word": "留下印象",
+      "phrases": [
+        "给某人留下印象",
+        "穿出风采",
+        "印象深刻"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2244,
+    "lemma": "exam",
+    "source": {
+      "word": "exam",
+      "phrases": [
+        "final exam",
+        "pass an exam",
+        "entrance exam"
+      ]
+    },
+    "target": {
+      "word": "考试",
+      "phrases": [
+        "期末考试",
+        "通过考试",
+        "入学考试"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2245,
+    "lemma": "vice",
+    "source": {
+      "word": "vice",
+      "phrases": [
+        "vice president",
+        "vice versa",
+        "miami vice"
+      ]
+    },
+    "target": {
+      "word": "副的 / 恶习",
+      "phrases": [
+        "副总统",
+        "反之亦然",
+        "迈阿密风云"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2246,
+    "lemma": "radical",
+    "source": {
+      "word": "radical",
+      "phrases": [
+        "radical change",
+        "radical idea",
+        "free radicals"
+      ]
+    },
+    "target": {
+      "word": "激进的 / 根本的",
+      "phrases": [
+        "彻底的改变",
+        "激进的想法",
+        "自由基"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2247,
+    "lemma": "similarly",
+    "source": {
+      "word": "similarly",
+      "phrases": [
+        "similarly situated",
+        "behave similarly",
+        "similarly named"
+      ]
+    },
+    "target": {
+      "word": "同样地",
+      "phrases": [
+        "处境相似",
+        "表现相似",
+        "命名相似"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2248,
+    "lemma": "behave",
+    "source": {
+      "word": "behave",
+      "phrases": [
+        "behave yourself",
+        "behave badly",
+        "behave well"
+      ]
+    },
+    "target": {
+      "word": "表现",
+      "phrases": [
+        "放规矩点",
+        "表现恶劣",
+        "表现良好"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2249,
+    "lemma": "loud",
+    "source": {
+      "word": "loud",
+      "phrases": [
+        "loud voice",
+        "loud music",
+        "laugh out loud"
+      ]
+    },
+    "target": {
+      "word": "大声的",
+      "phrases": [
+        "大嗓门",
+        "大声的音乐",
+        "大声笑"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2250,
+    "lemma": "dimension",
+    "source": {
+      "word": "dimension",
+      "phrases": [
+        "three dimensions",
+        "fourth dimension",
+        "new dimension"
+      ]
+    },
+    "target": {
+      "word": "维度 / 尺寸",
+      "phrases": [
+        "三维",
+        "第四维度",
+        "新的维度"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2251,
+    "lemma": "subsequent",
+    "source": {
+      "word": "subsequent",
+      "phrases": [
+        "subsequent events",
+        "subsequent years",
+        "subsequent to"
+      ]
+    },
+    "target": {
+      "word": "随后的",
+      "phrases": [
+        "随后的事件",
+        "随后几年",
+        "在...之后"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2252,
+    "lemma": "infection",
+    "source": {
+      "word": "infection",
+      "phrases": [
+        "viral infection",
+        "fight infection",
+        "spread infection"
+      ]
+    },
+    "target": {
+      "word": "感染",
+      "phrases": [
+        "病毒感染",
+        "对抗感染",
+        "传播感染"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2253,
+    "lemma": "jacket",
+    "source": {
+      "word": "jacket",
+      "phrases": [
+        "leather jacket",
+        "life jacket",
+        "winter jacket"
+      ]
+    },
+    "target": {
+      "word": "夹克",
+      "phrases": [
+        "皮夹克",
+        "救生衣",
+        "冬装外套"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2254,
+    "lemma": "efficiency",
+    "source": {
+      "word": "efficiency",
+      "phrases": [
+        "energy efficiency",
+        "improve efficiency",
+        "fuel efficiency"
+      ]
+    },
+    "target": {
+      "word": "效率",
+      "phrases": [
+        "能源效率",
+        "提高效率",
+        "燃油效率"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2255,
+    "lemma": "dirty",
+    "source": {
+      "word": "dirty",
+      "phrases": [
+        "dirty clothes",
+        "dirty joke",
+        "get hands dirty"
+      ]
+    },
+    "target": {
+      "word": "脏的",
+      "phrases": [
+        "脏衣服",
+        "黄色笑话",
+        "弄脏双手"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2256,
+    "lemma": "statistic",
+    "source": {
+      "word": "statistic",
+      "phrases": [
+        "vital statistics",
+        "statistics show",
+        "official statistic"
+      ]
+    },
+    "target": {
+      "word": "统计数字",
+      "phrases": [
+        "人口动态统计",
+        "统计数据显示",
+        "官方统计数据"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2257,
+    "lemma": "regularly",
+    "source": {
+      "word": "regularly",
+      "phrases": [
+        "exercise regularly",
+        "update regularly",
+        "meet regularly"
+      ]
+    },
+    "target": {
+      "word": "定期地",
+      "phrases": [
+        "定期锻炼",
+        "定期更新",
+        "定期见面"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2258,
+    "lemma": "resort",
+    "source": {
+      "word": "resort",
+      "phrases": [
+        "last resort",
+        "beach resort",
+        "ski resort"
+      ]
+    },
+    "target": {
+      "word": "度假胜地 / 手段",
+      "phrases": [
+        "最后手段",
+        "海滨度假胜地",
+        "滑雪胜地"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2259,
+    "lemma": "iron",
+    "source": {
+      "word": "iron",
+      "phrases": [
+        "iron man",
+        "cast iron",
+        "iron clothes"
+      ]
+    },
+    "target": {
+      "word": "铁 / 熨烫",
+      "phrases": [
+        "钢铁侠",
+        "铸铁",
+        "熨衣服"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2260,
+    "lemma": "broadcast",
+    "source": {
+      "word": "broadcast",
+      "phrases": [
+        "live broadcast",
+        "news broadcast",
+        "broadcast tv"
+      ]
+    },
+    "target": {
+      "word": "广播",
+      "phrases": [
+        "现场直播",
+        "新闻广播",
+        "广播电视"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2261,
+    "lemma": "membership",
+    "source": {
+      "word": "membership",
+      "phrases": [
+        "gym membership",
+        "membership fee",
+        "membership card"
+      ]
+    },
+    "target": {
+      "word": "会员身份",
+      "phrases": [
+        "健身房会员",
+        "会员费",
+        "会员卡"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2262,
+    "lemma": "bread",
+    "source": {
+      "word": "bread",
+      "phrases": [
+        "bread and butter",
+        "loaf of bread",
+        "sliced bread"
+      ]
+    },
+    "target": {
+      "word": "面包",
+      "phrases": [
+        "生计",
+        "一条面包",
+        "切片面包"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2263,
+    "lemma": "blind",
+    "source": {
+      "word": "blind",
+      "phrases": [
+        "blind date",
+        "love is blind",
+        "turn a blind eye"
+      ]
+    },
+    "target": {
+      "word": "盲的",
+      "phrases": [
+        "相亲",
+        "爱情是盲目的",
+        "视而不见"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2264,
+    "lemma": "pure",
+    "source": {
+      "word": "pure",
+      "phrases": [
+        "pure gold",
+        "pure luck",
+        "pure imagination"
+      ]
+    },
+    "target": {
+      "word": "纯粹的",
+      "phrases": [
+        "纯金",
+        "全凭运气",
+        "纯粹的想象"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2265,
+    "lemma": "bloody",
+    "source": {
+      "word": "bloody",
+      "phrases": [
+        "bloody mary",
+        "bloody nose",
+        "bloody hell"
+      ]
+    },
+    "target": {
+      "word": "流血的/该死的",
+      "phrases": [
+        "血腥玛丽",
+        "流鼻血",
+        "该死/天哪"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2266,
+    "lemma": "ally",
+    "source": {
+      "word": "ally",
+      "phrases": [
+        "close ally",
+        "ally with",
+        "political ally"
+      ]
+    },
+    "target": {
+      "word": "盟友",
+      "phrases": [
+        "亲密盟友",
+        "与...结盟",
+        "政治盟友"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2267,
+    "lemma": "quantity",
+    "source": {
+      "word": "quantity",
+      "phrases": [
+        "quality over quantity",
+        "large quantity",
+        "quantity surveyor"
+      ]
+    },
+    "target": {
+      "word": "数量",
+      "phrases": [
+        "质量重于数量",
+        "大量",
+        "工料测量师"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2268,
+    "lemma": "bend",
+    "source": {
+      "word": "bend",
+      "phrases": [
+        "bend over",
+        "bend the rules",
+        "bend my knee"
+      ]
+    },
+    "target": {
+      "word": "弯曲",
+      "phrases": [
+        "俯身",
+        "通融规则",
+        "屈膝"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2269,
+    "lemma": "mature",
+    "source": {
+      "word": "mature",
+      "phrases": [
+        "mature for age",
+        "emotionally mature",
+        "mature market"
+      ]
+    },
+    "target": {
+      "word": "成熟的",
+      "phrases": [
+        "早熟",
+        "情感成熟",
+        "成熟市场"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2270,
+    "lemma": "briefly",
+    "source": {
+      "word": "briefly",
+      "phrases": [
+        "briefly explain",
+        "meet briefly",
+        "stated briefly"
+      ]
+    },
+    "target": {
+      "word": "简短地",
+      "phrases": [
+        "简要解释",
+        "简短会面",
+        "简要陈述"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2271,
+    "lemma": "alarm",
+    "source": {
+      "word": "alarm",
+      "phrases": [
+        "alarm clock",
+        "fire alarm",
+        "false alarm"
+      ]
+    },
+    "target": {
+      "word": "闹钟/警报",
+      "phrases": [
+        "闹钟",
+        "火警",
+        "虚假警报"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2272,
+    "lemma": "disturb",
+    "source": {
+      "word": "disturb",
+      "phrases": [
+        "do not disturb",
+        "sorry to disturb",
+        "emotionally disturbed"
+      ]
+    },
+    "target": {
+      "word": "打扰",
+      "phrases": [
+        "请勿打扰",
+        "抱歉打扰",
+        "情绪受扰"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2273,
+    "lemma": "sustain",
+    "source": {
+      "word": "sustain",
+      "phrases": [
+        "sustain life",
+        "sustainable energy",
+        "sustain injuries"
+      ]
+    },
+    "target": {
+      "word": "维持",
+      "phrases": [
+        "维持生命",
+        "可持续能源",
+        "受伤"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2274,
+    "lemma": "flood",
+    "source": {
+      "word": "flood",
+      "phrases": [
+        "flash flood",
+        "flood warning",
+        "flood of tears"
+      ]
+    },
+    "target": {
+      "word": "洪水",
+      "phrases": [
+        "山洪",
+        "洪水预警",
+        "泪如泉涌"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2275,
+    "lemma": "poverty",
+    "source": {
+      "word": "poverty",
+      "phrases": [
+        "poverty line",
+        "live in poverty",
+        "fight poverty"
+      ]
+    },
+    "target": {
+      "word": "贫困",
+      "phrases": [
+        "贫困线",
+        "生活贫困",
+        "扶贫"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2276,
+    "lemma": "crazy",
+    "source": {
+      "word": "crazy",
+      "phrases": [
+        "go crazy",
+        "crazy about",
+        "drive me crazy"
+      ]
+    },
+    "target": {
+      "word": "疯狂的",
+      "phrases": [
+        "发疯",
+        "痴迷于",
+        "让我抓狂"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2277,
+    "lemma": "cite",
+    "source": {
+      "word": "cite",
+      "phrases": [
+        "cite a source",
+        "cite an example",
+        "parking citation"
+      ]
+    },
+    "target": {
+      "word": "引用",
+      "phrases": [
+        "引用来源",
+        "举例说明",
+        "违章停车罚单"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2278,
+    "lemma": "newly",
+    "source": {
+      "word": "newly",
+      "phrases": [
+        "newly wed",
+        "newly born",
+        "newly discovered"
+      ]
+    },
+    "target": {
+      "word": "新近",
+      "phrases": [
+        "新婚",
+        "新生",
+        "新发现的"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2279,
+    "lemma": "parallel",
+    "source": {
+      "word": "parallel",
+      "phrases": [
+        "parallel universe",
+        "parallel parking",
+        "parallel lines"
+      ]
+    },
+    "target": {
+      "word": "平行",
+      "phrases": [
+        "平行宇宙",
+        "侧方位停车",
+        "平行线"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2280,
+    "lemma": "gender",
+    "source": {
+      "word": "gender",
+      "phrases": [
+        "gender equality",
+        "gender gap",
+        "gender reveal"
+      ]
+    },
+    "target": {
+      "word": "性别",
+      "phrases": [
+        "性别平等",
+        "性别差距",
+        "性别揭晓"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2281,
+    "lemma": "sponsor",
+    "source": {
+      "word": "sponsor",
+      "phrases": [
+        "official sponsor",
+        "sponsor a child",
+        "corporate sponsor"
+      ]
+    },
+    "target": {
+      "word": "赞助商",
+      "phrases": [
+        "官方赞助商",
+        "资助一名儿童",
+        "企业赞助商"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2282,
+    "lemma": "boot",
+    "source": {
+      "word": "boot",
+      "phrases": [
+        "cowboy boots",
+        "car boot",
+        "boot up"
+      ]
+    },
+    "target": {
+      "word": "靴子/行李箱/启动",
+      "phrases": [
+        "牛仔靴",
+        "汽车行李箱",
+        "开机启动"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2283,
+    "lemma": "accurate",
+    "source": {
+      "word": "accurate",
+      "phrases": [
+        "accurate information",
+        "highly accurate",
+        "accurate measurement"
+      ]
+    },
+    "target": {
+      "word": "准确的",
+      "phrases": [
+        "准确的信息",
+        "高度准确",
+        "精确测量"
+      ]
+    },
+    "frequency": 30
+  },
+  {
+    "rank": 2284,
+    "lemma": "dealer",
+    "source": {
+      "word": "dealer",
+      "phrases": [
+        "car dealer",
+        "drug dealer",
+        "card dealer"
+      ]
+    },
+    "target": {
+      "word": "交易商",
+      "phrases": [
+        "汽车经销商",
+        "毒贩",
+        "发牌员"
+      ]
+    },
+    "frequency": 29
+  },
+  {
+    "rank": 2285,
+    "lemma": "button",
+    "source": {
+      "word": "button",
+      "phrases": [
+        "push the button",
+        "belly button",
+        "panic button"
+      ]
+    },
+    "target": {
+      "word": "按钮",
+      "phrases": [
+        "按下按钮",
+        "肚脐",
+        "紧急求助按钮"
+      ]
+    },
+    "frequency": 29
+  },
+  {
+    "rank": 2286,
+    "lemma": "burden",
+    "source": {
+      "word": "burden",
+      "phrases": [
+        "burden of proof",
+        "heavy burden",
+        "financial burden"
+      ]
+    },
+    "target": {
+      "word": "负担",
+      "phrases": [
+        "举证责任",
+        "沉重的负担",
+        "财务负担"
+      ]
+    },
+    "frequency": 29
+  },
+  {
+    "rank": 2287,
+    "lemma": "desert",
+    "source": {
+      "word": "desert",
+      "phrases": [
+        "sahara desert",
+        "desert island",
+        "just desserts"
+      ]
+    },
+    "target": {
+      "word": "沙漠",
+      "phrases": [
+        "撒哈拉沙漠",
+        "荒岛",
+        "理所应当的报应"
+      ]
+    },
+    "frequency": 29
+  },
+  {
+    "rank": 2288,
+    "lemma": "mate",
+    "source": {
+      "word": "mate",
+      "phrases": [
+        "soul mate",
+        "check mate",
+        "class mate"
+      ]
+    },
+    "target": {
+      "word": "伙伴/对手",
+      "phrases": [
+        "灵魂伴侣",
+        "将死",
+        "同学"
+      ]
+    },
+    "frequency": 29
+  },
+  {
+    "rank": 2289,
+    "lemma": "occasionally",
+    "source": {
+      "word": "occasionally",
+      "phrases": [
+        "visit occasionally",
+        "occasionally happen",
+        "only occasionally"
+      ]
+    },
+    "target": {
+      "word": "偶尔",
+      "phrases": [
+        "偶尔访问",
+        "偶尔发生",
+        "仅仅偶尔"
+      ]
+    },
+    "frequency": 29
+  },
+  {
+    "rank": 2290,
+    "lemma": "shareholder",
+    "source": {
+      "word": "shareholder",
+      "phrases": [
+        "shareholder meeting",
+        "major shareholder",
+        "shareholder value"
+      ]
+    },
+    "target": {
+      "word": "股东",
+      "phrases": [
+        "股东大会",
+        "大股东",
+        "股东价值"
+      ]
+    },
+    "frequency": 29
+  },
+  {
+    "rank": 2291,
+    "lemma": "bowl",
+    "source": {
+      "word": "bowl",
+      "phrases": [
+        "bowl of soup",
+        "super bowl",
+        "bowling"
+      ]
+    },
+    "target": {
+      "word": "碗/保龄球",
+      "phrases": [
+        "一碗汤",
+        "超级碗",
+        "保龄球运动"
+      ]
+    },
+    "frequency": 29
+  },
+  {
+    "rank": 2292,
+    "lemma": "discovery",
+    "source": {
+      "word": "discovery",
+      "phrases": [
+        "make a discovery",
+        "scientific discovery",
+        "self discovery"
+      ]
+    },
+    "target": {
+      "word": "发现",
+      "phrases": [
+        "有所发现",
+        "科学发现",
+        "自我发现"
+      ]
+    },
+    "frequency": 29
+  },
+  {
+    "rank": 2293,
+    "lemma": "resistance",
+    "source": {
+      "word": "resistance",
+      "phrases": [
+        "resistance movement",
+        "least resistance",
+        "water resistance"
+      ]
+    },
+    "target": {
+      "word": "抵抗/阻力",
+      "phrases": [
+        "抵抗运动",
+        "最小阻力",
+        "防水性"
+      ]
+    },
+    "frequency": 29
+  },
+  {
+    "rank": 2294,
+    "lemma": "bath",
+    "source": {
+      "word": "bath",
+      "phrases": [
+        "take a bath",
+        "bubble bath",
+        "bath tub"
+      ]
+    },
+    "target": {
+      "word": "洗澡",
+      "phrases": [
+        "洗个澡",
+        "泡泡浴",
+        "浴缸"
+      ]
+    },
+    "frequency": 29
+  },
+  {
+    "rank": 2295,
+    "lemma": "frequency",
+    "source": {
+      "word": "frequency",
+      "phrases": [
+        "high frequency",
+        "radio frequency",
+        "frequency of"
+      ]
+    },
+    "target": {
+      "word": "频率",
+      "phrases": [
+        "高频",
+        "无线电频率",
+        "……的频率"
+      ]
+    },
+    "frequency": 29
+  },
+  {
+    "rank": 2296,
+    "lemma": "criticize",
+    "source": {
+      "word": "criticize",
+      "phrases": [
+        "criticize others",
+        "stop criticizing",
+        "criticize the government"
+      ]
+    },
+    "target": {
+      "word": "批评",
+      "phrases": [
+        "批评他人",
+        "停止批评",
+        "批评政府"
+      ]
+    },
+    "frequency": 29
+  },
+  {
+    "rank": 2297,
+    "lemma": "tap",
+    "source": {
+      "word": "tap",
+      "phrases": [
+        "tap water",
+        "tap dance",
+        "tap into"
+      ]
+    },
+    "target": {
+      "word": "水龙头/轻敲",
+      "phrases": [
+        "自来水",
+        "踢踏舞",
+        "挖掘/利用"
+      ]
+    },
+    "frequency": 29
+  },
+  {
+    "rank": 2298,
+    "lemma": "philosophy",
+    "source": {
+      "word": "philosophy",
+      "phrases": [
+        "philosophy of life",
+        "doctor of philosophy",
+        "greek philosophy"
+      ]
+    },
+    "target": {
+      "word": "哲学",
+      "phrases": [
+        "人生哲学",
+        "哲学博士",
+        "希腊哲学"
+      ]
+    },
+    "frequency": 29
+  },
+  {
+    "rank": 2299,
+    "lemma": "lip",
+    "source": {
+      "word": "lip",
+      "phrases": [
+        "read my lips",
+        "bite your lip",
+        "lip service"
+      ]
+    },
+    "target": {
+      "word": "嘴唇",
+      "phrases": [
+        "看我的口型/听好了",
+        "咬唇",
+        "口惠而实不至"
+      ]
+    },
+    "frequency": 29
+  },
+  {
+    "rank": 2300,
+    "lemma": "attribute",
+    "source": {
+      "word": "attribute",
+      "phrases": [
+        "attribute to",
+        "key attribute",
+        "positive attribute"
+      ]
+    },
+    "target": {
+      "word": "属性/归因于",
+      "phrases": [
+        "归因于",
+        "关键属性",
+        "积极特质"
+      ]
+    },
+    "frequency": 29
+  }
+]

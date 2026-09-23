@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 601,
+    "lemma": "particularly",
+    "source": {
+      "word": "particularly",
+      "phrases": [
+        "particularly interested",
+        "not particularly",
+        "particularly good"
+      ]
+    },
+    "target": {
+      "word": "particulièrement",
+      "phrases": [
+        "particulièrement intéressé",
+        "pas particulièrement",
+        "particulièrement bon"
+      ]
+    },
+    "frequency": 162
+  },
+  {
+    "rank": 602,
+    "lemma": "wife",
+    "source": {
+      "word": "wife",
+      "phrases": [
+        "husband and wife",
+        "my wife",
+        "house wife"
+      ]
+    },
+    "target": {
+      "word": "femme",
+      "phrases": [
+        "mari et femme",
+        "ma femme",
+        "femme au foyer"
+      ]
+    },
+    "frequency": 161
+  },
+  {
+    "rank": 603,
+    "lemma": "sport",
+    "source": {
+      "word": "sport",
+      "phrases": [
+        "play sports",
+        "sport car",
+        "team sport"
+      ]
+    },
+    "target": {
+      "word": "sport",
+      "phrases": [
+        "faire du sport",
+        "voiture de sport",
+        "sport d'équipe"
+      ]
+    },
+    "frequency": 161
+  },
+  {
+    "rank": 604,
+    "lemma": "prepare",
+    "source": {
+      "word": "prepare",
+      "phrases": [
+        "prepare for",
+        "prepare dinner",
+        "be prepared"
+      ]
+    },
+    "target": {
+      "word": "préparer",
+      "phrases": [
+        "préparer pour",
+        "préparer le dîner",
+        "être prêt"
+      ]
+    },
+    "frequency": 160
+  },
+  {
+    "rank": 605,
+    "lemma": "discuss",
+    "source": {
+      "word": "discuss",
+      "phrases": [
+        "discuss the problem",
+        "discuss with",
+        "discuss details"
+      ]
+    },
+    "target": {
+      "word": "discuter",
+      "phrases": [
+        "discuter du problème",
+        "discuter avec",
+        "discuter des détails"
+      ]
+    },
+    "frequency": 160
+  },
+  {
+    "rank": 606,
+    "lemma": "response",
+    "source": {
+      "word": "response",
+      "phrases": [
+        "in response to",
+        "quick response",
+        "no response"
+      ]
+    },
+    "target": {
+      "word": "réponse",
+      "phrases": [
+        "en réponse à",
+        "réponse rapide",
+        "pas de réponse"
+      ]
+    },
+    "frequency": 159
+  },
+  {
+    "rank": 607,
+    "lemma": "voice",
+    "source": {
+      "word": "voice",
+      "phrases": [
+        "loud voice",
+        "voice mail",
+        "raise your voice"
+      ]
+    },
+    "target": {
+      "word": "voix",
+      "phrases": [
+        "voix forte",
+        "messagerie vocale",
+        "hausser la voix"
+      ]
+    },
+    "frequency": 159
+  },
+  {
+    "rank": 608,
+    "lemma": "piece",
+    "source": {
+      "word": "piece",
+      "phrases": [
+        "piece of cake",
+        "piece of paper",
+        "in one piece"
+      ]
+    },
+    "target": {
+      "word": "morceau",
+      "phrases": [
+        "un jeu d'enfant",
+        "morceau de papier",
+        "en un seul morceau"
+      ]
+    },
+    "frequency": 159
+  },
+  {
+    "rank": 609,
+    "lemma": "finish",
+    "source": {
+      "word": "finish",
+      "phrases": [
+        "finish line",
+        "finish work",
+        "finish up"
+      ]
+    },
+    "target": {
+      "word": "finir",
+      "phrases": [
+        "ligne d'arrivée",
+        "finir le travail",
+        "terminer"
+      ]
+    },
+    "frequency": 158
+  },
+  {
+    "rank": 610,
+    "lemma": "suppose",
+    "source": {
+      "word": "suppose",
+      "phrases": [
+        "I suppose",
+        "supposed to",
+        "suppose that"
+      ]
+    },
+    "target": {
+      "word": "supposer",
+      "phrases": [
+        "je suppose",
+        "censé",
+        "supposer que"
+      ]
+    },
+    "frequency": 157
+  },
+  {
+    "rank": 611,
+    "lemma": "apply",
+    "source": {
+      "word": "apply",
+      "phrases": [
+        "apply for",
+        "apply to",
+        "apply rules"
+      ]
+    },
+    "target": {
+      "word": "postuler",
+      "phrases": [
+        "postuler pour",
+        "s'appliquer à",
+        "appliquer les règles"
+      ]
+    },
+    "frequency": 157
+  },
+  {
+    "rank": 612,
+    "lemma": "president",
+    "source": {
+      "word": "president",
+      "phrases": [
+        "vice president",
+        "president elect",
+        "company president"
+      ]
+    },
+    "target": {
+      "word": "président",
+      "phrases": [
+        "vice-président",
+        "président élu",
+        "président de l'entreprise"
+      ]
+    },
+    "frequency": 157
+  },
+  {
+    "rank": 613,
+    "lemma": "fire",
+    "source": {
+      "word": "fire",
+      "phrases": [
+        "on fire",
+        "fire fighter",
+        "you're fired"
+      ]
+    },
+    "target": {
+      "word": "feu",
+      "phrases": [
+        "en feu",
+        "pompier",
+        "tu es viré"
+      ]
+    },
+    "frequency": 157
+  },
+  {
+    "rank": 614,
+    "lemma": "compare",
+    "source": {
+      "word": "compare",
+      "phrases": [
+        "compare to",
+        "compare with",
+        "compared to"
+      ]
+    },
+    "target": {
+      "word": "comparer",
+      "phrases": [
+        "comparer à",
+        "comparer avec",
+        "comparé à"
+      ]
+    },
+    "frequency": 157
+  },
+  {
+    "rank": 615,
+    "lemma": "court",
+    "source": {
+      "word": "court",
+      "phrases": [
+        "court case",
+        "tennis court",
+        "in court"
+      ]
+    },
+    "target": {
+      "word": "cour",
+      "phrases": [
+        "affaire judiciaire",
+        "court de tennis",
+        "au tribunal"
+      ]
+    },
+    "frequency": 156
+  },
+  {
+    "rank": 616,
+    "lemma": "police",
+    "source": {
+      "word": "police",
+      "phrases": [
+        "police officer",
+        "call the police",
+        "police station"
+      ]
+    },
+    "target": {
+      "word": "police",
+      "phrases": [
+        "agent de police",
+        "appeler la police",
+        "commissariat de police"
+      ]
+    },
+    "frequency": 156
+  },
+  {
+    "rank": 617,
+    "lemma": "store",
+    "source": {
+      "word": "store",
+      "phrases": [
+        "department store",
+        "grocery store",
+        "store data"
+      ]
+    },
+    "target": {
+      "word": "magasin",
+      "phrases": [
+        "grand magasin",
+        "épicerie",
+        "stocker des données"
+      ]
+    },
+    "frequency": 156
+  },
+  {
+    "rank": 618,
+    "lemma": "poor",
+    "source": {
+      "word": "poor",
+      "phrases": [
+        "poor quality",
+        "poor people",
+        "poor thing"
+      ]
+    },
+    "target": {
+      "word": "pauvre",
+      "phrases": [
+        "mauvaise qualité",
+        "les pauvres",
+        "pauvre petite chose"
+      ]
+    },
+    "frequency": 156
+  },
+  {
+    "rank": 619,
+    "lemma": "knowledge",
+    "source": {
+      "word": "knowledge",
+      "phrases": [
+        "general knowledge",
+        "knowledge is power",
+        "common knowledge"
+      ]
+    },
+    "target": {
+      "word": "connaissance",
+      "phrases": [
+        "culture générale",
+        "la connaissance est le pouvoir",
+        "connaissance commune"
+      ]
+    },
+    "frequency": 155
+  },
+  {
+    "rank": 620,
+    "lemma": "laugh",
+    "source": {
+      "word": "laugh",
+      "phrases": [
+        "laugh at",
+        "laugh out loud",
+        "make me laugh"
+      ]
+    },
+    "target": {
+      "word": "rire",
+      "phrases": [
+        "rire de",
+        "rire aux éclats",
+        "me faire rire"
+      ]
+    },
+    "frequency": 155
+  },
+  {
+    "rank": 621,
+    "lemma": "arm",
+    "source": {
+      "word": "arm",
+      "phrases": [
+        "arm in arm",
+        "broken arm",
+        "twist my arm"
+      ]
+    },
+    "target": {
+      "word": "bras",
+      "phrases": [
+        "bras dessus bras dessous",
+        "bras cassé",
+        "me forcer la main"
+      ]
+    },
+    "frequency": 155
+  },
+  {
+    "rank": 622,
+    "lemma": "heart",
+    "source": {
+      "word": "heart",
+      "phrases": [
+        "break my heart",
+        "by heart",
+        "heart beat"
+      ]
+    },
+    "target": {
+      "word": "cœur",
+      "phrases": [
+        "me briser le cœur",
+        "par cœur",
+        "battement de cœur"
+      ]
+    },
+    "frequency": 155
+  },
+  {
+    "rank": 623,
+    "lemma": "source",
+    "source": {
+      "word": "source",
+      "phrases": [
+        "source code",
+        "open source",
+        "source of"
+      ]
+    },
+    "target": {
+      "word": "source",
+      "phrases": [
+        "code source",
+        "open source",
+        "source de"
+      ]
+    },
+    "frequency": 155
+  },
+  {
+    "rank": 624,
+    "lemma": "employee",
+    "source": {
+      "word": "employee",
+      "phrases": [
+        "company employee",
+        "employee benefits",
+        "full-time employee"
+      ]
+    },
+    "target": {
+      "word": "employé",
+      "phrases": [
+        "employé d'entreprise",
+        "avantages sociaux",
+        "employé à plein temps"
+      ]
+    },
+    "frequency": 154
+  },
+  {
+    "rank": 625,
+    "lemma": "manage",
+    "source": {
+      "word": "manage",
+      "phrases": [
+        "manage to",
+        "manage time",
+        "project manage"
+      ]
+    },
+    "target": {
+      "word": "gérer",
+      "phrases": [
+        "réussir à",
+        "gérer le temps",
+        "gérer un projet"
+      ]
+    },
+    "frequency": 154
+  },
+  {
+    "rank": 626,
+    "lemma": "simply",
+    "source": {
+      "word": "simply",
+      "phrases": [
+        "put simply",
+        "simply the best",
+        "simply because"
+      ]
+    },
+    "target": {
+      "word": "simplement",
+      "phrases": [
+        "pour dire les choses simplement",
+        "tout simplement le meilleur",
+        "tout simplement parce que"
+      ]
+    },
+    "frequency": 153
+  },
+  {
+    "rank": 627,
+    "lemma": "bank",
+    "source": {
+      "word": "bank",
+      "phrases": [
+        "bank account",
+        "piggy bank",
+        "river bank"
+      ]
+    },
+    "target": {
+      "word": "banque",
+      "phrases": [
+        "compte bancaire",
+        "tirelire",
+        "berge de rivière"
+      ]
+    },
+    "frequency": 153
+  },
+  {
+    "rank": 628,
+    "lemma": "firm",
+    "source": {
+      "word": "firm",
+      "phrases": [
+        "law firm",
+        "stand firm",
+        "firm handshake"
+      ]
+    },
+    "target": {
+      "word": "ferme",
+      "phrases": [
+        "cabinet d'avocats",
+        "rester ferme",
+        "poignée de main ferme"
+      ]
+    },
+    "frequency": 153
+  },
+  {
+    "rank": 629,
+    "lemma": "cell",
+    "source": {
+      "word": "cell",
+      "phrases": [
+        "cell phone",
+        "blood cell",
+        "prison cell"
+      ]
+    },
+    "target": {
+      "word": "cellule",
+      "phrases": [
+        "téléphone portable",
+        "globule sanguin",
+        "cellule de prison"
+      ]
+    },
+    "frequency": 153
+  },
+  {
+    "rank": 630,
+    "lemma": "article",
+    "source": {
+      "word": "article",
+      "phrases": [
+        "news article",
+        "article of clothing",
+        "definite article"
+      ]
+    },
+    "target": {
+      "word": "article",
+      "phrases": [
+        "article de presse",
+        "article d'habillement",
+        "article défini"
+      ]
+    },
+    "frequency": 152
+  },
+  {
+    "rank": 631,
+    "lemma": "fast",
+    "source": {
+      "word": "fast",
+      "phrases": [
+        "fast food",
+        "fast asleep",
+        "hold fast"
+      ]
+    },
+    "target": {
+      "word": "rapide",
+      "phrases": [
+        "restauration rapide",
+        "profondément endormi",
+        "tenir bon"
+      ]
+    },
+    "frequency": 151
+  },
+  {
+    "rank": 632,
+    "lemma": "attack",
+    "source": {
+      "word": "attack",
+      "phrases": [
+        "heart attack",
+        "under attack",
+        "panic attack"
+      ]
+    },
+    "target": {
+      "word": "attaque",
+      "phrases": [
+        "crise cardiaque",
+        "sous les attaques",
+        "crise de panique"
+      ]
+    },
+    "frequency": 151
+  },
+  {
+    "rank": 633,
+    "lemma": "foreign",
+    "source": {
+      "word": "foreign",
+      "phrases": [
+        "foreign language",
+        "foreign country",
+        "foreign exchange"
+      ]
+    },
+    "target": {
+      "word": "étranger",
+      "phrases": [
+        "langue étrangère",
+        "pays étranger",
+        "change de devises"
+      ]
+    },
+    "frequency": 151
+  },
+  {
+    "rank": 634,
+    "lemma": "surprise",
+    "source": {
+      "word": "surprise",
+      "phrases": [
+        "surprise party",
+        "by surprise",
+        "to my surprise"
+      ]
+    },
+    "target": {
+      "word": "surprise",
+      "phrases": [
+        "fête surprise",
+        "par surprise",
+        "à ma grande surprise"
+      ]
+    },
+    "frequency": 151
+  },
+  {
+    "rank": 635,
+    "lemma": "feature",
+    "source": {
+      "word": "feature",
+      "phrases": [
+        "special feature",
+        "facial features",
+        "main feature"
+      ]
+    },
+    "target": {
+      "word": "caractéristique",
+      "phrases": [
+        "caractéristique spéciale",
+        "traits du visage",
+        "caractéristique principale"
+      ]
+    },
+    "frequency": 150
+  },
+  {
+    "rank": 636,
+    "lemma": "factor",
+    "source": {
+      "word": "factor",
+      "phrases": [
+        "key factor",
+        "risk factor",
+        "factor in"
+      ]
+    },
+    "target": {
+      "word": "facteur",
+      "phrases": [
+        "facteur clé",
+        "facteur de risque",
+        "prendre en compte"
+      ]
+    },
+    "frequency": 150
+  },
+  {
+    "rank": 637,
+    "lemma": "pretty",
+    "source": {
+      "word": "pretty",
+      "phrases": [
+        "pretty good",
+        "pretty much",
+        "pretty girl"
+      ]
+    },
+    "target": {
+      "word": "joli",
+      "phrases": [
+        "assez bien",
+        "presque tout",
+        "jolie fille"
+      ]
+    },
+    "frequency": 150
+  },
+  {
+    "rank": 638,
+    "lemma": "recently",
+    "source": {
+      "word": "recently",
+      "phrases": [
+        "until recently",
+        "most recently",
+        "recently married"
+      ]
+    },
+    "target": {
+      "word": "récemment",
+      "phrases": [
+        "jusqu'à récemment",
+        "le plus récemment",
+        "récemment mariés"
+      ]
+    },
+    "frequency": 150
+  },
+  {
+    "rank": 639,
+    "lemma": "affect",
+    "source": {
+      "word": "affect",
+      "phrases": [
+        "affect the outcome",
+        "badly affect",
+        "deeply affected"
+      ]
+    },
+    "target": {
+      "word": "affecter",
+      "phrases": [
+        "affecter le résultat",
+        "nuire gravement",
+        "profondément affecté"
+      ]
+    },
+    "frequency": 150
+  },
+  {
+    "rank": 640,
+    "lemma": "drop",
+    "source": {
+      "word": "drop",
+      "phrases": [
+        "drop by",
+        "drop out",
+        "drop a line"
+      ]
+    },
+    "target": {
+      "word": "déposer",
+      "phrases": [
+        "passer voir",
+        "abandonner",
+        "écrire un mot"
+      ]
+    },
+    "frequency": 150
+  },
+  {
+    "rank": 641,
+    "lemma": "recent",
+    "source": {
+      "word": "recent",
+      "phrases": [
+        "recent years",
+        "recent study",
+        "in recent times"
+      ]
+    },
+    "target": {
+      "word": "récent",
+      "phrases": [
+        "ces dernières années",
+        "étude récente",
+        "ces derniers temps"
+      ]
+    },
+    "frequency": 149
+  },
+  {
+    "rank": 642,
+    "lemma": "relate",
+    "source": {
+      "word": "relate",
+      "phrases": [
+        "relate to",
+        "related topic",
+        "how does this relate?"
+      ]
+    },
+    "target": {
+      "word": "lier",
+      "phrases": [
+        "se rapporter à",
+        "sujet connexe",
+        "quel est le rapport ?"
+      ]
+    },
+    "frequency": 149
+  },
+  {
+    "rank": 643,
+    "lemma": "official",
+    "source": {
+      "word": "official",
+      "phrases": [
+        "official website",
+        "government official",
+        "it's official"
+      ]
+    },
+    "target": {
+      "word": "officiel",
+      "phrases": [
+        "site officiel",
+        "haut fonctionnaire",
+        "c'est officiel"
+      ]
+    },
+    "frequency": 149
+  },
+  {
+    "rank": 644,
+    "lemma": "financial",
+    "source": {
+      "word": "financial",
+      "phrases": [
+        "financial crisis",
+        "financial support",
+        "financial year"
+      ]
+    },
+    "target": {
+      "word": "financier",
+      "phrases": [
+        "crise financière",
+        "soutien financier",
+        "exercice financier"
+      ]
+    },
+    "frequency": 149
+  },
+  {
+    "rank": 645,
+    "lemma": "miss",
+    "source": {
+      "word": "miss",
+      "phrases": [
+        "miss you",
+        "miss the bus",
+        "hit or miss"
+      ]
+    },
+    "target": {
+      "word": "manquer",
+      "phrases": [
+        "tu me manques",
+        "rater le bus",
+        "ça passe ou ça casse"
+      ]
+    },
+    "frequency": 149
+  },
+  {
+    "rank": 646,
+    "lemma": "art",
+    "source": {
+      "word": "art",
+      "phrases": [
+        "work of art",
+        "modern art",
+        "state of the art"
+      ]
+    },
+    "target": {
+      "word": "art",
+      "phrases": [
+        "œuvre d'art",
+        "art moderne",
+        "de pointe"
+      ]
+    },
+    "frequency": 149
+  },
+  {
+    "rank": 647,
+    "lemma": "campaign",
+    "source": {
+      "word": "campaign",
+      "phrases": [
+        "election campaign",
+        "marketing campaign",
+        "ad campaign"
+      ]
+    },
+    "target": {
+      "word": "campagne",
+      "phrases": [
+        "campagne électorale",
+        "campagne de marketing",
+        "campagne publicitaire"
+      ]
+    },
+    "frequency": 148
+  },
+  {
+    "rank": 648,
+    "lemma": "private",
+    "source": {
+      "word": "private",
+      "phrases": [
+        "private life",
+        "private school",
+        "in private"
+      ]
+    },
+    "target": {
+      "word": "privé",
+      "phrases": [
+        "vie privée",
+        "école privée",
+        "en privé"
+      ]
+    },
+    "frequency": 148
+  },
+  {
+    "rank": 649,
+    "lemma": "pause",
+    "source": {
+      "word": "pause",
+      "phrases": [
+        "take a pause",
+        "pause button",
+        "pregnant pause"
+      ]
+    },
+    "target": {
+      "word": "pause",
+      "phrases": [
+        "faire une pause",
+        "bouton pause",
+        "silence significatif"
+      ]
+    },
+    "frequency": 148
+  },
+  {
+    "rank": 650,
+    "lemma": "everyone",
+    "source": {
+      "word": "everyone",
+      "phrases": [
+        "everyone else",
+        "hi everyone",
+        "everyone knows"
+      ]
+    },
+    "target": {
+      "word": "tout le monde",
+      "phrases": [
+        "tous les autres",
+        "salut tout le monde",
+        "tout le monde le sait"
+      ]
+    },
+    "frequency": 148
+  },
+  {
+    "rank": 651,
+    "lemma": "forget",
+    "source": {
+      "word": "forget",
+      "phrases": [
+        "forget it",
+        "don't forget",
+        "never forget"
+      ]
+    },
+    "target": {
+      "word": "oublier",
+      "phrases": [
+        "oublie ça",
+        "n'oublie pas",
+        "ne jamais oublier"
+      ]
+    },
+    "frequency": 147
+  },
+  {
+    "rank": 652,
+    "lemma": "page",
+    "source": {
+      "word": "page",
+      "phrases": [
+        "front page",
+        "web page",
+        "on the same page"
+      ]
+    },
+    "target": {
+      "word": "page",
+      "phrases": [
+        "première page",
+        "page web",
+        "sur la même longueur d'onde"
+      ]
+    },
+    "frequency": 147
+  },
+  {
+    "rank": 653,
+    "lemma": "worry",
+    "source": {
+      "word": "worry",
+      "phrases": [
+        "don't worry",
+        "worry about",
+        "no worries"
+      ]
+    },
+    "target": {
+      "word": "inquiétude",
+      "phrases": [
+        "ne t'inquiète pas",
+        "s'inquiéter de",
+        "pas de soucis"
+      ]
+    },
+    "frequency": 147
+  },
+  {
+    "rank": 654,
+    "lemma": "summer",
+    "source": {
+      "word": "summer",
+      "phrases": [
+        "summer vacation",
+        "last summer",
+        "summer camp"
+      ]
+    },
+    "target": {
+      "word": "été",
+      "phrases": [
+        "vacances d'été",
+        "l'été dernier",
+        "colonie de vacances"
+      ]
+    },
+    "frequency": 147
+  },
+  {
+    "rank": 655,
+    "lemma": "drink",
+    "source": {
+      "word": "drink",
+      "phrases": [
+        "soft drink",
+        "drink water",
+        "food and drink"
+      ]
+    },
+    "target": {
+      "word": "boisson",
+      "phrases": [
+        "boisson sans alcool",
+        "boire de l'eau",
+        "boire et manger"
+      ]
+    },
+    "frequency": 147
+  },
+  {
+    "rank": 656,
+    "lemma": "opinion",
+    "source": {
+      "word": "opinion",
+      "phrases": [
+        "in my opinion",
+        "public opinion",
+        "second opinion"
+      ]
+    },
+    "target": {
+      "word": "opinion",
+      "phrases": [
+        "à mon avis",
+        "opinion publique",
+        "deuxième avis"
+      ]
+    },
+    "frequency": 147
+  },
+  {
+    "rank": 657,
+    "lemma": "park",
+    "source": {
+      "word": "park",
+      "phrases": [
+        "national park",
+        "car park",
+        "theme park"
+      ]
+    },
+    "target": {
+      "word": "parc",
+      "phrases": [
+        "parc national",
+        "parking",
+        "parc à thème"
+      ]
+    },
+    "frequency": 146
+  },
+  {
+    "rank": 658,
+    "lemma": "represent",
+    "source": {
+      "word": "represent",
+      "phrases": [
+        "represent the country",
+        "represent value",
+        "sales rep"
+      ]
+    },
+    "target": {
+      "word": "représenter",
+      "phrases": [
+        "représenter le pays",
+        "représenter une valeur",
+        "représentant commercial"
+      ]
+    },
+    "frequency": 146
+  },
+  {
+    "rank": 659,
+    "lemma": "key",
+    "source": {
+      "word": "key",
+      "phrases": [
+        "key to success",
+        "key word",
+        "key point"
+      ]
+    },
+    "target": {
+      "word": "clé",
+      "phrases": [
+        "clé du succès",
+        "mot-clé",
+        "point clé"
+      ]
+    },
+    "frequency": 146
+  },
+  {
+    "rank": 660,
+    "lemma": "inside",
+    "source": {
+      "word": "inside",
+      "phrases": [
+        "inside out",
+        "inside the box",
+        "go inside"
+      ]
+    },
+    "target": {
+      "word": "intérieur",
+      "phrases": [
+        "à l'envers",
+        "à l'intérieur de la boîte",
+        "entrer à l'intérieur"
+      ]
+    },
+    "frequency": 145
+  },
+  {
+    "rank": 661,
+    "lemma": "manager",
+    "source": {
+      "word": "manager",
+      "phrases": [
+        "general manager",
+        "sales manager",
+        "manager mode"
+      ]
+    },
+    "target": {
+      "word": "directeur",
+      "phrases": [
+        "directeur général",
+        "directeur des ventes",
+        "mode gestionnaire"
+      ]
+    },
+    "frequency": 145
+  },
+  {
+    "rank": 662,
+    "lemma": "international",
+    "source": {
+      "word": "international",
+      "phrases": [
+        "international airport",
+        "international students",
+        "international law"
+      ]
+    },
+    "target": {
+      "word": "international",
+      "phrases": [
+        "aéroport international",
+        "étudiants internationaux",
+        "droit international"
+      ]
+    },
+    "frequency": 144
+  },
+  {
+    "rank": 663,
+    "lemma": "contain",
+    "source": {
+      "word": "contain",
+      "phrases": [
+        "contain information",
+        "container",
+        "contain the virus"
+      ]
+    },
+    "target": {
+      "word": "contenir",
+      "phrases": [
+        "contenir des informations",
+        "conteneur",
+        "contenir le virus"
+      ]
+    },
+    "frequency": 144
+  },
+  {
+    "rank": 664,
+    "lemma": "notice",
+    "source": {
+      "word": "notice",
+      "phrases": [
+        "take notice",
+        "short notice",
+        "notice board"
+      ]
+    },
+    "target": {
+      "word": "avis",
+      "phrases": [
+        "prendre note",
+        "bref délai",
+        "tableau d'affichage"
+      ]
+    },
+    "frequency": 143
+  },
+  {
+    "rank": 665,
+    "lemma": "wonder",
+    "source": {
+      "word": "wonder",
+      "phrases": [
+        "no wonder",
+        "I wonder if",
+        "seven wonders"
+      ]
+    },
+    "target": {
+      "word": "s'émerveiller",
+      "phrases": [
+        "rien d'étonnant",
+        "je me demande si",
+        "sept merveilles"
+      ]
+    },
+    "frequency": 143
+  },
+  {
+    "rank": 666,
+    "lemma": "nature",
+    "source": {
+      "word": "nature",
+      "phrases": [
+        "mother nature",
+        "human nature",
+        "by nature"
+      ]
+    },
+    "target": {
+      "word": "nature",
+      "phrases": [
+        "mère nature",
+        "nature humaine",
+        "par nature"
+      ]
+    },
+    "frequency": 143
+  },
+  {
+    "rank": 667,
+    "lemma": "structure",
+    "source": {
+      "word": "structure",
+      "phrases": [
+        "social structure",
+        "structure of",
+        "organizational structure"
+      ]
+    },
+    "target": {
+      "word": "structure",
+      "phrases": [
+        "structure sociale",
+        "structure de",
+        "structure organisationnelle"
+      ]
+    },
+    "frequency": 143
+  },
+  {
+    "rank": 668,
+    "lemma": "section",
+    "source": {
+      "word": "section",
+      "phrases": [
+        "section chief",
+        "smoking section",
+        "cross section"
+      ]
+    },
+    "target": {
+      "word": "section",
+      "phrases": [
+        "chef de section",
+        "zone fumeur",
+        "coupe transversale"
+      ]
+    },
+    "frequency": 142
+  },
+  {
+    "rank": 669,
+    "lemma": "myself",
+    "source": {
+      "word": "myself",
+      "phrases": [
+        "by myself",
+        "introduce myself",
+        "talking to myself"
+      ]
+    },
+    "target": {
+      "word": "moi-même",
+      "phrases": [
+        "tout seul",
+        "me présenter",
+        "se parler à soi-même"
+      ]
+    },
+    "frequency": 142
+  },
+  {
+    "rank": 670,
+    "lemma": "exactly",
+    "source": {
+      "word": "exactly",
+      "phrases": [
+        "exactly right",
+        "not exactly",
+        "exactly the same"
+      ]
+    },
+    "target": {
+      "word": "exactement",
+      "phrases": [
+        "tout à fait raison",
+        "pas exactement",
+        "exactement la même chose"
+      ]
+    },
+    "frequency": 142
+  },
+  {
+    "rank": 671,
+    "lemma": "plant",
+    "source": {
+      "word": "plant",
+      "phrases": [
+        "power plant",
+        "plant a tree",
+        "plant based"
+      ]
+    },
+    "target": {
+      "word": "plante",
+      "phrases": [
+        "centrale électrique",
+        "planter un arbre",
+        "à base de plantes"
+      ]
+    },
+    "frequency": 142
+  },
+  {
+    "rank": 672,
+    "lemma": "paint",
+    "source": {
+      "word": "paint",
+      "phrases": [
+        "paint a picture",
+        "wet paint",
+        "paint the town red"
+      ]
+    },
+    "target": {
+      "word": "peindre",
+      "phrases": [
+        "peindre un tableau",
+        "peinture fraîche",
+        "faire la fête"
+      ]
+    },
+    "frequency": 142
+  },
+  {
+    "rank": 673,
+    "lemma": "worker",
+    "source": {
+      "word": "worker",
+      "phrases": [
+        "social worker",
+        "hard worker",
+        "coworker"
+      ]
+    },
+    "target": {
+      "word": "travailleur",
+      "phrases": [
+        "travailleur social",
+        "bourreau de travail",
+        "collègue"
+      ]
+    },
+    "frequency": 141
+  },
+  {
+    "rank": 674,
+    "lemma": "press",
+    "source": {
+      "word": "press",
+      "phrases": [
+        "press conference",
+        "press the button",
+        "freedom of the press"
+      ]
+    },
+    "target": {
+      "word": "presse",
+      "phrases": [
+        "conférence de presse",
+        "appuyer sur le bouton",
+        "liberté de la presse"
+      ]
+    },
+    "frequency": 141
+  },
+  {
+    "rank": 675,
+    "lemma": "whatever",
+    "source": {
+      "word": "whatever",
+      "phrases": [
+        "whatever you say",
+        "whatever happens",
+        "or whatever"
+      ]
+    },
+    "target": {
+      "word": "peu importe",
+      "phrases": [
+        "peu importe ce que tu dis",
+        "quoi qu'il arrive",
+        "ou n'importe quoi"
+      ]
+    },
+    "frequency": 141
+  },
+  {
+    "rank": 676,
+    "lemma": "necessary",
+    "source": {
+      "word": "necessary",
+      "phrases": [
+        "if necessary",
+        "necessary evil",
+        "absolutely necessary"
+      ]
+    },
+    "target": {
+      "word": "nécessaire",
+      "phrases": [
+        "si nécessaire",
+        "un mal nécessaire",
+        "absolument nécessaire"
+      ]
+    },
+    "frequency": 141
+  },
+  {
+    "rank": 677,
+    "lemma": "region",
+    "source": {
+      "word": "region",
+      "phrases": [
+        "in the region of",
+        "regional office",
+        "desert region"
+      ]
+    },
+    "target": {
+      "word": "région",
+      "phrases": [
+        "dans la région de",
+        "bureau régional",
+        "région désertique"
+      ]
+    },
+    "frequency": 141
+  },
+  {
+    "rank": 678,
+    "lemma": "growth",
+    "source": {
+      "word": "growth",
+      "phrases": [
+        "economic growth",
+        "growth rate",
+        "personal growth"
+      ]
+    },
+    "target": {
+      "word": "croissance",
+      "phrases": [
+        "croissance économique",
+        "taux de croissance",
+        "croissance personnelle"
+      ]
+    },
+    "frequency": 140
+  },
+  {
+    "rank": 679,
+    "lemma": "evening",
+    "source": {
+      "word": "evening",
+      "phrases": [
+        "good evening",
+        "this evening",
+        "evening dress"
+      ]
+    },
+    "target": {
+      "word": "soir",
+      "phrases": [
+        "bonsoir",
+        "ce soir",
+        "robe de soirée"
+      ]
+    },
+    "frequency": 140
+  },
+  {
+    "rank": 680,
+    "lemma": "influence",
+    "source": {
+      "word": "influence",
+      "phrases": [
+        "influence on",
+        "under the influence",
+        "bad influence"
+      ]
+    },
+    "target": {
+      "word": "influence",
+      "phrases": [
+        "influence sur",
+        "sous l'influence",
+        "mauvaise influence"
+      ]
+    },
+    "frequency": 140
+  },
+  {
+    "rank": 681,
+    "lemma": "respect",
+    "source": {
+      "word": "respect",
+      "phrases": [
+        "with all due respect",
+        "respect for",
+        "self respect"
+      ]
+    },
+    "target": {
+      "word": "respect",
+      "phrases": [
+        "sauf votre respect",
+        "respect pour",
+        "amour-propre"
+      ]
+    },
+    "frequency": 140
+  },
+  {
+    "rank": 682,
+    "lemma": "various",
+    "source": {
+      "word": "various",
+      "phrases": [
+        "various kinds",
+        "for various reasons",
+        "various ways"
+      ]
+    },
+    "target": {
+      "word": "divers",
+      "phrases": [
+        "diverses sortes",
+        "pour diverses raisons",
+        "diverses manières"
+      ]
+    },
+    "frequency": 140
+  },
+  {
+    "rank": 683,
+    "lemma": "catch",
+    "source": {
+      "word": "catch",
+      "phrases": [
+        "catch up",
+        "catch a cold",
+        "catch the bus"
+      ]
+    },
+    "target": {
+      "word": "rattraper",
+      "phrases": [
+        "rattraper son retard",
+        "attraper un rhume",
+        "prendre le bus"
+      ]
+    },
+    "frequency": 140
+  },
+  {
+    "rank": 684,
+    "lemma": "thus",
+    "source": {
+      "word": "thus",
+      "phrases": [
+        "thus far",
+        "and thus",
+        "thus becoming"
+      ]
+    },
+    "target": {
+      "word": "ainsi",
+      "phrases": [
+        "jusqu'ici",
+        "et ainsi",
+        "devenant ainsi"
+      ]
+    },
+    "frequency": 139
+  },
+  {
+    "rank": 685,
+    "lemma": "skill",
+    "source": {
+      "word": "skill",
+      "phrases": [
+        "communication skill",
+        "skill set",
+        "social skills"
+      ]
+    },
+    "target": {
+      "word": "compétence",
+      "phrases": [
+        "capacité de communication",
+        "ensemble de compétences",
+        "compétences sociales"
+      ]
+    },
+    "frequency": 139
+  },
+  {
+    "rank": 686,
+    "lemma": "attempt",
+    "source": {
+      "word": "attempt",
+      "phrases": [
+        "attempt to",
+        "first attempt",
+        "suicide attempt"
+      ]
+    },
+    "target": {
+      "word": "tentative",
+      "phrases": [
+        "tenter de",
+        "première tentative",
+        "tentative de suicide"
+      ]
+    },
+    "frequency": 139
+  },
+  {
+    "rank": 687,
+    "lemma": "son",
+    "source": {
+      "word": "son",
+      "phrases": [
+        "son in law",
+        "father and son",
+        "god son"
+      ]
+    },
+    "target": {
+      "word": "fils",
+      "phrases": [
+        "beau-fils",
+        "père et fils",
+        "filleul"
+      ]
+    },
+    "frequency": 139
+  },
+  {
+    "rank": 688,
+    "lemma": "simple",
+    "source": {
+      "word": "simple",
+      "phrases": [
+        "simple plan",
+        "simple life",
+        "keep it simple"
+      ]
+    },
+    "target": {
+      "word": "simple",
+      "phrases": [
+        "plan simple",
+        "vie simple",
+        "faire simple"
+      ]
+    },
+    "frequency": 138
+  },
+  {
+    "rank": 689,
+    "lemma": "medium",
+    "source": {
+      "word": "medium",
+      "phrases": [
+        "medium size",
+        "medium rare",
+        "happy medium"
+      ]
+    },
+    "target": {
+      "word": "moyen",
+      "phrases": [
+        "taille moyenne",
+        "saignant",
+        "juste milieu"
+      ]
+    },
+    "frequency": 138
+  },
+  {
+    "rank": 690,
+    "lemma": "average",
+    "source": {
+      "word": "average",
+      "phrases": [
+        "on average",
+        "above average",
+        "average person"
+      ]
+    },
+    "target": {
+      "word": "moyenne",
+      "phrases": [
+        "en moyenne",
+        "au-dessus de la moyenne",
+        "personne moyenne"
+      ]
+    },
+    "frequency": 138
+  },
+  {
+    "rank": 691,
+    "lemma": "stock",
+    "source": {
+      "word": "stock",
+      "phrases": [
+        "stock market",
+        "out of stock",
+        "chicken stock"
+      ]
+    },
+    "target": {
+      "word": "stock",
+      "phrases": [
+        "marché boursier",
+        "en rupture de stock",
+        "bouillon de poulet"
+      ]
+    },
+    "frequency": 138
+  },
+  {
+    "rank": 692,
+    "lemma": "management",
+    "source": {
+      "word": "management",
+      "phrases": [
+        "time management",
+        "management team",
+        "under new management"
+      ]
+    },
+    "target": {
+      "word": "gestion",
+      "phrases": [
+        "gestion du temps",
+        "équipe de direction",
+        "sous une nouvelle direction"
+      ]
+    },
+    "frequency": 138
+  },
+  {
+    "rank": 693,
+    "lemma": "character",
+    "source": {
+      "word": "character",
+      "phrases": [
+        "main character",
+        "character trait",
+        "Chinese character"
+      ]
+    },
+    "target": {
+      "word": "personnage",
+      "phrases": [
+        "personnage principal",
+        "trait de caractère",
+        "caractère chinois"
+      ]
+    },
+    "frequency": 138
+  },
+  {
+    "rank": 694,
+    "lemma": "bed",
+    "source": {
+      "word": "bed",
+      "phrases": [
+        "go to bed",
+        "king size bed",
+        "bed and breakfast"
+      ]
+    },
+    "target": {
+      "word": "lit",
+      "phrases": [
+        "aller se coucher",
+        "lit king size",
+        "chambre d'hôtes"
+      ]
+    },
+    "frequency": 137
+  },
+  {
+    "rank": 695,
+    "lemma": "hit",
+    "source": {
+      "word": "hit",
+      "phrases": [
+        "hit the road",
+        "hit on",
+        "big hit"
+      ]
+    },
+    "target": {
+      "word": "frapper",
+      "phrases": [
+        "prendre la route",
+        "draguer",
+        "grand succès"
+      ]
+    },
+    "frequency": 137
+  },
+  {
+    "rank": 696,
+    "lemma": "establish",
+    "source": {
+      "word": "establish",
+      "phrases": [
+        "establish a company",
+        "established fact",
+        "establish connection"
+      ]
+    },
+    "target": {
+      "word": "établir",
+      "phrases": [
+        "créer une entreprise",
+        "fait établi",
+        "établir une connexion"
+      ]
+    },
+    "frequency": 137
+  },
+  {
+    "rank": 697,
+    "lemma": "indeed",
+    "source": {
+      "word": "indeed",
+      "phrases": [
+        "yes indeed",
+        "very good indeed",
+        "friend in need is a friend indeed"
+      ]
+    },
+    "target": {
+      "word": "en effet",
+      "phrases": [
+        "oui en effet",
+        "très bien en effet",
+        "c'est dans le besoin qu'on reconnaît ses amis"
+      ]
+    },
+    "frequency": 137
+  },
+  {
+    "rank": 698,
+    "lemma": "final",
+    "source": {
+      "word": "final",
+      "phrases": [
+        "final decision",
+        "final exam",
+        "grand final"
+      ]
+    },
+    "target": {
+      "word": "final",
+      "phrases": [
+        "décision finale",
+        "examen final",
+        "grande finale"
+      ]
+    },
+    "frequency": 137
+  },
+  {
+    "rank": 699,
+    "lemma": "economy",
+    "source": {
+      "word": "economy",
+      "phrases": [
+        "global economy",
+        "market economy",
+        "economy class"
+      ]
+    },
+    "target": {
+      "word": "économie",
+      "phrases": [
+        "économie mondiale",
+        "économie de marché",
+        "classe économique"
+      ]
+    },
+    "frequency": 137
+  },
+  {
+    "rank": 700,
+    "lemma": "fit",
+    "source": {
+      "word": "fit",
+      "phrases": [
+        "fit in",
+        "keep fit",
+        "one size fits all"
+      ]
+    },
+    "target": {
+      "word": "adapter",
+      "phrases": [
+        "s'intégrer",
+        "rester en forme",
+        "taille unique"
+      ]
+    },
+    "frequency": 137
+  }
+]

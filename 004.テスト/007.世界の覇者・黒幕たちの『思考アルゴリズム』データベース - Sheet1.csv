@@ -1,0 +1,101 @@
+ID,対象 (Entity),コードネーム,支配領域 (Domain),支配アルゴリズム,チョークポイント,依存クラス,観察ログ (Log)
+CODE-001,BlackRock,The Operating System,Financial OS,if (Risk == Visible) { Control = Absolute },Aladdin (リスク管理システム),Class S,世界最大の資産運用会社。運用資産は各国のGDPを凌駕する。真の脅威は、世界中の中央銀行や政府が彼らのリスク分析システム「Aladdin」に依存している点にある。世界経済という車両のダッシュボードを独占しているため、運転手（政治家）は彼らの計器に従わざるを得ない。
+CODE-002,TSMC,The Silicon Heart,Semiconductor,Production > Design,先端ロジック半導体製造,Class S,台湾積体電路製造。Apple、NVIDIA、AMDなど、競合するテック企業の心臓部はすべてここが作っている。彼らの工場が停止すれば、世界の計算能力（Compute）の進化は物理的にストップし、世界恐慌以上の文明後退が発生する。
+CODE-003,ASML,The Lightbringer,Lithography,Impossible_Physics = Monopoly,EUV露光装置,Class S,オランダの装置メーカー。世界で唯一、極端紫外線（EUV）露光装置を製造可能。この機械がなければ、人類は2nm以下のプロセスルールに到達できない。半導体製造における「唯一無二の物理的関所」であり、技術的参入障壁は無限大に近い。
+CODE-004,Cargill,The Silent Stomach,Food Supply,Control(Calories) = Control(Stability),穀物物流・加工網,Class A,世界最大の非上場企業。種子から肥料、飼料、食肉加工、輸送船団まで、食料サプライチェーンの全工程を垂直統合している。国家の食料安全保障は実質的に彼らのロジスティクスに委ねられており、飢餓と飽食の分配者として機能している。
+CODE-005,Vanguard,The Passive Giant,Ownership,Own(All) > Pick(Winners),相互保有構造,Class S,「誰が企業の持ち主か」という問いへの最終解答。BlackRockと共に、S&P500企業のほぼすべての大株主である。競合するはずのAppleとMicrosoft、CokeとPepsiの両方を所有するため、彼らにとって市場競争は「右手と左手の遊び」に過ぎない。
+CODE-006,Glencore,The Resource Broker,Commodities,Physics > Ethics,鉱物・原油トレーディング,Class A,スイスに拠点を置く世界最大の資源商社。コバルト、銅、亜鉛などの戦略物資を、採掘から精錬、物流まで支配する。「国連制裁よりも現物」というリアリズムで動き、EVシフトが進むほど彼らの支配力（バッテリー資源へのアクセス権）は強まる。
+CODE-007,SWIFT,The Weaponizer,Finance Network,Exclude(User) = Economic_Death,国際銀行間通信協会,Class A,国際送金のメッセージングシステム。ドル決済の神経網であり、ここから排除されることは国家としての「経済的死」を意味する。中立を謳っているが、実質的には西側諸国の最強の経済制裁兵器として機能している。
+CODE-008,Moody's / S&P,The Judge,Credit Rating,Score(Entity) = Value(Entity),信用格付け,Class A,国家や企業の「信用」を点数化する寡占企業。彼らが格下げを行えば、国債は暴落し、資金調達コストは跳ね上がる。主権国家でさえも、彼らの採点基準（格付け）に合わせるために財政政策を変更せざるを得ない。
+CODE-009,Microsoft,The Enterprise Grid,Business OS,Lock_in(Corporate) = Infinite_Revenue,Windows / Office / Azure,Class S,世界中の企業の業務インフラ。PCのOS、オフィスソフト、そしてクラウド（Azure）まで、ビジネスの全レイヤーを支配している。世界中の企業活動は彼らのサブスクリプション契約の上に成り立っており、代替コストは天文学的数値になる。
+CODE-010,Saudi Aramco,The Oil Sovereign,Energy,Supply(Volume) = Price(Global),世界最大級の原油埋蔵量,Class A,サウジアラビア国営石油会社。単一企業として世界最大の利益を叩き出すエネルギーの巨人。蛇口（バルブ）の開閉一つで原油価格を操作し、世界中のインフレ率と地政学的バランスを変動させる物理的な力を持つ。
+CODE-011,Google (Alphabet),The Indexer,Information,Index(Data) = Define(Truth),検索アルゴリズム,Class S,人類の知識へのアクセス権を管理する門番。「検索結果に表示されない」ことは「存在しない」ことと同義である。広告ビジネスの顔をしているが、本質は人類の思考と行動データの全量保存と、AIによるその再構成である。
+CODE-012,Amazon (AWS),The Cloud Foundation,Infrastructure,Hosting(Internet) = Tax(Internet),データセンター網,Class S,ECサイトの裏で、インターネットそのものをホスティングする巨人。政府機関、Netflix、CIAに至るまで、主要なネットサービスはAWSのサーバー上で稼働している。ネット上の「土地」と「電力」を支配するデジタル不動産王。
+CODE-013,ByteDance,The Dopamine Engineer,Consciousness,Algorithm(Feed) > Free_Will,推奨アルゴリズム,Class B,TikTokの親会社。人類の可処分時間をハックする最強のアルゴリズムを持つ。ユーザーの嗜好をリアルタイムで解析し、ドーパミンが出る動画を無限に供給することで、国家の世論形成や若年層の価値観に直接介入できるルートを持つ。
+CODE-014,SpaceX,The Orbital Gatekeeper,Space / Comm,Reusable_Rocket = Cost_Dominance,Starlink / Starship,Class A,宇宙への輸送コストを劇的に下げ、衛星軌道を物理的に占有しつつある。Starlinkによる全地球的な通信網は、既存の通信インフラや国家の検閲を無効化する力を持ち、有事の際の通信主権を単一民間企業が握る構図を作った。
+CODE-015,Bayer (Monsanto),The Seed Coder,Bio-Agriculture,IP(Seed) + Chemical = Lock_in,遺伝子組み換え種子,Class A,モンサントを買収したバイオ化学の巨人。除草剤耐性を持つ種子と、その除草剤をセットで販売し、世界の農地をロックインする。種子の自家採種を禁じる知的財産戦略により、食料生産の根源（種）をサブスクリプションモデル化した。
+CODE-016,Nestlé,The Water Baron,Food / Water,Commoditize(Public_Good),水源権益,Class B,世界最大の食品飲料企業。水という「公共財」を「商品」として再定義し、世界中の水源を買い占めている。気候変動による水不足が深刻化する未来において、彼らのボトルウォーター事業は生命維持インフラの一部となる可能性がある。
+CODE-017,LVMH,The Desire Architect,Luxury,Price(High) = Desire(Infinite),ブランドポートフォリオ,Class B,ルイ・ヴィトン、ディオールなどを擁するコングロマリット。職人芸を工業化し、希少性をマーケティングで制御することで、「承認欲求」を高額で販売するシステムを構築。格差が拡大するほど利益が増える構造を持つ。
+CODE-018,McKinsey & Company,The Shadow Cabinet,Strategy,Authority(Logos) = Influence,CEOネットワーク,Class B,世界最強の戦略コンサルティングファーム。世界中の大企業や政府に人材を送り込み（アルムナイ）、共通の言語と戦略フレームワークで意思決定をガイドする。企業の取締役会における「正解」を定義する黒衣の権力。
+CODE-019,Visa / Mastercard,The Toll Booth,Payment,Network_Effect = Duopoly,決済ネットワーク,Class A,世界中の決済の関所。彼らのネットワークを通さずにデジタルで金を動かすことは困難であり、全取引から数％の通行料（手数料）を徴収する。ロシアへのサービス停止が示した通り、決済網からの遮断は市民生活を即座に機能不全に陥らせる。
+CODE-020,Elsevier,The Knowledge Keeper,Academia,Gatekeep(Peer_Review),学術ジャーナル,Class B,学術出版の巨人。公的資金で研究された成果（論文）を無償で受け取り、それを読む権利を大学や研究機関に高額で販売する利益率の極めて高いモデル。人類の「知の共有」における最大のボトルネック兼管理者。
+CODE-021,Luxottica,The Vision Monopolist,Eyewear,Variety(Fake) = Monopoly(Real),眼鏡製造・小売網,Class B,眼鏡業界のガリバー。レイバン、オークリー、そして多くのブランド眼鏡のライセンス生産を一手に引き受ける。製造だけでなく小売店や保険プランまでも支配しており、消費者の「視界」に対する価格決定権を独占している。
+CODE-022,De Beers,The Illusionist,Diamond,Supply_Control = Value,原石供給ルート,Class C,ダイヤモンドの価値を維持するために供給量を調整するカルテル。「ダイヤモンドは永遠の輝き」というコピーで、単なる炭素の結晶に「愛の証」という意味を付与し、婚約指輪という文化（市場）をゼロから捏造・定着させた。
+CODE-023,BIS,The Central Bank's Bank,Finance,Rule(Capital) = Limit(Lending),自己資本比率規制,Class A,国際決済銀行。各国の中央銀行をメンバーとする「中央銀行の中央銀行」。バーゼル規制などを通じて銀行の自己資本比率ルールを決定しており、世界中の銀行が「どれだけお金を貸せるか（信用創造量）」を根本で制御している。
+CODE-024,Synopsys,The Architect's Pen,Tech (EDA),Tool(Design) > Chip(Product),半導体設計ツール(EDA),Class A,半導体設計ソフトウェア（EDA）の独占企業の一つ。どんなに優秀な設計者がいても、彼らのツールがなければ複雑な回路図は引けない。米国の対中制裁において、製造装置と並んで最初に輸出禁止された「デジタルの急所」。
+CODE-025,Carl Zeiss SMT,The Eye of God,Optics,Precision > Volume,極端紫外線光学系,Class S,ASMLのEUV露光装置に搭載される「鏡」を独占供給する企業。原子レベルの平滑度を持つ鏡面加工技術は、他社が数十年かけても追いつけない領域にある。半導体産業のボトルネック（ASML）の、さらにその奥にあるボトルネック。
+CODE-026,Corning,The Interface Layer,Materials,Material(Invisible) = Essential,ゴリラガラス / 光ファイバー,Class A,特殊ガラスメーカー。スマホの画面（ゴリラガラス）とインターネットの通信路（光ファイバー）という、デジタル社会の物理的な「界面」と「血管」を支配している。彼らのガラス供給が止まれば、スマートデバイスの生産は即座に停止する。
+CODE-027,Veolia,The Water Manager,Infrastructure,Privatize(Network),上下水道運営権,Class A,フランスの水メジャー。世界中の自治体から水道事業の運営を受託（民営化）している。水という生存に直結するインフラを、技術力と資本力で管理下に置くことで、都市のライフラインに対する支配力を持つ。
+CODE-028,Deloitte / PwC etc.,The Verifiers,Audit,Compliance = License_to_Operate,会計監査・保証,Class A,世界4大会計事務所（Big 4）。彼らの「監査証明」がなければ、巨大企業は株式市場に上場できず、信用を得られない。資本主義というゲームが成立するための「審判」役を寡占しており、グローバルルールの番人として機能する。
+CODE-029,OpenAI,The Intelligence Central,AI,Scale(Model) = Intelligence(Moat),基盤モデル (GPT),Class A,汎用人工知能（AGI）への最短ルートを走る組織。世界中の知的労働を代替可能なAPIとして提供し始めることで、知能の「集中化」を加速させている。将来的に全アプリの「脳」となる可能性があり、新たな知のインフラとなりつつある。
+CODE-030,NVIDIA,The Engine,Compute,Hardware(GPU) + Software(CUDA),AIアクセラレータ,Class S,AI開発に不可欠なGPU市場を独占。ハードウェアだけでなく、開発プラットフォーム「CUDA」によるエコシステム支配が強固。現代のゴールドラッシュにおける「ツルハシ」どころか、「採掘場の酸素」を独占している状態に近い。
+CODE-031,DTCC (Cede & Co.),The Vault,Finance / Clearing,Possession(Physical) = Ownership(Legal),株式の集中保管・決済,Class S,米国証券保管振替機関。投資家が「株を買った」と思っている時、その実物は移動していない。ほぼ全ての米国株券は物理的に彼らの金庫（Cede & Co.名義）にあり、投資家は「受益権」をデータ上で回しているに過ぎない。金融市場の物理的な最終到達点。
+CODE-032,Verisign,The TLD Lord,Internet Infra,Control(.com) = Tax(Internet),.com / .net ドメイン管理,Class A,インターネットの「一等地」である「.com」および「.net」ドメインのレジストリ管理者。世界中の企業活動の基盤となるドメインの解決権限を持ち、インターネット経済圏から永続的に「通行料（更新料）」を徴収する権利を有している。
+CODE-033,Vitol,The Shadow Fleet,Energy Trading,Arbitrage(Global) > Sanctions,独立系石油トレーディング,Class A,世界最大の独立系エネルギー商社。国家に属さず、独自のタンカー船団と貯蔵施設を持つ。戦争や制裁で国家間の石油ルートが途絶えた際、彼らが「裏道」をつなぐことで世界経済の心停止を防いでいる。
+CODE-034,Givaudan,The Alchemist,Sensory,Formula(Scent) = Memory(Trigger),香料・フレーバーのレシピ,Class B,スイスの香料大手。洗剤の「清潔な匂い」からジュースの「フレッシュな味」まで、消費者が感じる「リアリティ」の化学式を設計・独占している。消費者の購買行動は、商品そのものではなく、彼らが合成した「快感信号」によってハックされている。
+CODE-035,Palantir,The Panopticon,Surveillance OS,Data(All) => Prediction(War),データ統合・解析基盤,Class A,軍事・諜報機関向けデータ解析企業。CIAやFBI、各国軍隊が導入しており、テロリストの追跡から戦況予測までを行う。西側諸国の安全保障は、彼らのアルゴリズムが吐き出す「予言」に依存し始めている。
+CODE-036,Associated Press (AP),The First Draft,Media,Define(Fact) = Broadcast(Global),ニュース配信ネットワーク,Class B,「報道機関のための報道機関」。世界中の新聞やTV局は、AP通信が配信した記事（Fact）を元にニュースを作る。彼らが「黒」と言えば、世界中のメディアがそれを「黒」として報じるため、事実の「初期設定権」を握っている。
+CODE-037,Akamai,The Shield,Internet CDN,Traffic(Route) = Security,CDN / エッジサーバー,Class S,世界最大級のCDN（コンテンツ配信ネットワーク）。世界のネットトラフィックの大部分をさばき、DDoS攻撃から企業や政府を守る「盾」として機能。彼らのサーバーがダウンすれば、主要なウェブサービスへのアクセスは遮断される。
+CODE-038,Lockheed Martin,The Complex,Defense,Conflict = Revenue,軍事技術・航空宇宙,Class A,世界最大の軍事企業。戦闘機からミサイル防衛まで、米軍の「筋肉」を製造。国家の防衛戦略自体が彼らの製品ロードマップと不可分に結合しており、「アイゼンハワーが警告した軍産複合体」の現世的な具現化。
+CODE-039,Pantone,The Color Dictator,Design,Define(Code) = Standard(Industry),色見本帳 (Matching System),Class C,「色」の標準化機関。曖昧な感覚である色に「ID」を振り、印刷・繊維・プラスチック業界の共通言語を定義。彼らが「今年の色」を指定することで、世界中のプロダクトデザインのトレンドが決定付けられる。
+CODE-040,Thermo Fisher,The Lab Coat,Science,Supply(Tool) = Control(Discovery),科学機器・試薬,Class B,「科学に奉仕する」巨人。PCR検査キットから電子顕微鏡まで、研究開発に必要なツールを独占的に供給。パンデミック対応も新薬開発も、彼らのカタログにある製品がなければ物理的に進行しない。
+CODE-041,SAP,The Nervous System,Enterprise ERP,Flow(Resource) = Record(Digital),基幹業務システム(ERP),Class S,ドイツのソフトウェア企業。世界の取引の7割以上がSAPのシステムを経由すると言われる。大企業の「金・モノ・人」の管理を担っており、SAPが停止すれば、グローバルサプライチェーンは数時間で「記憶喪失」に陥る。
+CODE-042,Shimano,The Gear Master,Manufacturing,Precision = Monopoly,自転車コンポーネント,Class C,自転車部品の世界的独占企業。ツール・ド・フランスの機材から通学用自転車まで、変速機やブレーキなどの重要保安部品を支配。「シマノのパーツに合うようにフレームを作る」という主客転倒が常態化している。
+CODE-043,Maersk,The Arterial flow,Logistics,Container(Volume) = Trade,海上コンテナ輸送網,Class A,海運の巨人。世界の海上物流の血管を握る。コロナ禍での供給網混乱が示した通り、彼らのコンテナ船が止まることは、世界中のスーパーマーケットの棚が空になることを直結する。
+CODE-044,Prologis,The Warehouse King,Real Estate,Location(Logistics) = Speed,物流不動産,Class B,世界最大の物流不動産REIT。AmazonやFedExの配送センターの大家（オーナー）。EC経済が拡大するほど、物理的な商品を保管・通過させる「場所」を持つ彼らの支配力は高まる。
+CODE-045,Lloyd's of London,The Risk Market,Insurance,Underwrite(Unknowable),再保険・特殊保険,Class A,保険会社のための保険市場。通常の保険会社が扱えない巨大リスク（戦争、サイバー攻撃、宇宙開発）を引き受ける最後の砦。彼らが「引受拒否」を出せば、タンカーは出港できず、飛行機は飛べなくなる。
+CODE-046,Trafigura,The Metal Mover,Commodities,Liquidity > Origin,非鉄金属トレーディング,Class A,世界有数の商品取引商社。特に銅やアルミニウムなどのベースメタルに強い。EVシフトや脱炭素に必要な金属資源の流れを握っており、資源国と消費国の間の「見えざるパイプライン」を管理している。
+CODE-047,ICANN,The Root Zone,Internet Gov,Assign(Address) = Existence,IPアドレス / ルートゾーン,Class S,インターネットの「住所録」の最終管理者。ドメイン名とIPアドレスの割り当てを一元管理する。彼らが管理する「ルートゾーン」が、インターネットが一つに繋がっていることを保証する唯一の信用担保である。
+CODE-048,Tencent,The Digital Wall,Tech / Social,Integration(Total) = Lock_in,WeChat / ゲーム投資,Class S,中国のテック巨人。WeChatによる社会インフラ化に加え、世界最大のゲーム会社への投資家でもある。Epic Games (Unreal Engine) やRiot Gamesの大株主であり、メタバースの基盤技術への影響力も絶大。
+CODE-049,BASF,The Molecule Maker,Chemicals,Base(Material) = Essential,基礎化学品 (Verbund),Class A,世界最大の総合化学メーカー。プラスチック、塗料、農薬、医薬品原料など、あらゆる産業の上流にある「素材」を供給。彼らの工場（フェアブント）が止まれば、自動車からオムツまで生産不能になる。
+CODE-050,Otis / Schindler,The Vertical Rail,Urban Infra,Move(Vertical) = Function(City),エレベーター・エスカレーター,Class B,都市の「縦の移動」を支配する寡占企業群。高層ビルは彼らの機械が動かなければただの巨大な箱であり、機能しない。保守契約によるロックインビジネスで、都市の維持費を徴収し続ける。
+CODE-051,Fanuc,The Yellow Robot,Automation,Automation = Production,産業用ロボット / CNC,Class A,工場の自動化を支える「黄色いロボット」。iPhoneの金属筐体を削る機械から自動車の溶接まで、世界の量産工場の稼働はFanucのNC装置に依存している。製造業の裏側にある「機械を作る機械」の王。
+CODE-052,Adobe,The Creative Standard,Software,File(Format) = Standard,Photoshop / PDF,Class B,クリエイティブ業界のデファクトスタンダード。世界の画像、映像、文書（PDF）は彼らのソフトで生成・編集される。サブスクリプションを停止されれば、世界中のデザイナーとマーケターは「手足」をもがれるに等しい。
+CODE-053,Universal Music,The Sound Owner,Entertainment,Right(Catalog) = Royalty,楽曲著作権,Class B,世界最大の音楽レーベル。ビートルズからテイラー・スウィフトまで、歴史的な楽曲の権利を管理。SpotifyやTikTokがいかに流行ろうとも、音楽が再生されるたびにチャリンと落ちる「原盤権」という蛇口を握っている。
+CODE-054,Constellis,The Private Army,Defense (PMC),Force(Outsource) = Deniability,民間軍事請負 (旧Blackwater),Class B,「アカデミ」などを傘下に持つ民間軍事会社。正規軍が動けない（動きたくない）汚れ仕事や要人警護を代行する。国家による「暴力の独占」が崩れた現代において、金で買える武力として機能する。
+CODE-055,Getty Images,The Visual History,Media,Archive(Visual) = Memory,写真・映像ライセンス,Class C,世界の報道写真・ストックフォトの管理者。教科書、ニュース、ドキュメンタリーに使われる「歴史の記録」の権利を保有。過去の出来事を視覚的にどう記憶するかは、彼らのアーカイブによって規定される。
+CODE-056,Qualcomm,The Wireless Gate,Semiconductor,Patent(3G/4G/5G) = Tax,通信規格特許,Class A,無線通信技術の特許マフィア。スマホのチップセットだけでなく、3G/4G/5Gといった通信規格そのものの基本特許を押さえている。スマホを製造するあらゆるメーカーは、端末価格の数％を「特許料」として彼らに支払う義務がある。
+CODE-057,3M,The Glue,Materials,Bond(Material) = Function,接着剤・コーティング,Class B,素材科学のコングロマリット。ポストイットから医療用テープ、航空機の接着剤まで。「ものをくっつける」「表面を保護する」という物理的機能の特許を網羅しており、産業界の隙間を埋める不可欠な材料屋。
+CODE-058,Foxconn (Hon Hai),The World's Factory,Manufacturing,Scale(Labor) = Cost(Dominance),電子機器受託製造 (EMS),Class A,世界最大のEMS。iPhoneをはじめとする電子機器の製造を一手に引き受ける。百万単位の労働者を動員する軍隊的な生産能力は、先進国のブランド企業が「工場を持たない」ことを可能にした前提条件である。
+CODE-059,London Metal Exchange,The Price Setter,Market,Trade(Futures) = Price(Spot),非鉄金属取引所,Class A,世界最大の非鉄金属取引所（LME）。銅やニッケルなどの国際価格はここで決まる。LMEの倉庫在庫と取引価格が、世界中の鉱山会社の収益と製造業のコストを決定する「基準点」となる。
+CODE-060,Oracle,The Database,IT Infra,Data(Record) = Structure,リレーショナルデータベース,Class A,「記録の管理者」。金融、通信、政府など、ミッションクリティカルな領域のデータベースとして長年君臨。一度導入すると移行が極めて困難なため、顧客は彼らのライセンス料改定に従い続けるしかない。
+CODE-061,Equinix,The Intersection,Internet Infra,Physics(Location) = Speed,IX (インターネット相互接続点),Class S,世界最大のデータセンターREITだが、本質は「インターネットの物理的な交差点（IX）」。Google、AWS、通信キャリアの回線は物理的に彼らの建物内で繋がっている。ここを爆破すれば、クラウドも金融取引も物理的に分断される。
+CODE-062,Schlumberger (SLB),The Oil Tech,Energy Tech,Data(Subsurface) = Oil,油田探査・掘削技術,Class A,世界最大の油田サービス企業。石油メジャー（Exxon等）は彼らの技術（探査・掘削）がなければ石油を見つけることも掘ることもできない。脱炭素時代においても、地下の炭素貯留（CCS）技術を握ることでエネルギー産業の支配を継続している。
+CODE-063,Tetra Pak,The Preserver,Packaging,Freshness = Package_Tech,無菌充填技術,Class B,食品包装の巨人。牛乳やジュースが常温で腐らないのは彼らの「アセプティック（無菌）充填」技術のおかげである。液体食品のグローバル流通を可能にした影の立役者であり、世界の食卓の物流コストを支配している。
+CODE-064,Amadeus / Sabre,The Nervous System,Travel,Booking(Slot) = Travel,GDS (旅行予約システム),Class A,航空券予約システム（GDS）の寡占企業。航空会社、旅行代理店、空港をつなぐ神経網。彼らのシステムがダウンすると、世界中の空港でチェックインができなくなり、空の交通は即座に麻痺する。
+CODE-065,Linde / Air Liquide,The Air Sellers,Industrial Gas,Separation(Air) = Industry,産業用ガス (酸素・窒素),Class A,産業ガスの2強。空気を分離して酸素や窒素を作り、製鉄所、化学工場、病院、半導体工場にパイプラインで供給する。「空気」というタダの資源を、産業に不可欠な「原料」に変えて独占的に販売する錬金術。
+CODE-066,CME Group,The Casino House,Finance,Hedge(Risk) = Fee,デリバティブ取引所,Class A,シカゴ・マーカンタイル取引所。金利、為替、農産物など、あらゆる「未来の価格」が取引される場所。世界経済のリスクヘッジ（保険）需要を一手に引き受け、変動そのものを収益化する市場の胴元。
+CODE-067,Euroclear / Clearstream,The Euro Vault,Finance / Settlement,Settlement = Trust,国際証券決済,Class S,欧州における証券決済の独占機関（ICSD）。米国DTCCの対となる存在。国境を超えた債券や株式の取引は、最終的に彼らの台帳で決済される。ロシア制裁において資産凍結の実務を担った「金融核兵器」のスイッチの一つ。
+CODE-068,Cisco Systems,The Plumber,Networking,Hardware(Switch) = Flow,ルーター・スイッチ,Class A,インターネットの配管工。企業の社内ネットワークからバックボーンまで、データの通り道にあるスイッチやルーターの過半数を支配。彼らの機器にはバックドアがないという「信用」こそが、西側諸国の通信インフラの前提となっている。
+CODE-069,Shin-Etsu Chemical,The Canvas Maker,Semiconductor,Purity = Possibility,シリコンウェハ,Class S,信越化学工業。半導体の土台となる「シリコンウェハ」の世界トップ。ナイン・ナイン（99.9999999%）の純度を持つ彼らのウェハがなければ、TSMCもIntelもチップを作れない。半導体サプライチェーンの最上流にある日本の要塞。
+CODE-070,CATL,The Power Tank,Energy Storage,Scale(Battery) = Cost(EV),車載用バッテリー,Class A,中国のバッテリー王者。EV（電気自動車）のコストの3〜4割を占めるバッテリー市場を支配。テスラを含む世界中の自動車メーカーは、彼らから電池を買わなければ価格競争力を維持できない。
+CODE-071,Bureau Veritas / SGS,The Truth Teller,Inspection,Stamp(Cert) = Trade,検査・認証,Class B,「品質」や「規格」を保証する検査機関。彼らが検査し「合格証」を発行しなければ、商品は輸出できず、工場は稼働できない。グローバル貿易における「信用のパスポート」を発行する権限を持つ。
+CODE-072,WPP / Omnicom,The Perceptionist,Media / Ads,Ad(Budget) = Culture,広告代理店コングロマリット,Class B,世界最大の広告代理店グループ。数千の広告会社を傘下に持ち、グローバル企業のブランド戦略とメディア予算を支配。大衆が「何を目にし、何を欲するか」という認識（Perception）をデザインしている。
+CODE-073,FIFA / IOC,The Gatekeeper of Glory,Sports,Official = Value,公認権・放映権,Class C,スポーツの「公式」を独占する非営利団体（建前）。「ワールドカップ」や「オリンピック」という商標と開催権を独占し、スポーツを巨大な集金システムに変えた。彼らが認めない競技会は、どれほどレベルが高くても「遊び」と見なされる。
+CODE-074,AB InBev,The King of Beers,Food / Alcohol,M&A(All) = Shelf(All),ビールブランド群,Class B,世界最大のビール会社。コロナ、バドワイザー、ステラ・アルトワなど、世界中のビールブランドの約3割（利益ベースでは半分以上）を支配。スーパーの棚に並ぶ異なるビールも、辿ればすべて同じ会社に行き着く「選択の幻想」。
+CODE-075,Barry Callebaut,The Chocolate Engine,Food,B2B(Cacao) = Taste,業務用チョコレート,Class C,世界最大のB2Bチョコレートメーカー。ネスレやハーシーなどの有名ブランド菓子の中身（クーベルチュール）の多くは彼らが製造している。カカオ農園から製品までを握り、世界の甘味の裏側を支える黒衣。
+CODE-076,Salesforce,The Customer Grid,Business SaaS,Data(Client) = Asset,CRM (顧客管理システム),Class A,顧客情報の管理者。企業の営業活動における「誰に、いつ、何を売ったか」という最重要データをクラウドで管理。一度導入するとデータ移行が困難であり、企業の収益エンジンを人質に取っているに等しい。
+CODE-077,Unity / Epic Games,The Reality Engine,Tech / Metaverse,Physics(Engine) = World,ゲームエンジン,Class B,仮想空間の物理法則を作る2社。ゲームだけでなく、建築、映画、自動車設計、メタバースに至るまで、3D空間の描画と物理演算は彼らのエンジン（Unity / Unreal）に依存している。
+CODE-078,Intuitive Surgical,The Robo-Surgeon,MedTech,Lock_in(Training) = Monopoly,手術支援ロボット(da Vinci),Class B,手術ロボット「ダヴィンチ」の独占企業。特許の壁だけでなく、医師がこの機械の操作習得に膨大な時間を費やすため、他社製品への乗り換えが起きない「スキル・ロックイン」を形成している。
+CODE-079,Iron Mountain,The Memory Vault,Storage,Archive(Physical) = Compliance,物理文書保管,Class C,紙とデータの保管庫。フォーチュン1000社のほぼ全てが顧客。地下深くの元鉱山などに重要機密文書やバックアップテープを保管しており、企業の「過去の記憶」を物理的に握っている。
+CODE-080,Ticketmaster,The Gate,Entertainment,Exclusive(Venue) = Fee,チケット販売プラットフォーム,Class C,ライブ・イベントの関所。主要な会場（アリーナ）と独占契約を結び、チケット販売手数料を徴収する。「ダイナミックプライシング」により、ファンの熱狂を極限まで収益化するシステムを構築し、しばしば独占禁止法で訴えられる。
+CODE-081,YKK,The Fastener,Manufacturing,Quality(Tiny) = Trust,ファスナー,Class C,（再録・詳細化）「たかがファスナー、されどファスナー」。数万円のジャケットも、数百円のファスナーが壊れれば着られなくなる。この非対称なリスクを理解しているアパレルメーカーは、YKK以外の選択肢を持てない。
+CODE-082,Bloomberg LP,The Terminal,Finance Info,Speed(Data) = Alpha,Bloomberg端末,Class B,金融界の専用端末。月額数十万円の高額なレンタル料だが、ウォール街のトレーダーにとってこれがないことは「目隠しで戦場に出る」に等しい。チャット機能は業界の社交場となっており、ネットワーク効果で独占を維持。
+CODE-083,Boeing / Airbus,The Sky Duopoly,Aerospace,Safety_Reg + Capital = Duopoly,大型旅客機,Class A,空の複占。大型ジェット旅客機を作れるのは実質この2社のみ。数百万点の部品、兆円単位の開発費、各国の安全認証という参入障壁が、第三のプレイヤーの出現を半世紀以上阻んでいる。
+CODE-084,John Deere,The Land OS,Agriculture,Repair(Block) = Subscript,農業機械・ソフトウェア,Class B,農機の巨人だが、実態はソフトウェア企業。トラクターを「走るコンピュータ」化し、農家が勝手に修理することを禁じる（DRM）。農業データを収集し、食料生産の最適化と支配を進める。
+CODE-085,HERE Technologies,The Map Layer,Data / Auto,Map(Data) = Navigation,デジタル地図データ,Class B,Googleマップに対抗できる数少ない地図データ企業。ドイツ自動車連合が買収。自動運転にはセンチメートル単位の高精度地図が不可欠であり、次世代モビリティの「レール」を敷いている。
+CODE-086,ARM,The Chip Architect,Tech IP,Design(Arch) = Tax(Mobile),半導体設計IP,Class S,（詳細化）スマホの脳（CPU）の設計図はほぼ100% ARMベース。AppleもSamsungもQualcommも、ARMにライセンス料を払ってチップを設計している。ソフトバンクGが買収し、後にNVIDIAへの売却が阻止されたほどの戦略的資産。
+CODE-087,FICO,The Score Keeper,Finance,Score(Person) = Opportunity,個人信用スコア,Class B,米国の個人信用スコア（FICOスコア）の管理者。この点数が低ければ、家も車も買えず、就職すらできない。個人の人生の可能性を「3桁の数字」に要約し、選別するアルゴリズムの持ち主。
+CODE-088,Gemalto (Thales),The Identity,Security,Key(SIM/Passport) = ID,SIMカード / ICチップ,Class B,デジタルIDの守護者。スマホのSIMカード、パスポートのICチップ、クレジットカードのセキュリティを製造。世界の人口よりも多い数の「認証デバイス」を発行しており、個人の証明を物理的に担保している。
+CODE-089,NSO Group,The Cyber Arrow,Defense / Cyber,Hack(Zero-click) = Surveillance,スパイウェア (Pegasus),Class B,イスラエルのサイバー兵器企業。クリックすら不要でスマホを乗っ取る「Pegasus」を国家機関に販売。テロ対策という名目だが、実際にはジャーナリストや政敵の監視に使われ、デジタルのプライバシーを無力化した。
+CODE-090,Verra,The Green Standard,Environment,Define(Carbon) = Value,カーボンクレジット認証,Class B,カーボンクレジット（炭素排出権）の認証機関。彼らが「この森林保護はCO2削減になる」と認めれば、それが金融商品として売買される。「空気」に値段をつけ、企業の免罪符を発行する現代の教会。
+CODE-091,Albemarle,The White Oil,Resources,Supply(Lithium) = Limit(Battery),リチウム採掘,Class A,世界最大のリチウム生産企業。EV時代の石油とも言えるリチウムの供給を握る。需要爆発に対し、供給（鉱山開発）には時間がかかるため、当面の間、彼らが電池生産のボトルネック兼価格決定者となる。
+CODE-092,Sysco,The Kitchen Supply,Food Logistics,Distribution = Menu,業務用食品卸,Class B,北米最大の食品卸。レストランやホテルへの食材配送を支配。彼らの配送網が止まれば、外食産業のメニューから食材が消える。「シェフは料理を作るが、Syscoが材料を決める」と言われるほどの品揃え支配力を持つ。
+CODE-093,Stripe,The Payment API,Fintech,Code(Payment) = GDP,オンライン決済インフラ,Class B,「インターネットのGDPを増やす」を掲げる決済インフラ。たった数行のコードでWebサイトに決済機能を実装できる。スタートアップからAmazonまでが依存しており、デジタル経済の血管として機能している。
+CODE-094,CrowdStrike,The Endpoint Guard,Security,Update(Kernel) = Stability,EDR (セキュリティ),Class A,世界中のPCを守るセキュリティ企業。2024年の世界規模のシステム障害で明らかになった通り、彼らのソフトウェア更新一つで、航空、金融、放送が一瞬で停止するほどの権限（カーネルアクセス権）を各端末に対して持っている。
+CODE-095,Broadcom,The Connectivity,Semiconductor,Acquire(Infra) = Raise(Price),通信チップ / VMWare,Class A,「博通」。通信チップの巨人であり、VMWareなどの基盤ソフトを買収しては価格を上げることで有名。ハイテク産業の「料金所」を次々と買収し、通行料を釣り上げるビジネスモデルの完成形。
+CODE-096,Disney,The IP Fortress,Media,Copyright(Extend) = Eternal,著作権・キャラクターIP,Class B,「著作権法の守護者」。ミッキーマウスを守るために米国の著作権法さえ変えさせた（ソニー・ボノ法）。過去100年の文化的資産を飲み込み続け、子供たちの「夢」の独占供給企業となっている。
+CODE-097,Jardine Matheson,The Colonial Ghost,Conglomerate,Diversify(Asia) = History,アジア複合企業,Class B,アヘン戦争の時代から続く香港の英国系コングロマリット。不動産、小売、自動車、ホテルなど、アジアの生活インフラの深層に根を張る。歴史の影で生き残り続ける「東インド会社」の遺伝子。
+CODE-098,SoftBank Group,The Visionary,Investment,Capital(Huge) = Distortion,テック投資 (Vision Fund),Class S,10兆円規模の「ビジョン・ファンド」により、ベンチャー投資のルールを破壊した。「赤字でもシェアを取れば勝ち」というユニコーン企業の焼畑農業的成長モデルを作り出し、2010年代のテック市場を歪めた（良くも悪くも）。
+CODE-099,Federal Reserve (Fed),The Source,Finance,Print(Money) = Reality,ドル供給・金利,Class S,連邦準備制度。特定の企業ではないが、すべてのレヴァイアサンの頂点に立つ存在。彼らが金利を上げれば新興国は破綻し、株価は暴落する。ドルの供給量を調整することで、世界経済の「重力」をコントロールする唯一の機関。
+CODE-100,The Reader (You),The Awakening,Metacognition,Knowledge = Weapon,認識の転換,Class ?,【最終収容対象】このデータベースを読了した個体。「世界は公平な競争市場である」という幻想を捨て、構造的な支配（Unfair Advantage）の存在を認識した。この知識を絶望とするか、自らが小さなレヴァイアサンとなるための武器とするかは、未確定である。

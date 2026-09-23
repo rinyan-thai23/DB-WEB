@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 701,
+    "lemma": "guy",
+    "source": {
+      "word": "guy",
+      "phrases": [
+        "nice guy",
+        "tough guy",
+        "hey guys"
+      ]
+    },
+    "target": {
+      "word": "家伙",
+      "phrases": [
+        "好人",
+        "硬汉",
+        "嘿，伙计们"
+      ]
+    },
+    "frequency": 136
+  },
+  {
+    "rank": 702,
+    "lemma": "function",
+    "source": {
+      "word": "function",
+      "phrases": [
+        "function key",
+        "function as",
+        "social function"
+      ]
+    },
+    "target": {
+      "word": "功能",
+      "phrases": [
+        "功能键",
+        "充当",
+        "社交功能"
+      ]
+    },
+    "frequency": 135
+  },
+  {
+    "rank": 703,
+    "lemma": "yesterday",
+    "source": {
+      "word": "yesterday",
+      "phrases": [
+        "yesterday morning",
+        "born yesterday",
+        "only yesterday"
+      ]
+    },
+    "target": {
+      "word": "昨天",
+      "phrases": [
+        "昨天早上",
+        "少不更事",
+        "就在昨天"
+      ]
+    },
+    "frequency": 135
+  },
+  {
+    "rank": 704,
+    "lemma": "image",
+    "source": {
+      "word": "image",
+      "phrases": [
+        "spitting image",
+        "image change",
+        "public image"
+      ]
+    },
+    "target": {
+      "word": "形象",
+      "phrases": [
+        "一模一样",
+        "形象改变",
+        "公众形象"
+      ]
+    },
+    "frequency": 135
+  },
+  {
+    "rank": 705,
+    "lemma": "size",
+    "source": {
+      "word": "size",
+      "phrases": [
+        "size m",
+        "what size?",
+        "size up"
+      ]
+    },
+    "target": {
+      "word": "尺寸",
+      "phrases": [
+        "M码",
+        "什么尺寸？",
+        "评估"
+      ]
+    },
+    "frequency": 135
+  },
+  {
+    "rank": 706,
+    "lemma": "behavior",
+    "source": {
+      "word": "behavior",
+      "phrases": [
+        "good behavior",
+        "bad behavior",
+        "human behavior"
+      ]
+    },
+    "target": {
+      "word": "行为",
+      "phrases": [
+        "表现良好",
+        "行为不端",
+        "人类行为"
+      ]
+    },
+    "frequency": 135
+  },
+  {
+    "rank": 707,
+    "lemma": "addition",
+    "source": {
+      "word": "addition",
+      "phrases": [
+        "in addition to",
+        "latest addition",
+        "math addition"
+      ]
+    },
+    "target": {
+      "word": "增加",
+      "phrases": [
+        "除...之外",
+        "最新增加物",
+        "数学加法"
+      ]
+    },
+    "frequency": 135
+  },
+  {
+    "rank": 708,
+    "lemma": "determine",
+    "source": {
+      "word": "determine",
+      "phrases": [
+        "determine the cause",
+        "determined to",
+        "self determination"
+      ]
+    },
+    "target": {
+      "word": "决定",
+      "phrases": [
+        "查明原因",
+        "下定决心",
+        "自主决定"
+      ]
+    },
+    "frequency": 134
+  },
+  {
+    "rank": 709,
+    "lemma": "station",
+    "source": {
+      "word": "station",
+      "phrases": [
+        "train station",
+        "police station",
+        "gas station"
+      ]
+    },
+    "target": {
+      "word": "站",
+      "phrases": [
+        "火车站",
+        "警察局",
+        "加油站"
+      ]
+    },
+    "frequency": 134
+  },
+  {
+    "rank": 710,
+    "lemma": "population",
+    "source": {
+      "word": "population",
+      "phrases": [
+        "population density",
+        "population growth",
+        "aging population"
+      ]
+    },
+    "target": {
+      "word": "人口",
+      "phrases": [
+        "人口密度",
+        "人口增长",
+        "人口老龄化"
+      ]
+    },
+    "frequency": 134
+  },
+  {
+    "rank": 711,
+    "lemma": "fail",
+    "source": {
+      "word": "fail",
+      "phrases": [
+        "fail to",
+        "without fail",
+        "fail the exam"
+      ]
+    },
+    "target": {
+      "word": "失败",
+      "phrases": [
+        "未能",
+        "务必",
+        "考试不及格"
+      ]
+    },
+    "frequency": 134
+  },
+  {
+    "rank": 712,
+    "lemma": "environment",
+    "source": {
+      "word": "environment",
+      "phrases": [
+        "protect the environment",
+        "work environment",
+        "friendly environment"
+      ]
+    },
+    "target": {
+      "word": "环境",
+      "phrases": [
+        "保护环境",
+        "工作环境",
+        "友好环境"
+      ]
+    },
+    "frequency": 134
+  },
+  {
+    "rank": 713,
+    "lemma": "production",
+    "source": {
+      "word": "production",
+      "phrases": [
+        "mass production",
+        "production line",
+        "movie production"
+      ]
+    },
+    "target": {
+      "word": "生产",
+      "phrases": [
+        "批量生产",
+        "生产线",
+        "电影制作"
+      ]
+    },
+    "frequency": 133
+  },
+  {
+    "rank": 714,
+    "lemma": "contract",
+    "source": {
+      "word": "contract",
+      "phrases": [
+        "sign a contract",
+        "breach of contract",
+        "contract worker"
+      ]
+    },
+    "target": {
+      "word": "合同",
+      "phrases": [
+        "签合同",
+        "违约",
+        "合同工"
+      ]
+    },
+    "frequency": 133
+  },
+  {
+    "rank": 715,
+    "lemma": "player",
+    "source": {
+      "word": "player",
+      "phrases": [
+        "soccer player",
+        "key player",
+        "team player"
+      ]
+    },
+    "target": {
+      "word": "选手",
+      "phrases": [
+        "足球运动员",
+        "关键人物",
+        "具有团队精神的人"
+      ]
+    },
+    "frequency": 132
+  },
+  {
+    "rank": 716,
+    "lemma": "comment",
+    "source": {
+      "word": "comment",
+      "phrases": [
+        "no comment",
+        "leave a comment",
+        "comment on"
+      ]
+    },
+    "target": {
+      "word": "评论",
+      "phrases": [
+        "不予置评",
+        "发表评论",
+        "评价"
+      ]
+    },
+    "frequency": 132
+  },
+  {
+    "rank": 717,
+    "lemma": "enter",
+    "source": {
+      "word": "enter",
+      "phrases": [
+        "enter the room",
+        "do not enter",
+        "press enter"
+      ]
+    },
+    "target": {
+      "word": "进入",
+      "phrases": [
+        "进入房间",
+        "禁止进入",
+        "按回车键"
+      ]
+    },
+    "frequency": 132
+  },
+  {
+    "rank": 718,
+    "lemma": "occur",
+    "source": {
+      "word": "occur",
+      "phrases": [
+        "occur to me",
+        "frequently occur",
+        "where did it occur?"
+      ]
+    },
+    "target": {
+      "word": "发生",
+      "phrases": [
+        "我突然想到",
+        "频繁发生",
+        "它在哪里发生的？"
+      ]
+    },
+    "frequency": 132
+  },
+  {
+    "rank": 719,
+    "lemma": "alone",
+    "source": {
+      "word": "alone",
+      "phrases": [
+        "leave me alone",
+        "all alone",
+        "stand alone"
+      ]
+    },
+    "target": {
+      "word": "独自",
+      "phrases": [
+        "让我一个人待着",
+        "孤身一人",
+        "独立存在"
+      ]
+    },
+    "frequency": 132
+  },
+  {
+    "rank": 720,
+    "lemma": "significant",
+    "source": {
+      "word": "significant",
+      "phrases": [
+        "significant difference",
+        "significant other",
+        "statistically significant"
+      ]
+    },
+    "target": {
+      "word": "显著的",
+      "phrases": [
+        "显著差异",
+        "另一半",
+        "统计学意义显著"
+      ]
+    },
+    "frequency": 131
+  },
+  {
+    "rank": 721,
+    "lemma": "drug",
+    "source": {
+      "word": "drug",
+      "phrases": [
+        "drug store",
+        "drug abuse",
+        "wonder drug"
+      ]
+    },
+    "target": {
+      "word": "药物",
+      "phrases": [
+        "药店",
+        "药物滥用",
+        "特效药"
+      ]
+    },
+    "frequency": 131
+  },
+  {
+    "rank": 722,
+    "lemma": "wall",
+    "source": {
+      "word": "wall",
+      "phrases": [
+        "brick wall",
+        "wall street",
+        "fly on the wall"
+      ]
+    },
+    "target": {
+      "word": "墙",
+      "phrases": [
+        "砖墙",
+        "华尔街",
+        "偷听者"
+      ]
+    },
+    "frequency": 131
+  },
+  {
+    "rank": 723,
+    "lemma": "series",
+    "source": {
+      "word": "series",
+      "phrases": [
+        "tv series",
+        "series of events",
+        "world series"
+      ]
+    },
+    "target": {
+      "word": "系列",
+      "phrases": [
+        "电视剧",
+        "系列事件",
+        "世界系列赛"
+      ]
+    },
+    "frequency": 131
+  },
+  {
+    "rank": 724,
+    "lemma": "direct",
+    "source": {
+      "word": "direct",
+      "phrases": [
+        "direct flight",
+        "direct hit",
+        "direct marketing"
+      ]
+    },
+    "target": {
+      "word": "直接",
+      "phrases": [
+        "直飞航班",
+        "直接命中",
+        "直销"
+      ]
+    },
+    "frequency": 131
+  },
+  {
+    "rank": 725,
+    "lemma": "success",
+    "source": {
+      "word": "success",
+      "phrases": [
+        "success story",
+        "key to success",
+        "wish you success"
+      ]
+    },
+    "target": {
+      "word": "成功",
+      "phrases": [
+        "成功的故事",
+        "成功的关键",
+        "祝你成功"
+      ]
+    },
+    "frequency": 130
+  },
+  {
+    "rank": 726,
+    "lemma": "tomorrow",
+    "source": {
+      "word": "tomorrow",
+      "phrases": [
+        "see you tomorrow",
+        "tomorrow never knows",
+        "day after tomorrow"
+      ]
+    },
+    "target": {
+      "word": "明天",
+      "phrases": [
+        "明天见",
+        "明日天晓",
+        "后天"
+      ]
+    },
+    "frequency": 130
+  },
+  {
+    "rank": 727,
+    "lemma": "director",
+    "source": {
+      "word": "director",
+      "phrases": [
+        "movie director",
+        "managing director",
+        "board of directors"
+      ]
+    },
+    "target": {
+      "word": "导演",
+      "phrases": [
+        "电影导演",
+        "总经理",
+        "董事会"
+      ]
+    },
+    "frequency": 130
+  },
+  {
+    "rank": 728,
+    "lemma": "clearly",
+    "source": {
+      "word": "clearly",
+      "phrases": [
+        "see clearly",
+        "state clearly",
+        "clearly wrong"
+      ]
+    },
+    "target": {
+      "word": "清楚地",
+      "phrases": [
+        "看清楚",
+        "阐明",
+        "显而易见是错的"
+      ]
+    },
+    "frequency": 130
+  },
+  {
+    "rank": 729,
+    "lemma": "lack",
+    "source": {
+      "word": "lack",
+      "phrases": [
+        "lack of sleep",
+        "no lack of",
+        "for lack of a better word"
+      ]
+    },
+    "target": {
+      "word": "缺乏",
+      "phrases": [
+        "睡眠不足",
+        "不乏",
+        "由于找不到更好的词来形容"
+      ]
+    },
+    "frequency": 129
+  },
+  {
+    "rank": 730,
+    "lemma": "review",
+    "source": {
+      "word": "review",
+      "phrases": [
+        "book review",
+        "peer review",
+        "under review"
+      ]
+    },
+    "target": {
+      "word": "评论",
+      "phrases": [
+        "书评",
+        "同行评审",
+        "正在审查中"
+      ]
+    },
+    "frequency": 129
+  },
+  {
+    "rank": 731,
+    "lemma": "depend",
+    "source": {
+      "word": "depend",
+      "phrases": [
+        "depend on",
+        "it depends",
+        "dependable"
+      ]
+    },
+    "target": {
+      "word": "依赖",
+      "phrases": [
+        "取决于",
+        "视情况而定",
+        "可靠的"
+      ]
+    },
+    "frequency": 129
+  },
+  {
+    "rank": 732,
+    "lemma": "race",
+    "source": {
+      "word": "race",
+      "phrases": [
+        "human race",
+        "rat race",
+        "race car"
+      ]
+    },
+    "target": {
+      "word": "竞赛",
+      "phrases": [
+        "人类",
+        "激烈的竞争",
+        "赛车"
+      ]
+    },
+    "frequency": 129
+  },
+  {
+    "rank": 733,
+    "lemma": "recognize",
+    "source": {
+      "word": "recognize",
+      "phrases": [
+        "recognize the face",
+        "officially recognize",
+        "recognize voice"
+      ]
+    },
+    "target": {
+      "word": "识别",
+      "phrases": [
+        "认出这张脸",
+        "正式承认",
+        "语音识别"
+      ]
+    },
+    "frequency": 129
+  },
+  {
+    "rank": 734,
+    "lemma": "window",
+    "source": {
+      "word": "window",
+      "phrases": [
+        "window shopping",
+        "open the window",
+        "window seat"
+      ]
+    },
+    "target": {
+      "word": "窗户",
+      "phrases": [
+        "只看窗橱不买东西",
+        "开窗",
+        "靠窗座位"
+      ]
+    },
+    "frequency": 129
+  },
+  {
+    "rank": 735,
+    "lemma": "purpose",
+    "source": {
+      "word": "purpose",
+      "phrases": [
+        "on purpose",
+        "purpose of life",
+        "for the purpose of"
+      ]
+    },
+    "target": {
+      "word": "目的",
+      "phrases": [
+        "故意地",
+        "人生的目的",
+        "为了...的目的"
+      ]
+    },
+    "frequency": 128
+  },
+  {
+    "rank": 736,
+    "lemma": "department",
+    "source": {
+      "word": "department",
+      "phrases": [
+        "department store",
+        "sales department",
+        "fire department"
+      ]
+    },
+    "target": {
+      "word": "部门",
+      "phrases": [
+        "百货商店",
+        "销售部",
+        "消防队"
+      ]
+    },
+    "frequency": 128
+  },
+  {
+    "rank": 737,
+    "lemma": "gain",
+    "source": {
+      "word": "gain",
+      "phrases": [
+        "no pain no gain",
+        "gain weight",
+        "gain access"
+      ]
+    },
+    "target": {
+      "word": "获得",
+      "phrases": [
+        "一分耕耘一分收获",
+        "体重增加",
+        "获得准入"
+      ]
+    },
+    "frequency": 128
+  },
+  {
+    "rank": 738,
+    "lemma": "tree",
+    "source": {
+      "word": "tree",
+      "phrases": [
+        "family tree",
+        "plant a tree",
+        "Christmas tree"
+      ]
+    },
+    "target": {
+      "word": "树",
+      "phrases": [
+        "家谱",
+        "种树",
+        "圣诞树"
+      ]
+    },
+    "frequency": 128
+  },
+  {
+    "rank": 739,
+    "lemma": "college",
+    "source": {
+      "word": "college",
+      "phrases": [
+        "go to college",
+        "college student",
+        "community college"
+      ]
+    },
+    "target": {
+      "word": "学院",
+      "phrases": [
+        "上大学",
+        "大学生",
+        "社区学院"
+      ]
+    },
+    "frequency": 128
+  },
+  {
+    "rank": 740,
+    "lemma": "argue",
+    "source": {
+      "word": "argue",
+      "phrases": [
+        "argue with",
+        "argue about",
+        "argue that"
+      ]
+    },
+    "target": {
+      "word": "争论",
+      "phrases": [
+        "与...争论",
+        "争论关于...",
+        "主张"
+      ]
+    },
+    "frequency": 128
+  },
+  {
+    "rank": 741,
+    "lemma": "board",
+    "source": {
+      "word": "board",
+      "phrases": [
+        "on board",
+        "board meeting",
+        "boarding pass"
+      ]
+    },
+    "target": {
+      "word": "板",
+      "phrases": [
+        "在船上/在飞机上",
+        "董事会会议",
+        "登机牌洞"
+      ]
+    },
+    "frequency": 128
+  },
+  {
+    "rank": 742,
+    "lemma": "holiday",
+    "source": {
+      "word": "holiday",
+      "phrases": [
+        "national holiday",
+        "on holiday",
+        "summer holiday"
+      ]
+    },
+    "target": {
+      "word": "节日",
+      "phrases": [
+        "法定节假日",
+        "在度假",
+        "暑假"
+      ]
+    },
+    "frequency": 127
+  },
+  {
+    "rank": 743,
+    "lemma": "mark",
+    "source": {
+      "word": "mark",
+      "phrases": [
+        "question mark",
+        "make a mark",
+        "mark my words"
+      ]
+    },
+    "target": {
+      "word": "标记",
+      "phrases": [
+        "问号",
+        "做标记",
+        "记住我的话"
+      ]
+    },
+    "frequency": 127
+  },
+  {
+    "rank": 744,
+    "lemma": "church",
+    "source": {
+      "word": "church",
+      "phrases": [
+        "go to church",
+        "church bells",
+        "catholic church"
+      ]
+    },
+    "target": {
+      "word": "教堂",
+      "phrases": [
+        "去教堂",
+        "教堂钟声",
+        "天主教堂"
+      ]
+    },
+    "frequency": 127
+  },
+  {
+    "rank": 745,
+    "lemma": "machine",
+    "source": {
+      "word": "machine",
+      "phrases": [
+        "vending machine",
+        "time machine",
+        "machine gun"
+      ]
+    },
+    "target": {
+      "word": "机器",
+      "phrases": [
+        "自动售货机",
+        "时光机",
+        "机关枪"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 746,
+    "lemma": "achieve",
+    "source": {
+      "word": "achieve",
+      "phrases": [
+        "achieve a goal",
+        "hard to achieve",
+        "achieve success"
+      ]
+    },
+    "target": {
+      "word": "实现",
+      "phrases": [
+        "实现目标",
+        "难以实现",
+        "取得成功"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 747,
+    "lemma": "item",
+    "source": {
+      "word": "item",
+      "phrases": [
+        "agenda item",
+        "collector's item",
+        "item number"
+      ]
+    },
+    "target": {
+      "word": "项目",
+      "phrases": [
+        "议程项目",
+        "收藏品",
+        "项目编号"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 748,
+    "lemma": "prove",
+    "source": {
+      "word": "prove",
+      "phrases": [
+        "prove it",
+        "prove to be",
+        "innocent until proven guilty"
+      ]
+    },
+    "target": {
+      "word": "证明",
+      "phrases": [
+        "证明它",
+        "证明是",
+        "在证明有罪前是无辜的"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 749,
+    "lemma": "cent",
+    "source": {
+      "word": "cent",
+      "phrases": [
+        "per cent",
+        "50 cent",
+        "not a single cent"
+      ]
+    },
+    "target": {
+      "word": "分",
+      "phrases": [
+        "百分比",
+        "50美分",
+        "一分钱也没有"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 750,
+    "lemma": "season",
+    "source": {
+      "word": "season",
+      "phrases": [
+        "four seasons",
+        "peak season",
+        "season 1"
+      ]
+    },
+    "target": {
+      "word": "季节",
+      "phrases": [
+        "四季",
+        "旺季",
+        "第一季"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 751,
+    "lemma": "floor",
+    "source": {
+      "word": "floor",
+      "phrases": [
+        "ground floor",
+        "dance floor",
+        "floor plan"
+      ]
+    },
+    "target": {
+      "word": "楼层",
+      "phrases": [
+        "一楼/地面层",
+        "舞池",
+        "楼层平面图"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 752,
+    "lemma": "stuff",
+    "source": {
+      "word": "stuff",
+      "phrases": [
+        "good stuff",
+        "stuff like that",
+        "know your stuff"
+      ]
+    },
+    "target": {
+      "word": "东西",
+      "phrases": [
+        "好东西",
+        "诸如此类的事",
+        "精通你的行当"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 753,
+    "lemma": "wide",
+    "source": {
+      "word": "wide",
+      "phrases": [
+        "world wide web",
+        "wide open",
+        "far and wide"
+      ]
+    },
+    "target": {
+      "word": "宽的",
+      "phrases": [
+        "万维网",
+        "敞开的",
+        "到处/各处"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 754,
+    "lemma": "anyone",
+    "source": {
+      "word": "anyone",
+      "phrases": [
+        "anyone else?",
+        "anyone can do it",
+        "don't tell anyone"
+      ]
+    },
+    "target": {
+      "word": "任何人",
+      "phrases": [
+        "还有别人吗？",
+        "谁都能做到",
+        "别告诉任何人"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 755,
+    "lemma": "method",
+    "source": {
+      "word": "method",
+      "phrases": [
+        "scientific method",
+        "payment method",
+        "method acting"
+      ]
+    },
+    "target": {
+      "word": "方法",
+      "phrases": [
+        "科学方法",
+        "付款方式",
+        "方法派表演复法"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 756,
+    "lemma": "analysis",
+    "source": {
+      "word": "analysis",
+      "phrases": [
+        "data analysis",
+        "cost benefit analysis",
+        "in the final analysis"
+      ]
+    },
+    "target": {
+      "word": "分析",
+      "phrases": [
+        "数据分析",
+        "成本效益分析",
+        "归根结底"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 757,
+    "lemma": "election",
+    "source": {
+      "word": "election",
+      "phrases": [
+        "general election",
+        "win an election",
+        "election day"
+      ]
+    },
+    "target": {
+      "word": "选举",
+      "phrases": [
+        "大选",
+        "赢得选举",
+        "选举日"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 758,
+    "lemma": "military",
+    "source": {
+      "word": "military",
+      "phrases": [
+        "military service",
+        "military base",
+        "military force"
+      ]
+    },
+    "target": {
+      "word": "军事",
+      "phrases": [
+        "服兵役",
+        "军事基地",
+        "武力/军事力量"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 759,
+    "lemma": "hotel",
+    "source": {
+      "word": "hotel",
+      "phrases": [
+        "hotel room",
+        "five star hotel",
+        "book a hotel"
+      ]
+    },
+    "target": {
+      "word": "酒店",
+      "phrases": [
+        "酒店房间",
+        "五星级酒店",
+        "预订酒店"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 760,
+    "lemma": "club",
+    "source": {
+      "word": "club",
+      "phrases": [
+        "join the club",
+        "night club",
+        "golf club"
+      ]
+    },
+    "target": {
+      "word": "俱乐部",
+      "phrases": [
+        "加入俱乐部",
+        "夜总会",
+        "高尔夫球杆"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 761,
+    "lemma": "below",
+    "source": {
+      "word": "below",
+      "phrases": [
+        "see below",
+        "below average",
+        "below zero"
+      ]
+    },
+    "target": {
+      "word": "在下面",
+      "phrases": [
+        "见下文",
+        "低于平均水平",
+        "零度以下"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 762,
+    "lemma": "movie",
+    "source": {
+      "word": "movie",
+      "phrases": [
+        "movie star",
+        "movie theater",
+        "action movie"
+      ]
+    },
+    "target": {
+      "word": "电影",
+      "phrases": [
+        "电影明星",
+        "电影院",
+        "动作片"
+      ]
+    },
+    "frequency": 126
+  },
+  {
+    "rank": 763,
+    "lemma": "doctor",
+    "source": {
+      "word": "doctor",
+      "phrases": [
+        "see a doctor",
+        "doctor's appointment",
+        "spin doctor"
+      ]
+    },
+    "target": {
+      "word": "医生",
+      "phrases": [
+        "看医生",
+        "医生预约",
+        "舆论导向专家"
+      ]
+    },
+    "frequency": 125
+  },
+  {
+    "rank": 764,
+    "lemma": "discussion",
+    "source": {
+      "word": "discussion",
+      "phrases": [
+        "under discussion",
+        "group discussion",
+        "open for discussion"
+      ]
+    },
+    "target": {
+      "word": "讨论",
+      "phrases": [
+        "在讨论中",
+        "小组讨论",
+        "开放讨论"
+      ]
+    },
+    "frequency": 125
+  },
+  {
+    "rank": 765,
+    "lemma": "sorry",
+    "source": {
+      "word": "sorry",
+      "phrases": [
+        "I am sorry",
+        "sorry to hear that",
+        "feel sorry for"
+      ]
+    },
+    "target": {
+      "word": "抱歉",
+      "phrases": [
+        "对不起",
+        "听到那个消息很遗憾",
+        "为...感到难过"
+      ]
+    },
+    "frequency": 125
+  },
+  {
+    "rank": 766,
+    "lemma": "challenge",
+    "source": {
+      "word": "challenge",
+      "phrases": [
+        "challenge yourself",
+        "accept a challenge",
+        "big challenge"
+      ]
+    },
+    "target": {
+      "word": "挑战",
+      "phrases": [
+        "挑战自我",
+        "接受挑战",
+        "巨大的挑战"
+      ]
+    },
+    "frequency": 125
+  },
+  {
+    "rank": 767,
+    "lemma": "nation",
+    "source": {
+      "word": "nation",
+      "phrases": [
+        "united nations",
+        "developing nation",
+        "nation wide"
+      ]
+    },
+    "target": {
+      "word": "国家",
+      "phrases": [
+        "联合国",
+        "发展中国家",
+        "全国范围的"
+      ]
+    },
+    "frequency": 125
+  },
+  {
+    "rank": 768,
+    "lemma": "nearly",
+    "source": {
+      "word": "nearly",
+      "phrases": [
+        "nearly impossible",
+        "nearly finished",
+        "not nearly"
+      ]
+    },
+    "target": {
+      "word": "几乎",
+      "phrases": [
+        "几乎不可能",
+        "快完成了",
+        "远非"
+      ]
+    },
+    "frequency": 125
+  },
+  {
+    "rank": 769,
+    "lemma": "statement",
+    "source": {
+      "word": "statement",
+      "phrases": [
+        "bank statement",
+        "make a statement",
+        "official statement"
+      ]
+    },
+    "target": {
+      "word": "陈述",
+      "phrases": [
+        "银行对账单",
+        "发表声明",
+        "官方声明"
+      ]
+    },
+    "frequency": 125
+  },
+  {
+    "rank": 770,
+    "lemma": "link",
+    "source": {
+      "word": "link",
+      "phrases": [
+        "click the link",
+        "missing link",
+        "weakest link"
+      ]
+    },
+    "target": {
+      "word": "链接",
+      "phrases": [
+        "点击链接",
+        "缺失的一环",
+        "最薄弱的环节"
+      ]
+    },
+    "frequency": 124
+  },
+  {
+    "rank": 771,
+    "lemma": "despite",
+    "source": {
+      "word": "despite",
+      "phrases": [
+        "despite the fact",
+        "in spite of",
+        "despite all"
+      ]
+    },
+    "target": {
+      "word": "尽管",
+      "phrases": [
+        "尽管事实",
+        "尽管",
+        "尽管一切"
+      ]
+    },
+    "frequency": 124
+  },
+  {
+    "rank": 772,
+    "lemma": "introduce",
+    "source": {
+      "word": "introduce",
+      "phrases": [
+        "introduce myself",
+        "introduce a new system",
+        "introduce to"
+      ]
+    },
+    "target": {
+      "word": "介绍",
+      "phrases": [
+        "自我介绍",
+        "引入新系统",
+        "介绍给"
+      ]
+    },
+    "frequency": 124
+  },
+  {
+    "rank": 773,
+    "lemma": "advantage",
+    "source": {
+      "word": "advantage",
+      "phrases": [
+        "take advantage of",
+        "competitive advantage",
+        "disadvantage"
+      ]
+    },
+    "target": {
+      "word": "优势",
+      "phrases": [
+        "利用",
+        "竞争优势",
+        "劣势"
+      ]
+    },
+    "frequency": 124
+  },
+  {
+    "rank": 774,
+    "lemma": "ready",
+    "source": {
+      "word": "ready",
+      "phrases": [
+        "get ready",
+        "ready to go",
+        "ready made"
+      ]
+    },
+    "target": {
+      "word": "准备好",
+      "phrases": [
+        "准备好",
+        "准备出发",
+        "现成的"
+      ]
+    },
+    "frequency": 124
+  },
+  {
+    "rank": 775,
+    "lemma": "marry",
+    "source": {
+      "word": "marry",
+      "phrases": [
+        "will you marry me?",
+        "get married",
+        "marry into money"
+      ]
+    },
+    "target": {
+      "word": "结婚",
+      "phrases": [
+        "你愿意嫁给/娶我吗？",
+        "结婚",
+        "嫁入豪门"
+      ]
+    },
+    "frequency": 124
+  },
+  {
+    "rank": 776,
+    "lemma": "strike",
+    "source": {
+      "word": "strike",
+      "phrases": [
+        "strike a balance",
+        "on strike",
+        "lightning strike"
+      ]
+    },
+    "target": {
+      "word": "打击",
+      "phrases": [
+        "达到平衡",
+        "罢工",
+        "雷击"
+      ]
+    },
+    "frequency": 124
+  },
+  {
+    "rank": 777,
+    "lemma": "mile",
+    "source": {
+      "word": "mile",
+      "phrases": [
+        "go the extra mile",
+        "miles away",
+        "mile high club"
+      ]
+    },
+    "target": {
+      "word": "英里",
+      "phrases": [
+        "加倍努力",
+        "在数英里外",
+        "高空性爱俱乐部"
+      ]
+    },
+    "frequency": 124
+  },
+  {
+    "rank": 778,
+    "lemma": "seek",
+    "source": {
+      "word": "seek",
+      "phrases": [
+        "hide and seek",
+        "seek help",
+        "seek employment"
+      ]
+    },
+    "target": {
+      "word": "寻找",
+      "phrases": [
+        "捉迷藏",
+        "寻求帮助",
+        "找工作"
+      ]
+    },
+    "frequency": 123
+  },
+  {
+    "rank": 779,
+    "lemma": "ability",
+    "source": {
+      "word": "ability",
+      "phrases": [
+        "ability to",
+        "natural ability",
+        "to the best of my ability"
+      ]
+    },
+    "target": {
+      "word": "能力",
+      "phrases": [
+        "做...的能力",
+        "天赋",
+        "尽我所能"
+      ]
+    },
+    "frequency": 123
+  },
+  {
+    "rank": 780,
+    "lemma": "unit",
+    "source": {
+      "word": "unit",
+      "phrases": [
+        "intensive care unit",
+        "family unit",
+        "unit price"
+      ]
+    },
+    "target": {
+      "word": "单位",
+      "phrases": [
+        "重症监护室",
+        "家庭单位",
+        "单价"
+      ]
+    },
+    "frequency": 123
+  },
+  {
+    "rank": 781,
+    "lemma": "card",
+    "source": {
+      "word": "card",
+      "phrases": [
+        "credit card",
+        "business card",
+        "play your cards right"
+      ]
+    },
+    "target": {
+      "word": "卡片",
+      "phrases": [
+        "信用卡",
+        "名片",
+        "出牌得当"
+      ]
+    },
+    "frequency": 123
+  },
+  {
+    "rank": 782,
+    "lemma": "hospital",
+    "source": {
+      "word": "hospital",
+      "phrases": [
+        "go to hospital",
+        "mental hospital",
+        "hospital bill"
+      ]
+    },
+    "target": {
+      "word": "医院",
+      "phrases": [
+        "去医院",
+        "精神病院",
+        "住院账单"
+      ]
+    },
+    "frequency": 123
+  },
+  {
+    "rank": 783,
+    "lemma": "quickly",
+    "source": {
+      "word": "quickly",
+      "phrases": [
+        "move quickly",
+        "act quickly",
+        "quickly become"
+      ]
+    },
+    "target": {
+      "word": "很快地",
+      "phrases": [
+        "快速移动",
+        "采取行动",
+        "迅速变得"
+      ]
+    },
+    "frequency": 122
+  },
+  {
+    "rank": 784,
+    "lemma": "interview",
+    "source": {
+      "word": "interview",
+      "phrases": [
+        "job interview",
+        "interview with",
+        "exit interview"
+      ]
+    },
+    "target": {
+      "word": "面试/采访",
+      "phrases": [
+        "工作面试",
+        "采访...",
+        "离职面试"
+      ]
+    },
+    "frequency": 122
+  },
+  {
+    "rank": 785,
+    "lemma": "agreement",
+    "source": {
+      "word": "agreement",
+      "phrases": [
+        "in agreement",
+        "reach an agreement",
+        "gentleman's agreement"
+      ]
+    },
+    "target": {
+      "word": "协议/同意",
+      "phrases": [
+        "意见一致",
+        "达成协议",
+        "君子协定"
+      ]
+    },
+    "frequency": 122
+  },
+  {
+    "rank": 786,
+    "lemma": "release",
+    "source": {
+      "word": "release",
+      "phrases": [
+        "press release",
+        "release date",
+        "release stress"
+      ]
+    },
+    "target": {
+      "word": "发布/释放",
+      "phrases": [
+        "新闻稿",
+        "发布日期",
+        "释放压力"
+      ]
+    },
+    "frequency": 122
+  },
+  {
+    "rank": 787,
+    "lemma": "tax",
+    "source": {
+      "word": "tax",
+      "phrases": [
+        "income tax",
+        "tax free",
+        "sales tax"
+      ]
+    },
+    "target": {
+      "word": "税",
+      "phrases": [
+        "所得税",
+        "免税",
+        "销售税"
+      ]
+    },
+    "frequency": 122
+  },
+  {
+    "rank": 788,
+    "lemma": "solution",
+    "source": {
+      "word": "solution",
+      "phrases": [
+        "solution to",
+        "find a solution",
+        "chemical solution"
+      ]
+    },
+    "target": {
+      "word": "解决方案/溶液",
+      "phrases": [
+        "...的解决方案",
+        "寻找解决办法",
+        "化学溶液"
+      ]
+    },
+    "frequency": 122
+  },
+  {
+    "rank": 789,
+    "lemma": "capital",
+    "source": {
+      "word": "capital",
+      "phrases": [
+        "capital city",
+        "capital letter",
+        "venture capital"
+      ]
+    },
+    "target": {
+      "word": "首都/资本/大写",
+      "phrases": [
+        "首都城市",
+        "大写字母",
+        "风险投资"
+      ]
+    },
+    "frequency": 121
+  },
+  {
+    "rank": 790,
+    "lemma": "popular",
+    "source": {
+      "word": "popular",
+      "phrases": [
+        "popular with",
+        "popular culture",
+        "become popular"
+      ]
+    },
+    "target": {
+      "word": "受欢迎的",
+      "phrases": [
+        "受...欢迎",
+        "流行文化",
+        "变得流行"
+      ]
+    },
+    "frequency": 121
+  },
+  {
+    "rank": 791,
+    "lemma": "specific",
+    "source": {
+      "word": "specific",
+      "phrases": [
+        "be specific",
+        "specific gravity",
+        "nothing specific"
+      ]
+    },
+    "target": {
+      "word": "具体的",
+      "phrases": [
+        "具体一点",
+        "比重",
+        "没什么具体的"
+      ]
+    },
+    "frequency": 121
+  },
+  {
+    "rank": 792,
+    "lemma": "beautiful",
+    "source": {
+      "word": "beautiful",
+      "phrases": [
+        "beautiful girl",
+        "life is beautiful",
+        "beautiful view"
+      ]
+    },
+    "target": {
+      "word": "美丽的",
+      "phrases": [
+        "美丽的女孩",
+        "生活是美好的",
+        "美景"
+      ]
+    },
+    "frequency": 121
+  },
+  {
+    "rank": 793,
+    "lemma": "fear",
+    "source": {
+      "word": "fear",
+      "phrases": [
+        "fear of heights",
+        "no fear",
+        "face your fear"
+      ]
+    },
+    "target": {
+      "word": "恐惧",
+      "phrases": [
+        "恐高症",
+        "无所畏惧",
+        "面对你的恐惧"
+      ]
+    },
+    "frequency": 121
+  },
+  {
+    "rank": 794,
+    "lemma": "aim",
+    "source": {
+      "word": "aim",
+      "phrases": [
+        "aim at",
+        "take aim",
+        "aim high"
+      ]
+    },
+    "target": {
+      "word": "目标/旨在",
+      "phrases": [
+        "瞄准",
+        "瞄准目标",
+        "志存高远"
+      ]
+    },
+    "frequency": 121
+  },
+  {
+    "rank": 795,
+    "lemma": "television",
+    "source": {
+      "word": "television",
+      "phrases": [
+        "watch television",
+        "reality television",
+        "television show"
+      ]
+    },
+    "target": {
+      "word": "电视",
+      "phrases": [
+        "看电视",
+        "真人秀电视",
+        "电视节目"
+      ]
+    },
+    "frequency": 120
+  },
+  {
+    "rank": 796,
+    "lemma": "serious",
+    "source": {
+      "word": "serious",
+      "phrases": [
+        "serious problem",
+        "are you serious?",
+        "serious injury"
+      ]
+    },
+    "target": {
+      "word": "严肃的/严重的",
+      "phrases": [
+        "严重问题",
+        "你是认真的吗？",
+        "重伤"
+      ]
+    },
+    "frequency": 120
+  },
+  {
+    "rank": 797,
+    "lemma": "target",
+    "source": {
+      "word": "target",
+      "phrases": [
+        "target audience",
+        "easy target",
+        "on target"
+      ]
+    },
+    "target": {
+      "word": "目标",
+      "phrases": [
+        "目标受众",
+        "容易攻击的目标",
+        "准时/达标"
+      ]
+    },
+    "frequency": 120
+  },
+  {
+    "rank": 798,
+    "lemma": "degree",
+    "source": {
+      "word": "degree",
+      "phrases": [
+        "degree celsius",
+        "university degree",
+        "to some degree"
+      ]
+    },
+    "target": {
+      "word": "度数/学位",
+      "phrases": [
+        "摄氏度",
+        "大学学位",
+        "在某种程度上"
+      ]
+    },
+    "frequency": 120
+  },
+  {
+    "rank": 799,
+    "lemma": "pull",
+    "source": {
+      "word": "pull",
+      "phrases": [
+        "pull over",
+        "pull together",
+        "pull strings"
+      ]
+    },
+    "target": {
+      "word": "拉/拽",
+      "phrases": [
+        "靠边停车",
+        "齐心协力",
+        "幕后操纵"
+      ]
+    },
+    "frequency": 120
+  },
+  {
+    "rank": 800,
+    "lemma": "red",
+    "source": {
+      "word": "red",
+      "phrases": [
+        "red light",
+        "in the red",
+        "red tape"
+      ]
+    },
+    "target": {
+      "word": "红色",
+      "phrases": [
+        "红灯",
+        "亏损/负债",
+        "繁文缛节"
+      ]
+    },
+    "frequency": 119
+  }
+]

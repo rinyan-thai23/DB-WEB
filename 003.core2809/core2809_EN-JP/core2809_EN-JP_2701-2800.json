@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 2701,
+    "lemma": "reckon",
+    "source": {
+      "word": "reckon",
+      "phrases": [
+        "I reckon",
+        "reckon with",
+        "force to be reckoned with"
+      ]
+    },
+    "target": {
+      "word": "思う／計算する",
+      "phrases": [
+        "私は〜だと思う",
+        "〜を考慮に入れる",
+        "無視できない存在"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2702,
+    "lemma": "silly",
+    "source": {
+      "word": "silly",
+      "phrases": [
+        "silly mistake",
+        "don't be silly",
+        "silly question"
+      ]
+    },
+    "target": {
+      "word": "愚かな",
+      "phrases": [
+        "馬鹿な間違い",
+        "馬鹿なこと言うな",
+        "くだらない質問"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2703,
+    "lemma": "transportation",
+    "source": {
+      "word": "transportation",
+      "phrases": [
+        "public transportation",
+        "means of transportation",
+        "transportation system"
+      ]
+    },
+    "target": {
+      "word": "輸送／交通機関",
+      "phrases": [
+        "公共交通機関",
+        "移動手段",
+        "輸送システム"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2704,
+    "lemma": "harbor",
+    "source": {
+      "word": "harbor",
+      "phrases": [
+        "pearl harbor",
+        "safe harbor",
+        "harbor a grudge"
+      ]
+    },
+    "target": {
+      "word": "港／抱く",
+      "phrases": [
+        "真珠湾",
+        "安全な避難場所",
+        "恨みを抱く"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2705,
+    "lemma": "comedy",
+    "source": {
+      "word": "comedy",
+      "phrases": [
+        "romantic comedy",
+        "stand-up comedy",
+        "comedy club"
+      ]
+    },
+    "target": {
+      "word": "喜劇",
+      "phrases": [
+        "ラブコメ",
+        "漫談（スタンドアップコメディ）",
+        "コメディクラブ"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2706,
+    "lemma": "chase",
+    "source": {
+      "word": "chase",
+      "phrases": [
+        "car chase",
+        "chase dreams",
+        "cut to the chase"
+      ]
+    },
+    "target": {
+      "word": "追跡する",
+      "phrases": [
+        "カーチェイス",
+        "夢を追う",
+        "本題に入る"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2707,
+    "lemma": "storage",
+    "source": {
+      "word": "storage",
+      "phrases": [
+        "storage space",
+        "cloud storage",
+        "in storage"
+      ]
+    },
+    "target": {
+      "word": "保管／貯蔵",
+      "phrases": [
+        "収納スペース",
+        "クラウドストレージ",
+        "保管中で"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2708,
+    "lemma": "universe",
+    "source": {
+      "word": "universe",
+      "phrases": [
+        "miss universe",
+        "center of the universe",
+        "expanding universe"
+      ]
+    },
+    "target": {
+      "word": "宇宙",
+      "phrases": [
+        "ミス・ユニバース",
+        "世界の中心",
+        "膨張する宇宙"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2709,
+    "lemma": "horrible",
+    "source": {
+      "word": "horrible",
+      "phrases": [
+        "horrible accident",
+        "feel horrible",
+        "horrible taste"
+      ]
+    },
+    "target": {
+      "word": "恐ろしい",
+      "phrases": [
+        "恐ろしい事故",
+        "気分が悪い／罪悪感がある",
+        "ひどい味"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2710,
+    "lemma": "sheep",
+    "source": {
+      "word": "sheep",
+      "phrases": [
+        "black sheep",
+        "count sheep",
+        "wolf in sheep's clothing"
+      ]
+    },
+    "target": {
+      "word": "羊",
+      "phrases": [
+        "厄介者（黒い羊）",
+        "羊を数える",
+        "羊の皮を被った狼"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2711,
+    "lemma": "lover",
+    "source": {
+      "word": "lover",
+      "phrases": [
+        "art lover",
+        "animal lover",
+        "lovers"
+      ]
+    },
+    "target": {
+      "word": "恋人／愛好家",
+      "phrases": [
+        "芸術愛好家",
+        "動物好き",
+        "恋人たち"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2712,
+    "lemma": "rat",
+    "source": {
+      "word": "rat",
+      "phrases": [
+        "smell a rat",
+        "lab rat",
+        "rat race"
+      ]
+    },
+    "target": {
+      "word": "ネズミ",
+      "phrases": [
+        "怪しいと感じる",
+        "実験台",
+        "出世競争"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2713,
+    "lemma": "portrait",
+    "source": {
+      "word": "portrait",
+      "phrases": [
+        "self portrait",
+        "family portrait",
+        "portrait mode"
+      ]
+    },
+    "target": {
+      "word": "肖像画",
+      "phrases": [
+        "自画像",
+        "家族写真",
+        "ポートレートモード"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2714,
+    "lemma": "innocent",
+    "source": {
+      "word": "innocent",
+      "phrases": [
+        "innocent victim",
+        "innocent until proven guilty",
+        "innocent look"
+      ]
+    },
+    "target": {
+      "word": "無実の／無邪気な",
+      "phrases": [
+        "罪のない犠牲者",
+        "推定無罪",
+        "無邪気な表情"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2715,
+    "lemma": "substitute",
+    "source": {
+      "word": "substitute",
+      "phrases": [
+        "substitute teacher",
+        "substitute for",
+        "no substitute"
+      ]
+    },
+    "target": {
+      "word": "代わり／代理",
+      "phrases": [
+        "代理教員",
+        "〜の代わり",
+        "代わりになるものはない"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2716,
+    "lemma": "supplement",
+    "source": {
+      "word": "supplement",
+      "phrases": [
+        "dietary supplement",
+        "supplement income",
+        "vitamin supplement"
+      ]
+    },
+    "target": {
+      "word": "補足／サプリメント",
+      "phrases": [
+        "栄養補助食品",
+        "収入を補う",
+        "ビタミンサプリ"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2717,
+    "lemma": "adjustment",
+    "source": {
+      "word": "adjustment",
+      "phrases": [
+        "make adjustments",
+        "minor adjustment",
+        "adjustment period"
+      ]
+    },
+    "target": {
+      "word": "調整",
+      "phrases": [
+        "調整を行う",
+        "微調整",
+        "適応期間"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2718,
+    "lemma": "reasonably",
+    "source": {
+      "word": "reasonably",
+      "phrases": [
+        "reasonably priced",
+        "reasonably well",
+        "act reasonably"
+      ]
+    },
+    "target": {
+      "word": "合理的に／そこそこ",
+      "phrases": [
+        "手頃な価格の",
+        "そこそこ良く",
+        "分別を持って行動する"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2719,
+    "lemma": "filter",
+    "source": {
+      "word": "filter",
+      "phrases": [
+        "coffee filter",
+        "filter out",
+        "instagram filter"
+      ]
+    },
+    "target": {
+      "word": "フィルター",
+      "phrases": [
+        "コーヒーフィルター",
+        "取り除く",
+        "インスタグラムのフィルター"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2720,
+    "lemma": "flexible",
+    "source": {
+      "word": "flexible",
+      "phrases": [
+        "flexible schedule",
+        "flexible body",
+        "flexible approach"
+      ]
+    },
+    "target": {
+      "word": "柔軟な",
+      "phrases": [
+        "フレックスタイム制",
+        "体の柔らかい",
+        "柔軟なアプローチ"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2721,
+    "lemma": "abstract",
+    "source": {
+      "word": "abstract",
+      "phrases": [
+        "abstract art",
+        "abstract concept",
+        "in the abstract"
+      ]
+    },
+    "target": {
+      "word": "抽象的な",
+      "phrases": [
+        "抽象芸術",
+        "抽象概念",
+        "抽象的に"
+      ]
+    },
+    "frequency": 21
+  },
+  {
+    "rank": 2722,
+    "lemma": "tent",
+    "source": {
+      "word": "tent",
+      "phrases": [
+        "pitch a tent",
+        "camping tent",
+        "oxygen tent"
+      ]
+    },
+    "target": {
+      "word": "テント",
+      "phrases": [
+        "テントを張る",
+        "キャンプ用テント",
+        "酸素テント"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2723,
+    "lemma": "precise",
+    "source": {
+      "word": "precise",
+      "phrases": [
+        "precise measurement",
+        "precise moment",
+        "to be precise"
+      ]
+    },
+    "target": {
+      "word": "正確な",
+      "phrases": [
+        "精密な測定",
+        "まさにその瞬間",
+        "正確に言うと"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2724,
+    "lemma": "distant",
+    "source": {
+      "word": "distant",
+      "phrases": [
+        "distant future",
+        "distant relative",
+        "distant memory"
+      ]
+    },
+    "target": {
+      "word": "遠い",
+      "phrases": [
+        "遠い未来",
+        "遠い親戚",
+        "遠い記憶"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2725,
+    "lemma": "stranger",
+    "source": {
+      "word": "stranger",
+      "phrases": [
+        "total stranger",
+        "stranger danger",
+        "no stranger to"
+      ]
+    },
+    "target": {
+      "word": "見知らぬ人",
+      "phrases": [
+        "赤の他人",
+        "知らない人は危険",
+        "〜をよく知っている（〜に不慣れではない）"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2726,
+    "lemma": "shade",
+    "source": {
+      "word": "shade",
+      "phrases": [
+        "in the shade",
+        "lamp shade",
+        "shade of blue"
+      ]
+    },
+    "target": {
+      "word": "日陰／色合い",
+      "phrases": [
+        "日陰で",
+        "ランプシェード",
+        "青の色合い"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2727,
+    "lemma": "grain",
+    "source": {
+      "word": "grain",
+      "phrases": [
+        "grain of salt",
+        "grain of sand",
+        "against the grain"
+      ]
+    },
+    "target": {
+      "word": "穀物／粒",
+      "phrases": [
+        "話半分に（塩一粒）",
+        "砂粒",
+        "性に合わない（木目に逆らって）"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2728,
+    "lemma": "situate",
+    "source": {
+      "word": "situate",
+      "phrases": [
+        "situated in",
+        "ideally situated",
+        "situate yourself"
+      ]
+    },
+    "target": {
+      "word": "置く／位置する",
+      "phrases": [
+        "〜に位置する",
+        "理想的な立地",
+        "自分の立場を理解する"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2729,
+    "lemma": "summarize",
+    "source": {
+      "word": "summarize",
+      "phrases": [
+        "summarize the main points",
+        "to summarize",
+        "briefly summarize"
+      ]
+    },
+    "target": {
+      "word": "要約する",
+      "phrases": [
+        "要点をまとめる",
+        "要約すると",
+        "手短に要約する"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2730,
+    "lemma": "leap",
+    "source": {
+      "word": "leap",
+      "phrases": [
+        "leap year",
+        "leap of faith",
+        "quantum leap"
+      ]
+    },
+    "target": {
+      "word": "跳ぶ／飛躍",
+      "phrases": [
+        "うるう年",
+        "思い切った決断",
+        "飛躍的進歩"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2731,
+    "lemma": "snap",
+    "source": {
+      "word": "snap",
+      "phrases": [
+        "snap fingers",
+        "snap decision",
+        "snap out of it"
+      ]
+    },
+    "target": {
+      "word": "パチンと鳴らす／折れる",
+      "phrases": [
+        "指を鳴らす",
+        "即決",
+        "立ち直れ（正気に戻れ）"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2732,
+    "lemma": "probability",
+    "source": {
+      "word": "probability",
+      "phrases": [
+        "high probability",
+        "in all probability",
+        "probability of"
+      ]
+    },
+    "target": {
+      "word": "確率",
+      "phrases": [
+        "高い確率",
+        "十中八九",
+        "〜の確率"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2733,
+    "lemma": "leather",
+    "source": {
+      "word": "leather",
+      "phrases": [
+        "leather jacket",
+        "genuine leather",
+        "leather boots"
+      ]
+    },
+    "target": {
+      "word": "革",
+      "phrases": [
+        "レザージャケット",
+        "本革",
+        "革のブーツ"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2734,
+    "lemma": "uncertainty",
+    "source": {
+      "word": "uncertainty",
+      "phrases": [
+        "uncertainty principle",
+        "times of uncertainty",
+        "degree of uncertainty"
+      ]
+    },
+    "target": {
+      "word": "不確実性",
+      "phrases": [
+        "不確定性原理",
+        "不確実な時代",
+        "不確実さの度合い"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2735,
+    "lemma": "swear",
+    "source": {
+      "word": "swear",
+      "phrases": [
+        "swear to god",
+        "swear words",
+        "swear in"
+      ]
+    },
+    "target": {
+      "word": "誓う／罵る",
+      "phrases": [
+        "神に誓う",
+        "罵り言葉",
+        "宣誓させる"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2736,
+    "lemma": "refugee",
+    "source": {
+      "word": "refugee",
+      "phrases": [
+        "refugee camp",
+        "refugee crisis",
+        "political refugee"
+      ]
+    },
+    "target": {
+      "word": "難民",
+      "phrases": [
+        "難民キャンプ",
+        "難民危機",
+        "政治難民"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2737,
+    "lemma": "shore",
+    "source": {
+      "word": "shore",
+      "phrases": [
+        "on shore",
+        "off shore",
+        "shore up"
+      ]
+    },
+    "target": {
+      "word": "岸",
+      "phrases": [
+        "陸上で",
+        "沖合で",
+        "テコ入れする（支える）"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2738,
+    "lemma": "monthly",
+    "source": {
+      "word": "monthly",
+      "phrases": [
+        "monthly payment",
+        "monthly magazine",
+        "paid monthly"
+      ]
+    },
+    "target": {
+      "word": "毎月の",
+      "phrases": [
+        "月々の支払い",
+        "月刊誌",
+        "月払いの"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2739,
+    "lemma": "comprise",
+    "source": {
+      "word": "comprise",
+      "phrases": [
+        "comprise of",
+        "be comprised of",
+        "teams comprise"
+      ]
+    },
+    "target": {
+      "word": "構成する",
+      "phrases": [
+        "〜を含む（誤用だが一般的）",
+        "〜で構成される",
+        "チームは〜で構成される"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2740,
+    "lemma": "stir",
+    "source": {
+      "word": "stir",
+      "phrases": [
+        "stir fry",
+        "cause a stir",
+        "stir crazy"
+      ]
+    },
+    "target": {
+      "word": "かき混ぜる",
+      "phrases": [
+        "炒め物",
+        "騒ぎを起こす",
+        "閉塞感でおかしくなる"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2741,
+    "lemma": "excitement",
+    "source": {
+      "word": "excitement",
+      "phrases": [
+        "full of excitement",
+        "contain excitement",
+        "excitement build"
+      ]
+    },
+    "target": {
+      "word": "興奮",
+      "phrases": [
+        "興奮に満ちた",
+        "興奮を抑える",
+        "盛り上がる"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2742,
+    "lemma": "sigh",
+    "source": {
+      "word": "sigh",
+      "phrases": [
+        "sigh of relief",
+        "heavy sigh",
+        "breathe a sigh"
+      ]
+    },
+    "target": {
+      "word": "ため息",
+      "phrases": [
+        "安堵のため息",
+        "深いため息",
+        "ため息をつく"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2743,
+    "lemma": "pregnancy",
+    "source": {
+      "word": "pregnancy",
+      "phrases": [
+        "pregnancy test",
+        "during pregnancy",
+        "teen pregnancy"
+      ]
+    },
+    "target": {
+      "word": "妊娠",
+      "phrases": [
+        "妊娠検査",
+        "妊娠中に",
+        "十代の妊娠"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2744,
+    "lemma": "experimental",
+    "source": {
+      "word": "experimental",
+      "phrases": [
+        "experimental stage",
+        "experimental music",
+        "experimental drug"
+      ]
+    },
+    "target": {
+      "word": "実験的な",
+      "phrases": [
+        "実験段階",
+        "実験音楽",
+        "試験薬"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2745,
+    "lemma": "institutional",
+    "source": {
+      "word": "institutional",
+      "phrases": [
+        "institutional investor",
+        "institutional racism",
+        "institutional memory"
+      ]
+    },
+    "target": {
+      "word": "制度の／機関の",
+      "phrases": [
+        "機関投資家",
+        "制度的人種差別",
+        "組織の記憶"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2746,
+    "lemma": "slice",
+    "source": {
+      "word": "slice",
+      "phrases": [
+        "slice of pizza",
+        "slice of life",
+        "slice bread"
+      ]
+    },
+    "target": {
+      "word": "薄切り／一切れ",
+      "phrases": [
+        "ピザ一切れ",
+        "日常系（スライスオブライフ）",
+        "パンを薄切りにする"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2747,
+    "lemma": "wander",
+    "source": {
+      "word": "wander",
+      "phrases": [
+        "wander around",
+        "mind wander",
+        "wander off"
+      ]
+    },
+    "target": {
+      "word": "歩き回る",
+      "phrases": [
+        "歩き回る",
+        "気が散る",
+        "はぐれる"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2748,
+    "lemma": "empire",
+    "source": {
+      "word": "empire",
+      "phrases": [
+        "roman empire",
+        "empire state building",
+        "build an empire"
+      ]
+    },
+    "target": {
+      "word": "帝国",
+      "phrases": [
+        "ローマ帝国",
+        "エンパイアステートビル",
+        "帝国を築く"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2749,
+    "lemma": "subsequently",
+    "source": {
+      "word": "subsequently",
+      "phrases": [
+        "and subsequently",
+        "subsequently became",
+        "died subsequently"
+      ]
+    },
+    "target": {
+      "word": "その後に",
+      "phrases": [
+        "そしてその後に",
+        "その後に〜になった",
+        "その後に亡くなった"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2750,
+    "lemma": "gentle",
+    "source": {
+      "word": "gentle",
+      "phrases": [
+        "gentle breeze",
+        "gentle giant",
+        "be gentle"
+      ]
+    },
+    "target": {
+      "word": "優しい",
+      "phrases": [
+        "そよ風",
+        "気は優しくて力持ち",
+        "優しくして"
+      ]
+    },
+    "frequency": 20
+  },
+  {
+    "rank": 2751,
+    "lemma": "attendance",
+    "source": {
+      "word": "attendance",
+      "phrases": [
+        "attendance record",
+        "in attendance",
+        "take attendance"
+      ]
+    },
+    "target": {
+      "word": "出席",
+      "phrases": [
+        "出席記録",
+        "出席して",
+        "出席を取る"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2752,
+    "lemma": "ownership",
+    "source": {
+      "word": "ownership",
+      "phrases": [
+        "home ownership",
+        "take ownership",
+        "ownership rights"
+      ]
+    },
+    "target": {
+      "word": "所有権",
+      "phrases": [
+        "持ち家",
+        "責任を持つ（所有権を取る）",
+        "所有権"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2753,
+    "lemma": "qualification",
+    "source": {
+      "word": "qualification",
+      "phrases": [
+        "minimum qualification",
+        "academic qualification",
+        "qualification for"
+      ]
+    },
+    "target": {
+      "word": "資格",
+      "phrases": [
+        "最低資格要件",
+        "学歴",
+        "〜の資格"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2754,
+    "lemma": "suspend",
+    "source": {
+      "word": "suspend",
+      "phrases": [
+        "suspend account",
+        "suspended sentence",
+        "suspend belief"
+      ]
+    },
+    "target": {
+      "word": "一時停止する／吊るす",
+      "phrases": [
+        "アカウントを停止する",
+        "執行猶予",
+        "疑念を挟まない（物語に入り込む）"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2755,
+    "lemma": "functional",
+    "source": {
+      "word": "functional",
+      "phrases": [
+        "fully functional",
+        "functional design",
+        "functional food"
+      ]
+    },
+    "target": {
+      "word": "機能的な",
+      "phrases": [
+        "完全に機能する",
+        "機能的なデザイン",
+        "機能性食品"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2756,
+    "lemma": "voluntary",
+    "source": {
+      "word": "voluntary",
+      "phrases": [
+        "voluntary work",
+        "voluntary redundancy",
+        "voluntary basis"
+      ]
+    },
+    "target": {
+      "word": "自発的な",
+      "phrases": [
+        "ボランティア活動",
+        "希望退職",
+        "自発的に"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2757,
+    "lemma": "pale",
+    "source": {
+      "word": "pale",
+      "phrases": [
+        "pale skin",
+        "turn pale",
+        "pale comparison"
+      ]
+    },
+    "target": {
+      "word": "青白い",
+      "phrases": [
+        "色白の肌",
+        "顔面蒼白になる",
+        "見劣りする（淡い比較）"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2758,
+    "lemma": "stain",
+    "source": {
+      "word": "stain",
+      "phrases": [
+        "stain remover",
+        "blood stain",
+        "stained glass"
+      ]
+    },
+    "target": {
+      "word": "染み",
+      "phrases": [
+        "染み抜き",
+        "血痕",
+        "ステンドグラス"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2759,
+    "lemma": "athlete",
+    "source": {
+      "word": "athlete",
+      "phrases": [
+        "professional athlete",
+        "top athlete",
+        "student athlete"
+      ]
+    },
+    "target": {
+      "word": "運動選手／アスリート",
+      "phrases": [
+        "プロ選手",
+        "トップアスリート",
+        "学生スポーツ選手"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2760,
+    "lemma": "organic",
+    "source": {
+      "word": "organic",
+      "phrases": [
+        "organic food",
+        "organic growth",
+        "organic chemistry"
+      ]
+    },
+    "target": {
+      "word": "有機の",
+      "phrases": [
+        "オーガニック食品",
+        "自然な成長",
+        "有機化学"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2761,
+    "lemma": "tongue",
+    "source": {
+      "word": "tongue",
+      "phrases": [
+        "mother tongue",
+        "bite your tongue",
+        "tip of my tongue"
+      ]
+    },
+    "target": {
+      "word": "舌／言語",
+      "phrases": [
+        "母語",
+        "言いたいことを我慢する",
+        "喉まで出かかっている"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2762,
+    "lemma": "server",
+    "source": {
+      "word": "server",
+      "phrases": [
+        "web server",
+        "server down",
+        "proxy server"
+      ]
+    },
+    "target": {
+      "word": "サーバー／給仕人",
+      "phrases": [
+        "ウェブサーバー",
+        "サーバーダウン",
+        "プロキシサーバー"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2763,
+    "lemma": "structural",
+    "source": {
+      "word": "structural",
+      "phrases": [
+        "structural reform",
+        "structural damage",
+        "structural engineer"
+      ]
+    },
+    "target": {
+      "word": "構造上の",
+      "phrases": [
+        "構造改革",
+        "構造的損傷",
+        "構造技師"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2764,
+    "lemma": "website",
+    "source": {
+      "word": "website",
+      "phrases": [
+        "official website",
+        "visit a website",
+        "website design"
+      ]
+    },
+    "target": {
+      "word": "ウェブサイト",
+      "phrases": [
+        "公式サイト",
+        "サイトを閲覧する",
+        "ウェブデザイン"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2765,
+    "lemma": "fool",
+    "source": {
+      "word": "fool",
+      "phrases": [
+        "april fool",
+        "make a fool of",
+        "fool around"
+      ]
+    },
+    "target": {
+      "word": "愚か者／騙す",
+      "phrases": [
+        "エイプリルフール",
+        "笑いものにする",
+        "ふざける"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2766,
+    "lemma": "alongside",
+    "source": {
+      "word": "alongside",
+      "phrases": [
+        "work alongside",
+        "stand alongside",
+        "alongside each other"
+      ]
+    },
+    "target": {
+      "word": "〜と一緒に／並んで",
+      "phrases": [
+        "〜と一緒に働く",
+        "並んで立つ",
+        "お互いに並んで"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2767,
+    "lemma": "unite",
+    "source": {
+      "word": "unite",
+      "phrases": [
+        "workers unite",
+        "united nations",
+        "unite against"
+      ]
+    },
+    "target": {
+      "word": "団結する",
+      "phrases": [
+        "労働者よ団結せよ",
+        "国連(United Nations)",
+        "〜に対して団結する"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2768,
+    "lemma": "gently",
+    "source": {
+      "word": "gently",
+      "phrases": [
+        "gently massage",
+        "smile gently",
+        "hold gently"
+      ]
+    },
+    "target": {
+      "word": "優しく",
+      "phrases": [
+        "優しくマッサージする",
+        "優しく微笑む",
+        "そっと持つ"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2769,
+    "lemma": "compute",
+    "source": {
+      "word": "compute",
+      "phrases": [
+        "does not compute",
+        "compute data",
+        "cloud computing"
+      ]
+    },
+    "target": {
+      "word": "計算する",
+      "phrases": [
+        "計算できない（理解不能）",
+        "データを計算する",
+        "クラウドコンピューティング"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2770,
+    "lemma": "wipe",
+    "source": {
+      "word": "wipe",
+      "phrases": [
+        "wipe out",
+        "baby wipes",
+        "wipe the slate clean"
+      ]
+    },
+    "target": {
+      "word": "拭く",
+      "phrases": [
+        "全滅させる／拭き取る",
+        "赤ちゃんのお尻拭き",
+        "白紙に戻す"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2771,
+    "lemma": "weird",
+    "source": {
+      "word": "weird",
+      "phrases": [
+        "weird guy",
+        "weird feeling",
+        "weird science"
+      ]
+    },
+    "target": {
+      "word": "奇妙な",
+      "phrases": [
+        "変な奴",
+        "変な感じ",
+        "奇妙な科学"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2772,
+    "lemma": "gaze",
+    "source": {
+      "word": "gaze",
+      "phrases": [
+        "gaze at",
+        "steady gaze",
+        "star gaze"
+      ]
+    },
+    "target": {
+      "word": "じっと見つめる",
+      "phrases": [
+        "〜を見つめる",
+        "揺るぎない視線",
+        "星を眺める"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2773,
+    "lemma": "fade",
+    "source": {
+      "word": "fade",
+      "phrases": [
+        "fade away",
+        "fade out",
+        "fade to black"
+      ]
+    },
+    "target": {
+      "word": "薄れる／色あせる",
+      "phrases": [
+        "消え去る",
+        "フェードアウト",
+        "暗転する"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2774,
+    "lemma": "cough",
+    "source": {
+      "word": "cough",
+      "phrases": [
+        "cough syrup",
+        "bad cough",
+        "cough up"
+      ]
+    },
+    "target": {
+      "word": "咳",
+      "phrases": [
+        "咳止めシロップ",
+        "ひどい咳",
+        "（しぶしぶ）支払う／吐き出す"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2775,
+    "lemma": "hypothesis",
+    "source": {
+      "word": "hypothesis",
+      "phrases": [
+        "test a hypothesis",
+        "null hypothesis",
+        "working hypothesis"
+      ]
+    },
+    "target": {
+      "word": "仮説",
+      "phrases": [
+        "仮説を検証する",
+        "帰無仮説",
+        "作業仮説"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2776,
+    "lemma": "royal",
+    "source": {
+      "word": "royal",
+      "phrases": [
+        "royal family",
+        "royal wedding",
+        "royal blue"
+      ]
+    },
+    "target": {
+      "word": "王室の",
+      "phrases": [
+        "王室",
+        "ロイヤルウェディング",
+        "ロイヤルブルー"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2777,
+    "lemma": "theoretical",
+    "source": {
+      "word": "theoretical",
+      "phrases": [
+        "theoretical physics",
+        "theoretical framework",
+        "in theoretical terms"
+      ]
+    },
+    "target": {
+      "word": "理論的な",
+      "phrases": [
+        "理論物理学",
+        "理論的枠組み",
+        "理論上は"
+      ]
+    },
+    "frequency": 19
+  },
+  {
+    "rank": 2778,
+    "lemma": "curtain",
+    "source": {
+      "word": "curtain",
+      "phrases": [
+        "curtain call",
+        "draw the curtains",
+        "iron curtain"
+      ]
+    },
+    "target": {
+      "word": "カーテン",
+      "phrases": [
+        "カーテンコール",
+        "カーテンを引く",
+        "鉄のカーテン"
+      ]
+    },
+    "frequency": 18
+  },
+  {
+    "rank": 2779,
+    "lemma": "mayor",
+    "source": {
+      "word": "mayor",
+      "phrases": [
+        "city mayor",
+        "elect a mayor",
+        "deputy mayor"
+      ]
+    },
+    "target": {
+      "word": "市長",
+      "phrases": [
+        "市長",
+        "市長を選出する",
+        "副市長"
+      ]
+    },
+    "frequency": 18
+  },
+  {
+    "rank": 2780,
+    "lemma": "darkness",
+    "source": {
+      "word": "darkness",
+      "phrases": [
+        "total darkness",
+        "light in darkness",
+        "prince of darkness"
+      ]
+    },
+    "target": {
+      "word": "暗闇",
+      "phrases": [
+        "真っ暗闇",
+        "闇の中の光",
+        "魔王"
+      ]
+    },
+    "frequency": 18
+  },
+  {
+    "rank": 2781,
+    "lemma": "aunt",
+    "source": {
+      "word": "aunt",
+      "phrases": [
+        "aunt and uncle",
+        "agony aunt",
+        "great aunt"
+      ]
+    },
+    "target": {
+      "word": "叔母",
+      "phrases": [
+        "叔母と叔父",
+        "身の上相談回答者",
+        "大叔母"
+      ]
+    },
+    "frequency": 18
+  },
+  {
+    "rank": 2782,
+    "lemma": "tournament",
+    "source": {
+      "word": "tournament",
+      "phrases": [
+        "golf tournament",
+        "tennis tournament",
+        "tournament bracket"
+      ]
+    },
+    "target": {
+      "word": "トーナメント",
+      "phrases": [
+        "ゴルフトーナメント",
+        "テニストーナメント",
+        "トーナメント表"
+      ]
+    },
+    "frequency": 17
+  },
+  {
+    "rank": 2783,
+    "lemma": "registration",
+    "source": {
+      "word": "registration",
+      "phrases": [
+        "voter registration",
+        "car registration",
+        "registration fee"
+      ]
+    },
+    "target": {
+      "word": "登録",
+      "phrases": [
+        "有権者登録",
+        "車両登録",
+        "登録料"
+      ]
+    },
+    "frequency": 17
+  },
+  {
+    "rank": 2784,
+    "lemma": "fragment",
+    "source": {
+      "word": "fragment",
+      "phrases": [
+        "fragment of",
+        "sentence fragment",
+        "fragment grenade"
+      ]
+    },
+    "target": {
+      "word": "破片／断片",
+      "phrases": [
+        "〜の破片",
+        "不完全な文",
+        "破片手榴弾"
+      ]
+    },
+    "frequency": 17
+  },
+  {
+    "rank": 2785,
+    "lemma": "listener",
+    "source": {
+      "word": "listener",
+      "phrases": [
+        "good listener",
+        "active listener",
+        "radio listener"
+      ]
+    },
+    "target": {
+      "word": "聞き手",
+      "phrases": [
+        "聞き上手",
+        "積極的な聞き手",
+        "ラジオリスナー"
+      ]
+    },
+    "frequency": 17
+  },
+  {
+    "rank": 2786,
+    "lemma": "immigration",
+    "source": {
+      "word": "immigration",
+      "phrases": [
+        "immigration officer",
+        "illegal immigration",
+        "immigration policy"
+      ]
+    },
+    "target": {
+      "word": "移住／入国管理",
+      "phrases": [
+        "入国審査官",
+        "不法移民",
+        "移民政策"
+      ]
+    },
+    "frequency": 17
+  },
+  {
+    "rank": 2787,
+    "lemma": "tender",
+    "source": {
+      "word": "tender",
+      "phrases": [
+        "tender loving care",
+        "tender meat",
+        "legal tender"
+      ]
+    },
+    "target": {
+      "word": "優しい／柔らかい",
+      "phrases": [
+        "手厚い看護(TLC)",
+        "柔らかい肉",
+        "法定通貨"
+      ]
+    },
+    "frequency": 16
+  },
+  {
+    "rank": 2788,
+    "lemma": "density",
+    "source": {
+      "word": "density",
+      "phrases": [
+        "population density",
+        "high density",
+        "bone density"
+      ]
+    },
+    "target": {
+      "word": "密度",
+      "phrases": [
+        "人口密度",
+        "高密度",
+        "骨密度"
+      ]
+    },
+    "frequency": 16
+  },
+  {
+    "rank": 2789,
+    "lemma": "ugly",
+    "source": {
+      "word": "ugly",
+      "phrases": [
+        "ugly duckling",
+        "ugly truth",
+        "ugly sweater"
+      ]
+    },
+    "target": {
+      "word": "醜い",
+      "phrases": [
+        "醜いアヒルの子",
+        "醜い真実",
+        "ダサいセーター"
+      ]
+    },
+    "frequency": 16
+  },
+  {
+    "rank": 2790,
+    "lemma": "module",
+    "source": {
+      "word": "module",
+      "phrases": [
+        "lunar module",
+        "training module",
+        "solar module"
+      ]
+    },
+    "target": {
+      "word": "モジュール",
+      "phrases": [
+        "月着陸船",
+        "研修モジュール",
+        "ソーラーモジュール"
+      ]
+    },
+    "frequency": 15
+  },
+  {
+    "rank": 2791,
+    "lemma": "faithfully",
+    "source": {
+      "word": "faithfully",
+      "phrases": [
+        "yours faithfully",
+        "serve faithfully",
+        "copy faithfully"
+      ]
+    },
+    "target": {
+      "word": "忠実に",
+      "phrases": [
+        "敬具（英国式）",
+        "忠実に仕える",
+        "忠実に写す"
+      ]
+    },
+    "frequency": 15
+  },
+  {
+    "rank": 2792,
+    "lemma": "autumn",
+    "source": {
+      "word": "autumn",
+      "phrases": [
+        "autumn leaves",
+        "autumn equinox",
+        "in the autumn"
+      ]
+    },
+    "target": {
+      "word": "秋",
+      "phrases": [
+        "紅葉",
+        "秋分",
+        "秋に"
+      ]
+    },
+    "frequency": 15
+  },
+  {
+    "rank": 2793,
+    "lemma": "cheek",
+    "source": {
+      "word": "cheek",
+      "phrases": [
+        "turn the other cheek",
+        "kiss on the cheek",
+        "tongue in cheek"
+      ]
+    },
+    "target": {
+      "word": "頬／生意気",
+      "phrases": [
+        "（打たれても）別の頬を向ける",
+        "頬にキスする",
+        "冗談で／皮肉で"
+      ]
+    },
+    "frequency": 15
+  },
+  {
+    "rank": 2794,
+    "lemma": "attachment",
+    "source": {
+      "word": "attachment",
+      "phrases": [
+        "email attachment",
+        "attachment parenting",
+        "emotional attachment"
+      ]
+    },
+    "target": {
+      "word": "添付／愛着",
+      "phrases": [
+        "メールの添付ファイル",
+        "アタッチメント・ペアレンティング",
+        "愛着"
+      ]
+    },
+    "frequency": 15
+  },
+  {
+    "rank": 2795,
+    "lemma": "holder",
+    "source": {
+      "word": "holder",
+      "phrases": [
+        "account holder",
+        "cup holder",
+        "ticket holder"
+      ]
+    },
+    "target": {
+      "word": "保持者／ホルダー",
+      "phrases": [
+        "口座名義人",
+        "カップホルダー",
+        "チケット所有者"
+      ]
+    },
+    "frequency": 14
+  },
+  {
+    "rank": 2796,
+    "lemma": "solar",
+    "source": {
+      "word": "solar",
+      "phrases": [
+        "solar power",
+        "solar system",
+        "solar panel"
+      ]
+    },
+    "target": {
+      "word": "太陽の",
+      "phrases": [
+        "太陽光発電",
+        "太陽系",
+        "ソーラーパネル"
+      ]
+    },
+    "frequency": 14
+  },
+  {
+    "rank": 2797,
+    "lemma": "grin",
+    "source": {
+      "word": "grin",
+      "phrases": [
+        "grin and bear it",
+        "cheeky grin",
+        "wide grin"
+      ]
+    },
+    "target": {
+      "word": "にっこり笑う",
+      "phrases": [
+        "笑って耐える",
+        "生意気な笑み",
+        "満面の笑み"
+      ]
+    },
+    "frequency": 12
+  },
+  {
+    "rank": 2798,
+    "lemma": "rose",
+    "source": {
+      "word": "rose",
+      "phrases": [
+        "red rose",
+        "rose garden",
+        "bed of roses"
+      ]
+    },
+    "target": {
+      "word": "バラ／上昇した",
+      "phrases": [
+        "赤いバラ",
+        "バラ園",
+        "安楽な生活"
+      ]
+    },
+    "frequency": 12
+  },
+  {
+    "rank": 2799,
+    "lemma": "noun",
+    "source": {
+      "word": "noun",
+      "phrases": [
+        "proper noun",
+        "common noun",
+        "collective noun"
+      ]
+    },
+    "target": {
+      "word": "名詞",
+      "phrases": [
+        "固有名詞",
+        "普通名詞",
+        "集合名詞"
+      ]
+    },
+    "frequency": 11
+  },
+  {
+    "rank": 2800,
+    "lemma": "fortunate",
+    "source": {
+      "word": "fortunate",
+      "phrases": [
+        "fortunate enough",
+        "feel fortunate",
+        "less fortunate"
+      ]
+    },
+    "target": {
+      "word": "幸運な",
+      "phrases": [
+        "幸運にも〜できる",
+        "幸運に感じる",
+        "恵まれない人々"
+      ]
+    },
+    "frequency": 11
+  }
+]

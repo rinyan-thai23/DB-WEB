@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 1,
+    "lemma": "the",
+    "source": {
+      "word": "the",
+      "phrases": [
+        "in the morning",
+        "the best",
+        "at the moment"
+      ]
+    },
+    "target": {
+      "word": "der/die/das",
+      "phrases": [
+        "am Morgen",
+        "das Beste",
+        "im Moment"
+      ]
+    },
+    "frequency": 60910
+  },
+  {
+    "rank": 2,
+    "lemma": "be",
+    "source": {
+      "word": "be",
+      "phrases": [
+        "be careful",
+        "be happy",
+        "don't be shy"
+      ]
+    },
+    "target": {
+      "word": "sein",
+      "phrases": [
+        "sei vorsichtig",
+        "sei glücklich",
+        "sei nicht schüchtern"
+      ]
+    },
+    "frequency": 48575
+  },
+  {
+    "rank": 3,
+    "lemma": "and",
+    "source": {
+      "word": "and",
+      "phrases": [
+        "you and I",
+        "bread and butter",
+        "wait and see"
+      ]
+    },
+    "target": {
+      "word": "und",
+      "phrases": [
+        "du und ich",
+        "Butterbrot",
+        "abwarten und Tee trinken"
+      ]
+    },
+    "frequency": 30789
+  },
+  {
+    "rank": 4,
+    "lemma": "of",
+    "source": {
+      "word": "of",
+      "phrases": [
+        "piece of cake",
+        "kind of",
+        "out of order"
+      ]
+    },
+    "target": {
+      "word": "von",
+      "phrases": [
+        "ein Kinderspiel",
+        "eine Art von",
+        "außer Betrieb"
+      ]
+    },
+    "frequency": 30126
+  },
+  {
+    "rank": 5,
+    "lemma": "to",
+    "source": {
+      "word": "to",
+      "phrases": [
+        "go to sleep",
+        "nice to meet you",
+        "have to"
+      ]
+    },
+    "target": {
+      "word": "zu",
+      "phrases": [
+        "schlafen gehen",
+        "schön dich kennenzulernen",
+        "müssen"
+      ]
+    },
+    "frequency": 29272
+  },
+  {
+    "rank": 6,
+    "lemma": "a",
+    "source": {
+      "word": "a",
+      "phrases": [
+        "a lot of",
+        "once upon a time",
+        "have a look"
+      ]
+    },
+    "target": {
+      "word": "ein/eine",
+      "phrases": [
+        "viele",
+        "es war einmal",
+        "einen Blick werfen"
+      ]
+    },
+    "frequency": 27872
+  },
+  {
+    "rank": 7,
+    "lemma": "in",
+    "source": {
+      "word": "in",
+      "phrases": [
+        "in fact",
+        "in time",
+        "keep in mind"
+      ]
+    },
+    "target": {
+      "word": "in",
+      "phrases": [
+        "in der Tat",
+        "rechtzeitig",
+        "im Hinterkopf behalten"
+      ]
+    },
+    "frequency": 21142
+  },
+  {
+    "rank": 8,
+    "lemma": "have",
+    "source": {
+      "word": "have",
+      "phrases": [
+        "have fun",
+        "have a cold",
+        "have to"
+      ]
+    },
+    "target": {
+      "word": "haben",
+      "phrases": [
+        "Viel Spaß",
+        "eine Erkältung haben",
+        "müssen"
+      ]
+    },
+    "frequency": 14210
+  },
+  {
+    "rank": 9,
+    "lemma": "it",
+    "source": {
+      "word": "it",
+      "phrases": [
+        "make it",
+        "take it easy",
+        "that's it"
+      ]
+    },
+    "target": {
+      "word": "es",
+      "phrases": [
+        "es schaffen",
+        "nimm es gelassen",
+        "das ist es"
+      ]
+    },
+    "frequency": 13772
+  },
+  {
+    "rank": 10,
+    "lemma": "you",
+    "source": {
+      "word": "you",
+      "phrases": [
+        "you know",
+        "thank you",
+        "good for you"
+      ]
+    },
+    "target": {
+      "word": "du",
+      "phrases": [
+        "weißt du",
+        "danke",
+        "gut für dich"
+      ]
+    },
+    "frequency": 12810
+  },
+  {
+    "rank": 11,
+    "lemma": "he",
+    "source": {
+      "word": "he",
+      "phrases": [
+        "he says",
+        "is he okay?",
+        "here he comes"
+      ]
+    },
+    "target": {
+      "word": "er",
+      "phrases": [
+        "er sagt",
+        "ist er okay?",
+        "da kommt er"
+      ]
+    },
+    "frequency": 11017
+  },
+  {
+    "rank": 12,
+    "lemma": "for",
+    "source": {
+      "word": "for",
+      "phrases": [
+        "for example",
+        "look for",
+        "good for"
+      ]
+    },
+    "target": {
+      "word": "für",
+      "phrases": [
+        "zum Beispiel",
+        "suchen nach",
+        "gut für"
+      ]
+    },
+    "frequency": 10025
+  },
+  {
+    "rank": 13,
+    "lemma": "they",
+    "source": {
+      "word": "they",
+      "phrases": [
+        "they say",
+        "who are they?",
+        "they are here"
+      ]
+    },
+    "target": {
+      "word": "sie",
+      "phrases": [
+        "man sagt",
+        "wer sind sie?",
+        "sie sind hier"
+      ]
+    },
+    "frequency": 9764
+  },
+  {
+    "rank": 14,
+    "lemma": "not",
+    "source": {
+      "word": "not",
+      "phrases": [
+        "why not?",
+        "not at all",
+        "not yet"
+      ]
+    },
+    "target": {
+      "word": "nicht",
+      "phrases": [
+        "warum nicht?",
+        "überhaupt nicht",
+        "noch nicht"
+      ]
+    },
+    "frequency": 9494
+  },
+  {
+    "rank": 15,
+    "lemma": "that",
+    "source": {
+      "word": "that",
+      "phrases": [
+        "that's right",
+        "like that",
+        "after that"
+      ]
+    },
+    "target": {
+      "word": "das",
+      "phrases": [
+        "das stimmt",
+        "so wie das",
+        "danach"
+      ]
+    },
+    "frequency": 8653
+  },
+  {
+    "rank": 16,
+    "lemma": "we",
+    "source": {
+      "word": "we",
+      "phrases": [
+        "here we go",
+        "shall we?",
+        "we are family"
+      ]
+    },
+    "target": {
+      "word": "wir",
+      "phrases": [
+        "es geht los",
+        "sollen wir?",
+        "wir sind eine Familie"
+      ]
+    },
+    "frequency": 8401
+  },
+  {
+    "rank": 17,
+    "lemma": "on",
+    "source": {
+      "word": "on",
+      "phrases": [
+        "come on",
+        "hold on",
+        "on time"
+      ]
+    },
+    "target": {
+      "word": "auf",
+      "phrases": [
+        "komm schon",
+        "warten",
+        "pünktlich"
+      ]
+    },
+    "frequency": 7763
+  },
+  {
+    "rank": 18,
+    "lemma": "with",
+    "source": {
+      "word": "with",
+      "phrases": [
+        "go with",
+        "deal with",
+        "to begin with"
+      ]
+    },
+    "target": {
+      "word": "mit",
+      "phrases": [
+        "mitgehen",
+        "umgehen mit",
+        "zunächst einmal"
+      ]
+    },
+    "frequency": 7381
+  },
+  {
+    "rank": 19,
+    "lemma": "this",
+    "source": {
+      "word": "this",
+      "phrases": [
+        "this is it",
+        "like this",
+        "this morning"
+      ]
+    },
+    "target": {
+      "word": "dieses",
+      "phrases": [
+        "das ist es",
+        "so wie dies",
+        "heute Morgen"
+      ]
+    },
+    "frequency": 7003
+  },
+  {
+    "rank": 20,
+    "lemma": "I",
+    "source": {
+      "word": "I",
+      "phrases": [
+        "I think",
+        "I see",
+        "I guess"
+      ]
+    },
+    "target": {
+      "word": "ich",
+      "phrases": [
+        "ich denke",
+        "ich verstehe",
+        "ich schätze"
+      ]
+    },
+    "frequency": 6820
+  },
+  {
+    "rank": 21,
+    "lemma": "do",
+    "source": {
+      "word": "do",
+      "phrases": [
+        "do my best",
+        "do it",
+        "How do you do?"
+      ]
+    },
+    "target": {
+      "word": "tun",
+      "phrases": [
+        "mein Bestes geben",
+        "tu es",
+        "Wie geht es Ihnen?"
+      ]
+    },
+    "frequency": 6802
+  },
+  {
+    "rank": 22,
+    "lemma": "as",
+    "source": {
+      "word": "as",
+      "phrases": [
+        "as soon as",
+        "as well as",
+        "as usual"
+      ]
+    },
+    "target": {
+      "word": "als",
+      "phrases": [
+        "sobald wie",
+        "sowie auch",
+        "wie üblich"
+      ]
+    },
+    "frequency": 6747
+  },
+  {
+    "rank": 23,
+    "lemma": "at",
+    "source": {
+      "word": "at",
+      "phrases": [
+        "at least",
+        "at first",
+        "look at"
+      ]
+    },
+    "target": {
+      "word": "an",
+      "phrases": [
+        "mindestens",
+        "zuerst",
+        "ansehen"
+      ]
+    },
+    "frequency": 5570
+  },
+  {
+    "rank": 24,
+    "lemma": "she",
+    "source": {
+      "word": "she",
+      "phrases": [
+        "she said",
+        "is she there?",
+        "here she comes"
+      ]
+    },
+    "target": {
+      "word": "sie",
+      "phrases": [
+        "sie sagte",
+        "ist sie da?",
+        "da kommt sie"
+      ]
+    },
+    "frequency": 5195
+  },
+  {
+    "rank": 25,
+    "lemma": "but",
+    "source": {
+      "word": "but",
+      "phrases": [
+        "but also",
+        "anything but",
+        "nothing but"
+      ]
+    },
+    "target": {
+      "word": "aber",
+      "phrases": [
+        "aber auch",
+        "alles andere als",
+        "nichts als"
+      ]
+    },
+    "frequency": 5087
+  },
+  {
+    "rank": 26,
+    "lemma": "from",
+    "source": {
+      "word": "from",
+      "phrases": [
+        "where are you from?",
+        "from now on",
+        "far from"
+      ]
+    },
+    "target": {
+      "word": "von",
+      "phrases": [
+        "woher kommen Sie?",
+        "von nun an",
+        "weit entfernt von"
+      ]
+    },
+    "frequency": 4598
+  },
+  {
+    "rank": 27,
+    "lemma": "by",
+    "source": {
+      "word": "by",
+      "phrases": [
+        "by the way",
+        "side by side",
+        "day by day"
+      ]
+    },
+    "target": {
+      "word": "durch",
+      "phrases": [
+        "übrigens",
+        "Seite an Seite",
+        "Tag für Tag"
+      ]
+    },
+    "frequency": 4323
+  },
+  {
+    "rank": 28,
+    "lemma": "will",
+    "source": {
+      "word": "will",
+      "phrases": [
+        "will be",
+        "I will",
+        "time will tell"
+      ]
+    },
+    "target": {
+      "word": "werden",
+      "phrases": [
+        "wird sein",
+        "ich werde",
+        "die Zeit wird es zeigen"
+      ]
+    },
+    "frequency": 4195
+  },
+  {
+    "rank": 29,
+    "lemma": "or",
+    "source": {
+      "word": "or",
+      "phrases": [
+        "or else",
+        "more or less",
+        "now or never"
+      ]
+    },
+    "target": {
+      "word": "oder",
+      "phrases": [
+        "oder andernfalls",
+        "mehr oder weniger",
+        "jetzt oder nie"
+      ]
+    },
+    "frequency": 4060
+  },
+  {
+    "rank": 30,
+    "lemma": "say",
+    "source": {
+      "word": "say",
+      "phrases": [
+        "that is to say",
+        "needless to say",
+        "to say the least"
+      ]
+    },
+    "target": {
+      "word": "sagen",
+      "phrases": [
+        "das heißt",
+        "unnötig zu sagen",
+        "um es vorsichtig auszudrücken"
+      ]
+    },
+    "frequency": 3425
+  },
+  {
+    "rank": 31,
+    "lemma": "go",
+    "source": {
+      "word": "go",
+      "phrases": [
+        "let it go",
+        "go ahead",
+        "go on"
+      ]
+    },
+    "target": {
+      "word": "gehen",
+      "phrases": [
+        "lass es los",
+        "nur zu",
+        "weitermachen"
+      ]
+    },
+    "frequency": 3260
+  },
+  {
+    "rank": 32,
+    "lemma": "so",
+    "source": {
+      "word": "so",
+      "phrases": [
+        "so far",
+        "and so on",
+        "so what?"
+      ]
+    },
+    "target": {
+      "word": "so",
+      "phrases": [
+        "bis jetzt",
+        "und so weiter",
+        "na und?"
+      ]
+    },
+    "frequency": 3227
+  },
+  {
+    "rank": 33,
+    "lemma": "all",
+    "source": {
+      "word": "all",
+      "phrases": [
+        "after all",
+        "all right",
+        "at all"
+      ]
+    },
+    "target": {
+      "word": "alle",
+      "phrases": [
+        "schließlich",
+        "alles klar",
+        "überhaupt"
+      ]
+    },
+    "frequency": 3175
+  },
+  {
+    "rank": 34,
+    "lemma": "if",
+    "source": {
+      "word": "if",
+      "phrases": [
+        "if only",
+        "as if",
+        "what if"
+      ]
+    },
+    "target": {
+      "word": "wenn",
+      "phrases": [
+        "wenn nur",
+        "als ob",
+        "was wäre wenn"
+      ]
+    },
+    "frequency": 3009
+  },
+  {
+    "rank": 35,
+    "lemma": "one",
+    "source": {
+      "word": "one",
+      "phrases": [
+        "one by one",
+        "one day",
+        "the one"
+      ]
+    },
+    "target": {
+      "word": "eins",
+      "phrases": [
+        "eins nach dem anderen",
+        "eines Tages",
+        "derjenige"
+      ]
+    },
+    "frequency": 2997
+  },
+  {
+    "rank": 36,
+    "lemma": "would",
+    "source": {
+      "word": "would",
+      "phrases": [
+        "would like to",
+        "would you?",
+        "it would be"
+      ]
+    },
+    "target": {
+      "word": "würde",
+      "phrases": [
+        "möchte gerne",
+        "würdest du?",
+        "es wäre"
+      ]
+    },
+    "frequency": 2997
+  },
+  {
+    "rank": 37,
+    "lemma": "about",
+    "source": {
+      "word": "about",
+      "phrases": [
+        "how about",
+        "about to",
+        "what about"
+      ]
+    },
+    "target": {
+      "word": "über",
+      "phrases": [
+        "wie wäre es mit",
+        "kurz davor",
+        "was ist mit"
+      ]
+    },
+    "frequency": 2967
+  },
+  {
+    "rank": 38,
+    "lemma": "can",
+    "source": {
+      "word": "can",
+      "phrases": [
+        "can't help",
+        "as soon as I can",
+        "can you?"
+      ]
+    },
+    "target": {
+      "word": "können",
+      "phrases": [
+        "nicht anders können",
+        "sobald ich kann",
+        "kannst du?"
+      ]
+    },
+    "frequency": 2890
+  },
+  {
+    "rank": 39,
+    "lemma": "which",
+    "source": {
+      "word": "which",
+      "phrases": [
+        "which one",
+        "in which",
+        "on which"
+      ]
+    },
+    "target": {
+      "word": "welche",
+      "phrases": [
+        "welches",
+        "in welchem",
+        "auf welchem"
+      ]
+    },
+    "frequency": 2886
+  },
+  {
+    "rank": 40,
+    "lemma": "there",
+    "source": {
+      "word": "there",
+      "phrases": [
+        "over there",
+        "is there?",
+        "there is"
+      ]
+    },
+    "target": {
+      "word": "dort",
+      "phrases": [
+        "dort drüben",
+        "gibt es?",
+        "es gibt"
+      ]
+    },
+    "frequency": 2820
+  },
+  {
+    "rank": 41,
+    "lemma": "know",
+    "source": {
+      "word": "know",
+      "phrases": [
+        "you know",
+        "I know",
+        "let me know"
+      ]
+    },
+    "target": {
+      "word": "wissen",
+      "phrases": [
+        "weißt du",
+        "ich weiß",
+        "lass es mich wissen"
+      ]
+    },
+    "frequency": 2634
+  },
+  {
+    "rank": 42,
+    "lemma": "more",
+    "source": {
+      "word": "more",
+      "phrases": [
+        "more and more",
+        "no more",
+        "more than"
+      ]
+    },
+    "target": {
+      "word": "mehr",
+      "phrases": [
+        "immer mehr",
+        "nicht mehr",
+        "mehr als"
+      ]
+    },
+    "frequency": 2631
+  },
+  {
+    "rank": 43,
+    "lemma": "get",
+    "source": {
+      "word": "get",
+      "phrases": [
+        "get up",
+        "get it",
+        "get ready"
+      ]
+    },
+    "target": {
+      "word": "bekommen",
+      "phrases": [
+        "aufstehen",
+        "verstehe",
+        "fertigmachen"
+      ]
+    },
+    "frequency": 2573
+  },
+  {
+    "rank": 44,
+    "lemma": "who",
+    "source": {
+      "word": "who",
+      "phrases": [
+        "who knows",
+        "guess who",
+        "who are you?"
+      ]
+    },
+    "target": {
+      "word": "wer",
+      "phrases": [
+        "wer weiß",
+        "rate mal wer",
+        "wer bist du?"
+      ]
+    },
+    "frequency": 2534
+  },
+  {
+    "rank": 45,
+    "lemma": "like",
+    "source": {
+      "word": "like",
+      "phrases": [
+        "look like",
+        "would like",
+        "something like"
+      ]
+    },
+    "target": {
+      "word": "mögen",
+      "phrases": [
+        "aussehen wie",
+        "möchte",
+        "sowas wie"
+      ]
+    },
+    "frequency": 2465
+  },
+  {
+    "rank": 46,
+    "lemma": "when",
+    "source": {
+      "word": "when",
+      "phrases": [
+        "since when",
+        "when possible",
+        "only when"
+      ]
+    },
+    "target": {
+      "word": "wann",
+      "phrases": [
+        "seit wann",
+        "wenn möglich",
+        "nur wenn"
+      ]
+    },
+    "frequency": 2435
+  },
+  {
+    "rank": 47,
+    "lemma": "think",
+    "source": {
+      "word": "think",
+      "phrases": [
+        "think about",
+        "I think so",
+        "don't think"
+      ]
+    },
+    "target": {
+      "word": "denken",
+      "phrases": [
+        "nachdenken über",
+        "ich denke schon",
+        "denk nicht"
+      ]
+    },
+    "frequency": 2433
+  },
+  {
+    "rank": 48,
+    "lemma": "make",
+    "source": {
+      "word": "make",
+      "phrases": [
+        "make sure",
+        "make sense",
+        "make up"
+      ]
+    },
+    "target": {
+      "word": "machen",
+      "phrases": [
+        "sicherstellen",
+        "Sinn ergeben",
+        "ausdenken"
+      ]
+    },
+    "frequency": 2359
+  },
+  {
+    "rank": 49,
+    "lemma": "time",
+    "source": {
+      "word": "time",
+      "phrases": [
+        "on time",
+        "waste of time",
+        "take your time"
+      ]
+    },
+    "target": {
+      "word": "Zeit",
+      "phrases": [
+        "pünktlich",
+        "Zeitverschwendung",
+        "lass dir Zeit"
+      ]
+    },
+    "frequency": 2302
+  },
+  {
+    "rank": 50,
+    "lemma": "see",
+    "source": {
+      "word": "see",
+      "phrases": [
+        "I see",
+        "see you",
+        "let me see"
+      ]
+    },
+    "target": {
+      "word": "sehen",
+      "phrases": [
+        "ich verstehe",
+        "wir sehen uns",
+        "lass mich mal sehen"
+      ]
+    },
+    "frequency": 2226
+  },
+  {
+    "rank": 51,
+    "lemma": "what",
+    "source": {
+      "word": "what",
+      "phrases": [
+        "what's up",
+        "what if",
+        "so what"
+      ]
+    },
+    "target": {
+      "word": "was",
+      "phrases": [
+        "was ist los",
+        "was wäre wenn",
+        "na und"
+      ]
+    },
+    "frequency": 2204
+  },
+  {
+    "rank": 52,
+    "lemma": "up",
+    "source": {
+      "word": "up",
+      "phrases": [
+        "give up",
+        "what's up",
+        "up to you"
+      ]
+    },
+    "target": {
+      "word": "auf",
+      "phrases": [
+        "aufgeben",
+        "was geht ab",
+        "liegt bei dir"
+      ]
+    },
+    "frequency": 2150
+  },
+  {
+    "rank": 53,
+    "lemma": "some",
+    "source": {
+      "word": "some",
+      "phrases": [
+        "some day",
+        "some kind of",
+        "some people"
+      ]
+    },
+    "target": {
+      "word": "einige",
+      "phrases": [
+        "eines Tages",
+        "eine Art von",
+        "manche Leute"
+      ]
+    },
+    "frequency": 2130
+  },
+  {
+    "rank": 54,
+    "lemma": "other",
+    "source": {
+      "word": "other",
+      "phrases": [
+        "each other",
+        "other than",
+        "the other day"
+      ]
+    },
+    "target": {
+      "word": "andere",
+      "phrases": [
+        "einander",
+        "außer",
+        "neulich"
+      ]
+    },
+    "frequency": 2100
+  },
+  {
+    "rank": 55,
+    "lemma": "out",
+    "source": {
+      "word": "out",
+      "phrases": [
+        "watch out",
+        "out of",
+        "figure out"
+      ]
+    },
+    "target": {
+      "word": "aus",
+      "phrases": [
+        "pass auf",
+        "aus",
+        "herausfinden"
+      ]
+    },
+    "frequency": 2064
+  },
+  {
+    "rank": 56,
+    "lemma": "good",
+    "source": {
+      "word": "good",
+      "phrases": [
+        "good at",
+        "no good",
+        "good luck"
+      ]
+    },
+    "target": {
+      "word": "gut",
+      "phrases": [
+        "gut in",
+        "nicht gut",
+        "viel Glück"
+      ]
+    },
+    "frequency": 2038
+  },
+  {
+    "rank": 57,
+    "lemma": "people",
+    "source": {
+      "word": "people",
+      "phrases": [
+        "many people",
+        "young people",
+        "other people"
+      ]
+    },
+    "target": {
+      "word": "Menschen",
+      "phrases": [
+        "viele Leute",
+        "junge Leute",
+        "andere Leute"
+      ]
+    },
+    "frequency": 2019
+  },
+  {
+    "rank": 58,
+    "lemma": "year",
+    "source": {
+      "word": "year",
+      "phrases": [
+        "last year",
+        "Happy New Year",
+        "per year"
+      ]
+    },
+    "target": {
+      "word": "Jahr",
+      "phrases": [
+        "letztes Jahr",
+        "frohes neues Jahr",
+        "pro Jahr"
+      ]
+    },
+    "frequency": 1949
+  },
+  {
+    "rank": 59,
+    "lemma": "take",
+    "source": {
+      "word": "take",
+      "phrases": [
+        "take care",
+        "take place",
+        "take off"
+      ]
+    },
+    "target": {
+      "word": "nehmen",
+      "phrases": [
+        "pass auf",
+        "stattfinden",
+        "abheben"
+      ]
+    },
+    "frequency": 1873
+  },
+  {
+    "rank": 60,
+    "lemma": "no",
+    "source": {
+      "word": "no",
+      "phrases": [
+        "no problem",
+        "no way",
+        "no doubt"
+      ]
+    },
+    "target": {
+      "word": "nein",
+      "phrases": [
+        "kein Problem",
+        "auf keinen Fall",
+        "kein Zweifel"
+      ]
+    },
+    "frequency": 1854
+  },
+  {
+    "rank": 61,
+    "lemma": "well",
+    "source": {
+      "word": "well",
+      "phrases": [
+        "as well",
+        "do well",
+        "well known"
+      ]
+    },
+    "target": {
+      "word": "gut",
+      "phrases": [
+        "ebenso",
+        "gut abschneiden",
+        "bekannt"
+      ]
+    },
+    "frequency": 1835
+  },
+  {
+    "rank": 62,
+    "lemma": "because",
+    "source": {
+      "word": "because",
+      "phrases": [
+        "because of",
+        "just because",
+        "partly because"
+      ]
+    },
+    "target": {
+      "word": "weil",
+      "phrases": [
+        "wegen",
+        "nur weil",
+        "teilweise weil"
+      ]
+    },
+    "frequency": 1824
+  },
+  {
+    "rank": 63,
+    "lemma": "very",
+    "source": {
+      "word": "very",
+      "phrases": [
+        "very much",
+        "very good",
+        "the very best"
+      ]
+    },
+    "target": {
+      "word": "sehr",
+      "phrases": [
+        "sehr viel",
+        "sehr gut",
+        "das Allerbeste"
+      ]
+    },
+    "frequency": 1792
+  },
+  {
+    "rank": 64,
+    "lemma": "just",
+    "source": {
+      "word": "just",
+      "phrases": [
+        "just now",
+        "just a moment",
+        "just in case"
+      ]
+    },
+    "target": {
+      "word": "gerade",
+      "phrases": [
+        "soeben",
+        "einen Moment bitte",
+        "für alle Fälle"
+      ]
+    },
+    "frequency": 1751
+  },
+  {
+    "rank": 65,
+    "lemma": "come",
+    "source": {
+      "word": "come",
+      "phrases": [
+        "come true",
+        "come on",
+        "how come?"
+      ]
+    },
+    "target": {
+      "word": "kommen",
+      "phrases": [
+        "wahr werden",
+        "komm schon",
+        "wie kommt es?"
+      ]
+    },
+    "frequency": 1694
+  },
+  {
+    "rank": 66,
+    "lemma": "could",
+    "source": {
+      "word": "could",
+      "phrases": [
+        "could be",
+        "could you?",
+        "I wish I could"
+      ]
+    },
+    "target": {
+      "word": "könnte",
+      "phrases": [
+        "könnte sein",
+        "könnten Sie?",
+        "ich wünschte, ich könnte"
+      ]
+    },
+    "frequency": 1688
+  },
+  {
+    "rank": 67,
+    "lemma": "work",
+    "source": {
+      "word": "work",
+      "phrases": [
+        "work out",
+        "at work",
+        "good work"
+      ]
+    },
+    "target": {
+      "word": "arbeiten",
+      "phrases": [
+        "trainieren",
+        "bei der Arbeit",
+        "gute Arbeit"
+      ]
+    },
+    "frequency": 1674
+  },
+  {
+    "rank": 68,
+    "lemma": "use",
+    "source": {
+      "word": "use",
+      "phrases": [
+        "used to",
+        "no use",
+        "make use of"
+      ]
+    },
+    "target": {
+      "word": "nutzen",
+      "phrases": [
+        "pflegte zu",
+        "zwecklos",
+        "Gebrauch machen von"
+      ]
+    },
+    "frequency": 1657
+  },
+  {
+    "rank": 69,
+    "lemma": "than",
+    "source": {
+      "word": "than",
+      "phrases": [
+        "more than",
+        "rather than",
+        "other than"
+      ]
+    },
+    "target": {
+      "word": "als",
+      "phrases": [
+        "mehr als",
+        "eher als",
+        "außer"
+      ]
+    },
+    "frequency": 1591
+  },
+  {
+    "rank": 70,
+    "lemma": "now",
+    "source": {
+      "word": "now",
+      "phrases": [
+        "just now",
+        "now and then",
+        "right now"
+      ]
+    },
+    "target": {
+      "word": "jetzt",
+      "phrases": [
+        "gerade eben",
+        "ab und zu",
+        "genau jetzt"
+      ]
+    },
+    "frequency": 1563
+  },
+  {
+    "rank": 71,
+    "lemma": "then",
+    "source": {
+      "word": "then",
+      "phrases": [
+        "back then",
+        "and then",
+        "since then"
+      ]
+    },
+    "target": {
+      "word": "dann",
+      "phrases": [
+        "damals",
+        "und dann",
+        "seitdem"
+      ]
+    },
+    "frequency": 1554
+  },
+  {
+    "rank": 72,
+    "lemma": "also",
+    "source": {
+      "word": "also",
+      "phrases": [
+        "but also",
+        "see also",
+        "me also"
+      ]
+    },
+    "target": {
+      "word": "auch",
+      "phrases": [
+        "aber auch",
+        "siehe auch",
+        "ich auch"
+      ]
+    },
+    "frequency": 1552
+  },
+  {
+    "rank": 73,
+    "lemma": "into",
+    "source": {
+      "word": "into",
+      "phrases": [
+        "look into",
+        "run into",
+        "turn into"
+      ]
+    },
+    "target": {
+      "word": "in",
+      "phrases": [
+        "untersuchen",
+        "treffen",
+        "verwandeln in"
+      ]
+    },
+    "frequency": 1477
+  },
+  {
+    "rank": 74,
+    "lemma": "only",
+    "source": {
+      "word": "only",
+      "phrases": [
+        "only if",
+        "only one",
+        "if only"
+      ]
+    },
+    "target": {
+      "word": "nur",
+      "phrases": [
+        "nur wenn",
+        "nur einer",
+        "wenn doch nur"
+      ]
+    },
+    "frequency": 1475
+  },
+  {
+    "rank": 75,
+    "lemma": "look",
+    "source": {
+      "word": "look",
+      "phrases": [
+        "look for",
+        "look after",
+        "look like"
+      ]
+    },
+    "target": {
+      "word": "schauen",
+      "phrases": [
+        "suchen nach",
+        "kümmern um",
+        "aussehen wie"
+      ]
+    },
+    "frequency": 1370
+  },
+  {
+    "rank": 76,
+    "lemma": "want",
+    "source": {
+      "word": "want",
+      "phrases": [
+        "want to",
+        "if you want",
+        "what do you want?"
+      ]
+    },
+    "target": {
+      "word": "wollen",
+      "phrases": [
+        "wollen",
+        "wenn du willst",
+        "was willst du?"
+      ]
+    },
+    "frequency": 1354
+  },
+  {
+    "rank": 77,
+    "lemma": "give",
+    "source": {
+      "word": "give",
+      "phrases": [
+        "give up",
+        "give me",
+        "give a hand"
+      ]
+    },
+    "target": {
+      "word": "geben",
+      "phrases": [
+        "aufgeben",
+        "gib mir",
+        "helfen"
+      ]
+    },
+    "frequency": 1332
+  },
+  {
+    "rank": 78,
+    "lemma": "first",
+    "source": {
+      "word": "first",
+      "phrases": [
+        "at first",
+        "first of all",
+        "safety first"
+      ]
+    },
+    "target": {
+      "word": "zuerst",
+      "phrases": [
+        "zuerst",
+        "zuallererst",
+        "Sicherheit zuerst"
+      ]
+    },
+    "frequency": 1321
+  },
+  {
+    "rank": 79,
+    "lemma": "new",
+    "source": {
+      "word": "new",
+      "phrases": [
+        "brand new",
+        "New York",
+        "what's new?"
+      ]
+    },
+    "target": {
+      "word": "neu",
+      "phrases": [
+        "nagelneu",
+        "New York",
+        "was gibt's Neues?"
+      ]
+    },
+    "frequency": 1290
+  },
+  {
+    "rank": 80,
+    "lemma": "way",
+    "source": {
+      "word": "way",
+      "phrases": [
+        "by the way",
+        "no way",
+        "on the way"
+      ]
+    },
+    "target": {
+      "word": "Weg",
+      "phrases": [
+        "übrigens",
+        "keineswegs",
+        "auf dem Weg"
+      ]
+    },
+    "frequency": 1279
+  },
+  {
+    "rank": 81,
+    "lemma": "find",
+    "source": {
+      "word": "find",
+      "phrases": [
+        "find out",
+        "find a way",
+        "hard to find"
+      ]
+    },
+    "target": {
+      "word": "finden",
+      "phrases": [
+        "herausfinden",
+        "einen Weg finden",
+        "schwer zu finden"
+      ]
+    },
+    "frequency": 1236
+  },
+  {
+    "rank": 82,
+    "lemma": "over",
+    "source": {
+      "word": "over",
+      "phrases": [
+        "over there",
+        "all over",
+        "game over"
+      ]
+    },
+    "target": {
+      "word": "über",
+      "phrases": [
+        "dort drüben",
+        "überall",
+        "Spiel vorbei"
+      ]
+    },
+    "frequency": 1235
+  },
+  {
+    "rank": 83,
+    "lemma": "any",
+    "source": {
+      "word": "any",
+      "phrases": [
+        "any time",
+        "any more",
+        "in any case"
+      ]
+    },
+    "target": {
+      "word": "irgendein",
+      "phrases": [
+        "jederzeit",
+        "nicht mehr",
+        "auf jeden Fall"
+      ]
+    },
+    "frequency": 1224
+  },
+  {
+    "rank": 84,
+    "lemma": "after",
+    "source": {
+      "word": "after",
+      "phrases": [
+        "after all",
+        "look after",
+        "after you"
+      ]
+    },
+    "target": {
+      "word": "nach",
+      "phrases": [
+        "schließlich",
+        "sich kümmern um",
+        "nach Ihnen"
+      ]
+    },
+    "frequency": 1210
+  },
+  {
+    "rank": 85,
+    "lemma": "day",
+    "source": {
+      "word": "day",
+      "phrases": [
+        "all day",
+        "have a nice day",
+        "day by day"
+      ]
+    },
+    "target": {
+      "word": "Tag",
+      "phrases": [
+        "den ganzen Tag",
+        "einen schönen Tag noch",
+        "Tag für Tag"
+      ]
+    },
+    "frequency": 1187
+  },
+  {
+    "rank": 86,
+    "lemma": "where",
+    "source": {
+      "word": "where",
+      "phrases": [
+        "where are you?",
+        "where to?",
+        "know where"
+      ]
+    },
+    "target": {
+      "word": "wo",
+      "phrases": [
+        "wo bist du?",
+        "wohin?",
+        "wissen wo"
+      ]
+    },
+    "frequency": 1187
+  },
+  {
+    "rank": 87,
+    "lemma": "thing",
+    "source": {
+      "word": "thing",
+      "phrases": [
+        "one more thing",
+        "the thing is",
+        "do your thing"
+      ]
+    },
+    "target": {
+      "word": "Ding",
+      "phrases": [
+        "noch eine Sache",
+        "die Sache ist",
+        "mach dein Ding"
+      ]
+    },
+    "frequency": 1161
+  },
+  {
+    "rank": 88,
+    "lemma": "most",
+    "source": {
+      "word": "most",
+      "phrases": [
+        "most of",
+        "make the most of",
+        "at most"
+      ]
+    },
+    "target": {
+      "word": "meist",
+      "phrases": [
+        "das meiste von",
+        "das Beste daraus machen",
+        "höchstens"
+      ]
+    },
+    "frequency": 1146
+  },
+  {
+    "rank": 89,
+    "lemma": "should",
+    "source": {
+      "word": "should",
+      "phrases": [
+        "should be",
+        "I should",
+        "you should know"
+      ]
+    },
+    "target": {
+      "word": "sollte",
+      "phrases": [
+        "sollte sein",
+        "ich sollte",
+        "du solltest wissen"
+      ]
+    },
+    "frequency": 1132
+  },
+  {
+    "rank": 90,
+    "lemma": "need",
+    "source": {
+      "word": "need",
+      "phrases": [
+        "need to",
+        "in need",
+        "no need"
+      ]
+    },
+    "target": {
+      "word": "brauchen",
+      "phrases": [
+        "müssen",
+        "in Not",
+        "nicht nötig"
+      ]
+    },
+    "frequency": 1129
+  },
+  {
+    "rank": 91,
+    "lemma": "much",
+    "source": {
+      "word": "much",
+      "phrases": [
+        "too much",
+        "thank you very much",
+        "how much"
+      ]
+    },
+    "target": {
+      "word": "viel",
+      "phrases": [
+        "zu viel",
+        "vielen Dank",
+        "wie viel"
+      ]
+    },
+    "frequency": 1125
+  },
+  {
+    "rank": 92,
+    "lemma": "right",
+    "source": {
+      "word": "right",
+      "phrases": [
+        "right now",
+        "all right",
+        "that's right"
+      ]
+    },
+    "target": {
+      "word": "richtig",
+      "phrases": [
+        "jetzt sofort",
+        "alles klar",
+        "das ist richtig"
+      ]
+    },
+    "frequency": 1113
+  },
+  {
+    "rank": 93,
+    "lemma": "how",
+    "source": {
+      "word": "how",
+      "phrases": [
+        "how about",
+        "how much",
+        "how to"
+      ]
+    },
+    "target": {
+      "word": "wie",
+      "phrases": [
+        "wie wäre es mit",
+        "wie viel",
+        "wie man"
+      ]
+    },
+    "frequency": 1093
+  },
+  {
+    "rank": 94,
+    "lemma": "back",
+    "source": {
+      "word": "back",
+      "phrases": [
+        "come back",
+        "back and forth",
+        "give back"
+      ]
+    },
+    "target": {
+      "word": "zurück",
+      "phrases": [
+        "zurückkommen",
+        "hin und her",
+        "zurückgeben"
+      ]
+    },
+    "frequency": 1051
+  },
+  {
+    "rank": 95,
+    "lemma": "mean",
+    "source": {
+      "word": "mean",
+      "phrases": [
+        "I mean",
+        "what do you mean?",
+        "meant to be"
+      ]
+    },
+    "target": {
+      "word": "meinen",
+      "phrases": [
+        "ich meine",
+        "was meinst du?",
+        "bestimmt sein"
+      ]
+    },
+    "frequency": 1021
+  },
+  {
+    "rank": 96,
+    "lemma": "even",
+    "source": {
+      "word": "even",
+      "phrases": [
+        "even if",
+        "even though",
+        "break even"
+      ]
+    },
+    "target": {
+      "word": "sogar",
+      "phrases": [
+        "selbst wenn",
+        "obwohl",
+        "kostendeckend arbeiten"
+      ]
+    },
+    "frequency": 988
+  },
+  {
+    "rank": 97,
+    "lemma": "may",
+    "source": {
+      "word": "may",
+      "phrases": [
+        "may I?",
+        "may be",
+        "come what may"
+      ]
+    },
+    "target": {
+      "word": "dürfen",
+      "phrases": [
+        "darf ich?",
+        "mag sein",
+        "komme was wolle"
+      ]
+    },
+    "frequency": 959
+  },
+  {
+    "rank": 98,
+    "lemma": "here",
+    "source": {
+      "word": "here",
+      "phrases": [
+        "here is",
+        "come here",
+        "same here"
+      ]
+    },
+    "target": {
+      "word": "hier",
+      "phrases": [
+        "hier ist",
+        "komm her",
+        "gleichfalls"
+      ]
+    },
+    "frequency": 947
+  },
+  {
+    "rank": 99,
+    "lemma": "many",
+    "source": {
+      "word": "many",
+      "phrases": [
+        "many times",
+        "how many",
+        "as many as"
+      ]
+    },
+    "target": {
+      "word": "viele",
+      "phrases": [
+        "viele Male",
+        "wie viele",
+        "so viele wie"
+      ]
+    },
+    "frequency": 945
+  },
+  {
+    "rank": 100,
+    "lemma": "such",
+    "source": {
+      "word": "such",
+      "phrases": [
+        "such as",
+        "such a",
+        "no such thing"
+      ]
+    },
+    "target": {
+      "word": "solche",
+      "phrases": [
+        "wie zum Beispiel",
+        "so ein",
+        "so etwas gibt es nicht"
+      ]
+    },
+    "frequency": 936
+  }
+]

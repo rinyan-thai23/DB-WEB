@@ -1,0 +1,2102 @@
+[
+  {
+    "rank": 201,
+    "lemma": "money",
+    "source": {
+      "word": "money",
+      "phrases": [
+        "make money",
+        "save money",
+        "waste of money"
+      ]
+    },
+    "target": {
+      "word": "पैसा",
+      "phrases": [
+        "पैसा कमाना",
+        "पैसे बचाना",
+        "पैसे की बर्बादी"
+      ]
+    },
+    "frequency": 492
+  },
+  {
+    "rank": 202,
+    "lemma": "fact",
+    "source": {
+      "word": "fact",
+      "phrases": [
+        "in fact",
+        "matter of fact",
+        "check the facts"
+      ]
+    },
+    "target": {
+      "word": "तथ्य",
+      "phrases": [
+        "वास्तव में",
+        "हकीकत में",
+        "तथ्यों की जाँच करें"
+      ]
+    },
+    "frequency": 486
+  },
+  {
+    "rank": 203,
+    "lemma": "however",
+    "source": {
+      "word": "however",
+      "phrases": [
+        "however small",
+        "however hard",
+        "but however"
+      ]
+    },
+    "target": {
+      "word": "तथापि",
+      "phrases": [
+        "कितना भी छोटा",
+        "कितना भी कठिन",
+        "लेकिन फिर भी"
+      ]
+    },
+    "frequency": 479
+  },
+  {
+    "rank": 204,
+    "lemma": "area",
+    "source": {
+      "word": "area",
+      "phrases": [
+        "smoking area",
+        "area code",
+        "rural area"
+      ]
+    },
+    "target": {
+      "word": "क्षेत्र",
+      "phrases": [
+        "धूम्रपान क्षेत्र",
+        "क्षेत्र कोड",
+        "ग्रामीण क्षेत्र"
+      ]
+    },
+    "frequency": 477
+  },
+  {
+    "rank": 205,
+    "lemma": "provide",
+    "source": {
+      "word": "provide",
+      "phrases": [
+        "provide for",
+        "provide with",
+        "service provider"
+      ]
+    },
+    "target": {
+      "word": "प्रदान करना",
+      "phrases": [
+        "के लिए व्यवस्था करना",
+        "के साथ प्रदान करना",
+        "सेवा प्रदाता"
+      ]
+    },
+    "frequency": 476
+  },
+  {
+    "rank": 206,
+    "lemma": "name",
+    "source": {
+      "word": "name",
+      "phrases": [
+        "my name is",
+        "brand name",
+        "in the name of"
+      ]
+    },
+    "target": {
+      "word": "नाम",
+      "phrases": [
+        "मेरा नाम है",
+        "ब्रांड नाम",
+        "के नाम पर"
+      ]
+    },
+    "frequency": 472
+  },
+  {
+    "rank": 207,
+    "lemma": "read",
+    "source": {
+      "word": "read",
+      "phrases": [
+        "read a book",
+        "read between lines",
+        "read aloud"
+      ]
+    },
+    "target": {
+      "word": "पढ़ना",
+      "phrases": [
+        "किताब पढ़ना",
+        "गूढ़ अर्थ समझना",
+        "ज़ोर से पढ़ना"
+      ]
+    },
+    "frequency": 471
+  },
+  {
+    "rank": 208,
+    "lemma": "friend",
+    "source": {
+      "word": "friend",
+      "phrases": [
+        "best friend",
+        "make friends",
+        "friend request"
+      ]
+    },
+    "target": {
+      "word": "दोस्त",
+      "phrases": [
+        "सबसे अच्छा दोस्त",
+        "दोस्त बनाना",
+        "मित्रता अनुरोध"
+      ]
+    },
+    "frequency": 468
+  },
+  {
+    "rank": 209,
+    "lemma": "month",
+    "source": {
+      "word": "month",
+      "phrases": [
+        "next month",
+        "once a month",
+        "per month"
+      ]
+    },
+    "target": {
+      "word": "महीना",
+      "phrases": [
+        "अगले महीने",
+        "महीने में एक बार",
+        "प्रति माह"
+      ]
+    },
+    "frequency": 468
+  },
+  {
+    "rank": 210,
+    "lemma": "large",
+    "source": {
+      "word": "large",
+      "phrases": [
+        "large scale",
+        "at large",
+        "large number"
+      ]
+    },
+    "target": {
+      "word": "बड़ा",
+      "phrases": [
+        "बड़े पैमाने पर",
+        "कुल मिलाकर",
+        "बड़ी संख्या"
+      ]
+    },
+    "frequency": 464
+  },
+  {
+    "rank": 211,
+    "lemma": "business",
+    "source": {
+      "word": "business",
+      "phrases": [
+        "business card",
+        "none of your business",
+        "do business"
+      ]
+    },
+    "target": {
+      "word": "व्यवसाय",
+      "phrases": [
+        "विज़िटिंग कार्ड",
+        "आपसे कोई मतलब नहीं",
+        "व्यापार करना"
+      ]
+    },
+    "frequency": 464
+  },
+  {
+    "rank": 212,
+    "lemma": "without",
+    "source": {
+      "word": "without",
+      "phrases": [
+        "without you",
+        "go without",
+        "without a doubt"
+      ]
+    },
+    "target": {
+      "word": "बिना",
+      "phrases": [
+        "तुम्हारे बिना",
+        "के बिना काम चलाना",
+        "बिना किसी संदेह के"
+      ]
+    },
+    "frequency": 461
+  },
+  {
+    "rank": 213,
+    "lemma": "information",
+    "source": {
+      "word": "information",
+      "phrases": [
+        "information desk",
+        "pieces of information",
+        "contact information"
+      ]
+    },
+    "target": {
+      "word": "जानकारी",
+      "phrases": [
+        "सूचना पटल",
+        "जानकारी के अंश",
+        "संपर्क सूचना"
+      ]
+    },
+    "frequency": 459
+  },
+  {
+    "rank": 214,
+    "lemma": "open",
+    "source": {
+      "word": "open",
+      "phrases": [
+        "open the door",
+        "open minded",
+        "in the open"
+      ]
+    },
+    "target": {
+      "word": "खुला",
+      "phrases": [
+        "दरवाज़ा खोलो",
+        "खुले विचारों वाला",
+        "खुले में"
+      ]
+    },
+    "frequency": 459
+  },
+  {
+    "rank": 215,
+    "lemma": "order",
+    "source": {
+      "word": "order",
+      "phrases": [
+        "out of order",
+        "in order to",
+        "take an order"
+      ]
+    },
+    "target": {
+      "word": "आदेश",
+      "phrases": [
+        "खराब",
+        "ताकि",
+        "आर्डर लेना"
+      ]
+    },
+    "frequency": 456
+  },
+  {
+    "rank": 216,
+    "lemma": "government",
+    "source": {
+      "word": "government",
+      "phrases": [
+        "federal government",
+        "local government",
+        "government official"
+      ]
+    },
+    "target": {
+      "word": "सरकार",
+      "phrases": [
+        "संघीय सरकार",
+        "स्थानीय सरकार",
+        "सरकारी अधिकारी"
+      ]
+    },
+    "frequency": 455
+  },
+  {
+    "rank": 217,
+    "lemma": "word",
+    "source": {
+      "word": "word",
+      "phrases": [
+        "in other words",
+        "word of mouth",
+        "keep your word"
+      ]
+    },
+    "target": {
+      "word": "शब्द",
+      "phrases": [
+        "दूसरे शब्दों में",
+        "मौखिक रूप से",
+        "अपना वादा निभाना"
+      ]
+    },
+    "frequency": 455
+  },
+  {
+    "rank": 218,
+    "lemma": "issue",
+    "source": {
+      "word": "issue",
+      "phrases": [
+        "big issue",
+        "issue a passport",
+        "at issue"
+      ]
+    },
+    "target": {
+      "word": "मुद्दा",
+      "phrases": [
+        "बड़ा मुद्दा",
+        "पासपोर्ट जारी करना",
+        "विचाराधीन"
+      ]
+    },
+    "frequency": 453
+  },
+  {
+    "rank": 219,
+    "lemma": "market",
+    "source": {
+      "word": "market",
+      "phrases": [
+        "stock market",
+        "flea market",
+        "on the market"
+      ]
+    },
+    "target": {
+      "word": "बाजार",
+      "phrases": [
+        "शेयर बाजार",
+        "कबाड़ी बाजार",
+        "बाजार में उपलब्ध"
+      ]
+    },
+    "frequency": 450
+  },
+  {
+    "rank": 220,
+    "lemma": "pay",
+    "source": {
+      "word": "pay",
+      "phrases": [
+        "pay attention",
+        "pay for",
+        "pay off"
+      ]
+    },
+    "target": {
+      "word": "भुगतान",
+      "phrases": [
+        "ध्यान देना",
+        "के लिए भुगतान करना",
+        "चुकता करना"
+      ]
+    },
+    "frequency": 447
+  },
+  {
+    "rank": 221,
+    "lemma": "build",
+    "source": {
+      "word": "build",
+      "phrases": [
+        "build up",
+        "body build",
+        "build a house"
+      ]
+    },
+    "target": {
+      "word": "बनाना (Build)",
+      "phrases": [
+        "निर्माण करना",
+        "शारीरिक सौष्ठव",
+        "घर बनाना"
+      ]
+    },
+    "frequency": 446
+  },
+  {
+    "rank": 222,
+    "lemma": "hold",
+    "source": {
+      "word": "hold",
+      "phrases": [
+        "hold on",
+        "hold a meeting",
+        "get hold of"
+      ]
+    },
+    "target": {
+      "word": "पकड़ना (Hold)",
+      "phrases": [
+        "रुको",
+        "बैठक आयोजित करना",
+        "संपर्क करना"
+      ]
+    },
+    "frequency": 442
+  },
+  {
+    "rank": 223,
+    "lemma": "service",
+    "source": {
+      "word": "service",
+      "phrases": [
+        "customer service",
+        "room service",
+        "out of service"
+      ]
+    },
+    "target": {
+      "word": "सेवा (Service)",
+      "phrases": [
+        "ग्राहक सेवा",
+        "कक्ष सेवा",
+        "सेवा से बाहर"
+      ]
+    },
+    "frequency": 440
+  },
+  {
+    "rank": 224,
+    "lemma": "against",
+    "source": {
+      "word": "against",
+      "phrases": [
+        "against the law",
+        "lean against",
+        "against all odds"
+      ]
+    },
+    "target": {
+      "word": "खिलाफ (Against)",
+      "phrases": [
+        "कानून के खिलाफ",
+        "सहारा लेकर टिकना",
+        "तमाम मुश्किलों के बावजूद"
+      ]
+    },
+    "frequency": 436
+  },
+  {
+    "rank": 225,
+    "lemma": "believe",
+    "source": {
+      "word": "believe",
+      "phrases": [
+        "believe in",
+        "believe it or not",
+        "make believe"
+      ]
+    },
+    "target": {
+      "word": "विश्वास करना (Believe)",
+      "phrases": [
+        "में विश्वास करना",
+        "मानो या न मानो",
+        "दिखावा करना"
+      ]
+    },
+    "frequency": 435
+  },
+  {
+    "rank": 226,
+    "lemma": "second",
+    "source": {
+      "word": "second",
+      "phrases": [
+        "second hand",
+        "wait a second",
+        "second to none"
+      ]
+    },
+    "target": {
+      "word": "दूसरा (Second)",
+      "phrases": [
+        "पुरानी वस्तु",
+        "एक सेकंड रुको",
+        "सर्वश्रेष्ठ"
+      ]
+    },
+    "frequency": 433
+  },
+  {
+    "rank": 227,
+    "lemma": "though",
+    "source": {
+      "word": "though",
+      "phrases": [
+        "even though",
+        "as though",
+        "looks though"
+      ]
+    },
+    "target": {
+      "word": "हालांकि (Though)",
+      "phrases": [
+        "भले ही",
+        "मानो",
+        "ऐसा लगता है"
+      ]
+    },
+    "frequency": 430
+  },
+  {
+    "rank": 228,
+    "lemma": "yes",
+    "source": {
+      "word": "yes",
+      "phrases": [
+        "say yes",
+        "yes or no",
+        "yes sir"
+      ]
+    },
+    "target": {
+      "word": "हाँ (Yes)",
+      "phrases": [
+        "हाँ कहना",
+        "हाँ या ना",
+        "जी हाँ, सर"
+      ]
+    },
+    "frequency": 430
+  },
+  {
+    "rank": 229,
+    "lemma": "love",
+    "source": {
+      "word": "love",
+      "phrases": [
+        "fall in love",
+        "I love you",
+        "love at first sight"
+      ]
+    },
+    "target": {
+      "word": "प्रेम (Love)",
+      "phrases": [
+        "प्यार में पड़ना",
+        "मैं तुमसे प्यार करता हूँ",
+        "पहली नज़र में प्यार"
+      ]
+    },
+    "frequency": 427
+  },
+  {
+    "rank": 230,
+    "lemma": "increase",
+    "source": {
+      "word": "increase",
+      "phrases": [
+        "on the increase",
+        "increase in",
+        "rapid increase"
+      ]
+    },
+    "target": {
+      "word": "वृद्धि (Increase)",
+      "phrases": [
+        "बढ़ती हुई",
+        "में वृद्धि",
+        "तेजी से वृद्धि"
+      ]
+    },
+    "frequency": 425
+  },
+  {
+    "rank": 231,
+    "lemma": "job",
+    "source": {
+      "word": "job",
+      "phrases": [
+        "good job",
+        "job interview",
+        "part time job"
+      ]
+    },
+    "target": {
+      "word": "काम (Job)",
+      "phrases": [
+        "अच्छा काम",
+        "नौकरी के लिए साक्षात्कार",
+        "अंशकालिक नौकरी"
+      ]
+    },
+    "frequency": 425
+  },
+  {
+    "rank": 232,
+    "lemma": "plan",
+    "source": {
+      "word": "plan",
+      "phrases": [
+        "make a plan",
+        "according to plan",
+        "plan to"
+      ]
+    },
+    "target": {
+      "word": "योजना (Plan)",
+      "phrases": [
+        "योजना बनाना",
+        "योजना के अनुसार",
+        "की योजना बनाना"
+      ]
+    },
+    "frequency": 425
+  },
+  {
+    "rank": 233,
+    "lemma": "result",
+    "source": {
+      "word": "result",
+      "phrases": [
+        "as a result",
+        "result in",
+        "test result"
+      ]
+    },
+    "target": {
+      "word": "परिणाम (Result)",
+      "phrases": [
+        "परिणामस्वरूप",
+        "फलस्वरूप",
+        "परीक्षण परिणाम"
+      ]
+    },
+    "frequency": 424
+  },
+  {
+    "rank": 234,
+    "lemma": "away",
+    "source": {
+      "word": "away",
+      "phrases": [
+        "go away",
+        "far away",
+        "right away"
+      ]
+    },
+    "target": {
+      "word": "दूर (Away)",
+      "phrases": [
+        "चले जाओ",
+        "बहुत दूर",
+        "तुरंत"
+      ]
+    },
+    "frequency": 424
+  },
+  {
+    "rank": 235,
+    "lemma": "example",
+    "source": {
+      "word": "example",
+      "phrases": [
+        "for example",
+        "set an example",
+        "follow the example"
+      ]
+    },
+    "target": {
+      "word": "उदाहरण (Example)",
+      "phrases": [
+        "उदाहरण के लिए",
+        "उदाहरण पेश करना",
+        "उदाहरण का अनुसरण करना"
+      ]
+    },
+    "frequency": 420
+  },
+  {
+    "rank": 236,
+    "lemma": "happen",
+    "source": {
+      "word": "happen",
+      "phrases": [
+        "what happened?",
+        "happen to",
+        "accident waiting to happen"
+      ]
+    },
+    "target": {
+      "word": "होना (Happen)",
+      "phrases": [
+        "क्या हुआ?",
+        "किसी के साथ होना",
+        "दुर्घटना जो होने ही वाली हो"
+      ]
+    },
+    "frequency": 420
+  },
+  {
+    "rank": 237,
+    "lemma": "offer",
+    "source": {
+      "word": "offer",
+      "phrases": [
+        "special offer",
+        "offer help",
+        "job offer"
+      ]
+    },
+    "target": {
+      "word": "प्रस्ताव (Offer)",
+      "phrases": [
+        "विशेष प्रस्ताव",
+        "मदद की पेशकश करना",
+        "नौकरी का प्रस्ताव"
+      ]
+    },
+    "frequency": 418
+  },
+  {
+    "rank": 238,
+    "lemma": "young",
+    "source": {
+      "word": "young",
+      "phrases": [
+        "young people",
+        "when I was young",
+        "forever young"
+      ]
+    },
+    "target": {
+      "word": "युवा (Young)",
+      "phrases": [
+        "युवा लोग",
+        "जब मैं छोटा था",
+        "सदा जवान"
+      ]
+    },
+    "frequency": 417
+  },
+  {
+    "rank": 239,
+    "lemma": "close",
+    "source": {
+      "word": "close",
+      "phrases": [
+        "close the door",
+        "close friend",
+        "close call"
+      ]
+    },
+    "target": {
+      "word": "बंद करना / करीब (Close)",
+      "phrases": [
+        "दरवाजा बंद करना",
+        "करीबी दोस्त",
+        "बाल-बाल बचना"
+      ]
+    },
+    "frequency": 416
+  },
+  {
+    "rank": 240,
+    "lemma": "program",
+    "source": {
+      "word": "program",
+      "phrases": [
+        "TV program",
+        "computer program",
+        "program manager"
+      ]
+    },
+    "target": {
+      "word": "कार्यक्रम (Program)",
+      "phrases": [
+        "टीवी कार्यक्रम",
+        "कंप्यूटर प्रोग्राम",
+        "प्रोग्राम मैनेजर"
+      ]
+    },
+    "frequency": 414
+  },
+  {
+    "rank": 241,
+    "lemma": "lead",
+    "source": {
+      "word": "lead",
+      "phrases": [
+        "lead to",
+        "take the lead",
+        "lead a life"
+      ]
+    },
+    "target": {
+      "word": "नेतृत्व करना",
+      "phrases": [
+        "की ओर ले जाना",
+        "नेतृत्व करना",
+        "जीवन जीना"
+      ]
+    },
+    "frequency": 410
+  },
+  {
+    "rank": 242,
+    "lemma": "buy",
+    "source": {
+      "word": "buy",
+      "phrases": [
+        "buy a house",
+        "buy time",
+        "buy out"
+      ]
+    },
+    "target": {
+      "word": "खरीदना",
+      "phrases": [
+        "घर खरीदना",
+        "समय खरीदना",
+        "हिस्सा खरीदना"
+      ]
+    },
+    "frequency": 405
+  },
+  {
+    "rank": 243,
+    "lemma": "understand",
+    "source": {
+      "word": "understand",
+      "phrases": [
+        "understand each other",
+        "hard to understand",
+        "fully understand"
+      ]
+    },
+    "target": {
+      "word": "समझना",
+      "phrases": [
+        "एक दूसरे को समझना",
+        "समझने में कठिन",
+        "पूरी तरह समझना"
+      ]
+    },
+    "frequency": 403
+  },
+  {
+    "rank": 244,
+    "lemma": "thank",
+    "source": {
+      "word": "thank",
+      "phrases": [
+        "thank you",
+        "thank god",
+        "thanks to"
+      ]
+    },
+    "target": {
+      "word": "धन्यवाद",
+      "phrases": [
+        "आपका धन्यवाद",
+        "भगवान का शुक्र है",
+        "की वजह से"
+      ]
+    },
+    "frequency": 399
+  },
+  {
+    "rank": 245,
+    "lemma": "far",
+    "source": {
+      "word": "far",
+      "phrases": [
+        "far from",
+        "so far",
+        "as far as"
+      ]
+    },
+    "target": {
+      "word": "दूर",
+      "phrases": [
+        "से दूर",
+        "अब तक",
+        "जहाँ तक"
+      ]
+    },
+    "frequency": 398
+  },
+  {
+    "rank": 246,
+    "lemma": "today",
+    "source": {
+      "word": "today",
+      "phrases": [
+        "today's special",
+        "as of today",
+        "today is the day"
+      ]
+    },
+    "target": {
+      "word": "आज",
+      "phrases": [
+        "आज का विशेष",
+        "आज तक",
+        "आज ही वह दिन है"
+      ]
+    },
+    "frequency": 392
+  },
+  {
+    "rank": 247,
+    "lemma": "hour",
+    "source": {
+      "word": "hour",
+      "phrases": [
+        "rush hour",
+        "per hour",
+        "happy hour"
+      ]
+    },
+    "target": {
+      "word": "घंटा",
+      "phrases": [
+        "भीड़भाड़ का समय",
+        "प्रति घंटा",
+        "हैप्पी आवर"
+      ]
+    },
+    "frequency": 391
+  },
+  {
+    "rank": 248,
+    "lemma": "student",
+    "source": {
+      "word": "student",
+      "phrases": [
+        "university student",
+        "exchange student",
+        "student loan"
+      ]
+    },
+    "target": {
+      "word": "छात्र",
+      "phrases": [
+        "विश्वविद्यालय का छात्र",
+        "विनिमय छात्र",
+        "शिक्षा ऋण"
+      ]
+    },
+    "frequency": 391
+  },
+  {
+    "rank": 249,
+    "lemma": "face",
+    "source": {
+      "word": "face",
+      "phrases": [
+        "face to face",
+        "face the truth",
+        "lose face"
+      ]
+    },
+    "target": {
+      "word": "चेहरा",
+      "phrases": [
+        "आमने-सामने",
+        "सच्चाई का सामना करना",
+        "इज्जत खोना"
+      ]
+    },
+    "frequency": 390
+  },
+  {
+    "rank": 250,
+    "lemma": "hope",
+    "source": {
+      "word": "hope",
+      "phrases": [
+        "I hope so",
+        "give up hope",
+        "last hope"
+      ]
+    },
+    "target": {
+      "word": "आशा",
+      "phrases": [
+        "मुझे ऐसी आशा है",
+        "आशा छोड़ना",
+        "अंतिम आशा"
+      ]
+    },
+    "frequency": 388
+  },
+  {
+    "rank": 251,
+    "lemma": "idea",
+    "source": {
+      "word": "idea",
+      "phrases": [
+        "good idea",
+        "have no idea",
+        "idea of"
+      ]
+    },
+    "target": {
+      "word": "विचार",
+      "phrases": [
+        "अच्छा विचार",
+        "कोई अंदाजा नहीं होना",
+        "का विचार"
+      ]
+    },
+    "frequency": 387
+  },
+  {
+    "rank": 252,
+    "lemma": "cost",
+    "source": {
+      "word": "cost",
+      "phrases": [
+        "at all costs",
+        "cost of living",
+        "low cost"
+      ]
+    },
+    "target": {
+      "word": "लागत",
+      "phrases": [
+        "किसी भी कीमत पर",
+        "जीवन यापन की लागत",
+        "कम लागत"
+      ]
+    },
+    "frequency": 386
+  },
+  {
+    "rank": 253,
+    "lemma": "less",
+    "source": {
+      "word": "less",
+      "phrases": [
+        "more or less",
+        "less than",
+        "couldn't care less"
+      ]
+    },
+    "target": {
+      "word": "कम",
+      "phrases": [
+        "कम या ज्यादा",
+        "से कम",
+        "बिल्कुल परवाह न करना"
+      ]
+    },
+    "frequency": 385
+  },
+  {
+    "rank": 254,
+    "lemma": "room",
+    "source": {
+      "word": "room",
+      "phrases": [
+        "living room",
+        "make room for",
+        "room for improvement"
+      ]
+    },
+    "target": {
+      "word": "कमरा",
+      "phrases": [
+        "बैठक कक्ष",
+        "जगह बनाना",
+        "सुधार की गुंजाइश"
+      ]
+    },
+    "frequency": 385
+  },
+  {
+    "rank": 255,
+    "lemma": "until",
+    "source": {
+      "word": "until",
+      "phrases": [
+        "until now",
+        "up until",
+        "wait until"
+      ]
+    },
+    "target": {
+      "word": "तक",
+      "phrases": [
+        "अब तक",
+        "तब तक",
+        "तक प्रतीक्षा करें"
+      ]
+    },
+    "frequency": 383
+  },
+  {
+    "rank": 256,
+    "lemma": "reason",
+    "source": {
+      "word": "reason",
+      "phrases": [
+        "reason why",
+        "for this reason",
+        "listen to reason"
+      ]
+    },
+    "target": {
+      "word": "कारण",
+      "phrases": [
+        "कारण क्यों",
+        "इस कारण से",
+        "तर्क सुनना"
+      ]
+    },
+    "frequency": 383
+  },
+  {
+    "rank": 257,
+    "lemma": "form",
+    "source": {
+      "word": "form",
+      "phrases": [
+        "fill out a form",
+        "in the form of",
+        "form a habit"
+      ]
+    },
+    "target": {
+      "word": "फॉर्म",
+      "phrases": [
+        "फॉर्म भरना",
+        "के रूप में",
+        "आदत डालना"
+      ]
+    },
+    "frequency": 379
+  },
+  {
+    "rank": 258,
+    "lemma": "spend",
+    "source": {
+      "word": "spend",
+      "phrases": [
+        "spend time",
+        "spend money",
+        "spend the night"
+      ]
+    },
+    "target": {
+      "word": "खर्च करना",
+      "phrases": [
+        "समय बिताना",
+        "पैसे खर्च करना",
+        "रात बिताना"
+      ]
+    },
+    "frequency": 378
+  },
+  {
+    "rank": 259,
+    "lemma": "head",
+    "source": {
+      "word": "head",
+      "phrases": [
+        "head office",
+        "shake head",
+        "head over heels"
+      ]
+    },
+    "target": {
+      "word": "सिर",
+      "phrases": [
+        "प्रधान कार्यालय",
+        "सिर हिलाना",
+        "पूरी तरह से प्यार में होना"
+      ]
+    },
+    "frequency": 378
+  },
+  {
+    "rank": 260,
+    "lemma": "car",
+    "source": {
+      "word": "car",
+      "phrases": [
+        "car park",
+        "drive a car",
+        "used car"
+      ]
+    },
+    "target": {
+      "word": "कार",
+      "phrases": [
+        "कार पार्क",
+        "कार चलाना",
+        "पुरानी कार"
+      ]
+    },
+    "frequency": 377
+  },
+  {
+    "rank": 261,
+    "lemma": "learn",
+    "source": {
+      "word": "learn",
+      "phrases": [
+        "learn from",
+        "learn by heart",
+        "learn a lesson"
+      ]
+    },
+    "target": {
+      "word": "सीखना",
+      "phrases": [
+        "से सीखना",
+        "मुँह ज़बानी याद करना",
+        "सबक सीखना"
+      ]
+    },
+    "frequency": 375
+  },
+  {
+    "rank": 262,
+    "lemma": "level",
+    "source": {
+      "word": "level",
+      "phrases": [
+        "high level",
+        "sea level",
+        "level up"
+      ]
+    },
+    "target": {
+      "word": "स्तर",
+      "phrases": [
+        "उच्च स्तर",
+        "समुद्र तल",
+        "स्तर बढ़ाना"
+      ]
+    },
+    "frequency": 373
+  },
+  {
+    "rank": 263,
+    "lemma": "person",
+    "source": {
+      "word": "person",
+      "phrases": [
+        "in person",
+        "person in charge",
+        "nice person"
+      ]
+    },
+    "target": {
+      "word": "व्यक्ति",
+      "phrases": [
+        "व्यक्तिगत रूप से",
+        "प्रभारी व्यक्ति",
+        "अच्छा व्यक्ति"
+      ]
+    },
+    "frequency": 368
+  },
+  {
+    "rank": 264,
+    "lemma": "experience",
+    "source": {
+      "word": "experience",
+      "phrases": [
+        "experience in",
+        "gain experience",
+        "from experience"
+      ]
+    },
+    "target": {
+      "word": "अनुभव",
+      "phrases": [
+        "में अनुभव",
+        "अनुभव प्राप्त करना",
+        "अनुभव से"
+      ]
+    },
+    "frequency": 365
+  },
+  {
+    "rank": 265,
+    "lemma": "once",
+    "source": {
+      "word": "once",
+      "phrases": [
+        "once upon a time",
+        "at once",
+        "once in a while"
+      ]
+    },
+    "target": {
+      "word": "एक बार",
+      "phrases": [
+        "एक समय की बात है",
+        "एक साथ",
+        "कभी-कभार"
+      ]
+    },
+    "frequency": 365
+  },
+  {
+    "rank": 266,
+    "lemma": "member",
+    "source": {
+      "word": "member",
+      "phrases": [
+        "family member",
+        "staff member",
+        "become a member"
+      ]
+    },
+    "target": {
+      "word": "सदस्य",
+      "phrases": [
+        "परिवार का सदस्य",
+        "कर्मचारी सदस्य",
+        "सदस्य बनना"
+      ]
+    },
+    "frequency": 364
+  },
+  {
+    "rank": 267,
+    "lemma": "enough",
+    "source": {
+      "word": "enough",
+      "phrases": [
+        "good enough",
+        "enough is enough",
+        "sure enough"
+      ]
+    },
+    "target": {
+      "word": "पर्याप्त",
+      "phrases": [
+        "काफी अच्छा",
+        "बहुत हो गया",
+        "यकीनन"
+      ]
+    },
+    "frequency": 363
+  },
+  {
+    "rank": 268,
+    "lemma": "bad",
+    "source": {
+      "word": "bad",
+      "phrases": [
+        "too bad",
+        "not bad",
+        "bad luck"
+      ]
+    },
+    "target": {
+      "word": "बुरा",
+      "phrases": [
+        "बहुत बुरा",
+        "बुरा नहीं है",
+        "दुर्भाग्य"
+      ]
+    },
+    "frequency": 363
+  },
+  {
+    "rank": 269,
+    "lemma": "city",
+    "source": {
+      "word": "city",
+      "phrases": [
+        "big city",
+        "city hall",
+        "inner city"
+      ]
+    },
+    "target": {
+      "word": "शहर",
+      "phrases": [
+        "बड़ा शहर",
+        "नगर पालिका",
+        "शहर का भीतरी हिस्सा"
+      ]
+    },
+    "frequency": 362
+  },
+  {
+    "rank": 270,
+    "lemma": "night",
+    "source": {
+      "word": "night",
+      "phrases": [
+        "last night",
+        "good night",
+        "all night"
+      ]
+    },
+    "target": {
+      "word": "रात",
+      "phrases": [
+        "पिछली रात",
+        "शुभ रात्रि",
+        "पूरी रात"
+      ]
+    },
+    "frequency": 361
+  },
+  {
+    "rank": 271,
+    "lemma": "able",
+    "source": {
+      "word": "able",
+      "phrases": [
+        "be able to",
+        "able to come",
+        "better able"
+      ]
+    },
+    "target": {
+      "word": "सक्षम",
+      "phrases": [
+        "सक्षम होना",
+        "आने में समर्थ",
+        "बेहतर सक्षम"
+      ]
+    },
+    "frequency": 361
+  },
+  {
+    "rank": 272,
+    "lemma": "support",
+    "source": {
+      "word": "support",
+      "phrases": [
+        "customer support",
+        "support a family",
+        "give support"
+      ]
+    },
+    "target": {
+      "word": "समर्थन",
+      "phrases": [
+        "ग्राहक सहायता",
+        "परिवार का भरण-पोषण करना",
+        "समर्थन देना"
+      ]
+    },
+    "frequency": 359
+  },
+  {
+    "rank": 273,
+    "lemma": "whether",
+    "source": {
+      "word": "whether",
+      "phrases": [
+        "whether or not",
+        "ask whether",
+        "regardless of whether"
+      ]
+    },
+    "target": {
+      "word": "चाहे",
+      "phrases": [
+        "चाहे या न हो",
+        "पूछना कि क्या",
+        "चाहे जो भी हो"
+      ]
+    },
+    "frequency": 359
+  },
+  {
+    "rank": 274,
+    "lemma": "line",
+    "source": {
+      "word": "line",
+      "phrases": [
+        "on line",
+        "draw a line",
+        "bottom line"
+      ]
+    },
+    "target": {
+      "word": "रेखा",
+      "phrases": [
+        "लाइन पर",
+        "रेखा खींचना",
+        "अंतिम परिणाम"
+      ]
+    },
+    "frequency": 358
+  },
+  {
+    "rank": 275,
+    "lemma": "present",
+    "source": {
+      "word": "present",
+      "phrases": [
+        "at present",
+        "birthday present",
+        "present a paper"
+      ]
+    },
+    "target": {
+      "word": "वर्तमान",
+      "phrases": [
+        "वर्तमान में",
+        "जन्मदिन का उपहार",
+        "पेपर प्रस्तुत करना"
+      ]
+    },
+    "frequency": 358
+  },
+  {
+    "rank": 276,
+    "lemma": "side",
+    "source": {
+      "word": "side",
+      "phrases": [
+        "side by side",
+        "on your side",
+        "side effect"
+      ]
+    },
+    "target": {
+      "word": "पक्ष",
+      "phrases": [
+        "साथ-साथ",
+        "आपके पक्ष में",
+        "दुष्प्रभाव"
+      ]
+    },
+    "frequency": 356
+  },
+  {
+    "rank": 277,
+    "lemma": "quite",
+    "source": {
+      "word": "quite",
+      "phrases": [
+        "quite a few",
+        "quite right",
+        "not quite"
+      ]
+    },
+    "target": {
+      "word": "काफी",
+      "phrases": [
+        "काफी सारे",
+        "बिल्कुल सही",
+        "पूरी तरह नहीं"
+      ]
+    },
+    "frequency": 354
+  },
+  {
+    "rank": 278,
+    "lemma": "although",
+    "source": {
+      "word": "although",
+      "phrases": [
+        "although I said",
+        "although small",
+        "happy although poor"
+      ]
+    },
+    "target": {
+      "word": "हालाँकि",
+      "phrases": [
+        "हालाँकि मैंने कहा",
+        "हालाँकि छोटा",
+        "गरीब होने के बावजूद खुश"
+      ]
+    },
+    "frequency": 351
+  },
+  {
+    "rank": 279,
+    "lemma": "sure",
+    "source": {
+      "word": "sure",
+      "phrases": [
+        "make sure",
+        "for sure",
+        "are you sure?"
+      ]
+    },
+    "target": {
+      "word": "सुनिश्चित",
+      "phrases": [
+        "सुनिश्चित करना",
+        "पक्के तौर पर",
+        "क्या आप निश्चित हैं?"
+      ]
+    },
+    "frequency": 351
+  },
+  {
+    "rank": 280,
+    "lemma": "term",
+    "source": {
+      "word": "term",
+      "phrases": [
+        "long term",
+        "in terms of",
+        "technical term"
+      ]
+    },
+    "target": {
+      "word": "शर्त/अवधि",
+      "phrases": [
+        "लंबी अवधि",
+        "के संदर्भ में",
+        "तकनीकी शब्द"
+      ]
+    },
+    "frequency": 350
+  },
+  {
+    "rank": 281,
+    "lemma": "least",
+    "source": {
+      "word": "least",
+      "phrases": [
+        "at least",
+        "last but not least",
+        "least expected"
+      ]
+    },
+    "target": {
+      "word": "न्यूनतम",
+      "phrases": [
+        "कम से कम",
+        "अंत में लेकिन कम नहीं",
+        "न्यूनतम अपेक्षित"
+      ]
+    },
+    "frequency": 350
+  },
+  {
+    "rank": 282,
+    "lemma": "age",
+    "source": {
+      "word": "age",
+      "phrases": [
+        "at the age of",
+        "middle age",
+        "act your age"
+      ]
+    },
+    "target": {
+      "word": "आयु",
+      "phrases": [
+        "की आयु में",
+        "मध्यम आयु",
+        "अपनी उम्र के अनुसार व्यवहार करें"
+      ]
+    },
+    "frequency": 349
+  },
+  {
+    "rank": 283,
+    "lemma": "low",
+    "source": {
+      "word": "low",
+      "phrases": [
+        "low cost",
+        "low profile",
+        "feel low"
+      ]
+    },
+    "target": {
+      "word": "कम",
+      "phrases": [
+        "कम लागत",
+        "लो प्रोफाइल",
+        "उदासी महसूस करना"
+      ]
+    },
+    "frequency": 349
+  },
+  {
+    "rank": 284,
+    "lemma": "speak",
+    "source": {
+      "word": "speak",
+      "phrases": [
+        "speak English",
+        "speak up",
+        "so to speak"
+      ]
+    },
+    "target": {
+      "word": "बोलना",
+      "phrases": [
+        "अंग्रेजी बोलना",
+        "ज़ोर से बोलना",
+        "कहने के लिए"
+      ]
+    },
+    "frequency": 348
+  },
+  {
+    "rank": 285,
+    "lemma": "within",
+    "source": {
+      "word": "within",
+      "phrases": [
+        "within reason",
+        "within reach",
+        "within a week"
+      ]
+    },
+    "target": {
+      "word": "के भीतर",
+      "phrases": [
+        "वाजिब सीमा के भीतर",
+        "पहुंच के भीतर",
+        "एक सप्ताह के भीतर"
+      ]
+    },
+    "frequency": 347
+  },
+  {
+    "rank": 286,
+    "lemma": "process",
+    "source": {
+      "word": "process",
+      "phrases": [
+        "in the process of",
+        "process food",
+        "learning process"
+      ]
+    },
+    "target": {
+      "word": "प्रक्रिया",
+      "phrases": [
+        "की प्रक्रिया में",
+        "खाद्य प्रसंस्करण",
+        "सीखने की प्रक्रिया"
+      ]
+    },
+    "frequency": 346
+  },
+  {
+    "rank": 287,
+    "lemma": "public",
+    "source": {
+      "word": "public",
+      "phrases": [
+        "in public",
+        "public transport",
+        "public relations"
+      ]
+    },
+    "target": {
+      "word": "सार्वजनिक",
+      "phrases": [
+        "सार्वजनिक रूप से",
+        "सार्वजनिक परिवहन",
+        "जनसंपर्क"
+      ]
+    },
+    "frequency": 343
+  },
+  {
+    "rank": 288,
+    "lemma": "often",
+    "source": {
+      "word": "often",
+      "phrases": [
+        "how often",
+        "more often than not",
+        "as often as"
+      ]
+    },
+    "target": {
+      "word": "अक्सर",
+      "phrases": [
+        "कितनी बार",
+        "अक्सर",
+        "जितनी बार संभव हो"
+      ]
+    },
+    "frequency": 341
+  },
+  {
+    "rank": 289,
+    "lemma": "train",
+    "source": {
+      "word": "train",
+      "phrases": [
+        "by train",
+        "training course",
+        "train hard"
+      ]
+    },
+    "target": {
+      "word": "ट्रेन/प्रशिक्षण",
+      "phrases": [
+        "ट्रेन से",
+        "प्रशिक्षण पाठ्यक्रम",
+        "कड़ी मेहनत से प्रशिक्षण लेना"
+      ]
+    },
+    "frequency": 338
+  },
+  {
+    "rank": 290,
+    "lemma": "possible",
+    "source": {
+      "word": "possible",
+      "phrases": [
+        "as soon as possible",
+        "if possible",
+        "mission impossible"
+      ]
+    },
+    "target": {
+      "word": "संभव",
+      "phrases": [
+        "जितनी जल्दी हो सके",
+        "यदि संभव हो",
+        "असंभव मिशन"
+      ]
+    },
+    "frequency": 337
+  },
+  {
+    "rank": 291,
+    "lemma": "actually",
+    "source": {
+      "word": "actually",
+      "phrases": [
+        "actually I did",
+        "looks young but actually",
+        "what actually happened"
+      ]
+    },
+    "target": {
+      "word": "वास्तव में",
+      "phrases": [
+        "वास्तव में मैंने किया",
+        "जवान दिखता है लेकिन वास्तव में",
+        "वास्तव में क्या हुआ"
+      ]
+    },
+    "frequency": 337
+  },
+  {
+    "rank": 292,
+    "lemma": "rather",
+    "source": {
+      "word": "rather",
+      "phrases": [
+        "would rather",
+        "rather than",
+        "or rather"
+      ]
+    },
+    "target": {
+      "word": "बजाय",
+      "phrases": [
+        "बेहतर होगा",
+        "के बजाय",
+        "या यूँ कहें"
+      ]
+    },
+    "frequency": 336
+  },
+  {
+    "rank": 293,
+    "lemma": "view",
+    "source": {
+      "word": "view",
+      "phrases": [
+        "point of view",
+        "in view of",
+        "room with a view"
+      ]
+    },
+    "target": {
+      "word": "दृष्टिकोण/दृश्य",
+      "phrases": [
+        "दृष्टिकोण",
+        "के मद्देनजर",
+        "दृश्य वाला कमरा"
+      ]
+    },
+    "frequency": 336
+  },
+  {
+    "rank": 294,
+    "lemma": "together",
+    "source": {
+      "word": "together",
+      "phrases": [
+        "get together",
+        "all together",
+        "work together"
+      ]
+    },
+    "target": {
+      "word": "साथ में",
+      "phrases": [
+        "इकट्ठा होना",
+        "सब साथ में",
+        "साथ काम करना"
+      ]
+    },
+    "frequency": 334
+  },
+  {
+    "rank": 295,
+    "lemma": "consider",
+    "source": {
+      "word": "consider",
+      "phrases": [
+        "consider it done",
+        "highly considered",
+        "take into consider"
+      ]
+    },
+    "target": {
+      "word": "विचार करना",
+      "phrases": [
+        "इसे हुआ समझें",
+        "अत्यधिक विचारणीय",
+        "ध्यान में रखें"
+      ]
+    },
+    "frequency": 334
+  },
+  {
+    "rank": 296,
+    "lemma": "price",
+    "source": {
+      "word": "price",
+      "phrases": [
+        "high price",
+        "price tag",
+        "at any price"
+      ]
+    },
+    "target": {
+      "word": "कीमत",
+      "phrases": [
+        "उच्च कीमत",
+        "प्राइस टैग",
+        "किसी भी कीमत पर"
+      ]
+    },
+    "frequency": 327
+  },
+  {
+    "rank": 297,
+    "lemma": "parent",
+    "source": {
+      "word": "parent",
+      "phrases": [
+        "single parent",
+        "parenting",
+        "grand parent"
+      ]
+    },
+    "target": {
+      "word": "अभिभावक",
+      "phrases": [
+        "एकल अभिभावक",
+        "पालन-पोषण",
+        "दादा-दादी/नाना-नानी"
+      ]
+    },
+    "frequency": 326
+  },
+  {
+    "rank": 298,
+    "lemma": "hard",
+    "source": {
+      "word": "hard",
+      "phrases": [
+        "work hard",
+        "hard to believe",
+        "hard drive"
+      ]
+    },
+    "target": {
+      "word": "कठिन",
+      "phrases": [
+        "कड़ी मेहनत",
+        "विश्वास करना कठिन",
+        "हार्ड ड्राइव"
+      ]
+    },
+    "frequency": 325
+  },
+  {
+    "rank": 299,
+    "lemma": "party",
+    "source": {
+      "word": "party",
+      "phrases": [
+        "birthday party",
+        "third party",
+        "political party"
+      ]
+    },
+    "target": {
+      "word": "पार्टी/दल",
+      "phrases": [
+        "जन्मदिन की पार्टी",
+        "तीसरा पक्ष",
+        "राजनीतिक दल"
+      ]
+    },
+    "frequency": 322
+  },
+  {
+    "rank": 300,
+    "lemma": "local",
+    "source": {
+      "word": "local",
+      "phrases": [
+        "local news",
+        "local people",
+        "local time"
+      ]
+    },
+    "target": {
+      "word": "स्थानीय",
+      "phrases": [
+        "स्थानीय समाचार",
+        "स्थानीय लोग",
+        "स्थानीय समय"
+      ]
+    },
+    "frequency": 321
+  }
+]

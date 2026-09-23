@@ -1,0 +1,245 @@
+[
+  {
+    "rank": 2801,
+    "lemma": "alright",
+    "source": {
+      "word": "alright",
+      "phrases": [
+        "it's alright",
+        "are you alright?",
+        "everything is alright"
+      ]
+    },
+    "target": {
+      "word": "ไม่เป็นไร",
+      "word_pronunciation": "mâi pen rai",
+      "phrases": [
+        "มันไม่เป็นไร",
+        "คุณไม่เป็นไรใช่ไหม?",
+        "ทุกอย่างเรียบร้อยดี"
+      ],
+      "phrases_pronunciations": [
+        "man mâi pen rai",
+        "khun mâi pen rai châi mǎi",
+        "thúk yàaŋ rîiap-rɔ́ɔy dii"
+      ]
+    },
+    "frequency": 11
+  },
+  {
+    "rank": 2802,
+    "lemma": "lazy",
+    "source": {
+      "word": "lazy",
+      "phrases": [
+        "lazy afternoon",
+        "lazy bones",
+        "too lazy to"
+      ]
+    },
+    "target": {
+      "word": "ขี้เกียจ",
+      "word_pronunciation": "khîi kìat",
+      "phrases": [
+        "บ่ายวันที่เงียบเหงา",
+        "คนขี้เกียจ",
+        "ขี้เกียจเกินกว่าที่จะ"
+      ],
+      "phrases_pronunciations": [
+        "bàai wan thîi ŋîap hǎao",
+        "khon khîi kìat",
+        "khîi kìat kəən kwàa thîi cà"
+      ]
+    },
+    "frequency": 10
+  },
+  {
+    "rank": 2803,
+    "lemma": "hello",
+    "source": {
+      "word": "hello",
+      "phrases": [
+        "say hello",
+        "hello world",
+        "hello there"
+      ]
+    },
+    "target": {
+      "word": "สวัสดี",
+      "word_pronunciation": "sà-wàt-dii",
+      "phrases": [
+        "กล่าวทักทาย",
+        "สวัสดีชาวโลก",
+        "สวัสดีตรงนั้น"
+      ],
+      "phrases_pronunciations": [
+        "klàao thák thaai",
+        "sà-wàt-dii chaaw lôok",
+        "sà-wàt-dii troŋ nán"
+      ]
+    },
+    "frequency": 10
+  },
+  {
+    "rank": 2804,
+    "lemma": "hunger",
+    "source": {
+      "word": "hunger",
+      "phrases": [
+        "satisfy hunger",
+        "hunger strike",
+        "hunger for"
+      ]
+    },
+    "target": {
+      "word": "ความหิว",
+      "word_pronunciation": "khwaam hǐu",
+      "phrases": [
+        "ดับความหิว",
+        "การประท้วงอดอาหาร",
+        "ความกระหายใน"
+      ],
+      "phrases_pronunciations": [
+        "dàp khwaam hǐu",
+        "kaan prà-thúuaŋ ʔòt ʔaa-hǎan",
+        "khwaam krà-hǎai nai"
+      ]
+    },
+    "frequency": 9
+  },
+  {
+    "rank": 2805,
+    "lemma": "insure",
+    "source": {
+      "word": "insure",
+      "phrases": [
+        "insure against",
+        "insure a car",
+        "fully insured"
+      ]
+    },
+    "target": {
+      "word": "ประกัน",
+      "word_pronunciation": "prà-kan",
+      "phrases": [
+        "ประกันความเสี่ยงต่อ",
+        "ประกันรถยนต์",
+        "ทำประกันเต็มรูปแบบ"
+      ],
+      "phrases_pronunciations": [
+        "prà-kan khwaam sìiaŋ tɔ̀ว",
+        "prà-kan rót yon",
+        "tham prà-kan tem rûup-bɛ̀ɛp"
+      ]
+    },
+    "frequency": 9
+  },
+  {
+    "rank": 2806,
+    "lemma": "ashamed",
+    "source": {
+      "word": "ashamed",
+      "phrases": [
+        "ashamed of",
+        "feel ashamed",
+        "nothing to be ashamed of"
+      ]
+    },
+    "target": {
+      "word": "ละอายใจ",
+      "word_pronunciation": "lá-ʔaai-cay",
+      "phrases": [
+        "ละอายใจต่อ",
+        "รู้สึกละอายใจ",
+        "ไม่มีอะไรต้องละอายใจ"
+      ],
+      "phrases_pronunciations": [
+        "lá-ʔaai-cay tɔ̀ว",
+        "rúu sʉ̀k lá-ʔaai-cay",
+        "mâi mii ʔà-rai tɔ̂ŋ lá-ʔaai-cay"
+      ]
+    },
+    "frequency": 8
+  },
+  {
+    "rank": 2807,
+    "lemma": "found",
+    "source": {
+      "word": "found",
+      "phrases": [
+        "found a company",
+        "lost and found",
+        "well founded"
+      ]
+    },
+    "target": {
+      "word": "ก่อตั้ง / พบ",
+      "word_pronunciation": "kɔ̀ɔ-tâŋ / phóp",
+      "phrases": [
+        "ก่อตั้งบริษัท",
+        "ของหายได้คืน",
+        "มีเหตุผลรองรับที่ดี"
+      ],
+      "phrases_pronunciations": [
+        "kɔ̀ɔ-tâŋ bɔɔ-rí-sàt",
+        "khɔ̌ɔŋ hǎai dâi khʉʉn",
+        "mii hèet phǒn rɔɔŋ ráp thîi dii"
+      ]
+    },
+    "frequency": 7
+  },
+  {
+    "rank": 2808,
+    "lemma": "blog",
+    "source": {
+      "word": "blog",
+      "phrases": [
+        "write a blog",
+        "travel blog",
+        "blog post"
+      ]
+    },
+    "target": {
+      "word": "บล็อก",
+      "word_pronunciation": "blók",
+      "phrases": [
+        "เขียนบล็อก",
+        "บล็อกท่องเที่ยว",
+        "โพสต์ในบล็อก"
+      ],
+      "phrases_pronunciations": [
+        "khǐian blók",
+        "blók thɔ̂ŋ thîiao",
+        "phóos nai blók"
+      ]
+    },
+    "frequency": 7
+  },
+  {
+    "rank": 2809,
+    "lemma": "thirst",
+    "source": {
+      "word": "thirst",
+      "phrases": [
+        "quench thirst",
+        "thirst for knowledge",
+        "die of thirst"
+      ]
+    },
+    "target": {
+      "word": "ความกระหาย",
+      "word_pronunciation": "khwaam krà-hǎai",
+      "phrases": [
+        "ดับกระหาย",
+        "ความกระหายในความรู้",
+        "อดน้ำตาย"
+      ],
+      "phrases_pronunciations": [
+        "dàp krà-hǎai",
+        "khwaam krà-hǎai nai khwaam rúu",
+        "ʔòt náam taai"
+      ]
+    },
+    "frequency": 3
+  }
+]

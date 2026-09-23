@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>OctoCore — Survival Word Book | 6 Languages × 200 Words</title>
+  <meta name="description"
+    content="Master 200 essential survival words in 6 languages with mandala learning. Thai, English, Japanese, Chinese, Hindi, Spanish.">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .hub-container {
+      min-height: 100vh;
+      min-height: 100dvh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hub-container::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      left: -50%;
+      width: 200%;
+      height: 200%;
+      background: radial-gradient(circle at 30% 40%, rgba(251, 191, 36, 0.04) 0%, transparent 50%),
+        radial-gradient(circle at 70% 60%, rgba(56, 189, 248, 0.04) 0%, transparent 50%),
+        radial-gradient(circle at 50% 80%, rgba(251, 113, 133, 0.03) 0%, transparent 50%);
+      animation: bgDrift 20s ease-in-out infinite alternate;
+    }
+
+    .hub-content {
+      position: relative;
+      z-index: 1;
+      text-align: center;
+      width: 100%;
+      max-width: 640px;
+    }
+
+    .hub-title {
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--text-secondary);
+      margin-bottom: 0.5rem;
+      line-height: 1.3;
+    }
+
+    .hub-title span {
+      display: block;
+      font-size: 3rem;
+      font-weight: 900;
+      background: linear-gradient(135deg, #fbbf24, #38bdf8, #fb7185);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .hub-sub {
+      font-size: 0.9rem;
+      color: var(--text-dim);
+      margin-bottom: 2.5rem;
+    }
+
+    .hub-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 14px;
+    }
+
+    .hub-card {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 1.8rem 1rem;
+      border-radius: var(--radius);
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      backdrop-filter: blur(12px);
+      transition: var(--transition);
+      text-decoration: none;
+      color: inherit;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hub-card::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border-radius: var(--radius);
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+
+    .hub-card[data-lang="th"]::before {
+      background: radial-gradient(circle at center, rgba(251, 191, 36, 0.1), transparent 70%);
+    }
+
+    .hub-card[data-lang="en"]::before {
+      background: radial-gradient(circle at center, rgba(56, 189, 248, 0.1), transparent 70%);
+    }
+
+    .hub-card[data-lang="jp"]::before {
+      background: radial-gradient(circle at center, rgba(251, 113, 133, 0.1), transparent 70%);
+    }
+
+    .hub-card[data-lang="cn"]::before {
+      background: radial-gradient(circle at center, rgba(248, 113, 113, 0.1), transparent 70%);
+    }
+
+    .hub-card[data-lang="hi"]::before {
+      background: radial-gradient(circle at center, rgba(251, 146, 60, 0.1), transparent 70%);
+    }
+
+    .hub-card[data-lang="es"]::before {
+      background: radial-gradient(circle at center, rgba(52, 211, 153, 0.1), transparent 70%);
+    }
+
+    .hub-card:hover::before,
+    .hub-card:active::before {
+      opacity: 1;
+    }
+
+    .hub-card:active {
+      transform: scale(0.96);
+    }
+
+    .hub-card .flag {
+      font-size: 2.8rem;
+      line-height: 1;
+    }
+
+    .hub-card .hub-lang {
+      font-size: 0.85rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      color: var(--text-primary);
+    }
+
+    .hub-card .hub-native {
+      font-size: 0.75rem;
+      color: var(--text-secondary);
+    }
+
+    .hub-card .hub-words {
+      font-size: 0.65rem;
+      color: var(--text-dim);
+      margin-top: 2px;
+    }
+
+    .hub-footer {
+      margin-top: 3rem;
+      font-size: 0.7rem;
+      color: var(--text-dim);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    @media (min-width: 480px) {
+      .hub-grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="hub-container">
+    <div class="hub-content">
+      <h1 class="hub-title">
+        Choose a language to<br><span>survive</span>
+      </h1>
+      <p class="hub-sub">6 languages × 200 essential words × mandala learning</p>
+
+      <div class="hub-grid">
+        <a class="hub-card" data-lang="en" href="en/">
+          <span class="flag">🇺🇸</span>
+          <span class="hub-lang">English</span>
+          <span class="hub-native">English</span>
+          <span class="hub-words">200 words</span>
+        </a>
+        <a class="hub-card" data-lang="th" href="th/">
+          <span class="flag">🇹🇭</span>
+          <span class="hub-lang">Thai</span>
+          <span class="hub-native">ภาษาไทย</span>
+          <span class="hub-words">200 words</span>
+        </a>
+        <a class="hub-card" data-lang="jp" href="jp/">
+          <span class="flag">🇯🇵</span>
+          <span class="hub-lang">Japanese</span>
+          <span class="hub-native">日本語</span>
+          <span class="hub-words">200 words</span>
+        </a>
+        <a class="hub-card" data-lang="cn" href="cn/">
+          <span class="flag">🇨🇳</span>
+          <span class="hub-lang">Chinese</span>
+          <span class="hub-native">中文</span>
+          <span class="hub-words">200 words</span>
+        </a>
+        <a class="hub-card" data-lang="hi" href="hi/">
+          <span class="flag">🇮🇳</span>
+          <span class="hub-lang">Hindi</span>
+          <span class="hub-native">हिन्दी</span>
+          <span class="hub-words">200 words</span>
+        </a>
+        <a class="hub-card" data-lang="es" href="es/">
+          <span class="flag">🇪🇸</span>
+          <span class="hub-lang">Spanish</span>
+          <span class="hub-native">Español</span>
+          <span class="hub-words">200 words</span>
+        </a>
+      </div>
+
+      <p class="hub-footer">OctoCore v1.0 — Survival & Focus</p>
+    </div>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ケイデンスを耳で覚える</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;700&family=Zen+Kaku+Gothic+New:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --sky:#E6ECF0;--ink:#1B2A3A;--line:#F2B705;--rubber:#39424B;--muted:#5F6F7E;--panel:#F6F8FA;
+  box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--sky:#141C24;--ink:#E4EAF0;--rubber:#8C99A6;--muted:#93A2B0;--panel:#1C2630;}}
+:root[data-theme="dark"]{--sky:#141C24;--ink:#E4EAF0;--rubber:#8C99A6;--muted:#93A2B0;--panel:#1C2630;}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--sky);color:var(--ink);font-family:"Zen Kaku Gothic New","Hiragino Sans","Yu Gothic",sans-serif;line-height:1.6}
+.app{max-width:520px;margin:0 auto;padding:24px 20px 40px}
+body.indoor .app{max-width:1180px}
+@media (min-width:960px){
+  body.indoor .app{display:grid;grid-template-columns:minmax(380px,460px) 1fr;gap:36px;align-items:start}
+  body.indoor .col-main{position:sticky;top:calc(16px + env(safe-area-inset-top,0px))}
+}
+header{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:10px 12px;margin-bottom:6px}
+h1{font-size:1.15rem;font-weight:700;margin:0}
+.modes{display:flex;background:var(--panel);border:1.5px solid var(--rubber);border-radius:22px;padding:3px;gap:2px}
+.modes button{border:0;background:transparent;color:var(--ink);font:inherit;font-size:.85rem;padding:6px 14px;border-radius:18px;cursor:pointer}
+.modes button[aria-pressed="true"]{background:var(--ink);color:var(--sky)}
+.lead{color:var(--muted);font-size:.9rem;margin:6px 0 20px}
+.hint:empty,.box p:empty{display:none}
+.lead:empty{margin:0 0 14px}
+.visual{display:flex;flex-direction:column;align-items:center}
+.visual svg{width:min(78vw,300px,34vh);height:auto;display:block}
+.rpm{font-family:"Barlow Condensed","Arial Narrow",sans-serif;font-weight:700;font-size:5.5rem;line-height:1;margin-top:8px}
+.rpm small{font-size:1.4rem;font-weight:500;color:var(--muted);margin-left:6px}
+.feel{min-height:1.6em;color:var(--muted);font-size:.95rem;margin-top:2px;text-align:center}
+.speed{font-family:"Barlow Condensed",sans-serif;font-size:1.5rem}
+.road{height:6px;margin:22px 0;background:repeating-linear-gradient(90deg,var(--line) 0 28px,transparent 28px 48px);border-radius:3px}
+.row{display:flex;align-items:center;gap:10px}
+.step{flex:none;width:48px;height:48px;border-radius:50%;border:2px solid var(--ink);background:transparent;color:var(--ink);font-size:1.5rem;cursor:pointer}
+input[type=range]{flex:1;accent-color:var(--line);height:32px;min-width:0}
+.presets{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.presets button{flex:1 1 30%;padding:10px 6px;border:1.5px solid var(--rubber);border-radius:10px;background:var(--panel);color:var(--ink);font:inherit;font-size:.85rem;cursor:pointer;line-height:1.3}
+.presets button b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:1.4rem}
+.presets button[aria-pressed="true"],.chips button[aria-pressed="true"]{border-color:var(--line);box-shadow:inset 0 0 0 2px var(--line)}
+fieldset{border:0;padding:0;margin:20px 0 0}
+legend{font-weight:700;font-size:.9rem;margin-bottom:8px}
+.mode{display:flex;gap:8px}
+.mode label{flex:1;display:block;padding:10px 12px;border:1.5px solid var(--rubber);border-radius:10px;background:var(--panel);cursor:pointer;font-size:.88rem}
+.mode input{accent-color:var(--line);margin-right:6px}
+.mode .sub{display:block;color:var(--muted);font-size:.78rem;margin-left:22px}
+.go{position:sticky;bottom:calc(12px + env(safe-area-inset-bottom,0px));z-index:5;box-shadow:0 0 0 8px var(--sky);margin-top:24px;width:100%;padding:20px;border:0;border-radius:40px;background:var(--ink);color:var(--sky);font:inherit;font-size:1.15rem;font-weight:700;cursor:pointer}
+.hint{color:var(--muted);font-size:.8rem;text-align:center;margin-top:10px}
+.mp3box{margin-top:22px;padding:12px 14px;border:1.5px dashed var(--rubber);border-radius:14px;background:var(--panel)}
+.mp3box .glabel{margin-top:0}
+.mp3msg{margin:6px 0 0;font-size:.82rem;color:var(--muted);min-height:1.3em}
+body.indoor .mp3box{display:none}
+.roadnote{margin-top:18px;padding:12px 14px;border-left:4px solid var(--line);background:var(--panel);font-size:.82rem;color:var(--muted);border-radius:0 10px 10px 0}
+body.indoor .roadnote{display:none}
+/* 室内パネル */
+.col-indoor{display:none}
+body.indoor .col-indoor{display:block;margin-top:36px}
+@media (min-width:960px){body.indoor .col-indoor{margin-top:0}}
+.boxes{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px}
+.box{background:var(--panel);border:1.5px dashed var(--rubber);border-radius:14px;padding:14px 16px}
+.box.wide{grid-column:1/-1}
+.box h2{font-size:.95rem;margin:0 0 10px}
+.box p{margin:6px 0 0;font-size:.85rem;color:var(--muted)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chips button{padding:6px 12px;border:1.5px solid var(--rubber);border-radius:18px;background:var(--sky);color:var(--ink);font:inherit;font-size:.85rem;cursor:pointer}
+.glabel{font-size:.82rem;font-weight:700;margin:12px 0 6px}
+.gsub{font-weight:400;color:var(--muted);margin-left:4px}
+.shift{align-items:flex-start}
+.shift .end{font-family:"Barlow Condensed",sans-serif;font-size:1.1rem;color:var(--muted);flex:none;min-width:2.2em;text-align:center;line-height:32px}
+.slidewrap{flex:1;min-width:0}
+.slidewrap input{width:100%;display:block;margin:0}
+.ticks{display:flex;justify-content:space-between;align-items:center;padding:0 6px;height:30px;margin-top:2px}
+.ticks i{width:4px;background:var(--rubber);opacity:.45;border-radius:2px;transition:opacity .15s}
+.ticks i.on{background:var(--line);opacity:1;width:6px}
+.expert{margin-top:12px;border-top:1px dashed var(--rubber);padding-top:8px}
+.expert summary{cursor:pointer;font-size:.85rem;font-weight:700;padding:4px 0}
+.gear{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:8px}
+.gear label,.tlabel{font-size:.78rem;color:var(--muted)}
+.tlabel{display:block;margin-top:8px}
+.in{width:100%;padding:6px 8px;border:1.5px solid var(--rubber);border-radius:8px;background:var(--sky);color:var(--ink);font:inherit;font-size:.95rem;min-width:0}
+.gear .in,.tlabel .in{display:block;margin-top:4px}
+.big{font-family:"Barlow Condensed",sans-serif;font-weight:700;font-size:2.2rem;line-height:1.1;margin-top:8px}
+.small-btn{padding:8px 14px;border:1.5px solid var(--ink);border-radius:20px;background:transparent;color:var(--ink);font:inherit;font-size:.85rem;cursor:pointer}
+.primary{background:var(--ink);color:var(--sky)}
+.check{display:flex;align-items:center;gap:6px;font-size:.85rem;margin-top:10px}
+.check input{accent-color:var(--line)}
+/* インターバル */
+.ivhead,.ivrow{display:grid;grid-template-columns:28px 78px 78px 1fr 34px;gap:6px;align-items:center}
+.ivhead{font-size:.75rem;color:var(--muted);margin:12px 0 4px}
+.ivrow{margin-bottom:6px}
+.ivrow .no{font-family:"Barlow Condensed",sans-serif;font-size:1.1rem;color:var(--muted);text-align:center}
+.ivrow.now{outline:2px solid var(--line);border-radius:8px}
+.del{width:34px;height:34px;border:1.5px solid var(--rubber);border-radius:50%;background:transparent;color:var(--ink);cursor:pointer;font-size:1rem}
+.ivfoot{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin-top:10px}
+.ivfoot label{font-size:.85rem;display:flex;align-items:center;gap:6px}
+.ivfoot .in{width:64px}
+.total{font-size:.85rem;color:var(--muted);margin-left:auto}
+.runbar:has(i[style*="width: 0"]),.runbar:has(i:not([style])){visibility:hidden}
+.runbar{height:8px;border-radius:4px;background:var(--sky);overflow:hidden;margin-top:14px}
+.runbar i{display:block;height:100%;width:0;background:var(--line)}
+.caster{font-weight:700;font-size:1.05rem;margin-top:8px;min-height:1.6em}
+.nowline{font-family:"Barlow Condensed",sans-serif;font-size:1.6rem;line-height:1.2}
+@media (max-width:420px){.ivhead,.ivrow{grid-template-columns:22px 64px 64px 1fr 30px}.del{width:30px;height:30px}}
+.simrow{display:grid;grid-template-columns:34px 1fr 1fr;gap:8px;align-items:end;padding:6px;border-radius:10px;margin-bottom:4px}
+.simrow label{font-size:.78rem;color:var(--muted)}
+.simrow .in{display:block;margin-top:2px;font-size:1.05rem}
+.simrow .tag{font-family:"Barlow Condensed",sans-serif;font-weight:700;font-size:1.6rem;text-align:center;line-height:1.4}
+.simrow.now,.ivrow.now{outline:2px solid var(--line)}
+.startbig{margin-top:12px;width:100%;padding:12px;border:0;border-radius:24px;background:var(--ink);color:var(--sky);font:inherit;font-weight:700;cursor:pointer}
+.chips.mini button{font-size:.75rem;padding:3px 10px;border-width:1px}
+.mine{display:inline-flex;border:1.5px solid var(--rubber);border-radius:18px;overflow:hidden}
+.mine button{border:0;border-radius:0;background:var(--sky);color:var(--ink);font:inherit;font-size:.85rem;padding:6px 10px;cursor:pointer}
+.mine button+button{border-left:1px solid var(--rubber);color:var(--muted);padding:6px 9px}
+.gearpick button{display:flex;align-items:center;gap:10px;flex:1 1 200px;text-align:left;border-radius:12px;padding:8px 12px}
+.gearpick svg{flex:none;width:34px;height:34px}
+.gearpick b{display:block;font-size:.9rem}
+.gearpick small{display:block;font-size:.75rem;color:var(--muted);line-height:1.4}
+@media (max-width:360px){.presets button{font-size:.75rem}.mode label{font-size:.8rem;padding:10px 8px}}
+[hidden]{display:none!important}
+button:focus-visible,input:focus-visible,summary:focus-visible{outline:3px solid var(--line);outline-offset:2px}
+</style>
+</head>
+<body>
+<div class="app">
+<section class="col-main">
+  <header>
+    <h1>ケイデンスを耳で覚える</h1>
+    <div class="modes" role="group" aria-label="使う場所">
+      <button data-mode="road">車道で走る</button>
+      <button data-mode="indoor">室内トレーニング</button>
+    </div>
+  </header>
+  <p class="lead" id="lead"></p>
+
+  <div class="visual">
+    <svg viewBox="-110 -110 220 220" aria-hidden="true">
+      <circle r="100" fill="none" stroke="var(--rubber)" stroke-width="1" opacity=".3"/>
+      <circle id="ring" r="52" fill="none" stroke="var(--rubber)" stroke-width="7" stroke-dasharray="4 4" style="transition:stroke .12s"/>
+      <g id="arm">
+        <rect x="-7" y="-92" width="14" height="92" rx="7" fill="var(--ink)"/>
+        <rect x="-7" y="0" width="14" height="92" rx="7" fill="var(--rubber)"/>
+        <g id="pR" transform="translate(0,-92)"><rect x="-24" y="-7" width="48" height="14" rx="4" fill="var(--ink)" style="transition:fill .12s"/></g>
+        <g id="pL" transform="translate(0,92)"><rect x="-24" y="-7" width="48" height="14" rx="4" fill="var(--rubber)" style="transition:fill .12s"/></g>
+      </g>
+      <circle r="12" fill="var(--line)"/>
+    </svg>
+    <div class="rpm"><span id="val">90</span><small>回転/分</small></div>
+    <div class="feel" id="feel"></div>
+    <div class="speed" id="speedLine" hidden></div>
+  </div>
+
+  <div class="road"></div>
+
+  <div class="row">
+    <button class="step" id="minus" aria-label="5下げる">−</button>
+    <input type="range" id="slider" min="40" max="140" step="1" value="90" aria-label="ケイデンス">
+    <button class="step" id="plus" aria-label="5上げる">＋</button>
+  </div>
+
+  <div class="presets" id="presets"></div>
+
+  <fieldset>
+    <legend>音の鳴らし方</legend>
+    <div class="mode">
+      <label><input type="radio" name="mode" value="2" checked>踏むたびに鳴る</label>
+      <label><input type="radio" name="mode" value="1">1回転に1回</label>
+    </div>
+  </fieldset>
+
+  <button class="go" id="go">音を鳴らす</button>
+  <p class="hint" id="hint"></p>
+  <div class="mp3box">
+    <div class="glabel">MP3で持ち出す <span class="gsub">画面ロック中も鳴る</span></div>
+    <div class="row">
+      <div class="chips" id="lenChips" style="flex:1"></div>
+      <button class="small-btn primary" id="mp3Btn">作る</button>
+    </div>
+    <div class="runbar"><i id="mp3Bar"></i></div>
+    <p class="mp3msg" id="mp3Msg"></p>
+  </div>
+  <div class="roadnote">画面ロックすると音が止まる。イヤホンは片耳で。</div>
+</section>
+
+<section class="col-indoor" aria-label="室内トレーニングの設定">
+  <div class="boxes">
+
+    <div class="box wide">
+      <h2>インターバル</h2>
+      <div class="simrow" id="simA"><span class="tag">A</span>
+        <label>時間<input class="in" id="aT" inputmode="numeric"></label>
+        <label>回転<input class="in" type="number" id="aR" min="40" max="140"></label></div>
+      <div class="simrow" id="simB"><span class="tag">B</span>
+        <label>時間<input class="in" id="bT" inputmode="numeric"></label>
+        <label>回転<input class="in" type="number" id="bR" min="40" max="140"></label></div>
+      <div class="ivfoot">
+        <label>×<input class="in" type="number" id="simRep" min="1" max="50">回</label>
+        <span class="total" id="simTotal"></span>
+      </div>
+      <button class="startbig" id="simRun">スタート</button>
+
+      <div class="glabel">参考例</div>
+      <div class="chips mini" id="progChips"></div>
+
+      <details class="expert" id="customBox">
+        <summary>自分で組む</summary>
+        <div class="chips" id="mineChips"></div>
+        <div class="ivhead"><span></span><span>時間</span><span>回転</span><span>ひとこと</span><span></span></div>
+        <div id="ivRows"></div>
+        <div class="ivfoot">
+          <button class="small-btn" id="addRow">＋ 追加</button>
+          <label>繰り返し<input class="in" type="number" id="rep" min="1" max="50" value="1">回</label>
+          <span class="total" id="total"></span>
+        </div>
+        <div class="ivfoot">
+          <input class="in" id="progName" placeholder="名前" style="width:auto;flex:1;min-width:140px">
+          <button class="small-btn" id="saveProg">保存</button>
+        </div>
+        <p id="saveMsg"></p>
+        <button class="startbig" id="runBtn">スタート</button>
+      </details>
+
+      <div class="ivfoot">
+        <label class="check" style="margin:0"><input type="checkbox" id="voice">読み上げ</label>
+        <label class="check" style="margin:0"><input type="checkbox" id="countdown" checked>3秒前の合図</label>
+      </div>
+      <div class="runbar"><i id="runBar"></i></div>
+      <div class="caster" id="caster"></div>
+      <div class="nowline" id="nowLine"></div>
+    </div>
+
+    <div class="box">
+      <h2>音色</h2>
+      <div class="chips" id="soundChips"></div>
+      <p id="dayNote"></p>
+    </div>
+
+    <div class="box">
+      <h2>速度</h2>
+      <div class="glabel">前</div>
+      <div class="chips gearpick" id="ringSide">
+        <button data-side="outer"><svg viewBox="-20 -20 40 40" aria-hidden="true"><circle r="17" fill="none" stroke="currentColor" stroke-width="3" stroke-dasharray="3 2"/><circle r="3" fill="currentColor"/></svg><span><b>アウター</b></span></button>
+        <button data-side="inner"><svg viewBox="-20 -20 40 40" aria-hidden="true"><circle r="10" fill="none" stroke="currentColor" stroke-width="3" stroke-dasharray="3 2"/><circle r="3" fill="currentColor"/></svg><span><b>インナー</b></span></button>
+      </div>
+      <div class="glabel">後ろ <span class="gsub" id="cogLabel"></span></div>
+      <div class="row shift">
+        <span class="end" id="endL"></span>
+        <div class="slidewrap">
+          <input type="range" id="cogPos" min="1" max="12" step="1" value="7" aria-label="後ろのギア位置">
+          <div class="ticks" id="ticks" aria-hidden="true"></div>
+        </div>
+        <span class="end" id="endR"></span>
+      </div>
+      <div class="big" id="kmh">—</div>
+      <p id="gearDetail"></p>
+      <details class="expert">
+        <summary>ギア構成</summary>
+        <div class="glabel">クランク</div>
+        <div class="chips" id="crankChips"></div>
+        <div class="gear" id="crankCustom" hidden>
+          <label>アウター（歯）<input class="in" type="number" id="outerT" value="50" min="30" max="60"></label>
+          <label>インナー（歯）<input class="in" type="number" id="innerT" value="34" min="20" max="50"></label>
+        </div>
+        <div class="glabel">スプロケット</div>
+        <div class="chips" id="cassetteChips"></div>
+        <label class="tlabel" id="cassetteCustom" hidden>歯数を小さい順にカンマ区切り
+          <input class="in" type="text" id="cassetteText" value="11,12,13,14,15,17,19,21,24,27,30,34" inputmode="numeric">
+        </label>
+        <div class="glabel">タイヤ</div>
+        <div class="chips" id="tireChips"></div>
+        <label class="tlabel" id="tireCustom" hidden>タイヤ周長（mm）
+          <input class="in" type="number" id="circ" value="2105" min="1000" max="2400">
+        </label>
+      </details>
+    </div>
+
+    <div class="box">
+      <h2>今日の記録</h2>
+      <div class="big" id="todayCount">0</div>
+      <p id="todayNote"></p>
+      <button class="small-btn" id="resetLog" style="margin-top:10px">今日の記録を消す</button>
+    </div>
+
+  </div>
+</section>
+</div>
+
+<script>
+(function(){
+  const $=id=>document.getElementById(id);
+  const store={get(k){try{return localStorage.getItem(k)}catch(e){return null}},set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
+  const slider=$('slider'),go=$('go');
+
+  let value=90,bpr=2,indoor=false,soundKey='std';
+  let ctx=null,master=null,noiseBuf=null,playing=false,t0=0,ph0=0,nextPh=0,timer=null,raf=null,lastPh=0,noteIdx=0;
+  const queue=[];
+  const effSound=()=>indoor?soundKey:'std';
+  const rps=()=>value/60;
+
+  const PRESETS=[[60,'ママチャリ'],[75,'のんびり'],[90,'ロードの基本'],[100,'軽快に'],[120,'スプリント']];
+  const FEELS=[[55,'歩くよりゆっくり。坂道でギアが重いときの回し方'],[70,'ママチャリの普段の回転'],[85,'少し意識して回している感じ'],[100,'ロードで推奨される回転。脚より心肺で走る'],[115,'かなり速い。お尻が跳ねないよう注意'],[999,'スプリント域。長くは続かない']];
+
+  // ---------- 音 ----------
+  const SOUNDS={std:'標準',daily:'日替わり',mokugyo:'木魚',duck:'アヒル',shishi:'ししおどし',frog:'カエル',manuke:'まぬけ',drum:'ドラム',scale:'音階'};
+  const DAY=['shishi','mokugyo','duck','frog','manuke','drum','scale'];
+  const DAYNAME=['日','月','火','水','木','金','土'];
+  function initAudio(){
+    try{if(navigator.audioSession)navigator.audioSession.type='playback';}catch(e){}
+    ctx=new (window.AudioContext||window.webkitAudioContext)();
+    master=ctx.createGain();master.gain.value=.8;master.connect(ctx.destination);
+    noiseBuf=ctx.createBuffer(1,ctx.sampleRate*.5,ctx.sampleRate);
+    const d=noiseBuf.getChannelData(0);for(let i=0;i<d.length;i++)d[i]=Math.random()*2-1;
+  }
+  function env(g,t,peak,dec){g.gain.setValueAtTime(.0001,t);g.gain.exponentialRampToValueAtTime(peak,t+.004);g.gain.exponentialRampToValueAtTime(.0001,t+dec);}
+  function tone(type,f0,f1,t,dur,peak,dest){
+    const o=ctx.createOscillator(),g=ctx.createGain();o.type=type;o.frequency.setValueAtTime(f0,t);
+    if(f1)o.frequency.exponentialRampToValueAtTime(f1,t+dur*.8);
+    env(g,t,peak,dur);o.connect(g).connect(dest||master);o.start(t);o.stop(t+dur+.03);
+  }
+  function noise(t,dur,peak,ftype,freq){
+    const s=ctx.createBufferSource();s.buffer=noiseBuf;const f=ctx.createBiquadFilter();f.type=ftype;f.frequency.value=freq;
+    const g=ctx.createGain();env(g,t,peak,dur);s.connect(f).connect(g).connect(master);s.start(t);s.stop(t+dur+.03);
+  }
+  function filt(type,freq){const f=ctx.createBiquadFilter();f.type=type;f.frequency.value=freq;f.connect(master);return f;}
+  const MELODY=[0,2,4,7,9,7,4,2,0,4,7,12,9,7,5,4];
+  function play(t,right){
+    let k=effSound();if(k==='daily')k=DAY[new Date().getDay()];
+    switch(k){
+      case 'mokugyo':tone('sine',right?640:540,right?470:400,t,.16,.9);noise(t,.02,.25,'bandpass',1800);break;
+      case 'duck':tone('sawtooth',right?1000:850,right?640:540,t,.14,.45,filt('bandpass',1300));break;
+      case 'shishi':{const f=right?1200:980;tone('sine',f,0,t,.5,.6);tone('sine',f*1.51,0,t,.25,.22);break;}
+      case 'frog':{const lp=filt('lowpass',900);for(let i=0;i<3;i++)tone('square',right?190:160,right?150:125,t+i*.035,.03,.35,lp);break;}
+      case 'manuke':right?tone('sine',300,900,t,.1,.8):tone('sine',900,280,t,.13,.8);break;
+      case 'drum':if(right){tone('sine',160,40,t,.2,1);}else{noise(t,.13,.6,'highpass',1500);tone('triangle',220,180,t,.08,.3);}break;
+      case 'scale':{const f=523.25*Math.pow(2,MELODY[noteIdx++%MELODY.length]/12);tone('sine',f,0,t,.28,.6);tone('triangle',f*2,0,t,.1,.1);break;}
+      default:tone('triangle',bpr===1?1000:(right?1320:760),0,t,.07,.9);
+    }
+  }
+  function beep(high){if(ctx)tone('sine',high?1760:1320,0,ctx.currentTime+.01,.12,.5);}
+
+  // ---------- 時間と位相 ----------
+  const phaseAt=t=>ph0+(t-t0)*rps();
+  const timeAt=p=>t0+(p-ph0)/rps();
+  function rebase(){if(playing){const n=ctx.currentTime;ph0=phaseAt(n);t0=n;}}
+  function resync(){if(playing){const p=phaseAt(ctx.currentTime);nextPh=Math.ceil(p*bpr+1e-6)/bpr;}}
+  function schedule(){
+    const ahead=ctx.currentTime+.12;
+    while(timeAt(nextPh)<ahead){
+      const idx=Math.round(nextPh*bpr),right=bpr===1||idx%2===0,t=timeAt(nextPh);
+      play(t,right);queue.push({t,right});nextPh=(idx+1)/bpr;
+    }
+  }
+
+  // ---------- ギア ----------
+  const CRANKS={c50:[50,34,'50/34 コンパクト'],c52:[52,36,'52/36 セミコンパクト'],c53:[53,39,'53/39 ノーマル'],c48:[48,35,'48/35 SRAM'],custom:[0,0,'自分で入力']};
+  const CASSETTES={
+    s1130:['11-30',[11,12,13,14,15,16,17,19,21,24,27,30]],
+    s1134:['11-34',[11,12,13,14,15,17,19,21,24,27,30,34]],
+    s1136:['11-36',[11,12,13,14,15,17,19,21,24,27,31,36]],
+    r1033:['10-33 SRAM',[10,11,12,13,14,15,17,19,21,24,28,33]],
+    custom:['自分で入力',null]};
+  const TIRES={t25:['25C',2105],t28:['28C',2136],t32:['32C',2155],custom:['周長を入力',0]};
+  let side='outer',crankKey='c50',cassetteKey='s1134',tireKey='t25';
+  function cogs(){
+    if(cassetteKey!=='custom')return CASSETTES[cassetteKey][1];
+    const a=$('cassetteText').value.split(/[^0-9]+/).map(Number).filter(n=>n>=8&&n<=60).sort((x,y)=>x-y);
+    return a.length?a:[17];
+  }
+  function ring(){return crankKey!=='custom'?CRANKS[crankKey][side==='outer'?0:1]:(+$(side==='outer'?'outerT':'innerT').value||0);}
+  function cog(){const c=cogs(),pos=Math.min(+$('cogPos').value,c.length);return c[c.length-pos];}
+  function circ(){return tireKey==='custom'?(+$('circ').value||0):TIRES[tireKey][1];}
+  function ratio(){const f=ring(),r=cog();return f>0&&r>0?f/r:0;}
+  function speed(){return value*ratio()*circ()*60/1e6;}
+  function renderGear(){
+    const c=cogs(),pos=$('cogPos');pos.max=c.length;if(+pos.value>c.length)pos.value=c.length;
+    $('cogLabel').textContent=`${cog()}T（${pos.value}/${c.length}）`;
+    $('endL').textContent=c[c.length-1]+'T';$('endR').textContent=c[0]+'T';
+    const mx=c[c.length-1];
+    $('ticks').innerHTML=c.slice().reverse().map((t,i)=>`<i style="height:${Math.max(4,Math.round(t/mx*30))}px"${i+1===+pos.value?' class="on"':''}></i>`).join('');
+    const r=ratio();
+    $('gearDetail').textContent=r?`${ring()}×${cog()}T　ギア比 ${r.toFixed(2)}　1回転で${(r*circ()/1000).toFixed(1)}m進む`:'歯数を入れると計算する。';
+    [['#ringSide','side',side],['#crankChips','k',crankKey],['#cassetteChips','k',cassetteKey],['#tireChips','k',tireKey]].forEach(([sel,key,cur])=>
+      document.querySelectorAll(sel+' button').forEach(b=>b.setAttribute('aria-pressed',b.dataset[key]===cur)));
+    $('crankCustom').hidden=crankKey!=='custom';$('cassetteCustom').hidden=cassetteKey!=='custom';$('tireCustom').hidden=tireKey!=='custom';
+  }
+  function saveGear(){store.set('cad-gear',JSON.stringify({side,crankKey,cassetteKey,tireKey,pos:$('cogPos').value,o:$('outerT').value,i:$('innerT').value,cs:$('cassetteText').value,circ:$('circ').value}));}
+  try{const g=JSON.parse(store.get('cad-gear')||'null');if(g){side=g.side||side;crankKey=g.crankKey||crankKey;cassetteKey=g.cassetteKey||cassetteKey;tireKey=g.tireKey||tireKey;
+    if(g.pos)$('cogPos').value=g.pos;if(g.o)$('outerT').value=g.o;if(g.i)$('innerT').value=g.i;if(g.cs)$('cassetteText').value=g.cs;if(g.circ)$('circ').value=g.circ;}}catch(e){}
+  $('crankChips').innerHTML=Object.keys(CRANKS).map(k=>`<button data-k="${k}">${CRANKS[k][2]}</button>`).join('');
+  $('cassetteChips').innerHTML=Object.keys(CASSETTES).map(k=>`<button data-k="${k}">${CASSETTES[k][0]}</button>`).join('');
+  $('tireChips').innerHTML=Object.keys(TIRES).map(k=>`<button data-k="${k}">${TIRES[k][0]}</button>`).join('');
+  const gearChange=()=>{saveGear();render();};
+  $('ringSide').onclick=e=>{const b=e.target.closest('button');if(b){side=b.dataset.side;gearChange();}};
+  $('crankChips').onclick=e=>{const b=e.target.closest('button');if(b){crankKey=b.dataset.k;gearChange();}};
+  $('cassetteChips').onclick=e=>{const b=e.target.closest('button');if(b){cassetteKey=b.dataset.k;gearChange();}};
+  $('tireChips').onclick=e=>{const b=e.target.closest('button');if(b){tireKey=b.dataset.k;gearChange();}};
+  ['cogPos','outerT','innerT','cassetteText','circ'].forEach(id=>$(id).addEventListener('input',gearChange));
+  function shift(d){const p=$('cogPos'),n=Math.max(1,Math.min(+p.max,+p.value+d));if(n!==+p.value){p.value=n;gearChange();}}
+
+  // ---------- 表示 ----------
+  function render(){
+    value=Math.max(40,Math.min(140,value));
+    slider.value=value;$('val').textContent=value;
+    $('feel').textContent=FEELS.find(f=>value<=f[0])[1];
+    $('presets').innerHTML=PRESETS.map(p=>`<button data-v="${p[0]}" aria-pressed="${p[0]===value}"><b>${p[0]}</b>${p[1]}</button>`).join('');
+    document.querySelectorAll('.modes button').forEach(b=>b.setAttribute('aria-pressed',(b.dataset.mode==='indoor')===indoor));
+    $('lead').textContent='';
+    $('hint').textContent='';
+    document.querySelectorAll('#soundChips button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.s===soundKey));
+    $('dayNote').textContent=soundKey==='daily'?`今日は${DAYNAME[new Date().getDay()]}曜日なので「${SOUNDS[DAY[new Date().getDay()]]}」`:'';
+    renderGear();renderMp3();
+    const kmh=speed();
+    $('kmh').textContent=kmh?`時速 ${kmh.toFixed(1)} km`:'—';
+    $('speedLine').hidden=!(indoor&&kmh);$('speedLine').textContent=kmh?`≒ 時速 ${kmh.toFixed(1)} km`:'';
+    renderLog();
+  }
+  function setValue(v){rebase();const nv=Math.round(v);if(nv!==value&&ready){ready=null;$('mp3Btn').textContent='作る';}value=nv;render();}
+
+  function flash(right){
+    const el=(right?$('pR'):$('pL')).querySelector('rect');
+    el.style.fill='var(--line)';$('ring').style.stroke='var(--line)';
+    setTimeout(()=>{el.style.fill=right?'var(--ink)':'var(--rubber)';$('ring').style.stroke='var(--rubber)';},110);
+  }
+  function draw(){
+    const now=ctx.currentTime,p=phaseAt(now);
+    if(p>lastPh){addLog(p-lastPh);lastPh=p;}
+    const deg=((p+.25)%1)*360;
+    $('arm').setAttribute('transform',`rotate(${deg})`);
+    $('pR').setAttribute('transform',`translate(0,-92) rotate(${-deg})`);
+    $('pL').setAttribute('transform',`translate(0,92) rotate(${-deg})`);
+    while(queue.length&&queue[0].t<=now)flash(queue.shift().right);
+    raf=requestAnimationFrame(draw);
+  }
+
+  // ---------- 画面を消さない ----------
+  let wl=null;
+  async function lockScreen(){try{if('wakeLock' in navigator&&!wl){wl=await navigator.wakeLock.request('screen');wl.addEventListener('release',()=>{wl=null;});}}catch(e){wl=null;}}
+  function unlockScreen(){try{if(wl)wl.release();}catch(e){}wl=null;}
+  document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible'&&playing)lockScreen();});
+
+  function start(){
+    if(!ctx)initAudio();ctx.resume();
+    t0=ctx.currentTime+.05;ph0=0;nextPh=0;lastPh=0;queue.length=0;noteIdx=0;
+    playing=true;timer=setInterval(schedule,25);schedule();draw();go.textContent='止める';lockScreen();
+  }
+  function stop(){
+    playing=false;clearInterval(timer);cancelAnimationFrame(raf);queue.length=0;go.textContent='音を鳴らす';
+    unlockScreen();if(run)endRun('');saveLog();
+  }
+
+  // ---------- インターバル ----------
+  function parseT(x){x=String(x).trim();if(x.includes(':')){const[m,y]=x.split(':');return (+m||0)*60+(+y||0);}return +x||0;}
+  function fmt(sec){sec=Math.max(0,Math.round(sec));return `${Math.floor(sec/60)}:${String(sec%60).padStart(2,'0')}`;}
+  const esc=x=>String(x).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const clampR=v=>Math.max(40,Math.min(140,+v||90));
+  const loadJSON=(k,d)=>{try{const v=JSON.parse(store.get(k)||'null');return v==null?d:v;}catch(e){return d;}};
+
+  // シンプル（A/B交互）
+  let sim=loadJSON('cad-simple',{a:{t:'1:00',rpm:90},b:{t:'1:00',rpm:110},rep:5});
+  function renderSim(){
+    $('aT').value=sim.a.t;$('aR').value=sim.a.rpm;$('bT').value=sim.b.t;$('bR').value=sim.b.rpm;$('simRep').value=sim.rep;simTotal();
+  }
+  function simTotal(){$('simTotal').textContent=`合計 ${fmt((parseT(sim.a.t)+parseT(sim.b.t))*sim.rep)}`;}
+  function simInput(){
+    sim={a:{t:$('aT').value,rpm:clampR($('aR').value)},b:{t:$('bT').value,rpm:clampR($('bR').value)},rep:Math.max(1,Math.min(50,+$('simRep').value||1))};
+    store.set('cad-simple',JSON.stringify(sim));simTotal();
+  }
+  ['aT','aR','bT','bR','simRep'].forEach(id=>$(id).addEventListener('input',simInput));
+
+  // 自分で組む
+  const PROGS={
+    touge:{name:'峠ステージ（8分）',rep:1,segs:[['2:00',90,'スタート。集団の中で脚を休めろ'],['2:00',75,'登りに入った。ギアを軽く'],['1:30',65,'勾配10パーセント。ここは我慢だ'],['0:30',110,'アタックだ。一気に回せ'],['1:00',85,'呼吸を整えて追走をかわせ'],['0:20',120,'山頂へスプリント'],['0:40',90,'ゴール。下りで脚を回復']]},
+    spin:{name:'高回転ドリル',rep:6,segs:[['0:30',90,'基本の回転'],['0:30',115,'回せ。お尻を跳ねさせるな']]},
+    pyramid:{name:'ピラミッド',rep:1,segs:[['1:00',80,''],['1:00',90,''],['1:00',100,''],['1:00',110,'てっぺんだ'],['1:00',100,''],['1:00',90,''],['1:00',80,'']]},
+    oneleg:{name:'片足ドリル',rep:4,segs:[['0:30',70,'右足だけで回す'],['0:30',70,'左足だけで回す'],['1:00',90,'両足に戻して整える']]}
+  };
+  let prog=loadJSON('cad-prog',null);
+  let mine=loadJSON('cad-mine',[]);
+  function saveDraft(){store.set('cad-prog',JSON.stringify(prog));}
+  function setDraft(p,name){prog={rep:p.rep,segs:p.segs.map(x=>({t:x.t,rpm:x.rpm,msg:x.msg||''}))};$('progName').value=name||'';saveDraft();renderRows();$('customBox').open=true;}
+  function renderRows(){
+    $('ivRows').innerHTML=prog.segs.map((x,i)=>`<div class="ivrow" data-i="${i}"><span class="no">${i+1}</span>
+      <input class="in" data-f="t" value="${esc(x.t)}" inputmode="numeric" aria-label="区間${i+1}の時間">
+      <input class="in" data-f="rpm" type="number" min="40" max="140" value="${x.rpm}" aria-label="区間${i+1}の回転">
+      <input class="in" data-f="msg" value="${esc(x.msg)}" aria-label="区間${i+1}のひとこと">
+      <button class="del" data-del="${i}" aria-label="区間${i+1}を消す">×</button></div>`).join('');
+    $('rep').value=prog.rep;renderTotal();
+  }
+  function renderTotal(){$('total').textContent=`合計 ${fmt(prog.segs.reduce((a,x)=>a+parseT(x.t),0)*prog.rep)}`;}
+  function renderMine(){
+    $('mineChips').innerHTML=mine.length?mine.map((m,i)=>`<span class="mine"><button data-load="${i}">${esc(m.name)}</button><button data-rm="${i}" aria-label="${esc(m.name)}を削除">×</button></span>`).join('')
+      :'';
+  }
+  $('ivRows').addEventListener('input',e=>{const r=e.target.closest('.ivrow');if(!r)return;const x=prog.segs[+r.dataset.i],f=e.target.dataset.f;
+    x[f]=f==='rpm'?clampR(e.target.value):e.target.value;saveDraft();renderTotal();});
+  $('ivRows').addEventListener('click',e=>{const b=e.target.closest('[data-del]');if(!b||prog.segs.length<=1)return;prog.segs.splice(+b.dataset.del,1);saveDraft();renderRows();});
+  $('addRow').onclick=()=>{const l=prog.segs[prog.segs.length-1];prog.segs.push({t:'1:00',rpm:l?l.rpm:90,msg:''});saveDraft();renderRows();};
+  $('rep').oninput=e=>{prog.rep=Math.max(1,Math.min(50,+e.target.value||1));saveDraft();renderTotal();};
+  $('progChips').innerHTML=Object.keys(PROGS).map(k=>`<button data-k="${k}">${PROGS[k].name}</button>`).join('');
+  $('progChips').onclick=e=>{const b=e.target.closest('button');if(!b||run)return;const p=PROGS[b.dataset.k];
+    setDraft({rep:p.rep,segs:p.segs.map(x=>({t:x[0],rpm:x[1],msg:x[2]}))},'');$('saveMsg').textContent='';};
+  $('saveProg').onclick=()=>{
+    const name=$('progName').value.trim()||`マイメニュー${mine.length+1}`;
+    const item={name,rep:prog.rep,segs:prog.segs.map(x=>({...x}))};
+    const idx=mine.findIndex(m=>m.name===name);
+    if(idx>=0)mine[idx]=item;else{if(mine.length>=20){$('saveMsg').textContent='保存は20個まで';return;}mine.push(item);}
+    store.set('cad-mine',JSON.stringify(mine));$('progName').value=name;renderMine();
+    $('saveMsg').textContent=idx>=0?'上書きした':'保存した';
+  };
+  $('mineChips').onclick=e=>{
+    const l=e.target.closest('[data-load]'),r=e.target.closest('[data-rm]');
+    if(l&&!run){const m=mine[+l.dataset.load];setDraft(m,m.name);$('saveMsg').textContent='';}
+    if(r){const m=mine[+r.dataset.rm];if(confirm(`「${m.name}」を削除する？`)){mine.splice(+r.dataset.rm,1);store.set('cad-mine',JSON.stringify(mine));renderMine();}}
+  };
+
+  // 実行
+  let run=null;
+  function say(msg){
+    $('caster').textContent=msg;
+    if($('voice').checked&&'speechSynthesis' in window){try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(msg);u.lang='ja-JP';u.rate=1.1;speechSynthesis.speak(u);}catch(e){}}
+  }
+  function startRun(p,src){
+    const list=[];
+    for(let r=0;r<p.rep;r++)p.segs.forEach((x,i)=>{const d=parseT(x.t);if(d>0)list.push({d,rpm:clampR(x.rpm),msg:x.msg||'',row:i,r});});
+    if(!list.length){say('時間が空です');return;}
+    if(!playing)start();
+    run={list,rep:p.rep,src,total:list.reduce((a,x)=>a+x.d,0),t:performance.now(),i:-1,beeped:null,iv:setInterval(tick,100)};
+    $('simRun').textContent=$('runBtn').textContent='やめる';tick();
+  }
+  function highlight(row){
+    document.querySelectorAll('.simrow,.ivrow').forEach(el=>el.classList.remove('now'));
+    if(row==null||!run)return;
+    const el=run.src==='sim'?$(row===0?'simA':'simB'):document.querySelector(`.ivrow[data-i="${row}"]`);
+    if(el)el.classList.add('now');
+  }
+  function tick(){
+    const el=(performance.now()-run.t)/1000;
+    if(el>=run.total){beep(true);endRun('完了');return;}
+    let acc=0,i=0;while(el>=acc+run.list[i].d){acc+=run.list[i].d;i++;}
+    const seg=run.list[i],left=acc+seg.d-el,next=run.list[i+1];
+    if(i!==run.i){run.i=i;run.beeped=null;setValue(seg.rpm);say(seg.msg?`${seg.rpm}回転。${seg.msg}`:`${seg.rpm}回転`);highlight(seg.row);}
+    if($('countdown').checked&&left<=3){const c=Math.ceil(left);if(c!==run.beeped&&c>0){run.beeped=c;beep(false);}}
+    const repTxt=run.rep>1?`　${seg.r+1}/${run.rep}回目`:'';
+    $('nowLine').textContent=`${seg.rpm}回転　残り ${fmt(left)}${next?`　次は ${next.rpm}`:'　ラスト'}${repTxt}`;
+    $('runBar').style.width=(el/run.total*100)+'%';
+  }
+  function endRun(msg){
+    if(!run)return;clearInterval(run.iv);run=null;say(msg);highlight(null);
+    $('simRun').textContent=$('runBtn').textContent='スタート';$('nowLine').textContent='';$('runBar').style.width='0';
+  }
+  $('simRun').onclick=()=>run?endRun(''):startRun({rep:sim.rep,segs:[{...sim.a,msg:''},{...sim.b,msg:''}]},'sim');
+  $('runBtn').onclick=()=>run?endRun(''):startRun(prog,'custom');
+
+  // ---------- MP3書き出し ----------
+  const LENS=[[30,'30分'],[60,'1時間'],[120,'2時間']];
+  const SR=16000,KBPS=24;
+  let lenMin=+store.get('cad-len')||120,building=null,ready=null;
+  if(!LENS.some(l=>l[0]===lenMin))lenMin=120;
+  const lenLabel=()=>LENS.find(l=>l[0]===lenMin)[1];
+  const sizeMB=()=>(KBPS*1000*lenMin*60/8/1e6).toFixed(1);
+  function renderMp3(){
+    $('lenChips').innerHTML=LENS.map(l=>`<button data-m="${l[0]}" aria-pressed="${l[0]===lenMin}">${l[1]}</button>`).join('');
+    if(!building&&!ready)$('mp3Msg').textContent=`${value}回転・${lenLabel()}・約${sizeMB()}MB`;
+  }
+  $('lenChips').onclick=e=>{const b=e.target.closest('button');if(!b||building)return;lenMin=+b.dataset.m;store.set('cad-len',lenMin);ready=null;$('mp3Btn').textContent='作る';renderMp3();};
+  function loadLame(){
+    if(window.lamejs)return Promise.resolve();
+    return new Promise((res,rej)=>{const sc=document.createElement('script');sc.src='https://cdn.jsdelivr.net/npm/lamejs@1.2.1/lame.min.js';sc.onload=()=>window.lamejs?res():rej();sc.onerror=rej;document.head.appendChild(sc);});
+  }
+  const yieldNow=(()=>{const ch=new MessageChannel(),q=[];ch.port1.onmessage=()=>{const f=q.shift();f&&f();};return()=>new Promise(r=>{q.push(r);ch.port2.postMessage(0);});})();
+  function clickWave(f){
+    const n=Math.round(SR*.075),a=new Float32Array(n),tau=.066/Math.log(9000);
+    for(let i=0;i<n;i++){const t=i/SR,env=t<.004?t/.004*.9:.9*Math.exp(-(t-.004)/tau),ph=(t*f)%1;a[i]=env*(4*Math.abs(ph-.5)-1);}
+    return a;
+  }
+  function mp3Idle(){building=null;$('mp3Bar').style.width='0';if(!playing)unlockScreen();}
+  async function buildMp3(){
+    const rpm=value,b=bpr,mins=lenMin,label=lenLabel();
+    building={cancel:false};ready=null;$('mp3Btn').textContent='中止';$('mp3Msg').textContent='準備中';lockScreen();
+    try{await loadLame();}catch(e){mp3Idle();$('mp3Btn').textContent='作る';$('mp3Msg').textContent='MP3の部品を読み込めなかった。通信を確認してもう一度';return;}
+    const cR=clickWave(b===1?1000:1320),cL=clickWave(b===1?1000:760),AMP=23600;
+    const beat=SR*60/rpm/b,total=SR*mins*60,CH=1152*40,buf=new Int16Array(CH);
+    const enc=new window.lamejs.Mp3Encoder(1,SR,KBPS),chunks=[];let s=0;
+    while(s<total){
+      const t=performance.now();
+      while(s<total&&performance.now()-t<40){
+        const n=Math.min(CH,total-s);buf.fill(0);
+        for(let k=Math.max(0,Math.floor((s-cR.length)/beat));;k++){
+          const st=Math.round(k*beat);if(st>=s+n)break;const c=(b===1||k%2===0)?cR:cL;
+          for(let i=Math.max(0,s-st);i<c.length;i++){const j=st+i-s;if(j>=n)break;buf[j]=c[i]*AMP;}
+        }
+        const out=enc.encodeBuffer(n===CH?buf:buf.subarray(0,n));if(out.length)chunks.push(new Uint8Array(out));s+=n;
+      }
+      $('mp3Bar').style.width=(s/total*100)+'%';$('mp3Msg').textContent=`作成中 ${Math.floor(s/total*100)}%`;
+      await yieldNow();
+      if(building.cancel){mp3Idle();$('mp3Btn').textContent='作る';renderMp3();return;}
+    }
+    const last=enc.flush();if(last.length)chunks.push(new Uint8Array(last));
+    mp3Idle();
+    const base=`cadence-${rpm}rpm-${mins}min`,bytes=chunks.reduce((a,c)=>a+c.length,0);
+    ready={base,chunks,bytes};
+    $('mp3Btn').textContent='保存する';
+    $('mp3Msg').textContent=`できた。${rpm}回転・${label}・${(bytes/1e6).toFixed(1)}MB`;
+  }
+  const CRC=(()=>{const t=new Uint32Array(256);for(let n=0;n<256;n++){let c=n;for(let k=0;k<8;k++)c=c&1?0xEDB88320^(c>>>1):c>>>1;t[n]=c>>>0;}return t;})();
+  function put(dv,list){list.forEach(([o,v,w])=>w===4?dv.setUint32(o,v>>>0,true):dv.setUint16(o,v,true));return dv;}
+  function zipOf(name,chunks,size){
+    let crc=0xFFFFFFFF;for(const c of chunks)for(let i=0;i<c.length;i++)crc=CRC[(crc^c[i])&255]^(crc>>>8);crc=(crc^0xFFFFFFFF)>>>0;
+    const nm=new TextEncoder().encode(name),d=new Date();
+    const time=(d.getHours()<<11)|(d.getMinutes()<<5)|(d.getSeconds()>>1),date=((d.getFullYear()-1980)<<9)|((d.getMonth()+1)<<5)|d.getDate();
+    const lh=put(new DataView(new ArrayBuffer(30)),[[0,0x04034b50,4],[4,20,2],[6,0,2],[8,0,2],[10,time,2],[12,date,2],[14,crc,4],[18,size,4],[22,size,4],[26,nm.length,2],[28,0,2]]);
+    const cd=put(new DataView(new ArrayBuffer(46)),[[0,0x02014b50,4],[4,20,2],[6,20,2],[8,0,2],[10,0,2],[12,time,2],[14,date,2],[16,crc,4],[20,size,4],[24,size,4],[28,nm.length,2],[30,0,2],[32,0,2],[34,0,2],[36,0,2],[38,0,4],[42,0,4]]);
+    const end=put(new DataView(new ArrayBuffer(22)),[[0,0x06054b50,4],[4,0,2],[6,0,2],[8,1,2],[10,1,2],[12,46+nm.length,4],[16,30+nm.length+size,4],[20,0,2]]);
+    return new Blob([lh,nm,...chunks,cd,nm,end],{type:'application/zip'});
+  }
+  async function saveMp3(){
+    let dl=null;
+    try{if(window.claude&&typeof window.claude.use==='function')dl=await window.claude.use('downloads');}catch(e){dl=null;}
+    if(dl){
+      try{await dl.save({filename:ready.base+'.zip',data:zipOf(ready.base+'.mp3',ready.chunks,ready.bytes)});$('mp3Msg').textContent='保存した。zipを開くとMP3が入っている';}
+      catch(e){const c=e&&e.code;$('mp3Msg').textContent=c==='declined'?'保存をやめた。もう一度押せば保存できる':c==='rate_limited'?'少し待ってからもう一度':'この画面では保存できない';}
+    }else{
+      const url=URL.createObjectURL(new Blob(ready.chunks,{type:'audio/mpeg'})),a=document.createElement('a');
+      a.href=url;a.download=ready.base+'.mp3';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),60000);
+      $('mp3Msg').textContent='保存した';
+    }
+  }
+  $('mp3Btn').onclick=()=>{if(building){building.cancel=true;}else if(ready){saveMp3();}else{buildMp3();}};
+
+  // ---------- 今日の記録 ----------
+  const today=()=>{const d=new Date();return `cad-log-${d.getFullYear()}-${d.getMonth()+1}-${d.getDate()}`;};
+  let log={revs:0,km:0};
+  try{const s=JSON.parse(store.get(today())||'null');if(s)log=Object.assign(log,s);}catch(e){}
+  let lastSave=0,lastLogRender=0;
+  function addLog(dRev){
+    log.revs+=dRev;log.km+=dRev*ratio()*circ()/1e6;
+    const n=performance.now();
+    if(n-lastLogRender>500){lastLogRender=n;renderLog();}
+    if(n-lastSave>3000){lastSave=n;saveLog();}
+  }
+  function saveLog(){store.set(today(),JSON.stringify(log));}
+  function renderLog(){
+    $('todayCount').textContent=`${Math.floor(log.revs).toLocaleString()} 回転`;
+    const m=log.km*1000;
+    $('todayNote').textContent=m<1?'':`約${log.km.toFixed(2)}km（東京タワー${(m/333).toFixed(1)}本分）`;
+  }
+  $('resetLog').onclick=()=>{log={revs:0,km:0};saveLog();renderLog();};
+
+  // ---------- 配線 ----------
+  $('soundChips').innerHTML=Object.keys(SOUNDS).map(k=>`<button data-s="${k}">${SOUNDS[k]}</button>`).join('');
+  $('soundChips').onclick=e=>{const b=e.target.closest('button');if(b){soundKey=b.dataset.s;noteIdx=0;store.set('cad-sound',soundKey);render();}};
+  const saved=store.get('cad-sound');if(saved&&SOUNDS[saved])soundKey=saved;
+  go.onclick=()=>playing?stop():start();
+  slider.oninput=e=>setValue(+e.target.value);
+  $('minus').onclick=()=>setValue(value-5);
+  $('plus').onclick=()=>setValue(value+5);
+  $('presets').onclick=e=>{const b=e.target.closest('button');if(b)setValue(+b.dataset.v);};
+  document.querySelectorAll('input[name=mode]').forEach(r=>r.onchange=()=>{bpr=+r.value;resync();if(ready){ready=null;$('mp3Btn').textContent='作る';renderMp3();}});
+  function setMode(m){
+    indoor=m;document.body.classList.toggle('indoor',indoor);store.set('cad-mode',indoor?'indoor':'road');
+    if(!indoor&&run)endRun('');
+    render();
+  }
+  document.querySelectorAll('.modes button').forEach(b=>b.onclick=()=>setMode(b.dataset.mode==='indoor'));
+  document.addEventListener('keydown',e=>{
+    const t=e.target;if(t.tagName==='INPUT'&&!['checkbox','radio','range'].includes(t.type))return;
+    if(e.code==='Space'&&t.tagName!=='BUTTON'){e.preventDefault();playing?stop():start();}
+    else if(indoor&&t.type!=='range'&&(e.code==='ArrowUp'||e.code==='ArrowDown')){e.preventDefault();shift(e.code==='ArrowUp'?1:-1);}
+  });
+  window.addEventListener('pagehide',saveLog);
+
+  if(!prog||!prog.segs||!prog.segs.length)prog={rep:1,segs:[{t:'1:00',rpm:90,msg:''},{t:'1:00',rpm:100,msg:''}]};
+  renderSim();renderRows();renderMine();
+  setMode(store.get('cad-mode')==='indoor');
+})();
+</script>
+</body>
+</html>
